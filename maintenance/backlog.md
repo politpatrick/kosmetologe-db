@@ -27,7 +27,9 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] `recht:taetowiermittel` angelegt (2026-10-28); offen: Grenzwerte Eintrag 75 am EUR-Lex-Text prüfen — (Tätowiermittel-Verordnung, REACH-Beschränkung Tätowierfarben) für Permanent Make-up
 - [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11), Kap. 30 (Pflege im Alter); Kap. 31 erledigt (2026-10-28)
 - [x] Übertrag Runde 7: Ellsässer Kap. 4 → 12 Wirkstoffe aus Impact-Liste Abschnitt B (2026-10-28)
-- [ ] Ellsässer Kap. 4 offen: Pyridoxin, Carotinoide, Glycerylglucoside, Totes-Meer-Salz, Kristall-Mittagsblume, Propolis, Selen, Adenosin, Photolyase, SOD, α-Liponsäure, Polyphenole/Resveratrol, eigene Datei `madecassosid` (laut Impact-Liste)
+- [x] Übertrag Runde 11: Ellsässer Kap. 4 → 8 Wirkstoffe mit PubMed-Recherche (Propolis, Selen, Resveratrol/Polyphenole, Pyridoxin, Carotinoide, α-Liponsäure, Kristall-Mittagsblume, Madecassosid) (2026-10-28)
+- [ ] Ellsässer Kap. 4 offen: Glycerylglucoside, Totes-Meer-Salz, Adenosin/Magnesium, Photolyase, SOD
+- [ ] Rechtsstand prüfen: Selen und Selenverbindungen (Anhang II, Ausnahme Selendisulfid Anhang III), β-Carotin (Anhang IV); INCI Propolis in CosIng
 - [x] Studienrecherche (PubMed) für die 12 Lehrbuch-Wirkstoffe aus Runde 7 (2026-10-28); offen: SCCS/CosIng, Kamille-Allergie, topisches Q10
 - [ ] Microneedling: rechtliche Abgrenzung Kosmetik/Heilkunde nach Nadellänge klären; Kryolipolyse: Medizinprodukte- und Berufsrecht prüfen
 - [x] Übertrag Runde 10: Ellsässer Kap. 6 und 10 → 4 Begriffe, Gel, Deo (2026-10-28)

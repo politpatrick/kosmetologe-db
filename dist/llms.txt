@@ -3,7 +3,7 @@
 > Wissensdatenbank zu Kosmetologie: Wirkstoffe, Haut, Behandlungen, Formulierungen, Recht, Begriffe, Quellen und Projektkontext.
 > Volltext eines Eintrags: Datei unter `pfad` lesen. Maschinenlesbar: dist/index.json.
 
-## wirkstoff (74)
+## wirkstoff (82)
 - `wirkstoff:3-benzyliden-campher` [3-Benzyliden-Campher (3-Benzylidene Camphor, 3-BC)](data/wirkstoffe/3-benzyliden-campher.md) – Früherer UV-B-Filter, heute in der EU verboten (Anhang II Nr. 1379); nur noch historisch relevant. [entwurf]
 - `wirkstoff:aha` [Alpha-Hydroxysäuren (AHA: Glykolsäure, Milchsäure u. a.)](data/wirkstoffe/aha.md) – Fruchtsäuren für Peelings und Hautglättung; erhöhen nachweislich die UV-Empfindlichkeit, Grenzwertangaben in Lehrbüchern widersprüchlich. [entwurf]
 - `wirkstoff:allantoin` [Allantoin](data/wirkstoffe/allantoin.md) – Ursprünglich aus Beinwell gewonnener, gut verträglicher Wirkstoff, der beruhigt, die Heilung fördert und die Haut glättet. [entwurf]
@@ -21,6 +21,7 @@
 - `wirkstoff:benzylalkohol` [Benzylalkohol](data/wirkstoffe/benzylalkohol.md) – Konservierungsstoff und Lösungsmittel; zugleich kennzeichnungspflichtiger Duftstoff. [entwurf]
 - `wirkstoff:bisabolol` [Bisabolol (α-Bisabolol)](data/wirkstoffe/bisabolol.md) – Hauptwirkstoff der Kamille; entzündungshemmend und deutlich weniger allergen als der Kamillengesamtextrakt. [entwurf]
 - `wirkstoff:camellioside-a` [Camellioside A (Camellia chekiangoleosa)](data/wirkstoffe/camellioside-a.md) – Neuer Pflanzenwirkstoff; nur In-vitro- und Mausdaten, Hersteller-Mitautor. [entwurf]
+- `wirkstoff:carotinoide` [Carotinoide (β-Carotin, Lycopin u. a.)](data/wirkstoffe/carotinoide.md) – Gelbe bis rote Pflanzenfarbstoffe; β-Carotin ist Provitamin A. In Kosmetika vor allem Farbstoff und Antioxidans, topischer Nutzen kaum belegt. [entwurf]
 - `wirkstoff:centella-asiatica` [Centella asiatica (Tigergras)](data/wirkstoffe/centella-asiatica.md) – Heilpflanze mit Madecassosid und Asiaticosid; regt laut Quelle die Kollagenbildung an, wirkt entzündungshemmend und unterstützt Wundheilung und Narbenpflege. [entwurf]
 - `wirkstoff:ceramid-np` [Ceramid NP (Ceramid 3)](data/wirkstoffe/ceramid-np.md) – Hautidentisches Ceramid (früher Ceramid 3); stärkt die Lipidbarriere, Wirkung stark vom Trägersystem abhängig. [entwurf]
 - `wirkstoff:cetylpyridiniumchlorid` [Cetylpyridiniumchlorid (CPC)](data/wirkstoffe/cetylpyridiniumchlorid.md) – Antimikrobieller Wirkstoff vor allem in Mundspülungen; moderate Evidenz gegen Plaque und Gingivitis. [entwurf]
@@ -44,6 +45,8 @@
 - `wirkstoff:kamille` [Kamille](data/wirkstoffe/kamille.md) – Klassische Heilpflanze; Extrakt und Öl wirken entzündungshemmend und beruhigend, das Öl kann aber Allergien auslösen. [entwurf]
 - `wirkstoff:ketoconazol` [Ketoconazol](data/wirkstoffe/ketoconazol.md) – Antimykotikum gegen Schuppen und seborrhoisches Ekzem; in Kosmetika verboten (Anhang II Nr. 1528). [entwurf]
 - `wirkstoff:kojisaeure` [Kojisäure (Kojic Acid)](data/wirkstoffe/kojisaeure.md) – Aufhellender Wirkstoff; seit VO (EU) 2024/996 max. 1 % in Gesichts- und Handprodukten. [entwurf]
+- `wirkstoff:kristall-mittagsblume` [Kristall-Mittagsblume (Eiskraut)](data/wirkstoffe/kristall-mittagsblume.md) – Salz- und hitzeresistente Pflanze mit NMF-ähnlichen Feuchthaltestoffen; für trockene, juckende Haut empfohlen, Studien sind nur Pilotdaten. [entwurf]
+- `wirkstoff:madecassosid` [Madecassosid](data/wirkstoffe/madecassosid.md) – Isolierter Hauptwirkstoff des Tigergrases; regt laut Quelle die Kollagenbildung an und wirkt entzündungshemmend. Studien nur mit Kombinationen. [entwurf]
 - `wirkstoff:menthol` [Menthol](data/wirkstoffe/menthol.md) – Kühlender Aromastoff in Mund- und Hautpflege; seit VO (EU) 2023/1545 kennzeichnungspflichtiges Duftstoff-Allergen. [entwurf]
 - `wirkstoff:methotrexat` [Methotrexat](data/wirkstoffe/methotrexat.md) – Immunsuppressivum zur Psoriasis-Therapie; in Kosmetika verboten (Anhang II Nr. 6). [entwurf]
 - `wirkstoff:methylbenzyliden-campher` [4-Methylbenzylidene Camphor (4-MBC, Enzacamen)](data/wirkstoffe/methylbenzyliden-campher.md) – Früherer UV-B-Filter (Enzacamen), wegen hormoneller Wirkung EU-weit verboten (Anhang II Nr. 1730). [entwurf]
@@ -57,14 +60,19 @@
 - `wirkstoff:parabene` [Parabene (Ester der 4-Hydroxybenzoesäure)](data/wirkstoffe/parabene.md) – Konservierungsstoffe mit gut dokumentiertem Rechtsstatus; Butylparaben bei Kindern in Kombination (0,14 %) laut SCCS nicht sicher, Verschärfung im Entwurf. [entwurf]
 - `wirkstoff:peptide` [Peptide (Signal-, Carrier-, Neurotransmitter-Peptide, Kollagenpeptide)](data/wirkstoffe/peptide.md) – Signal-, Carrier- und Neurotransmitter-Peptide sowie Kollagenpeptide; starke Vermarktung, Evidenz schwach und oft herstellerfinanziert. [entwurf]
 - `wirkstoff:phmb` [Polyaminopropyl Biguanide (PHMB)](data/wirkstoffe/phmb.md) – Konservierungsstoff und Antiseptikum; nach SCCS-Bewertung stark eingeschränkt (Anhang V). [entwurf]
+- `wirkstoff:propolis` [Propolis](data/wirkstoffe/propolis.md) – Kittharz der Honigbiene mit Flavonoiden und Phenolsäuren; antimikrobiell und entzündungshemmend, aber eines der häufigeren Kontaktallergene. [entwurf]
+- `wirkstoff:pyridoxin` [Pyridoxin (Vitamin B6)](data/wirkstoffe/pyridoxin.md) – Wasserlösliches Vitamin des Aminosäurestoffwechsels; soll topisch die Talgbildung regulieren, dafür fehlen klinische Daten. [entwurf]
 - `wirkstoff:resorcin` [Resorcin](data/wirkstoffe/resorcin.md) – Keratolytikum laut Lehrbuch; kosmetisch vor allem in Oxidationshaarfarben, dort begrenzt und kennzeichnungspflichtig. [entwurf]
+- `wirkstoff:resveratrol` [Resveratrol und Polyphenole](data/wirkstoffe/resveratrol.md) – Stilben aus roten Trauben, Vertreter der Polyphenole; als Antioxidans in Anti-Aging-Pflege, topisch bisher nur schwach belegt. [entwurf]
 - `wirkstoff:retinol` [Retinol (Vitamin A)](data/wirkstoffe/retinol.md) – Vitamin-A-Alkohol, beschleunigt die Zellerneuerung und fördert Kollagenbildung; lichtempfindlich, anfangs oft Reizung (Retinisierung). [entwurf]
 - `wirkstoff:retinyl-acetat` [Retinyl Acetate](data/wirkstoffe/retinyl-acetat.md) – Retinylester; gleiche Grenzwerte wie Retinol (Anhang III Nr. 376, als Retinoläquivalent). [entwurf]
 - `wirkstoff:retinyl-palmitat` [Retinyl Palmitate](data/wirkstoffe/retinyl-palmitat.md) – Retinylester; zusammen mit Retinol und Retinyl Acetate auf 0,05 % RE (Körperlotion) bzw. 0,3 % RE begrenzt. [entwurf]
 - `wirkstoff:salicylsaeure` [Salicylic Acid (Salicylsäure)](data/wirkstoffe/salicylsaeure.md) – Fettlösliche Säure, dringt in Follikel ein und löst Verhornungen – Standardwirkstoff bei unreiner Haut. [entwurf]
+- `wirkstoff:selen` [Selen](data/wirkstoffe/selen.md) – Essenzielles Spurenelement und Bestandteil antioxidativer Enzyme; in Kosmetik nur über selenreiches Quellwasser, da Selenverbindungen als Stoff weitgehend verboten sind. [entwurf]
 - `wirkstoff:squalan` [Squalan und Squalen](data/wirkstoffe/squalan.md) – Squalen ist natürlicher Bestandteil des Hauttalgs (rund 12 %); das gesättigte, stabile Squalan ist ein leichtes, gut verträgliches Pflegeöl. [entwurf]
 - `wirkstoff:strontiumchlorid` [Strontiumchlorid](data/wirkstoffe/strontiumchlorid.md) – Gegen empfindliche Zahnhälse in Zahnpasta; Strontiumgehalt in Anhang III begrenzt. [entwurf]
 - `wirkstoff:teebaumoel` [Teebaumöl](data/wirkstoffe/teebaumoel.md) – Ätherisches Öl des australischen Teebaums mit stark antimikrobieller und pilzhemmender Wirkung; oxidiertes Öl kann stark allergisieren. [entwurf]
+- `wirkstoff:thioctsaeure` [α-Liponsäure (Thioctsäure)](data/wirkstoffe/thioctsaeure.md) – Wasser- und fettlösliches Antioxidans, das andere Schutzsysteme regeneriert; ein älteres kleines RCT zeigt glattere Gesichtshaut bei Lichtalterung. [entwurf]
 - `wirkstoff:titandioxid` [Titanium Dioxide (Titandioxid)](data/wirkstoffe/titandioxid.md) – Mineralischer UV-Filter (Anhang VI, max. 25 %), auch in Nanoform mit Auflagen; nicht in Sprays zum Einatmen. [entwurf]
 - `wirkstoff:tocopherol` [Tocopherol (Vitamin E)](data/wirkstoffe/tocopherol.md) – Fettlösliches Vitamin und wichtigstes Antioxidans der Hautlipide; schützt Produkte vor dem Ranzigwerden und die Haut vor Radikalen. [entwurf]
 - `wirkstoff:tranexamsaeure` [Tranexamsäure (TXA)](data/wirkstoffe/tranexamsaeure.md) – Topisch/ästhetisch bei Melasma eingesetzt; Humanevidenz schwach bis moderat, oft Kombinationsstudien. [entwurf]

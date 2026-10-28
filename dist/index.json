@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 215,
+  "anzahl": 223,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -36,7 +36,10 @@
       "pfad": "data/begriffe/antioxidans.md",
       "verweise_von": [
         "begriff:konservierungsmittel",
+        "wirkstoff:carotinoide",
         "wirkstoff:gruentee",
+        "wirkstoff:resveratrol",
+        "wirkstoff:selen",
         "wirkstoff:tocopherol",
         "wirkstoff:ubiquinon"
       ]
@@ -416,7 +419,8 @@
       "pfad": "data/begriffe/nmf.md",
       "verweise_von": [
         "begriff:hydrolipidfilm",
-        "haut:sebostase"
+        "haut:sebostase",
+        "wirkstoff:kristall-mittagsblume"
       ]
     },
     {
@@ -1356,7 +1360,8 @@
         "behandlung:haarentfernung",
         "behandlung:hautstraffung-energiebasiert",
         "behandlung:narbenbehandlung",
-        "recht:nisv"
+        "recht:nisv",
+        "wirkstoff:madecassosid"
       ]
     },
     {
@@ -2204,6 +2209,7 @@
         "haut:postinflammatorische-hyperpigmentierung",
         "wirkstoff:azelainsaeure",
         "wirkstoff:niacinamid",
+        "wirkstoff:pyridoxin",
         "wirkstoff:retinol",
         "wirkstoff:salicylsaeure",
         "wirkstoff:teebaumoel"
@@ -2380,7 +2386,8 @@
         "begriff:saeureschutzmantel",
         "wirkstoff:allantoin",
         "wirkstoff:bisabolol",
-        "wirkstoff:kamille"
+        "wirkstoff:kamille",
+        "wirkstoff:kristall-mittagsblume"
       ]
     },
     {
@@ -2557,7 +2564,12 @@
         "behandlung:camouflage",
         "haut:reife-haut",
         "haut:sonnenbrand",
+        "wirkstoff:carotinoide",
         "wirkstoff:gruentee",
+        "wirkstoff:madecassosid",
+        "wirkstoff:resveratrol",
+        "wirkstoff:selen",
+        "wirkstoff:thioctsaeure",
         "wirkstoff:tocopherol",
         "wirkstoff:ubiquinon"
       ]
@@ -2793,7 +2805,8 @@
         "behandlung:narbenbehandlung",
         "haut:effloreszenz-erosion",
         "haut:keloid",
-        "wirkstoff:centella-asiatica"
+        "wirkstoff:centella-asiatica",
+        "wirkstoff:madecassosid"
       ]
     },
     {
@@ -3164,6 +3177,7 @@
         "wirkstoff:allantoin",
         "wirkstoff:hamamelis",
         "wirkstoff:kamille",
+        "wirkstoff:pyridoxin",
         "wirkstoff:teebaumoel"
       ]
     },
@@ -3622,6 +3636,7 @@
         "haut:sensible-haut",
         "haut:skabies",
         "wirkstoff:kamille",
+        "wirkstoff:propolis",
         "wirkstoff:teebaumoel"
       ]
     },
@@ -3904,6 +3919,7 @@
         "wirkstoff:glycerin",
         "wirkstoff:hamamelis",
         "wirkstoff:niacinamid",
+        "wirkstoff:pyridoxin",
         "wirkstoff:salicylsaeure"
       ]
     },
@@ -4039,7 +4055,9 @@
       "pfad": "data/haut/neurodermitis.md",
       "verweise_von": [
         "haut:babyhaut",
-        "haut:impetigo-contagiosa"
+        "haut:impetigo-contagiosa",
+        "wirkstoff:kristall-mittagsblume",
+        "wirkstoff:propolis"
       ]
     },
     {
@@ -4548,9 +4566,15 @@
         "behandlung:microneedling",
         "behandlung:mikrodermabrasion",
         "haut:sebostase",
+        "wirkstoff:carotinoide",
         "wirkstoff:centella-asiatica",
         "wirkstoff:gruentee",
+        "wirkstoff:kristall-mittagsblume",
+        "wirkstoff:madecassosid",
+        "wirkstoff:resveratrol",
+        "wirkstoff:selen",
         "wirkstoff:squalan",
+        "wirkstoff:thioctsaeure",
         "wirkstoff:tocopherol",
         "wirkstoff:ubiquinon"
       ]
@@ -4714,7 +4738,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/seborrhoisches-ekzem.md",
       "verweise_von": [
-        "haut:effloreszenz-schuppe"
+        "haut:effloreszenz-schuppe",
+        "wirkstoff:pyridoxin"
       ]
     },
     {
@@ -4780,6 +4805,7 @@
         "wirkstoff:aloe-barbadensis",
         "wirkstoff:glycerin",
         "wirkstoff:hyaluronsaeure",
+        "wirkstoff:kristall-mittagsblume",
         "wirkstoff:niacinamid",
         "wirkstoff:panthenol",
         "wirkstoff:retinol",
@@ -4843,6 +4869,7 @@
         "wirkstoff:bisabolol",
         "wirkstoff:centella-asiatica",
         "wirkstoff:kamille",
+        "wirkstoff:madecassosid",
         "wirkstoff:squalan"
       ]
     },
@@ -5543,6 +5570,7 @@
         "wirkstoff:benzalkoniumchlorid",
         "wirkstoff:benzylalkohol",
         "wirkstoff:bisabolol",
+        "wirkstoff:carotinoide",
         "wirkstoff:centella-asiatica",
         "wirkstoff:coffein",
         "wirkstoff:dimethylphthalat",
@@ -5556,6 +5584,8 @@
         "wirkstoff:isothiazolinone",
         "wirkstoff:kamille",
         "wirkstoff:ketoconazol",
+        "wirkstoff:kristall-mittagsblume",
+        "wirkstoff:madecassosid",
         "wirkstoff:methotrexat",
         "wirkstoff:minoxidil",
         "wirkstoff:natriumfluorid",
@@ -5563,14 +5593,19 @@
         "wirkstoff:o-phenylphenol",
         "wirkstoff:paba-derivate",
         "wirkstoff:phmb",
+        "wirkstoff:propolis",
+        "wirkstoff:pyridoxin",
         "wirkstoff:resorcin",
+        "wirkstoff:resveratrol",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:salicylsaeure",
+        "wirkstoff:selen",
         "wirkstoff:squalan",
         "wirkstoff:strontiumchlorid",
         "wirkstoff:teebaumoel",
+        "wirkstoff:thioctsaeure",
         "wirkstoff:titandioxid",
         "wirkstoff:tocopherol",
         "wirkstoff:tretinoin",
@@ -5920,6 +5955,7 @@
         "wirkstoff:benzylalkohol",
         "wirkstoff:bisabolol",
         "wirkstoff:camellioside-a",
+        "wirkstoff:carotinoide",
         "wirkstoff:centella-asiatica",
         "wirkstoff:ceramid-np",
         "wirkstoff:cetylpyridiniumchlorid",
@@ -5936,6 +5972,8 @@
         "wirkstoff:ipbc",
         "wirkstoff:isothiazolinone",
         "wirkstoff:kamille",
+        "wirkstoff:kristall-mittagsblume",
+        "wirkstoff:madecassosid",
         "wirkstoff:niacinamid",
         "wirkstoff:o-phenylphenol",
         "wirkstoff:paba-derivate",
@@ -5943,9 +5981,14 @@
         "wirkstoff:parabene",
         "wirkstoff:peptide",
         "wirkstoff:phmb",
+        "wirkstoff:propolis",
+        "wirkstoff:pyridoxin",
+        "wirkstoff:resveratrol",
         "wirkstoff:retinol",
+        "wirkstoff:selen",
         "wirkstoff:squalan",
         "wirkstoff:teebaumoel",
+        "wirkstoff:thioctsaeure",
         "wirkstoff:tocopherol",
         "wirkstoff:tranexamsaeure",
         "wirkstoff:triclosan",
@@ -6107,6 +6150,7 @@
         "wirkstoff:benzophenon-3",
         "wirkstoff:benzylalkohol",
         "wirkstoff:bisabolol",
+        "wirkstoff:carotinoide",
         "wirkstoff:centella-asiatica",
         "wirkstoff:ceramid-np",
         "wirkstoff:cetylpyridiniumchlorid",
@@ -6139,11 +6183,15 @@
         "wirkstoff:panthenol",
         "wirkstoff:parabene",
         "wirkstoff:phmb",
+        "wirkstoff:propolis",
+        "wirkstoff:pyridoxin",
         "wirkstoff:resorcin",
+        "wirkstoff:resveratrol",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:salicylsaeure",
+        "wirkstoff:selen",
         "wirkstoff:squalan",
         "wirkstoff:strontiumchlorid",
         "wirkstoff:teebaumoel",
@@ -6269,6 +6317,7 @@
         "wirkstoff:minoxidil",
         "wirkstoff:paba-derivate",
         "wirkstoff:parabene",
+        "wirkstoff:selen",
         "wirkstoff:tretinoin",
         "wirkstoff:trichloressigsaeure"
       ]
@@ -6465,6 +6514,7 @@
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:salicylsaeure",
+        "wirkstoff:selen",
         "wirkstoff:strontiumchlorid",
         "wirkstoff:titandioxid",
         "wirkstoff:tretinoin",
@@ -6829,7 +6879,8 @@
       "verweise_von": [
         "behandlung:chemisches-peeling",
         "behandlung:narbenbehandlung",
-        "haut:follikulaere-hyperkeratose"
+        "haut:follikulaere-hyperkeratose",
+        "wirkstoff:thioctsaeure"
       ]
     },
     {
@@ -7129,6 +7180,8 @@
       "pfad": "data/wirkstoffe/ascorbinsaeure.md",
       "verweise_von": [
         "begriff:antioxidans",
+        "wirkstoff:madecassosid",
+        "wirkstoff:thioctsaeure",
         "wirkstoff:tocopherol"
       ]
     },
@@ -7503,6 +7556,59 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:carotinoide",
+      "typ": "wirkstoff",
+      "titel": "Carotinoide (β-Carotin, Lycopin u. a.)",
+      "aliase": [
+        "Karotinoide",
+        "Beta-Carotin",
+        "Provitamin A",
+        "Lycopin"
+      ],
+      "inci": "BETA-CAROTENE (als Farbstoff CI 40800); weitere z. B. LYCOPENE",
+      "stoffgruppe": "Sekundärer Pflanzenstoff (Tetraterpen), Farbstoff",
+      "funktionen": [
+        "färbend",
+        "antioxidativ",
+        "geringer Lichtschutz (laut Quelle)"
+      ],
+      "geeignet_fuer": [
+        "haut:chronischer-lichtschaden",
+        "haut:reife-haut"
+      ],
+      "evidenz": "schwach",
+      "impact": "niedrig",
+      "kurz": "Gelbe bis rote Pflanzenfarbstoffe; β-Carotin ist Provitamin A. In Kosmetika vor allem Farbstoff und Antioxidans, topischer Nutzen kaum belegt.",
+      "tags": [
+        "antioxidans",
+        "farbstoff",
+        "vitamin"
+      ],
+      "verwandt": [
+        "wirkstoff:retinol",
+        "wirkstoff:tocopherol",
+        "begriff:antioxidans"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.1.6, S. 76"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Beta-Carotin“, „Carotinoide“ → „Sekundäre Pflanzenstoffe“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/carotinoide.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:centella-asiatica",
       "typ": "wirkstoff",
       "titel": "Centella asiatica (Tigergras)",
@@ -7535,6 +7641,7 @@
         "pflanze"
       ],
       "verwandt": [
+        "wirkstoff:madecassosid",
         "wirkstoff:ceramid-np",
         "wirkstoff:panthenol",
         "behandlung:narbenbehandlung"
@@ -7556,7 +7663,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/centella-asiatica.md",
-      "verweise_von": []
+      "verweise_von": [
+        "wirkstoff:madecassosid"
+      ]
     },
     {
       "id": "wirkstoff:ceramid-np",
@@ -8037,6 +8146,7 @@
         "haut:sebostase",
         "haut:sensible-haut",
         "wirkstoff:hyaluronsaeure",
+        "wirkstoff:kristall-mittagsblume",
         "wirkstoff:urea"
       ]
     },
@@ -8089,7 +8199,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/gruentee.md",
       "verweise_von": [
-        "wirkstoff:coffein"
+        "wirkstoff:coffein",
+        "wirkstoff:resveratrol"
       ]
     },
     {
@@ -8505,6 +8616,109 @@
       ]
     },
     {
+      "id": "wirkstoff:kristall-mittagsblume",
+      "typ": "wirkstoff",
+      "titel": "Kristall-Mittagsblume (Eiskraut)",
+      "aliase": [
+        "Eisblume",
+        "Eiskraut",
+        "Ice Plant",
+        "Mesembryanthemum"
+      ],
+      "inci": "MESEMBRYANTHEMUM CRYSTALLINUM EXTRACT",
+      "stoffgruppe": "Pflanzenextrakt (Feuchthaltestoffe, Flavonoide)",
+      "funktionen": [
+        "feuchtigkeitsspendend",
+        "beruhigend",
+        "juckreizlindernd"
+      ],
+      "geeignet_fuer": [
+        "haut:sebostase",
+        "haut:neurodermitis",
+        "haut:reife-haut",
+        "haut:babyhaut"
+      ],
+      "evidenz": "schwach",
+      "impact": "niedrig",
+      "kurz": "Salz- und hitzeresistente Pflanze mit NMF-ähnlichen Feuchthaltestoffen; für trockene, juckende Haut empfohlen, Studien sind nur Pilotdaten.",
+      "tags": [
+        "feuchtigkeit",
+        "beruhigung",
+        "pflanze"
+      ],
+      "verwandt": [
+        "begriff:nmf",
+        "wirkstoff:glycerin",
+        "wirkstoff:urea"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.5.8, S. 101 (Übersicht 4.7)"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/kristall-mittagsblume.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:madecassosid",
+      "typ": "wirkstoff",
+      "titel": "Madecassosid",
+      "aliase": [
+        "Madecassoside",
+        "Cica (Einzelstoff)"
+      ],
+      "inci": "MADECASSOSIDE",
+      "stoffgruppe": "Triterpenglycosid (aus Centella asiatica)",
+      "funktionen": [
+        "beruhigend",
+        "wundheilungsfördernd",
+        "kollagenanregend"
+      ],
+      "geeignet_fuer": [
+        "haut:sensible-haut",
+        "haut:reife-haut",
+        "haut:chronischer-lichtschaden",
+        "haut:effloreszenz-narbe"
+      ],
+      "evidenz": "schwach",
+      "impact": "mittel",
+      "kurz": "Isolierter Hauptwirkstoff des Tigergrases; regt laut Quelle die Kollagenbildung an und wirkt entzündungshemmend. Studien nur mit Kombinationen.",
+      "tags": [
+        "beruhigung",
+        "regeneration",
+        "pflanze"
+      ],
+      "verwandt": [
+        "wirkstoff:centella-asiatica",
+        "wirkstoff:panthenol",
+        "wirkstoff:ascorbinsaeure",
+        "behandlung:laserbehandlung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.5.9, S. 102"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/madecassosid.md",
+      "verweise_von": [
+        "wirkstoff:centella-asiatica"
+      ]
+    },
+    {
       "id": "wirkstoff:menthol",
       "typ": "wirkstoff",
       "titel": "Menthol",
@@ -8767,7 +8981,8 @@
       "verweise_von": [
         "haut:fettige-haut",
         "haut:melasma",
-        "haut:postinflammatorische-hyperpigmentierung"
+        "haut:postinflammatorische-hyperpigmentierung",
+        "wirkstoff:pyridoxin"
       ]
     },
     {
@@ -8945,7 +9160,9 @@
         "wirkstoff:allantoin",
         "wirkstoff:bisabolol",
         "wirkstoff:centella-asiatica",
-        "wirkstoff:ceramid-np"
+        "wirkstoff:ceramid-np",
+        "wirkstoff:madecassosid",
+        "wirkstoff:pyridoxin"
       ]
     },
     {
@@ -9061,6 +9278,112 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:propolis",
+      "typ": "wirkstoff",
+      "titel": "Propolis",
+      "aliase": [
+        "Bienenharz",
+        "Bienenkittharz",
+        "Propolis Cera"
+      ],
+      "inci": "PROPOLIS EXTRACT, PROPOLIS CERA",
+      "stoffgruppe": "Bienenprodukt (Wachs-Harz-Gemisch)",
+      "funktionen": [
+        "antimikrobiell",
+        "entzündungshemmend",
+        "antioxidativ"
+      ],
+      "vorsicht_bei": [
+        "haut:kontaktekzem",
+        "haut:neurodermitis",
+        "Allergie gegen Perubalsam, Pappelknospen, Zimt oder Kaffeesäureester"
+      ],
+      "evidenz": "schwach",
+      "impact": "mittel",
+      "kurz": "Kittharz der Honigbiene mit Flavonoiden und Phenolsäuren; antimikrobiell und entzündungshemmend, aber eines der häufigeren Kontaktallergene.",
+      "tags": [
+        "antimikrobiell",
+        "allergen",
+        "naturstoff"
+      ],
+      "verwandt": [
+        "haut:kontaktekzem",
+        "wirkstoff:teebaumoel",
+        "wirkstoff:resveratrol"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.5.10, S. 102"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Propolis“, „Propolis Cera“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/propolis.md",
+      "verweise_von": [
+        "wirkstoff:resveratrol"
+      ]
+    },
+    {
+      "id": "wirkstoff:pyridoxin",
+      "typ": "wirkstoff",
+      "titel": "Pyridoxin (Vitamin B6)",
+      "aliase": [
+        "Vitamin B6",
+        "Pyridoxine HCl"
+      ],
+      "inci": "PYRIDOXINE HCL",
+      "stoffgruppe": "Vitamin (B-Komplex)",
+      "funktionen": [
+        "talgregulierend (laut Quelle)",
+        "hautpflegend",
+        "antistatisch (Haar)"
+      ],
+      "geeignet_fuer": [
+        "haut:fettige-haut",
+        "haut:mischhaut",
+        "haut:akne-vulgaris"
+      ],
+      "evidenz": "schwach",
+      "impact": "niedrig",
+      "kurz": "Wasserlösliches Vitamin des Aminosäurestoffwechsels; soll topisch die Talgbildung regulieren, dafür fehlen klinische Daten.",
+      "tags": [
+        "vitamin",
+        "unreine-haut"
+      ],
+      "verwandt": [
+        "wirkstoff:niacinamid",
+        "wirkstoff:panthenol",
+        "haut:seborrhoisches-ekzem"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.1.4, S. 76"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Pyridoxine“, „Pyridoxine HCl“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/pyridoxin.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:resorcin",
       "typ": "wirkstoff",
       "titel": "Resorcin",
@@ -9105,6 +9428,59 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/resorcin.md",
       "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:resveratrol",
+      "typ": "wirkstoff",
+      "titel": "Resveratrol und Polyphenole",
+      "aliase": [
+        "trans-Resveratrol",
+        "Polyphenole",
+        "Stilbene"
+      ],
+      "inci": "RESVERATROL",
+      "stoffgruppe": "Polyphenol (Stilben)",
+      "funktionen": [
+        "antioxidativ",
+        "entzündungshemmend"
+      ],
+      "geeignet_fuer": [
+        "haut:reife-haut",
+        "haut:chronischer-lichtschaden"
+      ],
+      "evidenz": "schwach",
+      "impact": "niedrig",
+      "kurz": "Stilben aus roten Trauben, Vertreter der Polyphenole; als Antioxidans in Anti-Aging-Pflege, topisch bisher nur schwach belegt.",
+      "tags": [
+        "antioxidans",
+        "anti-aging",
+        "pflanze"
+      ],
+      "verwandt": [
+        "wirkstoff:gruentee",
+        "wirkstoff:propolis",
+        "begriff:antioxidans"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.6.10, S. 108–110 (Tab. 4.9, Übersicht 4.9)"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Resveratrol“, „Polyphenole“ → „Sekundäre Pflanzenstoffe“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/resveratrol.md",
+      "verweise_von": [
+        "wirkstoff:propolis"
+      ]
     },
     {
       "id": "wirkstoff:retinol",
@@ -9175,6 +9551,7 @@
       "verweise_von": [
         "haut:reife-haut",
         "recht:vo-2024-996",
+        "wirkstoff:carotinoide",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:tretinoin"
@@ -9362,6 +9739,58 @@
       ]
     },
     {
+      "id": "wirkstoff:selen",
+      "typ": "wirkstoff",
+      "titel": "Selen",
+      "aliase": [
+        "Selenium",
+        "Selenhaltiges Thermalwasser"
+      ],
+      "inci": "kein eigener INCI-Eintrag als Wirkstoff (meist über Thermalwasser, z. B. AQUA)",
+      "stoffgruppe": "Spurenelement",
+      "funktionen": [
+        "antioxidativ (indirekt über Enzyme)"
+      ],
+      "geeignet_fuer": [
+        "haut:reife-haut",
+        "haut:chronischer-lichtschaden"
+      ],
+      "evidenz": "schwach",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Essenzielles Spurenelement und Bestandteil antioxidativer Enzyme; in Kosmetik nur über selenreiches Quellwasser, da Selenverbindungen als Stoff weitgehend verboten sind.",
+      "tags": [
+        "antioxidans",
+        "anti-aging",
+        "spurenelement"
+      ],
+      "verwandt": [
+        "wirkstoff:zink",
+        "begriff:antioxidans",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.6.2, S. 104"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Selen“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/selen.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:squalan",
       "typ": "wirkstoff",
       "titel": "Squalan und Squalen",
@@ -9509,6 +9938,54 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/teebaumoel.md",
+      "verweise_von": [
+        "wirkstoff:propolis"
+      ]
+    },
+    {
+      "id": "wirkstoff:thioctsaeure",
+      "typ": "wirkstoff",
+      "titel": "α-Liponsäure (Thioctsäure)",
+      "aliase": [
+        "Alpha-Liponsäure",
+        "Alpha Lipoic Acid",
+        "ALA"
+      ],
+      "inci": "THIOCTIC ACID",
+      "stoffgruppe": "Antioxidans (schwefelhaltige Fettsäure)",
+      "funktionen": [
+        "antioxidativ",
+        "glättend"
+      ],
+      "geeignet_fuer": [
+        "haut:reife-haut",
+        "haut:chronischer-lichtschaden"
+      ],
+      "evidenz": "moderat",
+      "impact": "niedrig",
+      "kurz": "Wasser- und fettlösliches Antioxidans, das andere Schutzsysteme regeneriert; ein älteres kleines RCT zeigt glattere Gesichtshaut bei Lichtalterung.",
+      "tags": [
+        "antioxidans",
+        "anti-aging"
+      ],
+      "verwandt": [
+        "wirkstoff:tocopherol",
+        "wirkstoff:ascorbinsaeure",
+        "wirkstoff:aha"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.6.7, S. 106"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/thioctsaeure.md",
       "verweise_von": []
     },
     {
@@ -9614,8 +10091,10 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/tocopherol.md",
       "verweise_von": [
+        "wirkstoff:carotinoide",
         "wirkstoff:gruentee",
         "wirkstoff:squalan",
+        "wirkstoff:thioctsaeure",
         "wirkstoff:ubiquinon"
       ]
     },
@@ -9940,7 +10419,8 @@
         "haut:psoriasis",
         "haut:reife-haut",
         "haut:sebostase",
-        "wirkstoff:glycerin"
+        "wirkstoff:glycerin",
+        "wirkstoff:kristall-mittagsblume"
       ]
     },
     {
@@ -10064,7 +10544,8 @@
       "pfad": "data/wirkstoffe/zink.md",
       "verweise_von": [
         "haut:fettige-haut",
-        "haut:seborrhoisches-ekzem"
+        "haut:seborrhoisches-ekzem",
+        "wirkstoff:selen"
       ]
     },
     {

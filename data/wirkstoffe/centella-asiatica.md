@@ -27,6 +27,7 @@ tags:
 - regeneration
 - pflanze
 verwandt:
+- wirkstoff:madecassosid
 - wirkstoff:ceramid-np
 - wirkstoff:panthenol
 - behandlung:narbenbehandlung
@@ -46,7 +47,7 @@ Belegt ist laut Quelle, dass Extrakt und Einzelstoffe die Bildung verschiedener 
 Sie fördern die Wundheilung und Regeneration älterer Haut und sollen Narben und Dehnungsstreifen vermindern.
 
 ## Hinweis
-Madecassosid ist hier mitbehandelt; die Impact-Liste sieht dafür eine eigene Datei vor (Backlog).
+Madecassosid als Einzelstoff hat seit 2026-10-28 eine eigene Datei: `wirkstoff:madecassosid`.
 
 ## Studienlage (PubMed, Recherche 2026-10-28)
 Nach PubMed:
@@ -60,3 +61,4 @@ Nur Abstracts gelesen; keine SCCS-Prüfung in diesem Lauf.
 
 ## Änderungslog
 - 2026-10-28: Eintrag aus Ellsässer angelegt; am selben Tag PubMed-Recherche ergänzt, Evidenz und Impact gesetzt.
+- 2026-10-28: Verweis auf die neue Datei `wirkstoff:madecassosid`.

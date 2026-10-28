@@ -1,6 +1,6 @@
 # Wirkstoff-Impact-Liste (laufend gepflegt)
 
-Stand: 2026-10-23. Zweck: Wirkstoffe mit hoher Relevanz oder neuer Evidenz, die bei künftigen Recherchen zuerst geprüft werden. Einträge werden täglich ergänzt. Einzelne Wirkstoffdateien im selben Ordner enthalten die Details.
+Stand: 2026-10-28. Zweck: Wirkstoffe mit hoher Relevanz oder neuer Evidenz, die bei künftigen Recherchen zuerst geprüft werden. Einträge werden täglich ergänzt. Einzelne Wirkstoffdateien im selben Ordner enthalten die Details.
 
 Bewertungskriterien: Evidenzstufe (stark / moderat / schwach / keine, gemäß Projektvorgabe), Marktrelevanz, Neuigkeitswert der letzten Publikation, Sicherheitsrelevanz (SCCS/Verordnung).
 
@@ -63,7 +63,7 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Wirkstoff | Datei | Evidenz (Stand 2026-10) | Letzte relevante Publikation | Impact |
 |---|---|---|---|---|
 | Panthenol / Dexpanthenol | panthenol.md | schwach bis moderat (Einzel-RCTs, meist Kombinationen) | Int J Cosmet Sci 2026 | gering-mittel |
-| Pyridoxine HCl (Vitamin B6) | pyridoxin.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Pyridoxine HCl (Vitamin B6) | pyridoxin.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
 | Retinal | retinal.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Retinyl Palmitate | retinyl-palmitat.md | Wirksamkeit nicht bewertet; Rechtsstand: VO (EU) 2024/996 Anh. III 376 (siehe Retinol) | – | hoch (Rechtsstand) |
 | Tretinoin (Vitamin-A-Säure) | tretinoin.md | nicht bewertet (nur Lehrbuch) | – | offen (Arzneimittel) |
@@ -74,15 +74,15 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Magnesium Ascorbyl Phosphate | magnesium-ascorbyl-phosphat.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Tocopherol (Vitamin E) | tocopherol.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | mittel |
 | Tocopheryl Acetate | tocopheryl-acetat.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Carotinoide | carotinoide.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| β-Carotin | beta-carotin.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Carotinoide | carotinoide.md | schwach (topisch; PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
+| β-Carotin | carotinoide.md (mitbehandelt) | schwach (topisch; PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
 | Ubiquinone (Coenzym Q10) | ubiquinon.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
-| Thioctic Acid (α-Liponsäure) | thioctsaeure.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Thioctic Acid (α-Liponsäure) | thioctsaeure.md | moderat (ein Split-Face-RCT 2003; PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
 | Camellia sinensis (Grüner Tee) | gruentee.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
-| Resveratrol | resveratrol.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Resveratrol (mit Polyphenol-Übersicht) | resveratrol.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
 | α-Glycosilrutin | glycosylrutin.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Traubenkernextrakt (OPC) | traubenkernextrakt.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Selen | selen.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Selen | selen.md | schwach (nur In-vitro; Rechtsstand Anhang II prüfen) | Bericht 2026-10-28_ellsaesser-kap4 | mittel |
 | Zink | zink.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Mangan | mangan.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Kupfer | kupfer.md | nicht bewertet (nur Lehrbuch) | – | offen |
@@ -133,12 +133,12 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Ringelblume | ringelblume.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Salbei | salbei.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Centella asiatica | centella-asiatica.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | mittel |
-| Madecassoside | madecassosid.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Madecassoside | madecassosid.md | schwach (nur Kombinations-RCTs; PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | mittel |
 | Asiaticoside | asiaticosid.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Glycyrrhetinic Acid | glycyrrhetinsaeure.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Licochalcone A | licochalcone-a.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Mesembryanthemum crystallinum | mesembryanthemum.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Propolis | propolis.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Mesembryanthemum crystallinum (Kristall-Mittagsblume) | kristall-mittagsblume.md | schwach (nur Pilotstudien; PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
+| Propolis | propolis.md | schwach (PubMed-Abstracts, 2026-10-28); häufiges Kontaktallergen | Bericht 2026-10-28_ellsaesser-kap4 | mittel |
 | Zinkoxid | zinkoxid.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Polidocanol (Laureth-9) | polidocanol.md | nicht bewertet (nur Lehrbuch) | – | offen |
 
