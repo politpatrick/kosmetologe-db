@@ -90,7 +90,11 @@
       "verlag": "Text",
       "doi": "DOI/ISBN",
       "lizenz": "frei | urheberrechtlich-geschuetzt | amtliches-werk",
-      "lokal_privat": "Pfad zu privaten Volltexten (nie ins Repo)"
+      "lokal_privat": "Pfad zum privaten Originaltext (Text-Auszug des PDFs, nie ins Repo)",
+      "lokal_zusammenfassung": "Pfad zur privaten Zusammenfassung (nie ins Repo)",
+      "auflage": "Auflage als Text, z. B. \"4. Auflage\"",
+      "isbn": "ISBN der Druckausgabe",
+      "seitenversatz": "PDF-Seite minus gedruckte Seite im privaten Original; Fundstellen nennen immer gedruckte Seiten"
     }
   },
   "kontext": {

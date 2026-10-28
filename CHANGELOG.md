@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Originale der Fachbücher
+- Quelleneinträge Herrmann/Trinkkeller, Ellsässer und Tadros am Impressum geprüft: Vornamen, Auflage, Verlag, ISBN, DOI
+- Neue Quellenfelder `lokal_zusammenfassung`, `auflage`, `isbn`, `seitenversatz`; `lokal_privat` zeigt auf das Original
+- CLAUDE.md und Prüfaufgabe: Original statt Zusammenfassung als Prüfgrundlage, gedruckte Seiten in Fundstellen
+
 ## 2026-10-28 – Wöchentliche Prüfung
 - `recht:vo-2024-996` am Amtsblatt-Text geprüft: Anhang VI und 4-MBC ergänzt, Grenzwerte und Übergangsfristen tabelliert
 - `recht:eu-kosmetikverordnung` gegen konsolidierte Fassung 18.05.2026 geprüft, URL aktualisiert, Art. 19/20 präzisiert

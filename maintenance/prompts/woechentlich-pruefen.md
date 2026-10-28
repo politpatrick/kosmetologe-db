@@ -6,7 +6,7 @@ Arbeite im lokalen Klon der kosmetologe-db (CLAUDE.md beachten).
 2. `python scripts/kdb.py validate` und `python scripts/kdb.py check-build`. Fehler beheben.
 3. `python scripts/kdb.py due --tage 30` ausführen. Für bis zu **5** fällige Einträge
    (Recht zuerst, dann älteste Entwürfe):
-   - Aussagen gegen die genannte Quelle prüfen (private Volltexte unter `lokal_privat` lesen,
+   - Aussagen gegen die genannte Quelle prüfen (Original unter `lokal_privat` lesen, Seite über `seitenversatz` umrechnen,
      Rechtstexte über amtliche URL). Nichts wörtlich übernehmen.
    - Korrekt → `status: geprueft`, `geprueft_am`/`aktualisiert` = heute.
    - Falsch/unsicher → korrigieren oder Unsicherheit im Text vermerken, Status `entwurf` lassen.

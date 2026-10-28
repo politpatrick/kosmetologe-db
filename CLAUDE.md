@@ -47,9 +47,16 @@ Vor Design-, Code- oder Textaufgaben immer die `kontext:`-Einträge mit passende
 - Größere Änderungen in `CHANGELOG.md` notieren.
 
 ## Private Quellen
-Volltexte/Zusammenfassungen der Fachbücher liegen nur lokal (Feld `lokal_privat` im
-Quelleneintrag) oder unter `privat/` (per .gitignore ausgeschlossen). Sie dürfen zum Prüfen
-gelesen, aber nicht zitiert oder eingecheckt werden.
+Die Fachbücher liegen nur lokal unter `privat/` (per .gitignore ausgeschlossen):
+- `privat/originale/*.pdf` – Originale; daneben `*.txt` als durchsuchbarer Textauszug mit
+  Markern `<!-- PDF-Seite n -->`. Pfad im Quelleneintrag: `lokal_privat`.
+- `privat/*.md` – Zusammenfassungen (Feld `lokal_zusammenfassung`); das Springer-Lexikon ist dort im Original.
+
+Regeln:
+- Zum Prüfen und Erweitern gilt das **Original**; die Zusammenfassung nur zur Orientierung.
+- Fundstellen nennen **gedruckte** Seiten: gedruckte Seite = PDF-Seite − `seitenversatz` des Quelleneintrags.
+- Lesen ja, zitieren oder einchecken nie. Nur eigene Formulierungen ins Repo.
+- `privat/` existiert nur auf dem Mac des Nutzers; fehlt es, Prüfungen gegen Bücher überspringen und im PR vermerken.
 
 ## Pflege
 Wiederkehrende Aufgaben stehen in `maintenance/prompts/` und laufen als geplante Aufgaben.
