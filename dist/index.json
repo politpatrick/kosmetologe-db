@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 54,
+  "anzahl": 90,
   "eintraege": [
     {
       "id": "begriff:hlb-wert",
@@ -493,10 +493,41 @@
       "verweise_von": [
         "behandlung:ausreinigung",
         "haut:sebostase",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:aha",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:benzalkoniumchlorid",
+        "wirkstoff:benzylalkohol",
+        "wirkstoff:dimethylphthalat",
+        "wirkstoff:fluorouracil",
+        "wirkstoff:formaldehyd-abspalter",
+        "wirkstoff:genistein-daidzein",
         "wirkstoff:glycerin",
+        "wirkstoff:ipbc",
+        "wirkstoff:isothiazolinone",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:methotrexat",
+        "wirkstoff:minoxidil",
+        "wirkstoff:natriumfluorid",
         "wirkstoff:niacinamid",
+        "wirkstoff:o-phenylphenol",
+        "wirkstoff:paba-derivate",
+        "wirkstoff:phmb",
+        "wirkstoff:resorcin",
+        "wirkstoff:retinol",
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
         "wirkstoff:salicylsaeure",
-        "wirkstoff:urea"
+        "wirkstoff:strontiumchlorid",
+        "wirkstoff:titandioxid",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure",
+        "wirkstoff:triclocarban",
+        "wirkstoff:triclosan",
+        "wirkstoff:urea",
+        "wirkstoff:wasserstoffperoxid",
+        "wirkstoff:zink",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -519,7 +550,48 @@
         "recht:anhang-ii-arzneistoffe",
         "recht:anhang-iii-duftstoff-allergene",
         "recht:anhang-vi-uv-filter",
-        "recht:eu-kosmetikverordnung"
+        "recht:eu-kosmetikverordnung",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:aha",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:arbutin",
+        "wirkstoff:benzalkoniumchlorid",
+        "wirkstoff:benzophenon-3",
+        "wirkstoff:benzylalkohol",
+        "wirkstoff:dimethylphthalat",
+        "wirkstoff:ethylhexyl-salicylat",
+        "wirkstoff:fluorouracil",
+        "wirkstoff:formaldehyd-abspalter",
+        "wirkstoff:genistein-daidzein",
+        "wirkstoff:homosalat",
+        "wirkstoff:hydrochinon",
+        "wirkstoff:ipbc",
+        "wirkstoff:isothiazolinone",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:kojisaeure",
+        "wirkstoff:menthol",
+        "wirkstoff:methotrexat",
+        "wirkstoff:methylbenzyliden-campher",
+        "wirkstoff:minoxidil",
+        "wirkstoff:natriumfluorid",
+        "wirkstoff:o-phenylphenol",
+        "wirkstoff:paba-derivate",
+        "wirkstoff:parabene",
+        "wirkstoff:phmb",
+        "wirkstoff:resorcin",
+        "wirkstoff:retinol",
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:strontiumchlorid",
+        "wirkstoff:titandioxid",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure",
+        "wirkstoff:triclocarban",
+        "wirkstoff:triclosan",
+        "wirkstoff:wasserstoffperoxid",
+        "wirkstoff:zink",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -566,7 +638,27 @@
       "verweise_von": [
         "haut:akne-vulgaris",
         "haut:effloreszenz-papel",
-        "haut:rosazea"
+        "haut:rosazea",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:aha",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:azelainsaeure",
+        "wirkstoff:fluorouracil",
+        "wirkstoff:hydrochinon",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:methotrexat",
+        "wirkstoff:minoxidil",
+        "wirkstoff:natriumfluorid",
+        "wirkstoff:resorcin",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:strontiumchlorid",
+        "wirkstoff:titandioxid",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure",
+        "wirkstoff:wasserstoffperoxid",
+        "wirkstoff:zink",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -592,25 +684,65 @@
         "recht:anhang-iii-duftstoff-allergene",
         "recht:anhang-vi-uv-filter",
         "recht:vo-2024-996",
+        "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
+        "wirkstoff:ammoniumthioglykolat",
         "wirkstoff:arbutin",
+        "wirkstoff:ascorbinsaeure",
+        "wirkstoff:avobenzon",
         "wirkstoff:azelainsaeure",
+        "wirkstoff:benzalkoniumchlorid",
         "wirkstoff:benzophenon-1",
         "wirkstoff:benzophenon-2",
+        "wirkstoff:benzophenon-3",
+        "wirkstoff:benzylalkohol",
         "wirkstoff:camellioside-a",
         "wirkstoff:ceramid-np",
+        "wirkstoff:cetylpyridiniumchlorid",
+        "wirkstoff:chlorhexidin",
+        "wirkstoff:dimethylphthalat",
         "wirkstoff:ethyl-ascorbinsaeure",
+        "wirkstoff:ethylhexyl-salicylat",
         "wirkstoff:exosomen",
+        "wirkstoff:fluorouracil",
+        "wirkstoff:formaldehyd-abspalter",
         "wirkstoff:genistein-daidzein",
+        "wirkstoff:homosalat",
+        "wirkstoff:hyaluronsaeure",
         "wirkstoff:hydrochinon",
+        "wirkstoff:ipbc",
+        "wirkstoff:isothiazolinone",
+        "wirkstoff:ketoconazol",
         "wirkstoff:kojisaeure",
+        "wirkstoff:menthol",
+        "wirkstoff:methotrexat",
+        "wirkstoff:methylbenzyliden-campher",
+        "wirkstoff:minoxidil",
+        "wirkstoff:natriumfluorid",
         "wirkstoff:niacinamid",
+        "wirkstoff:o-phenylphenol",
+        "wirkstoff:octocrylen",
+        "wirkstoff:paba-derivate",
+        "wirkstoff:panthenol",
         "wirkstoff:parabene",
+        "wirkstoff:peptide",
+        "wirkstoff:phmb",
+        "wirkstoff:resorcin",
+        "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:strontiumchlorid",
+        "wirkstoff:titandioxid",
         "wirkstoff:tranexamsaeure",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure",
         "wirkstoff:triclocarban",
         "wirkstoff:triclosan",
-        "wirkstoff:xep-716-miniprotein"
+        "wirkstoff:wasserstoffperoxid",
+        "wirkstoff:xep-716-miniprotein",
+        "wirkstoff:zink",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -629,7 +761,36 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/quellen/pubmed.md",
       "verweise_von": [
-        "kontext:recherche-methodik"
+        "kontext:recherche-methodik",
+        "wirkstoff:aha",
+        "wirkstoff:ascorbinsaeure",
+        "wirkstoff:azelainsaeure",
+        "wirkstoff:benzalkoniumchlorid",
+        "wirkstoff:benzophenon-2",
+        "wirkstoff:benzylalkohol",
+        "wirkstoff:camellioside-a",
+        "wirkstoff:ceramid-np",
+        "wirkstoff:cetylpyridiniumchlorid",
+        "wirkstoff:chlorhexidin",
+        "wirkstoff:dimethylphthalat",
+        "wirkstoff:ethyl-ascorbinsaeure",
+        "wirkstoff:exosomen",
+        "wirkstoff:formaldehyd-abspalter",
+        "wirkstoff:hyaluronsaeure",
+        "wirkstoff:hydrochinon",
+        "wirkstoff:ipbc",
+        "wirkstoff:isothiazolinone",
+        "wirkstoff:niacinamid",
+        "wirkstoff:o-phenylphenol",
+        "wirkstoff:paba-derivate",
+        "wirkstoff:panthenol",
+        "wirkstoff:parabene",
+        "wirkstoff:peptide",
+        "wirkstoff:phmb",
+        "wirkstoff:retinol",
+        "wirkstoff:tranexamsaeure",
+        "wirkstoff:triclosan",
+        "wirkstoff:xep-716-miniprotein"
       ]
     },
     {
@@ -650,7 +811,45 @@
       "pfad": "data/quellen/sccs.md",
       "verweise_von": [
         "kontext:recherche-methodik",
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:arbutin",
+        "wirkstoff:avobenzon",
+        "wirkstoff:benzalkoniumchlorid",
+        "wirkstoff:benzophenon-1",
+        "wirkstoff:benzophenon-2",
+        "wirkstoff:benzophenon-3",
+        "wirkstoff:benzylalkohol",
+        "wirkstoff:cetylpyridiniumchlorid",
+        "wirkstoff:chlorhexidin",
+        "wirkstoff:dimethylphthalat",
+        "wirkstoff:ethylhexyl-salicylat",
+        "wirkstoff:formaldehyd-abspalter",
+        "wirkstoff:genistein-daidzein",
+        "wirkstoff:homosalat",
+        "wirkstoff:ipbc",
+        "wirkstoff:isothiazolinone",
+        "wirkstoff:kojisaeure",
+        "wirkstoff:methylbenzyliden-campher",
+        "wirkstoff:natriumfluorid",
+        "wirkstoff:o-phenylphenol",
+        "wirkstoff:octocrylen",
+        "wirkstoff:paba-derivate",
+        "wirkstoff:parabene",
+        "wirkstoff:phmb",
+        "wirkstoff:resorcin",
+        "wirkstoff:retinol",
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:strontiumchlorid",
+        "wirkstoff:titandioxid",
+        "wirkstoff:triclocarban",
+        "wirkstoff:triclosan",
+        "wirkstoff:wasserstoffperoxid",
+        "wirkstoff:zink",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -676,10 +875,32 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/quellen/springer-lexikon-kosmetik.md",
       "verweise_von": [
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:arbutin",
+        "wirkstoff:azelainsaeure",
+        "wirkstoff:fluorouracil",
         "wirkstoff:hyaluronsaeure",
+        "wirkstoff:hydrochinon",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:kojisaeure",
+        "wirkstoff:methotrexat",
+        "wirkstoff:minoxidil",
+        "wirkstoff:natriumfluorid",
         "wirkstoff:niacinamid",
         "wirkstoff:panthenol",
-        "wirkstoff:retinol"
+        "wirkstoff:resorcin",
+        "wirkstoff:retinol",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:strontiumchlorid",
+        "wirkstoff:titandioxid",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure",
+        "wirkstoff:triclosan",
+        "wirkstoff:wasserstoffperoxid",
+        "wirkstoff:zink",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -704,7 +925,23 @@
       "verweise_von": [
         "begriff:hlb-wert",
         "formulierung:emulsion-ow",
-        "formulierung:emulsion-wo"
+        "formulierung:emulsion-wo",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:fluorouracil",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:methotrexat",
+        "wirkstoff:minoxidil",
+        "wirkstoff:natriumfluorid",
+        "wirkstoff:resorcin",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:strontiumchlorid",
+        "wirkstoff:titandioxid",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure",
+        "wirkstoff:wasserstoffperoxid",
+        "wirkstoff:zink",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -745,7 +982,22 @@
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/anhang-ii-arzneistoffe.md",
       "verweise_von": [
-        "recht:anhang-vi-uv-filter"
+        "recht:anhang-vi-uv-filter",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:benzophenon-1",
+        "wirkstoff:benzophenon-2",
+        "wirkstoff:dimethylphthalat",
+        "wirkstoff:fluorouracil",
+        "wirkstoff:formaldehyd-abspalter",
+        "wirkstoff:hydrochinon",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:methotrexat",
+        "wirkstoff:methylbenzyliden-campher",
+        "wirkstoff:minoxidil",
+        "wirkstoff:paba-derivate",
+        "wirkstoff:parabene",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure"
       ]
     },
     {
@@ -786,7 +1038,10 @@
       "geprueft_am": "2026-10-26",
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/anhang-iii-duftstoff-allergene.md",
-      "verweise_von": []
+      "verweise_von": [
+        "wirkstoff:benzylalkohol",
+        "wirkstoff:menthol"
+      ]
     },
     {
       "id": "recht:anhang-vi-uv-filter",
@@ -827,8 +1082,18 @@
       "pfad": "data/recht/anhang-vi-uv-filter.md",
       "verweise_von": [
         "recht:anhang-ii-arzneistoffe",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:avobenzon",
         "wirkstoff:benzophenon-1",
-        "wirkstoff:benzophenon-2"
+        "wirkstoff:benzophenon-2",
+        "wirkstoff:benzophenon-3",
+        "wirkstoff:ethylhexyl-salicylat",
+        "wirkstoff:homosalat",
+        "wirkstoff:methylbenzyliden-campher",
+        "wirkstoff:octocrylen",
+        "wirkstoff:paba-derivate",
+        "wirkstoff:titandioxid",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -869,9 +1134,48 @@
         "recht:anhang-vi-uv-filter",
         "recht:kosmetikv-2014",
         "recht:vo-2024-996",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:aha",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:arbutin",
+        "wirkstoff:benzalkoniumchlorid",
+        "wirkstoff:benzophenon-3",
+        "wirkstoff:benzylalkohol",
+        "wirkstoff:cetylpyridiniumchlorid",
+        "wirkstoff:chlorhexidin",
+        "wirkstoff:dimethylphthalat",
+        "wirkstoff:ethylhexyl-salicylat",
+        "wirkstoff:fluorouracil",
+        "wirkstoff:formaldehyd-abspalter",
+        "wirkstoff:genistein-daidzein",
+        "wirkstoff:hydrochinon",
+        "wirkstoff:ipbc",
+        "wirkstoff:isothiazolinone",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:kojisaeure",
+        "wirkstoff:menthol",
+        "wirkstoff:methotrexat",
+        "wirkstoff:methylbenzyliden-campher",
+        "wirkstoff:minoxidil",
+        "wirkstoff:natriumfluorid",
+        "wirkstoff:o-phenylphenol",
+        "wirkstoff:paba-derivate",
         "wirkstoff:parabene",
+        "wirkstoff:phmb",
+        "wirkstoff:resorcin",
         "wirkstoff:retinol",
-        "wirkstoff:salicylsaeure"
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:strontiumchlorid",
+        "wirkstoff:titandioxid",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure",
+        "wirkstoff:triclocarban",
+        "wirkstoff:triclosan",
+        "wirkstoff:wasserstoffperoxid",
+        "wirkstoff:zink",
+        "wirkstoff:zinkoxid"
       ]
     },
     {
@@ -978,16 +1282,61 @@
         "wirkstoff:arbutin",
         "wirkstoff:genistein-daidzein",
         "wirkstoff:kojisaeure",
+        "wirkstoff:methylbenzyliden-campher",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
         "wirkstoff:triclocarban",
         "wirkstoff:triclosan"
       ]
     },
     {
+      "id": "wirkstoff:3-benzyliden-campher",
+      "typ": "wirkstoff",
+      "titel": "3-Benzyliden-Campher (3-Benzylidene Camphor, 3-BC)",
+      "inci": "3-BENZYLIDENE CAMPHOR",
+      "stoffgruppe": "UV-Filter (Campher-Derivat)",
+      "funktionen": [
+        "uv-b-filter"
+      ],
+      "evidenz": "schwach",
+      "impact": "niedrig",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-vi-uv-filter",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Früherer UV-B-Filter, heute in der EU verboten (Anhang II Nr. 1379); nur noch historisch relevant.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei 3-benzyliden-campher.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/3-benzyliden-campher.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:aha",
       "typ": "wirkstoff",
-      "titel": "Alpha-Hydroxysäuren (AHA)",
+      "titel": "Alpha-Hydroxysäuren (AHA: Glykolsäure, Milchsäure u. a.)",
       "inci": "GLYCOLIC ACID, LACTIC ACID u. a.",
       "stoffgruppe": "Säure (AHA)",
       "funktionen": [
@@ -1004,18 +1353,77 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei aha.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
       "pfad": "data/wirkstoffe/aha.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:ammoniumthioglykolat",
+      "typ": "wirkstoff",
+      "titel": "Ammonium Thioglycolate",
+      "inci": "AMMONIUM THIOGLYCOLATE",
+      "stoffgruppe": "Reduktionsmittel",
+      "funktionen": [
+        "haarumformung"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Reduktionsmittel für Dauerwelle und Haarglättung; in Anhang III mit Konzentrationsgrenzen und Warnhinweisen geregelt.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei ammoniumthioglykolat.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/ammoniumthioglykolat.md",
       "verweise_von": []
     },
     {
       "id": "wirkstoff:arbutin",
       "typ": "wirkstoff",
-      "titel": "Arbutin / Alpha-Arbutin",
+      "titel": "Arbutin und Alpha-Arbutin",
       "inci": "ARBUTIN, ALPHA-ARBUTIN",
       "stoffgruppe": "Hydrochinon-Glykosid",
       "funktionen": [
@@ -1024,7 +1432,8 @@
       "evidenz": "nicht-bewertet",
       "impact": "hoch",
       "regulierung": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "recht:eu-kosmetikverordnung"
       ],
       "kurz": "Aufheller mit Grenzwerten – Arbutin 7 % (Gesichtscreme), Alpha-Arbutin 2 % Gesichtscreme / 0,5 % Körperlotion; Hydrochinon-Rest so gering wie möglich.",
       "verwandt": [
@@ -1034,7 +1443,16 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei arbutin.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
         }
       ],
       "status": "entwurf",
@@ -1047,9 +1465,69 @@
       ]
     },
     {
+      "id": "wirkstoff:ascorbinsaeure",
+      "typ": "wirkstoff",
+      "titel": "Ascorbinsäure (Vitamin C, L-Ascorbic Acid)",
+      "inci": "ASCORBIC ACID",
+      "stoffgruppe": "Vitamin (Antioxidans)",
+      "funktionen": [
+        "antioxidativ",
+        "aufhellend",
+        "kollagenfoerdernd"
+      ],
+      "evidenz": "moderat",
+      "impact": "hoch",
+      "kurz": "Vitamin C – Antioxidans, Kofaktor der Kollagensynthese und Melaninhemmer; viel beworben, in wässriger Lösung instabil.",
+      "verwandt": [
+        "wirkstoff:ethyl-ascorbinsaeure"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei ascorbinsaeure.md"
+        },
+        {
+          "id": "quelle:pubmed"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/ascorbinsaeure.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:avobenzon",
+      "typ": "wirkstoff",
+      "titel": "Butyl Methoxydibenzoylmethane (Avobenzon)",
+      "inci": "BUTYL METHOXYDIBENZOYLMETHANE",
+      "stoffgruppe": "UV-Filter (Dibenzoylmethan)",
+      "funktionen": [
+        "uv-a-filter"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:anhang-vi-uv-filter"
+      ],
+      "kurz": "Wichtigster organischer UV-A-Filter (Anhang VI Nr. 8, max. 5 %); nicht photostabil, braucht Stabilisatoren wie Octocrylen.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei avobenzon.md"
+        },
+        {
+          "id": "quelle:sccs"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/avobenzon.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:azelainsaeure",
       "typ": "wirkstoff",
-      "titel": "Azelainsäure",
+      "titel": "Azelainsäure (Azelaic Acid)",
       "inci": "AZELAIC ACID",
       "stoffgruppe": "Dicarbonsäure",
       "funktionen": [
@@ -1067,7 +1545,16 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei azelainsaeure.md"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
         }
       ],
       "status": "entwurf",
@@ -1076,9 +1563,49 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:benzalkoniumchlorid",
+      "typ": "wirkstoff",
+      "titel": "Benzalkoniumchlorid",
+      "inci": "BENZALKONIUM CHLORIDE",
+      "stoffgruppe": "Quartäre Ammoniumverbindung",
+      "funktionen": [
+        "konservierend",
+        "antimikrobiell",
+        "deodorierend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Kationisches Tensid mit antimikrobieller Wirkung; als Konservierungsstoff in Anhang V begrenzt.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei benzalkoniumchlorid.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/benzalkoniumchlorid.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:benzophenon-1",
       "typ": "wirkstoff",
-      "titel": "Benzophenone-1",
+      "titel": "Benzophenone-1 (2,4-Dihydroxybenzophenon, CAS 131-56-6)",
       "inci": "BENZOPHENONE-1",
       "stoffgruppe": "UV-Absorber/Lichtschutzstabilisator",
       "funktionen": [
@@ -1087,7 +1614,8 @@
       "evidenz": "schwach",
       "impact": "mittel",
       "regulierung": [
-        "recht:anhang-vi-uv-filter"
+        "recht:anhang-vi-uv-filter",
+        "recht:anhang-ii-arzneistoffe"
       ],
       "kurz": "Als Lichtschutzstabilisator laut SCCS/1672/24 nicht sicher; Verbot (Anhang II) im Kommissionsentwurf.",
       "verwandt": [
@@ -1096,7 +1624,10 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei benzophenon-1.md"
+        },
+        {
+          "id": "quelle:sccs"
         }
       ],
       "status": "entwurf",
@@ -1109,7 +1640,7 @@
     {
       "id": "wirkstoff:benzophenon-2",
       "typ": "wirkstoff",
-      "titel": "Benzophenone-2",
+      "titel": "Benzophenone-2 (2,2',4,4'-Tetrahydroxybenzophenon, CAS 131-55-5)",
       "inci": "BENZOPHENONE-2",
       "stoffgruppe": "UV-Absorber",
       "funktionen": [
@@ -1118,7 +1649,8 @@
       "evidenz": "schwach",
       "impact": "mittel",
       "regulierung": [
-        "recht:anhang-vi-uv-filter"
+        "recht:anhang-vi-uv-filter",
+        "recht:anhang-ii-arzneistoffe"
       ],
       "kurz": "Laut SCCS/1679/25 keine Sicherheitsaussage möglich, östrogen aktiv; Verbot (Anhang II) im Kommissionsentwurf.",
       "verwandt": [
@@ -1127,7 +1659,13 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei benzophenon-2.md"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
         }
       ],
       "status": "entwurf",
@@ -1138,9 +1676,84 @@
       ]
     },
     {
+      "id": "wirkstoff:benzophenon-3",
+      "typ": "wirkstoff",
+      "titel": "Benzophenone-3 (Oxybenzon, BP-3)",
+      "inci": "BENZOPHENONE-3",
+      "stoffgruppe": "UV-Filter (Benzophenon)",
+      "funktionen": [
+        "uv-a-filter",
+        "uv-b-filter",
+        "produktschutz"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "hoch",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "kurz": "Breitbandfilter (Oxybenzon); seit 2023 deutlich verschärfte Grenzwerte und Kennzeichnungspflicht wegen Systemaufnahme.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei benzophenon-3.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/benzophenon-3.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:benzylalkohol",
+      "typ": "wirkstoff",
+      "titel": "Benzylalkohol",
+      "inci": "BENZYL ALCOHOL",
+      "stoffgruppe": "Aromatischer Alkohol",
+      "funktionen": [
+        "konservierend",
+        "loesungsmittel"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-iii-duftstoff-allergene"
+      ],
+      "kurz": "Konservierungsstoff und Lösungsmittel; zugleich kennzeichnungspflichtiger Duftstoff.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei benzylalkohol.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/benzylalkohol.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:camellioside-a",
       "typ": "wirkstoff",
-      "titel": "Camellioside A",
+      "titel": "Camellioside A (Camellia chekiangoleosa)",
       "inci": "nicht vergeben",
       "stoffgruppe": "Pflanzeninhaltsstoff (Camellia chekiangoleosa)",
       "funktionen": [
@@ -1152,7 +1765,10 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei camellioside-a.md"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
@@ -1163,7 +1779,7 @@
     {
       "id": "wirkstoff:ceramid-np",
       "typ": "wirkstoff",
-      "titel": "Ceramid NP",
+      "titel": "Ceramid NP (Ceramid 3)",
       "inci": "CERAMIDE NP",
       "stoffgruppe": "Barrierelipid (Ceramid)",
       "funktionen": [
@@ -1180,18 +1796,130 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei ceramid-np.md"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ceramid-np.md",
+      "verweise_von": [
+        "wirkstoff:panthenol"
+      ]
+    },
+    {
+      "id": "wirkstoff:cetylpyridiniumchlorid",
+      "typ": "wirkstoff",
+      "titel": "Cetylpyridiniumchlorid (CPC)",
+      "inci": "CETYLPYRIDINIUM CHLORIDE",
+      "stoffgruppe": "Quartäre Ammoniumverbindung",
+      "funktionen": [
+        "antimikrobiell",
+        "konservierend",
+        "mundpflege"
+      ],
+      "evidenz": "moderat",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Antimikrobieller Wirkstoff vor allem in Mundspülungen; moderate Evidenz gegen Plaque und Gingivitis.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei cetylpyridiniumchlorid.md"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/cetylpyridiniumchlorid.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:chlorhexidin",
+      "typ": "wirkstoff",
+      "titel": "Chlorhexidin (inkl. Diacetat, Digluconat, Dihydrochlorid)",
+      "inci": "CHLORHEXIDINE DIGLUCONATE",
+      "stoffgruppe": "Biguanid",
+      "funktionen": [
+        "antimikrobiell",
+        "konservierend",
+        "mundpflege"
+      ],
+      "evidenz": "moderat",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Antiseptikum und Konservierungsstoff (Anhang V); Goldstandard gegen Plaque in Mundspülungen, verfärbt bei Daueranwendung.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei chlorhexidin.md"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/chlorhexidin.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:dimethylphthalat",
+      "typ": "wirkstoff",
+      "titel": "Dimethylphthalat",
+      "inci": "DIMETHYL PHTHALATE",
+      "stoffgruppe": "Phthalat",
+      "funktionen": [
+        "repellent"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Älteres Insektenrepellent laut Lehrbuch; Phthalate sind regulatorisch und toxikologisch kritisch zu prüfen.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei dimethylphthalat.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/dimethylphthalat.md",
       "verweise_von": []
     },
     {
       "id": "wirkstoff:ethyl-ascorbinsaeure",
       "typ": "wirkstoff",
-      "titel": "3-O-Ethyl-L-Ascorbinsäure",
+      "titel": "3-O-Ethyl-L-Ascorbinsäure (EAA)",
       "inci": "ETHYL ASCORBIC ACID",
       "stoffgruppe": "Vitamin-C-Derivat",
       "funktionen": [
@@ -1204,18 +1932,56 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei ethyl-ascorbinsaeure.md"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ethyl-ascorbinsaeure.md",
+      "verweise_von": [
+        "wirkstoff:ascorbinsaeure"
+      ]
+    },
+    {
+      "id": "wirkstoff:ethylhexyl-salicylat",
+      "typ": "wirkstoff",
+      "titel": "Ethylhexyl Salicylate (Octisalat)",
+      "inci": "ETHYLHEXYL SALICYLATE",
+      "stoffgruppe": "UV-Filter (Salicylat)",
+      "funktionen": [
+        "uv-b-filter"
+      ],
+      "evidenz": "schwach",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "kurz": "Schwacher UV-B-Filter (Anhang VI Nr. 20, max. 5 %), vor allem als Löser und Photostabilisator für andere Filter.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei ethylhexyl-salicylat.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/ethylhexyl-salicylat.md",
       "verweise_von": []
     },
     {
       "id": "wirkstoff:exosomen",
       "typ": "wirkstoff",
-      "titel": "Exosomen (topisch)",
+      "titel": "Exosomen (topisch, kosmetisch)",
       "inci": "uneinheitlich",
       "stoffgruppe": "Extrazelluläre Vesikel",
       "funktionen": [
@@ -1228,7 +1994,10 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei exosomen.md"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
@@ -1237,9 +2006,90 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:fluorouracil",
+      "typ": "wirkstoff",
+      "titel": "5-Fluorouracil",
+      "inci": "nicht vergeben",
+      "stoffgruppe": "Arzneistoff (in Kosmetik verboten)",
+      "funktionen": [
+        "arzneistoff"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Zytostatikum gegen aktinische Keratosen; in Kosmetika verboten (Anhang II Nr. 190).",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei fluorouracil.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/fluorouracil.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:formaldehyd-abspalter",
+      "typ": "wirkstoff",
+      "titel": "Formaldehydabspalter (DMDM Hydantoin, Imidazolidinyl Urea, Diazolidinyl Urea)",
+      "inci": "DMDM HYDANTOIN, IMIDAZOLIDINYL UREA, DIAZOLIDINYL UREA",
+      "stoffgruppe": "Konservierungsstoffe (Formaldehydabspalter)",
+      "funktionen": [
+        "konservierend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "hoch",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Konservierer, die Formaldehyd freisetzen; Kennzeichnungspflicht ab Schwellenwert, relevantes Kontaktallergen.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei formaldehyd-abspalter.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/formaldehyd-abspalter.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:genistein-daidzein",
       "typ": "wirkstoff",
-      "titel": "Genistein / Daidzein",
+      "titel": "Genistein und Daidzein",
       "inci": "GENISTEIN, DAIDZEIN",
       "stoffgruppe": "Isoflavone (Phytoöstrogene)",
       "funktionen": [
@@ -1249,13 +2099,23 @@
       "evidenz": "nicht-bewertet",
       "impact": "mittel",
       "regulierung": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "recht:eu-kosmetikverordnung"
       ],
       "kurz": "Soja-Isoflavone; Höchstwerte 0,007 % (Genistein) bzw. 0,02 % (Daidzein) nach SCCS/1641/22.",
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei genistein-daidzein.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
         }
       ],
       "status": "entwurf",
@@ -1308,9 +2168,41 @@
       ]
     },
     {
+      "id": "wirkstoff:homosalat",
+      "typ": "wirkstoff",
+      "titel": "Homosalate",
+      "inci": "HOMOSALATE",
+      "stoffgruppe": "UV-Filter (Salicylat)",
+      "funktionen": [
+        "uv-b-filter"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "hoch",
+      "regulierung": [
+        "recht:anhang-vi-uv-filter"
+      ],
+      "kurz": "UV-B-Filter, seit VO (EU) 2022/2195 nur noch in Gesichtsprodukten bis 7,34 % zulässig, nicht in Treibgassprays.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei homosalat.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/homosalat.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:hyaluronsaeure",
       "typ": "wirkstoff",
-      "titel": "Hyaluronsäure",
+      "titel": "Hyaluronsäure (Hyaluronic Acid / Sodium Hyaluronate)",
       "aliase": [
         "Natriumhyaluronat"
       ],
@@ -1336,8 +2228,15 @@
       ],
       "quellen": [
         {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei hyaluronsaeure.md"
+        },
+        {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort Hyaluronsäure"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
@@ -1350,7 +2249,7 @@
     {
       "id": "wirkstoff:hydrochinon",
       "typ": "wirkstoff",
-      "titel": "Hydrochinon",
+      "titel": "Hydrochinon (Hydroquinone)",
       "inci": "HYDROQUINONE",
       "stoffgruppe": "Phenol (Depigmentierungsmittel)",
       "funktionen": [
@@ -1365,20 +2264,154 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei hydrochinon.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
       "pfad": "data/wirkstoffe/hydrochinon.md",
       "verweise_von": [
         "wirkstoff:arbutin"
       ]
     },
     {
+      "id": "wirkstoff:ipbc",
+      "typ": "wirkstoff",
+      "titel": "Iodopropynyl Butylcarbamate (IPBC)",
+      "inci": "IODOPROPYNYL BUTYLCARBAMATE",
+      "stoffgruppe": "Konservierungsstoff (Carbamat)",
+      "funktionen": [
+        "konservierend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Fungizider Konservierungsstoff mit engen Grenzen (Anhang V); nicht in Lippen- und Kinderprodukten.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei ipbc.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/ipbc.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:isothiazolinone",
+      "typ": "wirkstoff",
+      "titel": "Isothiazolinone (Methylisothiazolinone, MCI/MI)",
+      "inci": "METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+      "stoffgruppe": "Konservierungsstoffe (Isothiazolinone)",
+      "funktionen": [
+        "konservierend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "hoch",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Starke Kontaktallergene; MI in Leave-on verboten, MCI/MI nur noch in Rinse-off-Produkten.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei isothiazolinone.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/isothiazolinone.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:ketoconazol",
+      "typ": "wirkstoff",
+      "titel": "Ketoconazol",
+      "inci": "nicht vergeben",
+      "stoffgruppe": "Arzneistoff (in Kosmetik verboten)",
+      "funktionen": [
+        "arzneistoff"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Antimykotikum gegen Schuppen und seborrhoisches Ekzem; in Kosmetika verboten (Anhang II Nr. 1528).",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei ketoconazol.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/ketoconazol.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:kojisaeure",
       "typ": "wirkstoff",
-      "titel": "Kojisäure",
+      "titel": "Kojisäure (Kojic Acid)",
       "inci": "KOJIC ACID",
       "stoffgruppe": "Pilzmetabolit (Tyrosinasehemmer)",
       "funktionen": [
@@ -1387,7 +2420,8 @@
       "evidenz": "nicht-bewertet",
       "impact": "mittel",
       "regulierung": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "recht:eu-kosmetikverordnung"
       ],
       "kurz": "Aufhellender Wirkstoff; seit VO (EU) 2024/996 max. 1 % in Gesichts- und Handprodukten.",
       "verwandt": [
@@ -1396,7 +2430,16 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei kojisaeure.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
         }
       ],
       "status": "entwurf",
@@ -1408,9 +2451,204 @@
       ]
     },
     {
+      "id": "wirkstoff:menthol",
+      "typ": "wirkstoff",
+      "titel": "Menthol",
+      "inci": "MENTHOL",
+      "stoffgruppe": "Terpenalkohol",
+      "funktionen": [
+        "kuehlend",
+        "aroma"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-iii-duftstoff-allergene"
+      ],
+      "kurz": "Kühlender Aromastoff in Mund- und Hautpflege; seit VO (EU) 2023/1545 kennzeichnungspflichtiges Duftstoff-Allergen.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei menthol.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/menthol.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:methotrexat",
+      "typ": "wirkstoff",
+      "titel": "Methotrexat",
+      "inci": "nicht vergeben",
+      "stoffgruppe": "Arzneistoff (in Kosmetik verboten)",
+      "funktionen": [
+        "arzneistoff"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Immunsuppressivum zur Psoriasis-Therapie; in Kosmetika verboten (Anhang II Nr. 6).",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei methotrexat.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/methotrexat.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:methylbenzyliden-campher",
+      "typ": "wirkstoff",
+      "titel": "4-Methylbenzylidene Camphor (4-MBC, Enzacamen)",
+      "inci": "4-METHYLBENZYLIDENE CAMPHOR",
+      "stoffgruppe": "UV-Filter (Campher-Derivat)",
+      "funktionen": [
+        "uv-b-filter"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "hoch",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-vi-uv-filter",
+        "recht:anhang-ii-arzneistoffe",
+        "recht:vo-2024-996"
+      ],
+      "kurz": "Früherer UV-B-Filter (Enzacamen), wegen hormoneller Wirkung EU-weit verboten (Anhang II Nr. 1730).",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei methylbenzyliden-campher.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/methylbenzyliden-campher.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:minoxidil",
+      "typ": "wirkstoff",
+      "titel": "Minoxidil",
+      "inci": "nicht vergeben",
+      "stoffgruppe": "Arzneistoff (in Kosmetik verboten)",
+      "funktionen": [
+        "arzneistoff"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Arzneistoff gegen Haarausfall; in Kosmetika verboten (Anhang II Nr. 372).",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei minoxidil.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/minoxidil.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:natriumfluorid",
+      "typ": "wirkstoff",
+      "titel": "Sodium Fluoride",
+      "inci": "SODIUM FLUORIDE",
+      "stoffgruppe": "Fluorid",
+      "funktionen": [
+        "kariesprophylaxe",
+        "mundpflege"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Fluoridverbindung zur Remineralisation in Zahnpasta; Fluoridgehalt in Anhang III begrenzt.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei natriumfluorid.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/natriumfluorid.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:niacinamid",
       "typ": "wirkstoff",
-      "titel": "Niacinamid",
+      "titel": "Niacinamid (Nicotinamid)",
       "aliase": [
         "Nicotinamid",
         "Vitamin B3"
@@ -1441,7 +2679,7 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Rechercheberichte 2026-10-20 bis 2026-10-28"
+          "fundstelle": "Wirkstoffdatei niacinamid.md"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
@@ -1450,6 +2688,9 @@
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
           "fundstelle": "Kap. 4 Wirkstoffe"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
@@ -1458,9 +2699,117 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:o-phenylphenol",
+      "typ": "wirkstoff",
+      "titel": "o-Phenylphenol",
+      "inci": "O-PHENYLPHENOL",
+      "stoffgruppe": "Konservierungsstoff (Phenol)",
+      "funktionen": [
+        "konservierend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Phenolischer Konservierungsstoff, in Anhang V mit Höchstkonzentration geregelt.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei o-phenylphenol.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/o-phenylphenol.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:octocrylen",
+      "typ": "wirkstoff",
+      "titel": "Octocrylene",
+      "inci": "OCTOCRYLENE",
+      "stoffgruppe": "UV-Filter (Cyanoacrylat)",
+      "funktionen": [
+        "uv-b-filter",
+        "photostabilisator"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:anhang-vi-uv-filter"
+      ],
+      "kurz": "UV-B-Filter und Photostabilisator für Avobenzon; Sicherheitsdebatte wegen Benzophenon-Bildung, Grenzwerte seit 2022.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei octocrylen.md"
+        },
+        {
+          "id": "quelle:sccs"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/octocrylen.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:paba-derivate",
+      "typ": "wirkstoff",
+      "titel": "PABA und PABA-Derivate",
+      "inci": "PABA, PEG-25 PABA, ETHYLHEXYL DIMETHYL PABA",
+      "stoffgruppe": "UV-Filter (Aminobenzoesäure)",
+      "funktionen": [
+        "uv-b-filter"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "hoch",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-vi-uv-filter",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "PABA selbst ist verboten; PEG-25 PABA und Padimate O sind weiterhin in Anhang VI gelistet, aber kaum noch üblich.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei paba-derivate.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/paba-derivate.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:panthenol",
       "typ": "wirkstoff",
-      "titel": "Panthenol",
+      "titel": "Panthenol / Dexpanthenol (Provitamin B5)",
       "aliase": [
         "Dexpanthenol",
         "Provitamin B5"
@@ -1484,12 +2833,24 @@
       ],
       "quellen": [
         {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei panthenol.md"
+        },
+        {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort Panthenol"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
+      "evidenz": "schwach",
+      "impact": "niedrig",
+      "verwandt": [
+        "wirkstoff:ceramid-np"
+      ],
       "pfad": "data/wirkstoffe/panthenol.md",
       "verweise_von": [
         "haut:rosazea",
@@ -1499,7 +2860,7 @@
     {
       "id": "wirkstoff:parabene",
       "typ": "wirkstoff",
-      "titel": "Parabene",
+      "titel": "Parabene (Ester der 4-Hydroxybenzoesäure)",
       "inci": "METHYLPARABEN, ETHYLPARABEN, PROPYLPARABEN, BUTYLPARABEN",
       "stoffgruppe": "Konservierungsstoffe",
       "funktionen": [
@@ -1508,13 +2869,23 @@
       "evidenz": "moderat",
       "impact": "hoch",
       "regulierung": [
-        "recht:eu-kosmetikverordnung"
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
       ],
       "kurz": "Konservierungsstoffe mit gut dokumentiertem Rechtsstatus; Butylparaben bei Kindern in Kombination (0,14 %) laut SCCS nicht sicher, Verschärfung im Entwurf.",
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei parabene.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
         }
       ],
       "status": "entwurf",
@@ -1523,9 +2894,120 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:peptide",
+      "typ": "wirkstoff",
+      "titel": "Peptide (Signal-, Carrier-, Neurotransmitter-Peptide, Kollagenpeptide)",
+      "inci": "uneinheitlich",
+      "stoffgruppe": "Peptide",
+      "funktionen": [
+        "anti-aging",
+        "feuchtigkeitsbindend"
+      ],
+      "evidenz": "schwach",
+      "impact": "mittel",
+      "kurz": "Signal-, Carrier- und Neurotransmitter-Peptide sowie Kollagenpeptide; starke Vermarktung, Evidenz schwach und oft herstellerfinanziert.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei peptide.md"
+        },
+        {
+          "id": "quelle:pubmed"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/peptide.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:phmb",
+      "typ": "wirkstoff",
+      "titel": "Polyaminopropyl Biguanide (PHMB)",
+      "inci": "POLYAMINOPROPYL BIGUANIDE",
+      "stoffgruppe": "Biguanid",
+      "funktionen": [
+        "konservierend",
+        "antimikrobiell"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "mittel",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Konservierungsstoff und Antiseptikum; nach SCCS-Bewertung stark eingeschränkt (Anhang V).",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei phmb.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/phmb.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:resorcin",
+      "typ": "wirkstoff",
+      "titel": "Resorcin",
+      "inci": "RESORCINOL",
+      "stoffgruppe": "Phenol",
+      "funktionen": [
+        "keratolytisch",
+        "haarfaerbend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Keratolytikum laut Lehrbuch; kosmetisch vor allem in Oxidationshaarfarben, dort begrenzt und kennzeichnungspflichtig.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei resorcin.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/resorcin.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:retinol",
       "typ": "wirkstoff",
-      "titel": "Retinol",
+      "titel": "Retinol (Vitamin A)",
       "aliase": [
         "Vitamin A"
       ],
@@ -1560,17 +3042,39 @@
       ],
       "quellen": [
         {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei retinol.md"
+        },
+        {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort Retinol"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pruefen_bis": "2027-05-01",
+      "verwandt": [
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat"
+      ],
       "pfad": "data/wirkstoffe/retinol.md",
       "verweise_von": [
         "recht:vo-2024-996",
-        "wirkstoff:retinyl-acetat"
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:tretinoin"
       ]
     },
     {
@@ -1585,7 +3089,8 @@
       "evidenz": "nicht-bewertet",
       "impact": "hoch",
       "regulierung": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "recht:eu-kosmetikverordnung"
       ],
       "kurz": "Retinylester; gleiche Grenzwerte wie Retinol (Anhang III Nr. 376, als Retinoläquivalent).",
       "verwandt": [
@@ -1594,20 +3099,82 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei retinyl-acetat.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/retinyl-acetat.md",
       "verweise_von": [
+        "recht:vo-2024-996",
+        "wirkstoff:retinol",
+        "wirkstoff:retinyl-palmitat"
+      ]
+    },
+    {
+      "id": "wirkstoff:retinyl-palmitat",
+      "typ": "wirkstoff",
+      "titel": "Retinyl Palmitate",
+      "inci": "RETINYL PALMITATE",
+      "stoffgruppe": "Vitamin-A-Ester (Retinoid)",
+      "funktionen": [
+        "anti-aging"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "hoch",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
         "recht:vo-2024-996"
+      ],
+      "kurz": "Retinylester; zusammen mit Retinol und Retinyl Acetate auf 0,05 % RE (Körperlotion) bzw. 0,3 % RE begrenzt.",
+      "verwandt": [
+        "wirkstoff:retinol",
+        "wirkstoff:retinyl-acetat"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei retinyl-palmitat.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/retinyl-palmitat.md",
+      "verweise_von": [
+        "wirkstoff:retinol"
       ]
     },
     {
       "id": "wirkstoff:salicylsaeure",
       "typ": "wirkstoff",
-      "titel": "Salicylsäure",
+      "titel": "Salicylic Acid (Salicylsäure)",
       "aliase": [
         "BHA",
         "Beta-Hydroxysäure"
@@ -1644,12 +3211,33 @@
       ],
       "quellen": [
         {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei salicylsaeure.md"
+        },
+        {
           "id": "quelle:ellsaesser-koerperpflegekunde",
           "fundstelle": "Kap. 4 Wirkstoffe"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
       "pfad": "data/wirkstoffe/salicylsaeure.md",
       "verweise_von": [
         "behandlung:ausreinigung",
@@ -1659,9 +3247,101 @@
       ]
     },
     {
+      "id": "wirkstoff:strontiumchlorid",
+      "typ": "wirkstoff",
+      "titel": "Strontiumchlorid",
+      "inci": "STRONTIUM CHLORIDE",
+      "stoffgruppe": "Mineralsalz",
+      "funktionen": [
+        "desensibilisierend",
+        "mundpflege"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Gegen empfindliche Zahnhälse in Zahnpasta; Strontiumgehalt in Anhang III begrenzt.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei strontiumchlorid.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/strontiumchlorid.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:titandioxid",
+      "typ": "wirkstoff",
+      "titel": "Titanium Dioxide (Titandioxid)",
+      "inci": "TITANIUM DIOXIDE",
+      "stoffgruppe": "Mineralischer UV-Filter",
+      "funktionen": [
+        "uv-b-filter",
+        "uv-a-filter",
+        "farbpigment"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "kurz": "Mineralischer UV-Filter (Anhang VI, max. 25 %), auch in Nanoform mit Auflagen; nicht in Sprays zum Einatmen.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei titandioxid.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/titandioxid.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:tranexamsaeure",
       "typ": "wirkstoff",
-      "titel": "Tranexamsäure",
+      "titel": "Tranexamsäure (TXA)",
       "inci": "TRANEXAMIC ACID",
       "stoffgruppe": "Aminosäurederivat",
       "funktionen": [
@@ -1673,12 +3353,103 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei tranexamsaeure.md"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/tranexamsaeure.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:tretinoin",
+      "typ": "wirkstoff",
+      "titel": "Tretinoin (Vitamin-A-Säure)",
+      "inci": "nicht vergeben",
+      "stoffgruppe": "Arzneistoff (in Kosmetik verboten)",
+      "funktionen": [
+        "arzneistoff"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Vitamin-A-Säure gegen Akne und Photoaging; als Arzneistoff in Kosmetika verboten (Anhang II Nr. 375).",
+      "verwandt": [
+        "wirkstoff:retinol"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei tretinoin.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/tretinoin.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:trichloressigsaeure",
+      "typ": "wirkstoff",
+      "titel": "Trichloressigsäure (TCA)",
+      "inci": "nicht vergeben",
+      "stoffgruppe": "Arzneistoff (in Kosmetik verboten)",
+      "funktionen": [
+        "arzneistoff",
+        "keratolytisch"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "kurz": "Säure für mitteltiefe ärztliche Peelings; in Kosmetika verboten (Anhang II Nr. 10).",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei trichloressigsaeure.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/trichloressigsaeure.md",
       "verweise_von": []
     },
     {
@@ -1694,7 +3465,8 @@
       "evidenz": "nicht-bewertet",
       "impact": "mittel",
       "regulierung": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "recht:eu-kosmetikverordnung"
       ],
       "kurz": "Konservierungsstoff, Anhang V Nr. 23, max. 0,2 % (SCCS/1643/22).",
       "verwandt": [
@@ -1703,14 +3475,24 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei triclocarban.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/triclocarban.md",
       "verweise_von": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "wirkstoff:triclosan"
       ]
     },
     {
@@ -1726,17 +3508,36 @@
       "evidenz": "schwach",
       "impact": "mittel",
       "regulierung": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "recht:eu-kosmetikverordnung"
       ],
       "kurz": "Antimikrobieller Konservierungsstoff; durch VO (EU) 2024/996 weiter eingeschränkt, Sicherheitsdaten überwiegend Umwelt/Tier.",
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei triclosan.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:pubmed"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
+      "verwandt": [
+        "wirkstoff:triclocarban"
+      ],
       "pfad": "data/wirkstoffe/triclosan.md",
       "verweise_von": [
         "recht:vo-2024-996",
@@ -1789,9 +3590,55 @@
       ]
     },
     {
+      "id": "wirkstoff:wasserstoffperoxid",
+      "typ": "wirkstoff",
+      "titel": "Hydrogen Peroxide (Wasserstoffperoxid)",
+      "inci": "HYDROGEN PEROXIDE",
+      "stoffgruppe": "Oxidationsmittel",
+      "funktionen": [
+        "bleichend",
+        "haarfaerbend",
+        "zahnaufhellend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Oxidationsmittel für Haarbleiche, Haarfarben und Zahnaufhellung; Konzentrationen in Anhang III streng begrenzt.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei wasserstoffperoxid.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/wasserstoffperoxid.md",
+      "verweise_von": []
+    },
+    {
       "id": "wirkstoff:xep-716-miniprotein",
       "typ": "wirkstoff",
-      "titel": "XEP-716 Miniprotein",
+      "titel": "XEP-716 Miniprotein (TGF-β-Mimetikum)",
       "inci": "nicht vergeben",
       "stoffgruppe": "Peptid/Miniprotein (TGF-β-Mimetikum)",
       "funktionen": [
@@ -1803,12 +3650,107 @@
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "fundstelle": "Wirkstoffdatei xep-716-miniprotein.md"
+        },
+        {
+          "id": "quelle:pubmed"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/xep-716-miniprotein.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:zink",
+      "typ": "wirkstoff",
+      "titel": "Zink",
+      "inci": "ZINC SULFATE, ZINC GLUCONATE u. a.",
+      "stoffgruppe": "Mineralstoff (Zinksalze)",
+      "funktionen": [
+        "antimikrobiell",
+        "adstringierend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Wasserlösliche Zinksalze; in Anhang III Nr. 24 vor allem für Mund- und Zahnpflege begrenzt.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei zink.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/zink.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:zinkoxid",
+      "typ": "wirkstoff",
+      "titel": "Zinkoxid",
+      "inci": "ZINC OXIDE",
+      "stoffgruppe": "Mineralischer UV-Filter",
+      "funktionen": [
+        "uv-a-filter",
+        "uv-b-filter",
+        "hautschuetzend"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "kurz": "Mineralischer Breitband-UV-Filter (Anhang VI, max. 25 %) und Wundschutz; Nanoform mit Auflagen.",
+      "quellen": [
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Wirkstoffdatei zinkoxid.md"
+        },
+        {
+          "id": "quelle:eur-lex"
+        },
+        {
+          "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie"
+        },
+        {
+          "id": "quelle:tadros-formulierungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/zinkoxid.md",
       "verweise_von": []
     }
   ]

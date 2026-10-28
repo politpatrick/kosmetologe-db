@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-28 – Recherchierte Wirkstoffdateien
+- 59 Wirkstoffdateien aus dem claude.ai-Projekt übernommen: 36 neue Einträge, 23 bestehende mit dem Projekttext zusammengeführt (54 → 90 Einträge)
+- Dateiverweise (`foo.md`) in Eintrags-IDs umgewandelt; Rechts- und Quellenbezüge automatisch verknüpft
+
 ## 2026-10-28 – Import aus dem claude.ai-Projekt
 - Rechtsauswertungen Anhang II (Arzneistoffe), III (Duftstoff-Allergene), VI (UV-Filter); VO (EU) 2024/996
 - 18 recherchierte Wirkstoffe aus der Impact-Liste (Abschnitt A); Felder `evidenz` und `impact`
