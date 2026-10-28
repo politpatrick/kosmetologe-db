@@ -8,7 +8,12 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Projektanweisungen des claude.ai-Projekts als `kontext:`-Einträge übernehmen (Evidenzvorgabe, Tonalität, Design)
 - [ ] Rechtsstand Anhang III Nr. 334 und 339: abgeschnittene Stoffnamen nachtragen
 - [ ] Hauttypen vervollständigen: normale Haut, Seborrhoe (oleosa/sicca), sensible Haut, reife Haut
-- [ ] Effloreszenzenlehre komplett (Primär- und Sekundäreffloreszenzen, Kap. 2 Konrad)
+- [ ] Effloreszenzenlehre komplett (Herrmann/Trinkkeller Kap. 2): Macula, Papel, Pustel, Zyste erledigt; offen Bläschen, Quaddel, Schuppe, Kruste, Erosion, Rhagade, Ulcus, Narbe/Keloid
+- [x] Übertrag Runde 1: Herrmann/Trinkkeller → 19 `haut:`-Einträge (2026-10-28)
+- [ ] Übertrag Runde 2: Herrmann/Trinkkeller Rest (Kap. 2, 8, 10, 12, 14, 16, 19–21) → `haut:`
+- [ ] Übertrag Runde 3: Ellsässer → `behandlung:` und `begriff:` (Hautanalyse, Massage, Gesichtsbehandlung, Hygiene)
+- [ ] Übertrag Runde 4: Tadros → `formulierung:` (Gele, Tensidsysteme, Lipogele, Stabilität, Konservierung)
+- [ ] Übertrag Runde 5: Springer-Lexikon → `begriff:` (Glossar, Aliase für bestehende Einträge)
 - [ ] Sonnenschutz-Grundlagen als Begriffe/Formulierung (LSF, UVA-Kennzeichnung, Photostabilität)
 - [ ] Konservierungsstoffe (Anhang V) – häufigste 10
 - [ ] Tenside: Klassen (anionisch, amphoter, nichtionisch) und Beispiele

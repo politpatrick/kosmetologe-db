@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 1 (Herrmann/Trinkkeller → haut)
+- 19 neue `haut:`-Einträge in eigenen Worten mit Kapitel- und Seitenangabe: Effloreszenzen (Macula, Pustel, Zyste), Pigment (Melasma, PIH, Vitiligo, Pigmentnaevus, Melanom), Verhornung (follikuläre Hyperkeratose, aktinische und seborrhoische Keratose, Milien), Talgdrüse (Talgdrüsenhyperplasie, periorale Dermatitis), Ekzeme (Kontakt, seborrhoisch, Neurodermitis), Gefäße (Teleangiektasien), Herpes simplex
+- Akne, Rosazea, Papel: Fundstellen mit Seiten, Verknüpfungen ergänzt
+- Eigene Ergänzungen, die nicht aus der Quelle stammen, sind im Text als solche markiert
+
 ## 2026-10-28 – Recherchierte Wirkstoffdateien
 - 59 Wirkstoffdateien aus dem claude.ai-Projekt übernommen: 36 neue Einträge, 23 bestehende mit dem Projekttext zusammengeführt (54 → 90 Einträge)
 - Dateiverweise (`foo.md`) in Eintrags-IDs umgewandelt; Rechts- und Quellenbezüge automatisch verknüpft
