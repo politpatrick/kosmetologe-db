@@ -26,3 +26,6 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] `recht:nisv` angelegt (2026-10-28); offen: Nadelepilation und Iontophorese einordnen — (Laser, IPL, Hochfrequenz; Arztvorbehalt und Fachkunde) und mit Laser-, Haarentfernungs- und Narbeneinträgen verknüpfen
 - [x] `recht:taetowiermittel` angelegt (2026-10-28); offen: Grenzwerte Eintrag 75 am EUR-Lex-Text prüfen — (Tätowiermittel-Verordnung, REACH-Beschränkung Tätowierfarben) für Permanent Make-up
 - [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11), Kap. 30–31 (Pflege im Alter, Botulinum, Filler, Microneedling, Kryolipolyse)
+- [x] Übertrag Runde 7: Ellsässer Kap. 4 → 12 Wirkstoffe aus Impact-Liste Abschnitt B (2026-10-28)
+- [ ] Ellsässer Kap. 4 offen: Pyridoxin, Carotinoide, Glycerylglucoside, Totes-Meer-Salz, Kristall-Mittagsblume, Propolis, Selen, Adenosin, Photolyase, SOD, α-Liponsäure, Polyphenole/Resveratrol, eigene Datei `madecassosid` (laut Impact-Liste)
+- [ ] Studienrecherche (PubMed/SCCS) für die 12 Lehrbuch-Wirkstoffe aus Runde 7 nachholen und `evidenz`/`impact` setzen
