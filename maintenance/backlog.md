@@ -31,4 +31,4 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] Studienrecherche (PubMed) für die 12 Lehrbuch-Wirkstoffe aus Runde 7 (2026-10-28); offen: SCCS/CosIng, Kamille-Allergie, topisches Q10
 - [ ] Microneedling: rechtliche Abgrenzung Kosmetik/Heilkunde nach Nadellänge klären; Kryolipolyse: Medizinprodukte- und Berufsrecht prüfen
 - [x] Übertrag Runde 10: Ellsässer Kap. 6 und 10 → 4 Begriffe, Gel, Deo (2026-10-28)
-- [ ] SCCS-Bewertung Aluminiumverbindungen und EU-Beschränkung D4/D5/D6 (REACH) als Rechtseinträge prüfen
+- [x] SCCS Aluminium und REACH D4/D5/D6 angelegt (2026-10-28); offen: SCCS-Tabelle 1 (Antitranspirant-Höchstwerte) auslesen, Übernahme in Anhang III prüfen, EUR-Lex-Text 2024/1328 gegenlesen

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 213,
+  "anzahl": 215,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -542,7 +542,8 @@
       "verwandt": [
         "begriff:paraffine",
         "formulierung:haarspuelung",
-        "formulierung:emulsion-ow"
+        "formulierung:emulsion-ow",
+        "recht:reach-siloxane"
       ],
       "quellen": [
         {
@@ -554,7 +555,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/silikone.md",
       "verweise_von": [
-        "begriff:paraffine"
+        "begriff:paraffine",
+        "recht:reach-siloxane"
       ]
     },
     {
@@ -1218,7 +1220,8 @@
       "pfad": "data/behandlungen/iontophorese.md",
       "verweise_von": [
         "formulierung:deodorant",
-        "recht:nisv"
+        "recht:nisv",
+        "wirkstoff:aluminiumsalze"
       ]
     },
     {
@@ -1663,7 +1666,8 @@
       "verwandt": [
         "haut:hyperhidrose",
         "behandlung:iontophorese",
-        "recht:anhang-iii-duftstoff-allergene"
+        "recht:anhang-iii-duftstoff-allergene",
+        "wirkstoff:aluminiumsalze"
       ],
       "quellen": [
         {
@@ -1679,7 +1683,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/formulierungen/deodorant.md",
       "verweise_von": [
-        "haut:hyperhidrose"
+        "haut:hyperhidrose",
+        "wirkstoff:aluminiumsalze"
       ]
     },
     {
@@ -1910,7 +1915,8 @@
       "pfad": "data/formulierungen/haarspuelung.md",
       "verweise_von": [
         "begriff:silikone",
-        "formulierung:shampoo"
+        "formulierung:shampoo",
+        "recht:reach-siloxane"
       ]
     },
     {
@@ -3418,7 +3424,8 @@
       "verwandt": [
         "haut:tinea-pedis",
         "haut:pityriasis-versicolor",
-        "formulierung:deodorant"
+        "formulierung:deodorant",
+        "wirkstoff:aluminiumsalze"
       ],
       "quellen": [
         {
@@ -3434,7 +3441,8 @@
         "behandlung:iontophorese",
         "formulierung:deodorant",
         "haut:pityriasis-versicolor",
-        "haut:tinea-pedis"
+        "haut:tinea-pedis",
+        "wirkstoff:aluminiumsalze"
       ]
     },
     {
@@ -4831,6 +4839,7 @@
         "haut:sebostase",
         "wirkstoff:allantoin",
         "wirkstoff:aloe-barbadensis",
+        "wirkstoff:aluminiumsalze",
         "wirkstoff:bisabolol",
         "wirkstoff:centella-asiatica",
         "wirkstoff:kamille",
@@ -5529,6 +5538,7 @@
         "wirkstoff:aha",
         "wirkstoff:allantoin",
         "wirkstoff:aloe-barbadensis",
+        "wirkstoff:aluminiumsalze",
         "wirkstoff:ammoniumthioglykolat",
         "wirkstoff:benzalkoniumchlorid",
         "wirkstoff:benzylalkohol",
@@ -5595,6 +5605,7 @@
         "recht:anhang-iii-duftstoff-allergene",
         "recht:anhang-vi-uv-filter",
         "recht:eu-kosmetikverordnung",
+        "recht:reach-siloxane",
         "recht:taetowiermittel",
         "recht:vo-2024-996",
         "wirkstoff:3-benzyliden-campher",
@@ -5777,6 +5788,7 @@
         "haut:zeckenstich",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
+        "wirkstoff:aluminiumsalze",
         "wirkstoff:ammoniumthioglykolat",
         "wirkstoff:azelainsaeure",
         "wirkstoff:fluorouracil",
@@ -5961,6 +5973,7 @@
         "kontext:recherche-methodik",
         "recht:vo-2024-996",
         "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:aluminiumsalze",
         "wirkstoff:ammoniumthioglykolat",
         "wirkstoff:arbutin",
         "wirkstoff:avobenzon",
@@ -6416,6 +6429,7 @@
         "recht:anhang-iii-duftstoff-allergene",
         "recht:anhang-vi-uv-filter",
         "recht:kosmetikv-2014",
+        "recht:reach-siloxane",
         "recht:taetowiermittel",
         "recht:vo-2024-996",
         "wirkstoff:3-benzyliden-campher",
@@ -6573,6 +6587,50 @@
         "behandlung:narbenbehandlung",
         "behandlung:permanent-make-up",
         "recht:taetowiermittel"
+      ]
+    },
+    {
+      "id": "recht:reach-siloxane",
+      "typ": "recht",
+      "titel": "REACH-Beschränkung der zyklischen Siloxane D4, D5 und D6",
+      "aliase": [
+        "D4",
+        "D5",
+        "D6",
+        "Cyclotetrasiloxane",
+        "Cyclopentasiloxane",
+        "Cyclohexasiloxane",
+        "REACH Anhang XVII Eintrag 70"
+      ],
+      "norm": "VO (EU) 2024/1328",
+      "geltung": "EU",
+      "fundstelle_amtlich": "ABl. L, 2024/1328",
+      "stand": "Änderung von REACH Anhang XVII Eintrag 70; abwaschbare Kosmetik ab 6.6.2026, Leave-on-Kosmetik ab 6.6.2027",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1328/oj",
+      "kurz": "Zyklische Silikone D4, D5 und D6 dürfen ab 0,1 % nicht mehr in Kosmetik in Verkehr gebracht werden – für abwaschbare Produkte seit 6.6.2026, für Leave-on-Produkte ab 6.6.2027.",
+      "tags": [
+        "recht",
+        "eu",
+        "silikone",
+        "umwelt"
+      ],
+      "verwandt": [
+        "begriff:silikone",
+        "formulierung:haarspuelung",
+        "recht:eu-kosmetikverordnung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "VO (EU) 2024/1328 (Text nicht direkt gelesen)"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pruefen_bis": "2027-04-30",
+      "pfad": "data/recht/reach-siloxane.md",
+      "verweise_von": [
+        "begriff:silikone"
       ]
     },
     {
@@ -6882,6 +6940,67 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/aloe-barbadensis.md",
       "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:aluminiumsalze",
+      "typ": "wirkstoff",
+      "titel": "Aluminiumsalze (Antitranspirant-Wirkstoffe)",
+      "aliase": [
+        "Aluminium Chlorohydrate",
+        "Aluminiumchlorid",
+        "Aluminiumhydroxychlorid",
+        "Aluminium Zirconium Tetrachlorohydrex GLY",
+        "Alaun"
+      ],
+      "inci": "ALUMINUM CHLOROHYDRATE, ALUMINUM CHLORIDE, ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY u. a.",
+      "stoffgruppe": "Metallsalz (Antitranspirant)",
+      "funktionen": [
+        "schweißhemmend",
+        "desodorierend",
+        "adstringierend"
+      ],
+      "geeignet_fuer": [
+        "haut:hyperhidrose"
+      ],
+      "vorsicht_bei": [
+        "frisch rasierte oder verletzte Haut",
+        "haut:sensible-haut"
+      ],
+      "evidenz": "nicht-bewertet",
+      "impact": "hoch",
+      "kurz": "Wirkstoffe der Antitranspirantien; verengen die Schweißdrüsenausgänge. Laut SCCS (2024) in Kosmetika bis zu festgelegten Höchstwerten sicher, Gesamtaufnahme aus Kosmetik und Nahrung kann aber Grenzwerte erreichen.",
+      "tags": [
+        "deo",
+        "schweiss",
+        "sicherheit"
+      ],
+      "verwandt": [
+        "formulierung:deodorant",
+        "haut:hyperhidrose",
+        "behandlung:iontophorese",
+        "quelle:sccs"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:sccs",
+          "fundstelle": "SCCS/1662/23, Final Opinion vom 27.3.2024 (Submission IV), Abstract und Tabelle 2"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 10.3.1, S. 287–288"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 10.1, S. 88; Kap. 27.13, S. 234"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/aluminiumsalze.md",
+      "verweise_von": [
+        "formulierung:deodorant",
+        "haut:hyperhidrose"
+      ]
     },
     {
       "id": "wirkstoff:ammoniumthioglykolat",

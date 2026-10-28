@@ -16,6 +16,7 @@ verwandt:
 - begriff:paraffine
 - formulierung:haarspuelung
 - formulierung:emulsion-ow
+- recht:reach-siloxane
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 6.3.6, S. 166–167
@@ -29,5 +30,5 @@ längere reichen von flüssigen Silikonölen bis zu wachsartigen Formen. Das hä
 ## Eigenschaften (teils eigene Ergänzung)
 - Leicht verteilbar, nicht klebrig, bilden einen dünnen, wasserdampfdurchlässigen Film.
 - Glätten die Haaroberfläche, erleichtern das Kämmen und verleihen Glanz.
-- Gute Hautverträglichkeit; Diskussionen betreffen vor allem Umweltaspekte (Abbaubarkeit, EU-Beschränkung der zyklischen
-  Silikone D4, D5, D6 in abwaschbaren Produkten) – beim Review mit Primärquelle belegen.
+- Gute Hautverträglichkeit; Diskussionen betreffen vor allem Umweltaspekte. Die zyklischen Silikone D4, D5 und D6 sind nach REACH
+  beschränkt, siehe `recht:reach-siloxane`.
