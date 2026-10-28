@@ -12,7 +12,6 @@ auflage: 3. Auflage
 isbn: 978-3-662-59999-0
 doi: 10.1007/978-3-662-60000-9
 lokal_zusammenfassung: privat/Koerperpflegekunde_und_Kosmetik_Ellsaesser_2020.md
-seitenversatz: 22
 kurz: Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.
 tags: [lehrbuch, pta]
 status: geprueft

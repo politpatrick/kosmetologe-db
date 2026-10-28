@@ -26,7 +26,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 15.3.4, S. 134–135
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Warnzeichen (nach der Quelle, eigene Zusammenfassung)

@@ -8,7 +8,7 @@ aliase:
 kategorie: hautzustand
 merkmale:
 - flächige braune Flecken
-- meist symmetrisch an Stirn, Wangen, Oberlippe
+- meist symmetrisch im Gesicht
 - v. a. Frauen zwischen 20 und 40
 kosmetisch_behandelbar: eingeschraenkt
 aerztlich_abklaeren:
@@ -28,8 +28,9 @@ verwandt:
 - behandlung:chemisches-peeling
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
-  fundstelle: Kap. 7.2.2, S. 71–72
-status: entwurf
+  fundstelle: Kap. 7.2.2, S. 71
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Einordnung
@@ -42,3 +43,7 @@ wie Bergamotteöl in Verbindung mit Sonne.
 - Aufhellende Wirkstoffe und oberflächliche Peelings sind möglich, Camouflage überbrückt.
 - Laser und stärkere Peelings sind ärztliche Leistungen.
 - Wirkstoffzuordnung unter `verwandt` ist eigene Ergänzung; Evidenz in den Wirkstoffeinträgen prüfen.
+
+## Hinweis zur Quelle
+Die Quelle nennt für die kosmetisch ausgelöste Form vaselinhaltige Cremes als häufigsten Auslöser. Das ist fachlich umstritten
+und wurde hier nicht übernommen.

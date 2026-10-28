@@ -25,7 +25,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.6, S. 40–41; Kap. 9.1.1, S. 80; Kap. 15.1.9, S. 129
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Einordnung
