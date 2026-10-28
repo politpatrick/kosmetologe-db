@@ -25,6 +25,7 @@ verwandt:
 - wirkstoff:zink
 - begriff:antioxidans
 - recht:anhang-ii-arzneistoffe
+- wirkstoff:selendisulfid
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 4.6.2, S. 104

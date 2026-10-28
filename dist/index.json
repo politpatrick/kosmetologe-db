@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 223,
+  "anzahl": 234,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -266,6 +266,49 @@
       ]
     },
     {
+      "id": "begriff:konditionierungsmittel",
+      "typ": "begriff",
+      "titel": "Konditionierungsmittel",
+      "aliase": [
+        "Konditionierer",
+        "Conditioner (Wirkstoffklasse)",
+        "Avivagemittel",
+        "Weichmacher (Haar)"
+      ],
+      "kurz": "Positiv geladene Tenside und Polymere, die auf das negativ geladene Haar aufziehen; verbessern Kämmbarkeit und Glanz und verringern statische Aufladung, reparieren aber nicht.",
+      "tags": [
+        "haare",
+        "inhaltsstoffe"
+      ],
+      "verwandt": [
+        "formulierung:haarspuelung",
+        "formulierung:shampoo",
+        "begriff:tensid",
+        "begriff:silikone",
+        "begriff:rueckfetter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.1.2, S. 261; Tab. 9.1, S. 262"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Konditionierungsmittel“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/konditionierungsmittel.md",
+      "verweise_von": [
+        "begriff:rueckfetter",
+        "formulierung:haarspuelung",
+        "formulierung:haarstyling",
+        "formulierung:shampoo",
+        "haut:strapaziertes-haar"
+      ]
+    },
+    {
       "id": "begriff:konservierungsmittel",
       "typ": "begriff",
       "titel": "Konservierungsmittel",
@@ -454,7 +497,9 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/paraffine.md",
       "verweise_von": [
-        "begriff:silikone"
+        "begriff:rueckfetter",
+        "begriff:silikone",
+        "formulierung:haarstyling"
       ]
     },
     {
@@ -493,6 +538,49 @@
         "haut:kopflaeuse",
         "haut:paronychie",
         "haut:skabies"
+      ]
+    },
+    {
+      "id": "begriff:rueckfetter",
+      "typ": "begriff",
+      "titel": "Rückfetter",
+      "aliase": [
+        "Rückfettungsmittel",
+        "Überfettungsmittel"
+      ],
+      "kurz": "Lipide, die Reinigungsprodukten zugesetzt werden, um den Fettverlust beim Waschen auszugleichen; in Haarspülungen und Kuren oft der Hauptwirkstoff.",
+      "tags": [
+        "lipide",
+        "inhaltsstoffe",
+        "haare"
+      ],
+      "verwandt": [
+        "begriff:tensid",
+        "begriff:syndet",
+        "begriff:konditionierungsmittel",
+        "begriff:paraffine",
+        "begriff:silikone",
+        "formulierung:shampoo",
+        "formulierung:haarspuelung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.1.4, S. 261; Tab. 9.1, S. 262–263"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Rückfetter“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/rueckfetter.md",
+      "verweise_von": [
+        "begriff:konditionierungsmittel",
+        "formulierung:haarspuelung",
+        "formulierung:shampoo",
+        "haut:strapaziertes-haar"
       ]
     },
     {
@@ -559,7 +647,9 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/silikone.md",
       "verweise_von": [
+        "begriff:konditionierungsmittel",
         "begriff:paraffine",
+        "begriff:rueckfetter",
         "recht:reach-siloxane"
       ]
     },
@@ -592,6 +682,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/syndet.md",
       "verweise_von": [
+        "begriff:rueckfetter",
         "begriff:saeureschutzmantel",
         "begriff:tensid"
       ]
@@ -631,7 +722,9 @@
       "pfad": "data/begriffe/tensid.md",
       "verweise_von": [
         "begriff:emulgator",
+        "begriff:konditionierungsmittel",
         "begriff:mizelle",
+        "begriff:rueckfetter",
         "formulierung:haarspuelung",
         "formulierung:shampoo"
       ]
@@ -1646,6 +1739,63 @@
       ]
     },
     {
+      "id": "formulierung:antischuppenshampoo",
+      "typ": "formulierung",
+      "titel": "Antischuppenshampoo und Haarwasser",
+      "aliase": [
+        "Schuppenshampoo",
+        "Anti-Dandruff-Shampoo",
+        "Haarwasser",
+        "Haartonikum"
+      ],
+      "system": "Tensidsystem mit antimikrobiellem Wirkstoff (Shampoo); alkoholisch-wässrige Lösung (Haarwasser)",
+      "bestandteile": [
+        "milde Tenside (amphotere Tenside wirken zusätzlich antiseptisch)",
+        "hefehemmender Wirkstoff (z. B. Piroctone Olamine, Selendisulfid, Climbazol)",
+        "keratolytischer Wirkstoff (Salicylsäure)",
+        "Rückfetter und Feuchthaltemittel (bei trockenen Schuppen)",
+        "Ethanol als Lösungsmittel (Haarwasser)"
+      ],
+      "stabilitaet": "Partikelförmige Wirkstoffe (Selendisulfid) müssen in Schwebe gehalten werden; Wirksamkeit hängt stark vom Grundgerüst ab.",
+      "kurz": "Shampoo oder auf der Kopfhaut verbleibendes Haarwasser gegen Schuppen; wirkt vor allem über Hemmung der Hefe Malassezia und Ablösen der Schuppen.",
+      "tags": [
+        "haare",
+        "kopfhaut",
+        "schuppen"
+      ],
+      "verwandt": [
+        "haut:kopfschuppen",
+        "haut:fettiges-haar",
+        "formulierung:shampoo",
+        "wirkstoff:piroctone-olamin",
+        "wirkstoff:selendisulfid",
+        "wirkstoff:zinkpyrithion",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:salicylsaeure",
+        "recht:anhang-ii-arzneistoffe"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.1.7, S. 265; Kap. 9.2.3, S. 268; Kap. 9.3.8, S. 270–271; Tab. 9.1, S. 263"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Schuppenshampoo“, „Piroctone Olamine“, „Selenium Sulfide“, „Zinc Pyrithione“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/antischuppenshampoo.md",
+      "verweise_von": [
+        "formulierung:shampoo",
+        "haut:kopfschuppen",
+        "wirkstoff:piroctone-olamin",
+        "wirkstoff:selendisulfid",
+        "wirkstoff:zinkpyrithion"
+      ]
+    },
+    {
       "id": "formulierung:deodorant",
       "typ": "formulierung",
       "titel": "Deodorant und Antitranspirant",
@@ -1876,7 +2026,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/formulierungen/gel.md",
       "verweise_von": [
-        "begriff:zubereitungsformen"
+        "begriff:zubereitungsformen",
+        "formulierung:haarstyling"
       ]
     },
     {
@@ -1903,9 +2054,16 @@
       ],
       "verwandt": [
         "formulierung:shampoo",
-        "begriff:tensid"
+        "begriff:tensid",
+        "begriff:konditionierungsmittel",
+        "begriff:rueckfetter",
+        "haut:strapaziertes-haar"
       ],
       "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.2.2, S. 267 (Übersicht 9.4)"
+        },
         {
           "id": "quelle:tadros-formulierungen",
           "fundstelle": "Kap. 11.1, S. 236"
@@ -1919,9 +2077,67 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/formulierungen/haarspuelung.md",
       "verweise_von": [
+        "begriff:konditionierungsmittel",
+        "begriff:rueckfetter",
         "begriff:silikone",
         "formulierung:shampoo",
+        "haut:strapaziertes-haar",
         "recht:reach-siloxane"
+      ]
+    },
+    {
+      "id": "formulierung:haarstyling",
+      "typ": "formulierung",
+      "titel": "Stylingprodukte (Festiger, Gel, Spray, Wachs)",
+      "aliase": [
+        "Haarfestiger",
+        "Föhnfestiger",
+        "Haargel",
+        "Haarspray",
+        "Haarlack",
+        "Stylingschaum",
+        "Haarwachs",
+        "Pomade",
+        "Brillantine"
+      ],
+      "system": "Lösung von Film- oder Gelbildnern in Ethanol/Isopropanol und Wasser; Wachse und Pomaden als wasserfreie Lipidsysteme",
+      "bestandteile": [
+        "Filmbildner und Festigerpolymere (z. B. PVP/VA-Copolymer, Acrylates Copolymer, Polyquaternium)",
+        "organische Gelbildner (Cellulosederivate, Carbomer)",
+        "Ethanol oder Isopropanol, Wasser",
+        "Treibgas (Sprays, Schäume)",
+        "Weichmacher, Konditionierungsmittel, UV-Filter, Parfum",
+        "Paraffine und Wachse (Haarwachs, Pomade)"
+      ],
+      "stabilitaet": "Alkoholreiche Sprays sind entzündlich; Treibgasprodukte unterliegen den Vorgaben für Aerosolpackungen (eigene Ergänzung).",
+      "kurz": "Festigende Haarprodukte bilden feine Polymerbrücken zwischen den Haaren und fixieren die Form; Wasser oder Bürsten lösen sie wieder.",
+      "tags": [
+        "haare",
+        "styling"
+      ],
+      "verwandt": [
+        "formulierung:gel",
+        "begriff:paraffine",
+        "begriff:konditionierungsmittel",
+        "haut:haartypen",
+        "haut:fettiges-haar"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.1.3, S. 261; Kap. 9.2.4, S. 268 (Übersicht 9.5 und 9.6); Tab. 9.1, S. 263–264"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Haarfestiger“, „Haargel“, „Haarspray“, „Haarwachs“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/haarstyling.md",
+      "verweise_von": [
+        "haut:fettiges-haar",
+        "haut:haartypen"
       ]
     },
     {
@@ -2077,9 +2293,17 @@
       "verwandt": [
         "begriff:tensid",
         "formulierung:haarspuelung",
-        "begriff:mizelle"
+        "begriff:mizelle",
+        "formulierung:antischuppenshampoo",
+        "begriff:konditionierungsmittel",
+        "begriff:rueckfetter",
+        "haut:fettiges-haar"
       ],
       "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.1.1, S. 261; Kap. 9.2.1, S. 265–267 (Übersicht 9.1–9.3)"
+        },
         {
           "id": "quelle:tadros-formulierungen",
           "fundstelle": "Kap. 10.1–10.4, S. 219–222"
@@ -2093,9 +2317,15 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/formulierungen/shampoo.md",
       "verweise_von": [
+        "begriff:konditionierungsmittel",
         "begriff:mizelle",
+        "begriff:rueckfetter",
         "begriff:tensid",
-        "formulierung:haarspuelung"
+        "formulierung:antischuppenshampoo",
+        "formulierung:haarspuelung",
+        "haut:fettiges-haar",
+        "haut:haartypen",
+        "haut:strapaziertes-haar"
       ]
     },
     {
@@ -3172,6 +3402,7 @@
         "behandlung:ausreinigung",
         "behandlung:mikrodermabrasion",
         "formulierung:gel",
+        "haut:fettiges-haar",
         "haut:mischhaut",
         "haut:normale-haut",
         "wirkstoff:allantoin",
@@ -3179,6 +3410,61 @@
         "wirkstoff:kamille",
         "wirkstoff:pyridoxin",
         "wirkstoff:teebaumoel"
+      ]
+    },
+    {
+      "id": "haut:fettiges-haar",
+      "typ": "haut",
+      "titel": "Fettiges Haar (Seborrhoe der Kopfhaut)",
+      "aliase": [
+        "fettige Kopfhaut",
+        "Seborrhoea capitis",
+        "Seborrhoea oleosa"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "Haare wirken kurz nach der Wäsche strähnig und glänzend",
+        "vermehrter Talg am Haaransatz",
+        "häufig zusammen mit fettigen Schuppen"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "aerztlich_abklaeren": [
+        "Rötung, Juckreiz und gelbliche Schuppen (Verdacht auf seborrhoisches Ekzem)",
+        "plötzliche Zunahme zusammen mit Akne, Haarausfall oder Zyklusstörungen (hormonelle Ursache)"
+      ],
+      "kurz": "Anlage- und hormonbedingt vermehrte Talgbildung der Kopfhaut; häufiges Waschen mit passenden Produkten ist unbedenklich.",
+      "tags": [
+        "kopfhaut",
+        "haare",
+        "talg"
+      ],
+      "verwandt": [
+        "haut:kopfschuppen",
+        "haut:fettige-haut",
+        "haut:seborrhoisches-ekzem",
+        "formulierung:shampoo",
+        "formulierung:haarstyling"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.3.9, S. 271; Übersicht 9.3, S. 267 (Trockenshampoo)"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Seborrhö“, „Trockenshampoo“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/fettiges-haar.md",
+      "verweise_von": [
+        "formulierung:antischuppenshampoo",
+        "formulierung:haarstyling",
+        "formulierung:shampoo",
+        "haut:haartypen",
+        "haut:kopfschuppen",
+        "wirkstoff:piroctone-olamin"
       ]
     },
     {
@@ -3267,6 +3553,62 @@
         "behandlung:ausreinigung",
         "haut:impetigo-contagiosa",
         "haut:paronychie"
+      ]
+    },
+    {
+      "id": "haut:haartypen",
+      "typ": "haut",
+      "titel": "Haartypen (normales, feines, graues Haar)",
+      "aliase": [
+        "normales Haar",
+        "feines Haar",
+        "dünnes Haar",
+        "dickes Haar",
+        "graues Haar"
+      ],
+      "kategorie": "hauttyp",
+      "merkmale": [
+        {
+          "normal": "glänzend, glatt, ohne Spliss, Kopfhaut ohne Juckreiz und Schuppen"
+        },
+        {
+          "fein": "Haardurchmesser bis etwa 0,05 mm, wird leicht platt"
+        },
+        {
+          "dick": "etwa 0,07 mm, selten bis 0,12 mm"
+        },
+        {
+          "grau": "pigmentlos, vergilbt leicht durch UV"
+        }
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "aerztlich_abklaeren": [
+        "plötzliches Ergrauen zusammen mit fleckigem Haarausfall"
+      ],
+      "kurz": "Pflege richtet sich nach Haardicke und Zustand; feines Haar verträgt keine schweren Pflegestoffe, graues Haar wird nach dem bestehenden Haarproblem gepflegt.",
+      "tags": [
+        "haare",
+        "haartyp"
+      ],
+      "verwandt": [
+        "haut:strapaziertes-haar",
+        "haut:fettiges-haar",
+        "haut:kopfschuppen",
+        "formulierung:shampoo",
+        "formulierung:haarstyling"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.3.2, 9.3.3, 9.3.7, S. 269–270"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/haartypen.md",
+      "verweise_von": [
+        "formulierung:haarstyling",
+        "haut:strapaziertes-haar"
       ]
     },
     {
@@ -3680,6 +4022,71 @@
       "pfad": "data/haut/kopflaeuse.md",
       "verweise_von": [
         "haut:skabies"
+      ]
+    },
+    {
+      "id": "haut:kopfschuppen",
+      "typ": "haut",
+      "titel": "Kopfschuppen",
+      "aliase": [
+        "Schuppen",
+        "Pityriasis simplex capitis",
+        "trockene Schuppen",
+        "fettige Schuppen"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "sichtbare Schüppchen auf Kopfhaut, Kleidung oder Bettwäsche",
+        {
+          "trockene Form": "feine, rieselnde Schuppen, oft mit Juckreiz und trockenem Haar"
+        },
+        {
+          "fettige Form": "große, ölige, festsitzende Schuppen am Haaransatz, oft mit fettigem Haar"
+        }
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "aerztlich_abklaeren": [
+        "verkrustete, gelbliche Schuppen mit Rötung oder starkem Haarausfall",
+        "keine Besserung nach 2–3 Wochen mit Antischuppenshampoo",
+        "starke Schuppen bei Kindern",
+        "scharf begrenzte, silbrige Herde (Verdacht auf Schuppenflechte)"
+      ],
+      "kurz": "Verstärkte sichtbare Abschuppung der Kopfhaut; trockene und fettige Formen werden unterschiedlich gepflegt, die Hefe Malassezia spielt eine Rolle.",
+      "tags": [
+        "kopfhaut",
+        "haare",
+        "schuppen"
+      ],
+      "verwandt": [
+        "formulierung:antischuppenshampoo",
+        "haut:seborrhoisches-ekzem",
+        "haut:psoriasis",
+        "haut:sebostase",
+        "haut:fettiges-haar",
+        "wirkstoff:piroctone-olamin",
+        "wirkstoff:selendisulfid",
+        "wirkstoff:ketoconazol"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.3.8, S. 270–271; Kap. 9.1.7, S. 265"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Kopfschuppen“, „Schuppenshampoo“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/kopfschuppen.md",
+      "verweise_von": [
+        "formulierung:antischuppenshampoo",
+        "haut:fettiges-haar",
+        "haut:haartypen",
+        "wirkstoff:piroctone-olamin",
+        "wirkstoff:selendisulfid",
+        "wirkstoff:zinkpyrithion"
       ]
     },
     {
@@ -4370,7 +4777,8 @@
       "pfad": "data/haut/pityriasis-versicolor.md",
       "verweise_von": [
         "haut:effloreszenz-schuppe",
-        "haut:hyperhidrose"
+        "haut:hyperhidrose",
+        "wirkstoff:selendisulfid"
       ]
     },
     {
@@ -4507,6 +4915,7 @@
       "verweise_von": [
         "begriff:syndet",
         "haut:effloreszenz-schuppe",
+        "haut:kopfschuppen",
         "haut:nagelverfaerbung",
         "haut:onycholyse",
         "haut:onychomykose",
@@ -4739,7 +5148,10 @@
       "pfad": "data/haut/seborrhoisches-ekzem.md",
       "verweise_von": [
         "haut:effloreszenz-schuppe",
-        "wirkstoff:pyridoxin"
+        "haut:fettiges-haar",
+        "haut:kopfschuppen",
+        "wirkstoff:pyridoxin",
+        "wirkstoff:selendisulfid"
       ]
     },
     {
@@ -4797,6 +5209,7 @@
         "begriff:syndet",
         "formulierung:emulsion-wo",
         "haut:effloreszenz-rhagade",
+        "haut:kopfschuppen",
         "haut:mischhaut",
         "haut:neurodermitis",
         "haut:normale-haut",
@@ -4968,6 +5381,63 @@
         "wirkstoff:aloe-barbadensis",
         "wirkstoff:bisabolol",
         "wirkstoff:hamamelis"
+      ]
+    },
+    {
+      "id": "haut:strapaziertes-haar",
+      "typ": "haut",
+      "titel": "Trockenes, strapaziertes Haar und Spliss",
+      "aliase": [
+        "trockenes Haar",
+        "sprödes Haar",
+        "geschädigtes Haar",
+        "gefärbtes, dauergewelltes Haar",
+        "Spliss",
+        "Haarspliss"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "stumpf, glanzlos, rau und schwer kämmbar",
+        "aufgeraute oder fehlende Schuppenschicht (Kutikula)",
+        "poröser Faserstamm (Cortex) nach Dauerwelle, Blondierung oder Färbung",
+        "gespaltene, ausgefranste Haarspitzen (Spliss)"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "aerztlich_abklaeren": [
+        "abbrechende Haare zusammen mit Haarausfall oder kahlen Stellen",
+        "brüchige Haare zusammen mit Nagelveränderungen oder Allgemeinsymptomen"
+      ],
+      "kurz": "Haar mit geschädigter Schuppenschicht durch Chemie, Hitze, Sonne oder Mechanik; Pflege glättet nur vorübergehend, Spliss lässt sich nur abschneiden.",
+      "tags": [
+        "haare",
+        "pflege"
+      ],
+      "verwandt": [
+        "formulierung:haarspuelung",
+        "formulierung:shampoo",
+        "begriff:konditionierungsmittel",
+        "begriff:rueckfetter",
+        "wirkstoff:panthenol",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:wasserstoffperoxid",
+        "haut:haartypen"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.3.1, 9.3.4–9.3.6, S. 268–270; Kap. 9.1.5, S. 261 und 265"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Spliss“, „Spliss-Cut“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/strapaziertes-haar.md",
+      "verweise_von": [
+        "formulierung:haarspuelung",
+        "haut:haartypen"
       ]
     },
     {
@@ -5540,27 +6010,37 @@
         "begriff:hlb-wert",
         "begriff:hydrolipidfilm",
         "begriff:komedogenitaet",
+        "begriff:konditionierungsmittel",
         "begriff:konservierungsmittel",
         "begriff:lichtschutzfaktor",
         "begriff:nmf",
         "begriff:paraffine",
+        "begriff:rueckfetter",
         "begriff:saeureschutzmantel",
         "begriff:silikone",
         "begriff:syndet",
         "begriff:uva-schutz",
         "begriff:zubereitungsformen",
         "behandlung:ausreinigung",
+        "formulierung:antischuppenshampoo",
         "formulierung:deodorant",
         "formulierung:emulsion-wo",
         "formulierung:gel",
+        "formulierung:haarspuelung",
+        "formulierung:haarstyling",
+        "formulierung:shampoo",
         "haut:babyhaut",
         "haut:cellulite",
         "haut:fettige-haut",
+        "haut:fettiges-haar",
+        "haut:haartypen",
+        "haut:kopfschuppen",
         "haut:mischhaut",
         "haut:normale-haut",
         "haut:reife-haut",
         "haut:sebostase",
         "haut:sensible-haut",
+        "haut:strapaziertes-haar",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
         "wirkstoff:allantoin",
@@ -5593,6 +6073,7 @@
         "wirkstoff:o-phenylphenol",
         "wirkstoff:paba-derivate",
         "wirkstoff:phmb",
+        "wirkstoff:piroctone-olamin",
         "wirkstoff:propolis",
         "wirkstoff:pyridoxin",
         "wirkstoff:resorcin",
@@ -5602,6 +6083,7 @@
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:salicylsaeure",
         "wirkstoff:selen",
+        "wirkstoff:selendisulfid",
         "wirkstoff:squalan",
         "wirkstoff:strontiumchlorid",
         "wirkstoff:teebaumoel",
@@ -5616,7 +6098,8 @@
         "wirkstoff:urea",
         "wirkstoff:wasserstoffperoxid",
         "wirkstoff:zink",
-        "wirkstoff:zinkoxid"
+        "wirkstoff:zinkoxid",
+        "wirkstoff:zinkpyrithion"
       ]
     },
     {
@@ -5910,6 +6393,7 @@
         "wirkstoff:parabene",
         "wirkstoff:peptide",
         "wirkstoff:phmb",
+        "wirkstoff:piroctone-olamin",
         "wirkstoff:resorcin",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
@@ -5981,11 +6465,13 @@
         "wirkstoff:parabene",
         "wirkstoff:peptide",
         "wirkstoff:phmb",
+        "wirkstoff:piroctone-olamin",
         "wirkstoff:propolis",
         "wirkstoff:pyridoxin",
         "wirkstoff:resveratrol",
         "wirkstoff:retinol",
         "wirkstoff:selen",
+        "wirkstoff:selendisulfid",
         "wirkstoff:squalan",
         "wirkstoff:teebaumoel",
         "wirkstoff:thioctsaeure",
@@ -5993,7 +6479,8 @@
         "wirkstoff:tranexamsaeure",
         "wirkstoff:triclosan",
         "wirkstoff:ubiquinon",
-        "wirkstoff:xep-716-miniprotein"
+        "wirkstoff:xep-716-miniprotein",
+        "wirkstoff:zinkpyrithion"
       ]
     },
     {
@@ -6085,13 +6572,17 @@
         "begriff:hydrolipidfilm",
         "begriff:inci",
         "begriff:komedogenitaet",
+        "begriff:konditionierungsmittel",
         "begriff:konservierungsmittel",
         "begriff:lichtschutzfaktor",
         "begriff:mizelle",
         "begriff:nmf",
+        "begriff:rueckfetter",
         "begriff:tensid",
+        "formulierung:antischuppenshampoo",
         "formulierung:emulsion-wo",
         "formulierung:haarspuelung",
+        "formulierung:haarstyling",
         "formulierung:liposomen",
         "formulierung:shampoo",
         "formulierung:sonnenschutz-mineralisch",
@@ -6108,11 +6599,13 @@
         "haut:effloreszenz-rhagade",
         "haut:effloreszenz-zyste",
         "haut:fettige-haut",
+        "haut:fettiges-haar",
         "haut:follikulitis",
         "haut:herpes-simplex",
         "haut:herpes-zoster",
         "haut:hirsutismus",
         "haut:kontaktekzem",
+        "haut:kopfschuppen",
         "haut:malignes-melanom",
         "haut:melasma",
         "haut:milien",
@@ -6130,6 +6623,7 @@
         "haut:sebostase",
         "haut:sensible-haut",
         "haut:sonnenbrand",
+        "haut:strapaziertes-haar",
         "haut:teleangiektasien",
         "haut:tinea-pedis",
         "haut:urtikaria",
@@ -6183,6 +6677,7 @@
         "wirkstoff:panthenol",
         "wirkstoff:parabene",
         "wirkstoff:phmb",
+        "wirkstoff:piroctone-olamin",
         "wirkstoff:propolis",
         "wirkstoff:pyridoxin",
         "wirkstoff:resorcin",
@@ -6192,6 +6687,7 @@
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:salicylsaeure",
         "wirkstoff:selen",
+        "wirkstoff:selendisulfid",
         "wirkstoff:squalan",
         "wirkstoff:strontiumchlorid",
         "wirkstoff:teebaumoel",
@@ -6205,7 +6701,8 @@
         "wirkstoff:urea",
         "wirkstoff:wasserstoffperoxid",
         "wirkstoff:zink",
-        "wirkstoff:zinkoxid"
+        "wirkstoff:zinkoxid",
+        "wirkstoff:zinkpyrithion"
       ]
     },
     {
@@ -6301,6 +6798,7 @@
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/anhang-ii-arzneistoffe.md",
       "verweise_von": [
+        "formulierung:antischuppenshampoo",
         "recht:anhang-vi-uv-filter",
         "recht:eu-kosmetikverordnung",
         "recht:taetowiermittel",
@@ -6509,12 +7007,14 @@
         "wirkstoff:paba-derivate",
         "wirkstoff:parabene",
         "wirkstoff:phmb",
+        "wirkstoff:piroctone-olamin",
         "wirkstoff:resorcin",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:salicylsaeure",
         "wirkstoff:selen",
+        "wirkstoff:selendisulfid",
         "wirkstoff:strontiumchlorid",
         "wirkstoff:titandioxid",
         "wirkstoff:tretinoin",
@@ -6523,7 +7023,8 @@
         "wirkstoff:triclosan",
         "wirkstoff:wasserstoffperoxid",
         "wirkstoff:zink",
-        "wirkstoff:zinkoxid"
+        "wirkstoff:zinkoxid",
+        "wirkstoff:zinkpyrithion"
       ]
     },
     {
@@ -7097,7 +7598,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ammoniumthioglykolat.md",
       "verweise_von": [
-        "behandlung:haarentfernung"
+        "behandlung:haarentfernung",
+        "haut:strapaziertes-haar"
       ]
     },
     {
@@ -8567,8 +9069,12 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ketoconazol.md",
       "verweise_von": [
+        "formulierung:antischuppenshampoo",
+        "haut:kopfschuppen",
         "haut:pityriasis-versicolor",
-        "haut:seborrhoisches-ekzem"
+        "haut:seborrhoisches-ekzem",
+        "wirkstoff:piroctone-olamin",
+        "wirkstoff:selendisulfid"
       ]
     },
     {
@@ -9157,6 +9663,7 @@
         "haut:neurodermitis",
         "haut:rosazea",
         "haut:sensible-haut",
+        "haut:strapaziertes-haar",
         "wirkstoff:allantoin",
         "wirkstoff:bisabolol",
         "wirkstoff:centella-asiatica",
@@ -9276,6 +9783,73 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/phmb.md",
       "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:piroctone-olamin",
+      "typ": "wirkstoff",
+      "titel": "Piroctone Olamine",
+      "aliase": [
+        "Piroctonolamin",
+        "Octopirox"
+      ],
+      "inci": "PIROCTONE OLAMINE",
+      "cas": "68890-66-4",
+      "stoffgruppe": "Hydroxypyridon (Antimykotikum, Konservierungsmittel)",
+      "funktionen": [
+        "hefehemmend (Malassezia)",
+        "antimikrobiell",
+        "konservierend"
+      ],
+      "geeignet_fuer": [
+        "haut:kopfschuppen",
+        "haut:fettiges-haar"
+      ],
+      "konzentration_typisch": "0,5–1 % in Shampoos",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "evidenz": "moderat",
+      "impact": "mittel",
+      "kurz": "Häufigster Antischuppenwirkstoff in EU-Kosmetik; hemmt die Hefe Malassezia, mehrere RCTs, fast alle von Herstellern.",
+      "tags": [
+        "kopfhaut",
+        "schuppen",
+        "antimikrobiell"
+      ],
+      "verwandt": [
+        "formulierung:antischuppenshampoo",
+        "haut:kopfschuppen",
+        "wirkstoff:selendisulfid",
+        "wirkstoff:zinkpyrithion",
+        "wirkstoff:ketoconazol"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.1.7, S. 265; Tab. 9.1, S. 263"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Piroctone Olamine“"
+        },
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "maintenance/impact-liste.md, Teil D (Rechtsstand)"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/piroctone-olamin.md",
+      "verweise_von": [
+        "formulierung:antischuppenshampoo",
+        "haut:kopfschuppen",
+        "wirkstoff:selendisulfid",
+        "wirkstoff:zinkpyrithion"
+      ]
     },
     {
       "id": "wirkstoff:propolis",
@@ -9729,6 +10303,7 @@
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "formulierung:antischuppenshampoo",
         "haut:akne-vulgaris",
         "haut:fettige-haut",
         "haut:follikulaere-hyperkeratose",
@@ -9769,7 +10344,8 @@
       "verwandt": [
         "wirkstoff:zink",
         "begriff:antioxidans",
-        "recht:anhang-ii-arzneistoffe"
+        "recht:anhang-ii-arzneistoffe",
+        "wirkstoff:selendisulfid"
       ],
       "quellen": [
         {
@@ -9788,7 +10364,75 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/selen.md",
-      "verweise_von": []
+      "verweise_von": [
+        "wirkstoff:selendisulfid"
+      ]
+    },
+    {
+      "id": "wirkstoff:selendisulfid",
+      "typ": "wirkstoff",
+      "titel": "Selendisulfid",
+      "aliase": [
+        "Selensulfid",
+        "Selenium Disulfide",
+        "SeS2"
+      ],
+      "inci": "SELENIUM SULFIDE",
+      "stoffgruppe": "Anorganische Selenverbindung (Antimykotikum, zytostatisch)",
+      "funktionen": [
+        "hefehemmend (Malassezia)",
+        "verlangsamt die Zellerneuerung der Kopfhaut"
+      ],
+      "geeignet_fuer": [
+        "haut:kopfschuppen",
+        "haut:seborrhoisches-ekzem",
+        "haut:pityriasis-versicolor"
+      ],
+      "vorsicht_bei": [
+        "Kontakt mit Augen und geschädigter Haut"
+      ],
+      "konzentration_typisch": "kosmetisch bis 1 %; in Arzneimitteln 2,5 %",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "evidenz": "stark",
+      "impact": "mittel",
+      "kurz": "Antischuppenwirkstoff mit mehreren placebo- und vergleichskontrollierten Studien; kosmetisch nur in niedriger Konzentration zugelassen.",
+      "tags": [
+        "kopfhaut",
+        "schuppen"
+      ],
+      "verwandt": [
+        "formulierung:antischuppenshampoo",
+        "haut:kopfschuppen",
+        "wirkstoff:piroctone-olamin",
+        "wirkstoff:ketoconazol",
+        "wirkstoff:selen"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.3.8, S. 271; Tab. 9.1, S. 263"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Selenium Sulfide“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/selendisulfid.md",
+      "verweise_von": [
+        "formulierung:antischuppenshampoo",
+        "haut:kopfschuppen",
+        "wirkstoff:piroctone-olamin",
+        "wirkstoff:selen",
+        "wirkstoff:zinkpyrithion"
+      ]
     },
     {
       "id": "wirkstoff:squalan",
@@ -10469,7 +11113,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/wasserstoffperoxid.md",
       "verweise_von": [
-        "behandlung:haarentfernung"
+        "behandlung:haarentfernung",
+        "haut:strapaziertes-haar"
       ]
     },
     {
@@ -10545,7 +11190,8 @@
       "verweise_von": [
         "haut:fettige-haut",
         "haut:seborrhoisches-ekzem",
-        "wirkstoff:selen"
+        "wirkstoff:selen",
+        "wirkstoff:zinkpyrithion"
       ]
     },
     {
@@ -10597,6 +11243,63 @@
       "verweise_von": [
         "begriff:lichtschutzfaktor",
         "formulierung:sonnenschutz-mineralisch"
+      ]
+    },
+    {
+      "id": "wirkstoff:zinkpyrithion",
+      "typ": "wirkstoff",
+      "titel": "Zinkpyrithion",
+      "aliase": [
+        "Pyrithion-Zink",
+        "Zinc Pyrithione",
+        "ZPT"
+      ],
+      "inci": "ZINC PYRITHIONE",
+      "stoffgruppe": "Zinkkomplex (Antimykotikum, Konservierungsmittel)",
+      "funktionen": [
+        "hefehemmend (Malassezia)",
+        "antimikrobiell"
+      ],
+      "geeignet_fuer": [
+        "haut:kopfschuppen"
+      ],
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "evidenz": "stark",
+      "impact": "hoch",
+      "kurz": "Lange der Standard-Antischuppenwirkstoff; gut belegt, aber in der EU seit 2022 in Kosmetika verboten (fortpflanzungsgefährdend eingestuft).",
+      "tags": [
+        "kopfhaut",
+        "schuppen",
+        "verboten"
+      ],
+      "verwandt": [
+        "formulierung:antischuppenshampoo",
+        "wirkstoff:piroctone-olamin",
+        "wirkstoff:selendisulfid",
+        "wirkstoff:zink"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 9.3.8, S. 271"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Zinc Pyrithione“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/zinkpyrithion.md",
+      "verweise_von": [
+        "formulierung:antischuppenshampoo",
+        "wirkstoff:piroctone-olamin"
       ]
     }
   ]

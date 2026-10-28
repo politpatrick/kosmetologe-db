@@ -3,7 +3,7 @@
 > Wissensdatenbank zu Kosmetologie: Wirkstoffe, Haut, Behandlungen, Formulierungen, Recht, Begriffe, Quellen und Projektkontext.
 > Volltext eines Eintrags: Datei unter `pfad` lesen. Maschinenlesbar: dist/index.json.
 
-## wirkstoff (82)
+## wirkstoff (85)
 - `wirkstoff:3-benzyliden-campher` [3-Benzyliden-Campher (3-Benzylidene Camphor, 3-BC)](data/wirkstoffe/3-benzyliden-campher.md) – Früherer UV-B-Filter, heute in der EU verboten (Anhang II Nr. 1379); nur noch historisch relevant. [entwurf]
 - `wirkstoff:aha` [Alpha-Hydroxysäuren (AHA: Glykolsäure, Milchsäure u. a.)](data/wirkstoffe/aha.md) – Fruchtsäuren für Peelings und Hautglättung; erhöhen nachweislich die UV-Empfindlichkeit, Grenzwertangaben in Lehrbüchern widersprüchlich. [entwurf]
 - `wirkstoff:allantoin` [Allantoin](data/wirkstoffe/allantoin.md) – Ursprünglich aus Beinwell gewonnener, gut verträglicher Wirkstoff, der beruhigt, die Heilung fördert und die Haut glättet. [entwurf]
@@ -60,6 +60,7 @@
 - `wirkstoff:parabene` [Parabene (Ester der 4-Hydroxybenzoesäure)](data/wirkstoffe/parabene.md) – Konservierungsstoffe mit gut dokumentiertem Rechtsstatus; Butylparaben bei Kindern in Kombination (0,14 %) laut SCCS nicht sicher, Verschärfung im Entwurf. [entwurf]
 - `wirkstoff:peptide` [Peptide (Signal-, Carrier-, Neurotransmitter-Peptide, Kollagenpeptide)](data/wirkstoffe/peptide.md) – Signal-, Carrier- und Neurotransmitter-Peptide sowie Kollagenpeptide; starke Vermarktung, Evidenz schwach und oft herstellerfinanziert. [entwurf]
 - `wirkstoff:phmb` [Polyaminopropyl Biguanide (PHMB)](data/wirkstoffe/phmb.md) – Konservierungsstoff und Antiseptikum; nach SCCS-Bewertung stark eingeschränkt (Anhang V). [entwurf]
+- `wirkstoff:piroctone-olamin` [Piroctone Olamine](data/wirkstoffe/piroctone-olamin.md) – Häufigster Antischuppenwirkstoff in EU-Kosmetik; hemmt die Hefe Malassezia, mehrere RCTs, fast alle von Herstellern. [entwurf]
 - `wirkstoff:propolis` [Propolis](data/wirkstoffe/propolis.md) – Kittharz der Honigbiene mit Flavonoiden und Phenolsäuren; antimikrobiell und entzündungshemmend, aber eines der häufigeren Kontaktallergene. [entwurf]
 - `wirkstoff:pyridoxin` [Pyridoxin (Vitamin B6)](data/wirkstoffe/pyridoxin.md) – Wasserlösliches Vitamin des Aminosäurestoffwechsels; soll topisch die Talgbildung regulieren, dafür fehlen klinische Daten. [entwurf]
 - `wirkstoff:resorcin` [Resorcin](data/wirkstoffe/resorcin.md) – Keratolytikum laut Lehrbuch; kosmetisch vor allem in Oxidationshaarfarben, dort begrenzt und kennzeichnungspflichtig. [entwurf]
@@ -69,6 +70,7 @@
 - `wirkstoff:retinyl-palmitat` [Retinyl Palmitate](data/wirkstoffe/retinyl-palmitat.md) – Retinylester; zusammen mit Retinol und Retinyl Acetate auf 0,05 % RE (Körperlotion) bzw. 0,3 % RE begrenzt. [entwurf]
 - `wirkstoff:salicylsaeure` [Salicylic Acid (Salicylsäure)](data/wirkstoffe/salicylsaeure.md) – Fettlösliche Säure, dringt in Follikel ein und löst Verhornungen – Standardwirkstoff bei unreiner Haut. [entwurf]
 - `wirkstoff:selen` [Selen](data/wirkstoffe/selen.md) – Essenzielles Spurenelement und Bestandteil antioxidativer Enzyme; in Kosmetik nur über selenreiches Quellwasser, da Selenverbindungen als Stoff weitgehend verboten sind. [entwurf]
+- `wirkstoff:selendisulfid` [Selendisulfid](data/wirkstoffe/selendisulfid.md) – Antischuppenwirkstoff mit mehreren placebo- und vergleichskontrollierten Studien; kosmetisch nur in niedriger Konzentration zugelassen. [entwurf]
 - `wirkstoff:squalan` [Squalan und Squalen](data/wirkstoffe/squalan.md) – Squalen ist natürlicher Bestandteil des Hauttalgs (rund 12 %); das gesättigte, stabile Squalan ist ein leichtes, gut verträgliches Pflegeöl. [entwurf]
 - `wirkstoff:strontiumchlorid` [Strontiumchlorid](data/wirkstoffe/strontiumchlorid.md) – Gegen empfindliche Zahnhälse in Zahnpasta; Strontiumgehalt in Anhang III begrenzt. [entwurf]
 - `wirkstoff:teebaumoel` [Teebaumöl](data/wirkstoffe/teebaumoel.md) – Ätherisches Öl des australischen Teebaums mit stark antimikrobieller und pilzhemmender Wirkung; oxidiertes Öl kann stark allergisieren. [entwurf]
@@ -86,8 +88,9 @@
 - `wirkstoff:xep-716-miniprotein` [XEP-716 Miniprotein (TGF-β-Mimetikum)](data/wirkstoffe/xep-716-miniprotein.md) – TGF-β-mimetisches Miniprotein; Split-Face-RCT-Sekundäranalyse zeigt nominal signifikante Epidermisveränderungen, herstellernah. [entwurf]
 - `wirkstoff:zink` [Zink](data/wirkstoffe/zink.md) – Wasserlösliche Zinksalze; in Anhang III Nr. 24 vor allem für Mund- und Zahnpflege begrenzt. [entwurf]
 - `wirkstoff:zinkoxid` [Zinkoxid](data/wirkstoffe/zinkoxid.md) – Mineralischer Breitband-UV-Filter (Anhang VI, max. 25 %) und Wundschutz; Nanoform mit Auflagen. [entwurf]
+- `wirkstoff:zinkpyrithion` [Zinkpyrithion](data/wirkstoffe/zinkpyrithion.md) – Lange der Standard-Antischuppenwirkstoff; gut belegt, aber in der EU seit 2022 in Kosmetika verboten (fortpflanzungsgefährdend eingestuft). [entwurf]
 
-## haut (70)
+## haut (74)
 - `haut:akne-vulgaris` [Akne vulgaris](data/haut/akne-vulgaris.md) – Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung.
 - `haut:aktinische-keratose` [Aktinische Keratose](data/haut/aktinische-keratose.md) – Durch jahrzehntelange UV-Belastung entstandene Verhornungsstörung; Vorstufe von Hautkrebs, gehört in ärztliche Hand.
 - `haut:alopecia-areata` [Kreisrunder Haarausfall (Alopecia areata)](data/haut/alopecia-areata.md) – Häufigste entzündliche Form des Haarausfalls, vermutlich autoimmun; heilt oft nach Monaten spontan. Ärztlich abklären. [entwurf]
@@ -110,8 +113,10 @@
 - `haut:effloreszenz-zyste` [Zyste](data/haut/effloreszenz-zyste.md) – Abgekapselter Hohlraum in der Haut; nur ärztlich samt Kapsel entfernbar, nie ausdrücken.
 - `haut:eingewachsener-nagel` [Eingewachsener Nagel (Unguis incarnatus)](data/haut/eingewachsener-nagel.md) – Seitlicher Nagelrand wächst durch Schuhdruck oder zu tief geschnittene Ecken in den Nagelfalz ein; entzündungsgefährdet, Korrektur durch Nagelspangen oder ärztlich. [entwurf]
 - `haut:fettige-haut` [Fettige Haut (Seborrhoe) und unreine Haut](data/haut/fettige-haut.md) – Talgreiche, glänzende und grobporige Haut, meist von der Pubertät bis Mitte 20; Talg binden, Komedogenes meiden, Unreinheiten vorbeugen. [entwurf]
+- `haut:fettiges-haar` [Fettiges Haar (Seborrhoe der Kopfhaut)](data/haut/fettiges-haar.md) – Anlage- und hormonbedingt vermehrte Talgbildung der Kopfhaut; häufiges Waschen mit passenden Produkten ist unbedenklich. [entwurf]
 - `haut:follikulaere-hyperkeratose` [Follikuläre Hyperkeratose](data/haut/follikulaere-hyperkeratose.md) – Verhornte Follikelöffnungen mit rauer Haut, meist an Armen und Beinen; mild keratolytisch pflegen, nicht kratzen.
 - `haut:follikulitis` [Follikulitis (Haarbalgentzündung)](data/haut/follikulitis.md) – Oberflächliche bakterielle Entzündung des Haarfollikels; ansteckend, kann zu Furunkel oder Gesichtserysipel werden. [entwurf]
+- `haut:haartypen` [Haartypen (normales, feines, graues Haar)](data/haut/haartypen.md) – Pflege richtet sich nach Haardicke und Zustand; feines Haar verträgt keine schweren Pflegestoffe, graues Haar wird nach dem bestehenden Haarproblem gepflegt. [entwurf]
 - `haut:herpes-simplex` [Herpes simplex (Lippenherpes)](data/haut/herpes-simplex.md) – Ansteckende Virusinfektion mit wiederkehrenden Bläschen; aktive Herpesstellen sind Kontraindikation für Gesichtsbehandlungen.
 - `haut:herpes-zoster` [Gürtelrose (Herpes zoster)](data/haut/herpes-zoster.md) – Wiederaufflammen des Windpockenvirus in einem Nerv; schmerzhaft und ansteckend für Menschen ohne Windpocken-Immunität. [entwurf]
 - `haut:hirsutismus` [Hirsutismus (männliches Behaarungsmuster bei Frauen)](data/haut/hirsutismus.md) – Verstärkte Behaarung nach männlichem Muster; Ursache (Hormone, Tumoren, Arzneimittel) ärztlich klären, dann Haarentfernung. [entwurf]
@@ -121,6 +126,7 @@
 - `haut:keloid` [Keloid und hypertrophe Narbe](data/haut/keloid.md) – Überschießende Narbenbildung aus Kollagen; schwer behandelbar, bildet sich nicht zurück. Vor invasiven Eingriffen Neigung erfragen. [entwurf]
 - `haut:kontaktekzem` [Kontaktekzem](data/haut/kontaktekzem.md) – Entzündung durch Hautkontakt mit Reizstoffen (toxisch) oder Allergenen (allergisch); Auslöser finden und meiden.
 - `haut:kopflaeuse` [Läuse (Kopf-, Kleider- und Filzläuse)](data/haut/kopflaeuse.md) – Flügellose Insekten, die Blut saugen und ihre Eier (Nissen) an Haare oder in Kleidernähte kleben; Kopfläuse sind kein Zeichen mangelnder Hygiene. [entwurf]
+- `haut:kopfschuppen` [Kopfschuppen](data/haut/kopfschuppen.md) – Verstärkte sichtbare Abschuppung der Kopfhaut; trockene und fettige Formen werden unterschiedlich gepflegt, die Hefe Malassezia spielt eine Rolle. [entwurf]
 - `haut:lupus-erythematodes` [Lupus erythematodes](data/haut/lupus-erythematodes.md) – Autoimmunerkrankung der Haut oder des ganzen Körpers; die schmetterlingsförmige Gesichtsrötung kann mit Rosazea verwechselt werden. Immer ärztlich abklären. [entwurf]
 - `haut:malignes-melanom` [Malignes Melanom (schwarzer Hautkrebs)](data/haut/malignes-melanom.md) – Bösartiger Tumor der Pigmentzellen; Warnzeichen erkennen und sofort an die Hautärztin oder den Hautarzt verweisen.
 - `haut:melasma` [Melasma (Chloasma)](data/haut/melasma.md) – Hormonell und durch UV begünstigte Hyperpigmentierung im Gesicht; harmlos, aber hartnäckig – Lichtschutz ist die Basis.
@@ -147,6 +153,7 @@
 - `haut:sensible-haut` [Sensible Haut (empfindliche Haut)](data/haut/sensible-haut.md) – Kein medizinisch definierter Hauttyp: Haut reagiert leicht mit Rötung und Brennen; reizarme, kurze Pflegeroutinen. [entwurf]
 - `haut:skabies` [Krätze (Skabies)](data/haut/skabies.md) – Ansteckender Befall der Hornschicht mit Krätzmilben; laut Quelle zuletzt fast verdoppelt, besonders in Kinder- und Pflegeeinrichtungen. Behandlung ärztlich. [entwurf]
 - `haut:sonnenbrand` [Sonnenbrand (akuter Lichtschaden)](data/haut/sonnenbrand.md) – Akute Entzündung durch zu viel UV-Strahlung; schwere Formen mit Allgemeinsymptomen. Häufige Sonnenbrände erhöhen das Melanomrisiko. [entwurf]
+- `haut:strapaziertes-haar` [Trockenes, strapaziertes Haar und Spliss](data/haut/strapaziertes-haar.md) – Haar mit geschädigter Schuppenschicht durch Chemie, Hitze, Sonne oder Mechanik; Pflege glättet nur vorübergehend, Spliss lässt sich nur abschneiden. [entwurf]
 - `haut:talgdruesenhyperplasie` [Talgdrüsenhyperplasie](data/haut/talgdruesenhyperplasie.md) – Vergrößerte einzelne Talgdrüsen als gelbliche Knötchen; harmlos, lässt sich nicht ausreinigen, Entfernung ist ärztlich.
 - `haut:teleangiektasien` [Teleangiektasien (Äderchen)](data/haut/teleangiektasien.md) – Dauerhaft erweiterte feinste Hautgefäße; kosmetisch Reize meiden, Verödung per Laser ist ärztlich.
 - `haut:tinea-pedis` [Fußpilz (Tinea pedis)](data/haut/tinea-pedis.md) – Häufigste ansteckende Pilzerkrankung, meist durch Fadenpilze; begünstigt durch Feuchtigkeit und Durchblutungsstörungen. [entwurf]
@@ -181,13 +188,15 @@
 - `behandlung:narbenbehandlung` [Narbenbehandlung](data/behandlungen/narbenbehandlung.md) – Je nach Narbentyp: Schältherapie, Needling, fraktionierter Laser oder Filler bei eingesunkenen Narben; Kälte, Kompression und Narbensalben bei Keloiden. [entwurf]
 - `behandlung:permanent-make-up` [Permanent Make-up und medizinische Pigmentierung](data/behandlungen/permanent-make-up.md) – Einbringen von Farbpigmenten mit Einmalnadeln; Haltbarkeit hängt von Tiefe, Pigment und Haut ab, Farbe verändert sich mit der Zeit. [entwurf]
 
-## formulierung (11)
+## formulierung (13)
+- `formulierung:antischuppenshampoo` [Antischuppenshampoo und Haarwasser](data/formulierungen/antischuppenshampoo.md) – Shampoo oder auf der Kopfhaut verbleibendes Haarwasser gegen Schuppen; wirkt vor allem über Hemmung der Hefe Malassezia und Ablösen der Schuppen. [entwurf]
 - `formulierung:deodorant` [Deodorant und Antitranspirant](data/formulierungen/deodorant.md) – Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer. [entwurf]
 - `formulierung:emulsion-ow` [Öl-in-Wasser-Emulsion (O/W)](data/formulierungen/emulsion-ow.md) – Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen.
 - `formulierung:emulsion-wo` [Wasser-in-Öl-Emulsion (W/O)](data/formulierungen/emulsion-wo.md) – Wassertröpfchen in Öl – reichhaltig, okklusiv, wasserabweisend; für trockene Haut, Nacht- und Kälteschutzpflege. [entwurf]
 - `formulierung:fluessigkristalline-phasen` [Flüssigkristalline Phasen (lamellare Strukturen)](data/formulierungen/fluessigkristalline-phasen.md) – Geordnete, aber fließfähige Strukturen aus Tensiden; lamellare Phasen ähneln den Hautlipiden und stabilisieren Cremes. [entwurf]
 - `formulierung:gel` [Gel (Hydrogel)](data/formulierungen/gel.md) – Wasser in einem dreidimensionalen Netz aus Gelbildnern, vorstellbar wie ein vollgesogener Schwamm; fettfrei, kühlend, geeignet für fettige Haut und Augenpartie. [entwurf]
 - `formulierung:haarspuelung` [Haarspülung (Conditioner)](data/formulierungen/haarspuelung.md) – Lagert positiv geladene Pflegestoffe auf dem negativ geladenen Haar ab; verbessert Kämmbarkeit, Glanz und verringert statische Aufladung. [entwurf]
+- `formulierung:haarstyling` [Stylingprodukte (Festiger, Gel, Spray, Wachs)](data/formulierungen/haarstyling.md) – Festigende Haarprodukte bilden feine Polymerbrücken zwischen den Haaren und fixieren die Form; Wasser oder Bürsten lösen sie wieder. [entwurf]
 - `formulierung:liposomen` [Liposomen und Vesikel](data/formulierungen/liposomen.md) – Kugelige Bläschen aus Phospholipid-Doppelschichten; nehmen fett- und wasserlösliche Wirkstoffe auf und ähneln Zellmembranen. [entwurf]
 - `formulierung:mehrfachemulsion` [Mehrfachemulsion (W/O/W)](data/formulierungen/mehrfachemulsion.md) – In Öltröpfchen eingeschlossene Wassertröpfchen in Wasser; schützt empfindliche Wirkstoffe und kombiniert leichtes O/W-Gefühl mit W/O-Feuchtigkeit. [entwurf]
 - `formulierung:nanoemulsion` [Nanoemulsion](data/formulierungen/nanoemulsion.md) – Sehr feine Emulsion, durchscheinend bis klar, ohne Aufrahmen; leichtes Hautgefühl und gute Verteilung von Wirk- und Duftstoffen. [entwurf]
@@ -206,7 +215,7 @@
 - `recht:taetowiermittel` [Tätowiermittel und Permanent Make-up (TätoV und REACH-Beschränkung)](data/recht/taetowiermittel.md) – Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75. [entwurf]
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
-## begriff (19)
+## begriff (21)
 - `begriff:antioxidans` [Antioxidans](data/begriffe/antioxidans.md) – Stoff, der Inhaltsstoffe vor dem Ranzigwerden schützt bzw. in der Haut freie Radikale abfängt, z. B. Vitamin E und C. [entwurf]
 - `begriff:emulgator` [Emulgator](data/begriffe/emulgator.md) – Grenzflächenaktiver Stoff, der Öl und Wasser zu einer Emulsion verbindet; der HLB-Wert entscheidet, ob eine W/O- oder O/W-Emulsion entsteht. [entwurf]
 - `begriff:emulsionszerfall` [Emulsionszerfall](data/begriffe/emulsionszerfall.md) – Prozesse, durch die Emulsionen bei Lagerung entmischen: Aufrahmen, Absetzen, Flockung, Ostwald-Reifung, Koaleszenz, Phaseninversion. [entwurf]
@@ -214,12 +223,14 @@
 - `begriff:hydrolipidfilm` [Hydrolipidfilm](data/begriffe/hydrolipidfilm.md) – Emulsionsartiger Film aus Talg, Schweiß und Hautlipiden auf der Hornschicht; schützt vor Austrocknung und Chemikalien. [entwurf]
 - `begriff:inci` [INCI](data/begriffe/inci.md) – Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.
 - `begriff:komedogenitaet` [Komedogenität](data/begriffe/komedogenitaet.md) – Eigenschaft eines Stoffes, Mitesser zu begünstigen; heute mangels zugelassener Tests kaum belegbar. [entwurf]
+- `begriff:konditionierungsmittel` [Konditionierungsmittel](data/begriffe/konditionierungsmittel.md) – Positiv geladene Tenside und Polymere, die auf das negativ geladene Haar aufziehen; verbessern Kämmbarkeit und Glanz und verringern statische Aufladung, reparieren aber nicht. [entwurf]
 - `begriff:konservierungsmittel` [Konservierungsmittel](data/begriffe/konservierungsmittel.md) – Zusätze, die das Keimwachstum in wasserhaltigen Kosmetika hemmen; zulässige Stoffe regelt Anhang V der EU-Kosmetikverordnung. [entwurf]
 - `begriff:lichtschutzfaktor` [Lichtschutzfaktor (LSF)](data/begriffe/lichtschutzfaktor.md) – Maß für den Schutz vor UVB-bedingtem Sonnenbrand; sagt nichts über UVA-Schutz oder Langzeitschäden aus. [entwurf]
 - `begriff:mizelle` [Mizelle und CMC](data/begriffe/mizelle.md) – Zusammenlagerung von Tensidmolekülen in Wasser oberhalb der kritischen Mizellbildungskonzentration (CMC); bindet Fett im Inneren. [entwurf]
 - `begriff:nmf` [NMF (natürliche Feuchthaltefaktoren)](data/begriffe/nmf.md) – Kleine wasserbindende Moleküle in der Hornschicht, z. B. Aminosäuren, Harnstoff, Milchsäure, PCA; entscheidend für die Hautfeuchte. [entwurf]
 - `begriff:paraffine` [Paraffine und Mineralöle](data/begriffe/paraffine.md) – Gesättigte Kohlenwasserstoffe aus Erdöl oder Synthese: chemisch stabil, kaum allergen, wirken stark okklusiv; in Pflege eher als Bestandteil denn als Hauptgrundlage. [entwurf]
 - `begriff:praxishygiene` [Praxishygiene](data/begriffe/praxishygiene.md) – Hygieneplan, Händedesinfektion, Aufbereitung von Instrumenten, Flächendesinfektion und Verhalten bei Stichverletzungen. [entwurf]
+- `begriff:rueckfetter` [Rückfetter](data/begriffe/rueckfetter.md) – Lipide, die Reinigungsprodukten zugesetzt werden, um den Fettverlust beim Waschen auszugleichen; in Haarspülungen und Kuren oft der Hauptwirkstoff. [entwurf]
 - `begriff:saeureschutzmantel` [Säureschutzmantel](data/begriffe/saeureschutzmantel.md) – Leicht saurer Film auf der Haut (pH etwa 4,5–5,5) aus Schweiß und Talg; hemmt Keime und stabilisiert die Barriere. [entwurf]
 - `begriff:silikone` [Silikone](data/begriffe/silikone.md) – Synthetische Silicium-Sauerstoff-Polymere wie Dimethicone; geben ein seidiges, nicht fettendes Hautgefühl, glätten Haare und sind sehr gut verträglich. [entwurf]
 - `begriff:syndet` [Syndet](data/begriffe/syndet.md) – Waschstück aus synthetischen Tensiden statt Seife; hautfreundlich einstellbar, z. B. auf leicht sauren pH. [entwurf]

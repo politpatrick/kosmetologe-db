@@ -208,6 +208,8 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 
 | Wirkstoff | Datei | Evidenz (Stand 2026-10) | Letzte relevante Publikation | Impact |
 |---|---|---|---|---|
+| Selenium Sulfide (Selendisulfid) | selendisulfid.md | stark (mehrere RCTs, u. a. placebokontrolliert n=246); Anhang III bis 1 % prüfen | Bericht 2026-10-28_ellsaesser-kap9 | mittel |
+| Zinc Pyrithione (Zinkpyrithion) | zinkpyrithion.md | stark (Metaanalyse 17 RCTs, herstellernah); in der EU seit 2022 verboten (prüfen) | Bericht 2026-10-28_ellsaesser-kap9 | hoch (Rechtsstand) |
 | Polyquaternium-10 | polyquaternium-10.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Polyquaternium-7 | polyquaternium-7.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Quaternium-Verbindungen | quaternium-verbindungen.md | nicht bewertet (nur Lehrbuch) | – | offen |
@@ -326,7 +328,7 @@ Stubs mit Funktionsangaben aus Kap. 14; Impact „offen“. Neun Zeilen (Formald
 | Ethyl Lauroyl Arginate | ethyl-lauroyl-arginat.md | Rechtsstand Anh. V geprüft (0,15 % Mundwasser / 0,4 % sonst, Konsolidierung 18.05.2026); Wirksamkeit/Toxikologie nicht bewertet | – | offen |
 | o-Cymen-5-ol | o-cymen-5-ol.md | Rechtsstand Anh. V geprüft (0,1 %, Konsolidierung 18.05.2026); Wirksamkeit/Toxikologie nicht bewertet | – | offen |
 | o-Phenylphenol | o-phenylphenol.md | Rechtsstand (Konsolidierung 18.05.2026 geprüft): Rinse-off 0,2 %, Leave-on 0,15 % (als Phenol) | VO 2018/1847 | mittel |
-| Piroctone Olamine | piroctone-olamin.md | Rechtsstand Anh. V geprüft (1,0 % Rinse-off, Konsolidierung 18.05.2026); Wirksamkeit/Toxikologie nicht bewertet | – | offen |
+| Piroctone Olamine | piroctone-olamin.md | moderat (mehrere RCTs, fast alle herstellernah); Rechtsstand Anh. V Nr. 35 geprüft | Bericht 2026-10-28_ellsaesser-kap9 | mittel |
 | Formaldehydabspalter | formaldehyd-abspalter.md | Rechtsstand (Konsolidierung 18.05.2026 für Grenzwerte, VO 2022/1181 am Verordnungstext): VO (EU) 2022/1181 „releases formaldehyde“ ab 10 ppm, Fristen bis 31.07.2026 abgelaufen; Grenzwerte Anh. V Stand 2014; Quaternium-15 verboten (VO (EU) 2019/831) | VO 2022/1181 | hoch |
 | Isothiazolinone | isothiazolinone.md | Rechtsstand (Konsolidierung 18.05.2026 geprüft): MI nur Rinse-off, max. 0,0015 %; MCI/MI 0,0015 % Rinse-off | VO 2017/1224 | hoch |
 | Iodopropynyl Butylcarbamate | ipbc.md | Rechtsstand (Konsolidierung 18.05.2026 geprüft): 0,01 / 0,02 / 0,0075 % je Produkttyp | RL 2007/22/EG | mittel |
