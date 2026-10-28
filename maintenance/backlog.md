@@ -22,3 +22,7 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Konservierungsstoffe (Anhang V) – häufigste 10
 - [x] Tenside: Klassen und Beispiele (`begriff:tensid`, 2026-10-28)
 - [ ] KosmetikV 2014: Kurzinhalt aller Paragrafen
+- [x] Übertrag Runde 6: Herrmann/Trinkkeller Kap. 5 und 27 → 10 `behandlung:` und Praxishygiene (2026-10-28)
+- [ ] `recht:nisv` anlegen (Laser, IPL, Hochfrequenz; Arztvorbehalt und Fachkunde) und mit Laser-, Haarentfernungs- und Narbeneinträgen verknüpfen
+- [ ] `recht:taetowiermittel` (Tätowiermittel-Verordnung, REACH-Beschränkung Tätowierfarben) für Permanent Make-up
+- [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11), Kap. 30–31 (Pflege im Alter, Botulinum, Filler, Microneedling, Kryolipolyse)

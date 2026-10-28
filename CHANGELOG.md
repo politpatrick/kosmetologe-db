@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 6 (Herrmann/Trinkkeller → Behandlungen)
+- 10 neue Behandlungen: Hautanalyse, Dermabrasion, Kryotherapie, Laserbehandlung, Narbenbehandlung, Milienentfernung,
+  Haarentfernung, Iontophorese, Camouflage, Permanent Make-up
+- Neuer Begriff: Praxishygiene
+- Ausreinigung nach dem Original neu gefasst (Fingertechnik statt Komedonenheber, Papeln nie manipulieren)
+- Chemisches Peeling: Peelingarten, Aufklärung, Lichtschutz nach dem Peeling
+- Ärztliche Verfahren und NiSV-Hinweise gekennzeichnet; rechtliche Ergänzungen zur Prüfung markiert
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 5 (Springer-Lexikon → Fundstellen)
 - 101 Einträge mit Stichwort-Fundstellen aus dem Springer-Lexikon belegt (80 neu als Quelle, 21 bisher ohne Stichwort)
 - INCI-Bezeichnungen der Wirkstoffe gegen die Lexikon-Stichwörter abgeglichen: keine Abweichung gefunden
