@@ -9,7 +9,7 @@ stand: Konsolidierte Fassung vom 18.05.2026 (CELEX 02009R1223-20260518)
 url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R1223-20260518
 kurz: Zugelassene UV-Filter mit Höchstkonzentrationen; 4-MBC und 3-BC sind inzwischen in Anhang II verboten.
 tags: [recht, eu, uv-filter, sonnenschutz]
-verwandt: [recht:eu-kosmetikverordnung, recht:anhang-ii-arzneistoffe]
+verwandt: [recht:eu-kosmetikverordnung, recht:anhang-ii-arzneistoffe, recht:vo-2024-996]
 quellen:
   - id: quelle:kosmetologe-projekt
     fundstelle: _Rechtsstand-UV-Filter-Anhang-VI.md (2026-10-26)

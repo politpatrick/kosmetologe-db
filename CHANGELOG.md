@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Wöchentliche Prüfung
+- `recht:vo-2024-996` am Amtsblatt-Text geprüft: Anhang VI und 4-MBC ergänzt, Grenzwerte und Übergangsfristen tabelliert
+- `recht:eu-kosmetikverordnung` gegen konsolidierte Fassung 18.05.2026 geprüft, URL aktualisiert, Art. 19/20 präzisiert
+- `begriff:hlb-wert`, `formulierung:emulsion-ow` geprüft (Fundstellen korrigiert); `formulierung:emulsion-wo` teilgeprüft, Beleg für Magnesiumsulfat offen
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 1 (Herrmann/Trinkkeller → haut)
 - 19 neue `haut:`-Einträge in eigenen Worten mit Kapitel- und Seitenangabe: Effloreszenzen (Macula, Pustel, Zyste), Pigment (Melasma, PIH, Vitiligo, Pigmentnaevus, Melanom), Verhornung (follikuläre Hyperkeratose, aktinische und seborrhoische Keratose, Milien), Talgdrüse (Talgdrüsenhyperplasie, periorale Dermatitis), Ekzeme (Kontakt, seborrhoisch, Neurodermitis), Gefäße (Teleangiektasien), Herpes simplex
 - Akne, Rosazea, Papel: Fundstellen mit Seiten, Verknüpfungen ergänzt

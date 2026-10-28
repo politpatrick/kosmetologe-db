@@ -21,13 +21,21 @@
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 2"
+          "fundstelle": "Kap. 6.4, S. 114 und 120–121 (Tab. 6.1)"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Abschnitt Emulsionen"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
       "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
       "pfad": "data/begriffe/hlb-wert.md",
-      "verweise_von": []
+      "verweise_von": [
+        "formulierung:emulsion-ow",
+        "formulierung:emulsion-wo"
+      ]
     },
     {
       "id": "begriff:inci",
@@ -145,23 +153,25 @@
         "Feuchthaltemittel",
         "Konservierung"
       ],
-      "stabilitaet": "Aufrahmung, Ostwald-Reifung, Koaleszenz; Viskositätsaufbau in der Wasserphase stabilisiert.",
+      "stabilitaet": "Aufrahmung, Flockung, Ostwald-Reifung, Koaleszenz; Viskositätsaufbau in der Wasserphase bremst das Aufrahmen.",
       "kurz": "Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen.",
       "tags": [
         "emulsion"
       ],
       "verwandt": [
         "formulierung:emulsion-wo",
+        "begriff:hlb-wert",
         "wirkstoff:glycerin"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 6"
+          "fundstelle": "Kap. 6.3–6.4, S. 115–121"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
       "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
       "pfad": "data/formulierungen/emulsion-ow.md",
       "verweise_von": [
         "begriff:hlb-wert",
@@ -189,12 +199,17 @@
       ],
       "verwandt": [
         "formulierung:emulsion-ow",
+        "begriff:hlb-wert",
         "haut:sebostase"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 6"
+          "fundstelle": "Kap. 6.3–6.4, S. 114–121"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Abschnitte Emulsionen und Kälteschutz"
         }
       ],
       "status": "entwurf",
@@ -1329,7 +1344,9 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/quellen/ellsaesser-koerperpflegekunde.md",
       "verweise_von": [
+        "begriff:hlb-wert",
         "behandlung:ausreinigung",
+        "formulierung:emulsion-wo",
         "haut:sebostase",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
@@ -1389,6 +1406,7 @@
         "recht:anhang-iii-duftstoff-allergene",
         "recht:anhang-vi-uv-filter",
         "recht:eu-kosmetikverordnung",
+        "recht:vo-2024-996",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
         "wirkstoff:ammoniumthioglykolat",
@@ -1840,6 +1858,7 @@
       "pfad": "data/recht/anhang-ii-arzneistoffe.md",
       "verweise_von": [
         "recht:anhang-vi-uv-filter",
+        "recht:eu-kosmetikverordnung",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:benzophenon-1",
         "wirkstoff:benzophenon-2",
@@ -1897,6 +1916,7 @@
       "pfad": "data/recht/anhang-iii-duftstoff-allergene.md",
       "verweise_von": [
         "haut:kontaktekzem",
+        "recht:eu-kosmetikverordnung",
         "wirkstoff:benzylalkohol",
         "wirkstoff:menthol"
       ]
@@ -1922,7 +1942,8 @@
       ],
       "verwandt": [
         "recht:eu-kosmetikverordnung",
-        "recht:anhang-ii-arzneistoffe"
+        "recht:anhang-ii-arzneistoffe",
+        "recht:vo-2024-996"
       ],
       "quellen": [
         {
@@ -1943,6 +1964,7 @@
         "haut:malignes-melanom",
         "haut:vitiligo",
         "recht:anhang-ii-arzneistoffe",
+        "recht:eu-kosmetikverordnung",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:avobenzon",
         "wirkstoff:benzophenon-1",
@@ -1967,7 +1989,7 @@
       ],
       "norm": "VO (EG) 1223/2009",
       "geltung": "EU",
-      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R1223-20250501",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R1223-20260518",
       "kurz": "Zentrale EU-Regelung für Sicherheit, Kennzeichnung, Inhaltsstoffe (Anhänge II–VI) und Notifizierung kosmetischer Mittel.",
       "tags": [
         "recht",
@@ -1976,15 +1998,21 @@
         "kennzeichnung"
       ],
       "verwandt": [
-        "recht:kosmetikv-2014"
+        "recht:kosmetikv-2014",
+        "recht:vo-2024-996",
+        "recht:anhang-ii-arzneistoffe",
+        "recht:anhang-iii-duftstoff-allergene",
+        "recht:anhang-vi-uv-filter"
       ],
       "quellen": [
         {
-          "id": "quelle:eur-lex"
+          "id": "quelle:eur-lex",
+          "fundstelle": "Konsolidierte Fassung 02009R1223-20260518, Art. 4, 5, 10, 11, 13, 19, 20"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
       "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/eu-kosmetikverordnung.md",
       "verweise_von": [
@@ -2106,11 +2134,11 @@
     {
       "id": "recht:vo-2024-996",
       "typ": "recht",
-      "titel": "Verordnung (EU) 2024/996 – Änderung der Anhänge II, III und V",
+      "titel": "Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI",
       "norm": "VO (EU) 2024/996",
       "geltung": "EU",
       "url": "https://eur-lex.europa.eu/eli/reg/2024/996/oj",
-      "kurz": "Setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.",
+      "kurz": "Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.",
       "tags": [
         "recht",
         "eu",
@@ -2120,26 +2148,35 @@
         "recht:eu-kosmetikverordnung",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
         "wirkstoff:arbutin",
         "wirkstoff:kojisaeure",
         "wirkstoff:genistein-daidzein",
         "wirkstoff:triclosan",
-        "wirkstoff:triclocarban"
+        "wirkstoff:triclocarban",
+        "wirkstoff:methylbenzyliden-campher"
       ],
       "quellen": [
         {
-          "id": "quelle:kosmetologe-projekt",
-          "fundstelle": "Impact-Liste, Stand 2026-10-23"
+          "id": "quelle:eur-lex",
+          "fundstelle": "ABl. L, 2024/996 vom 4.4.2024, Art. 1–2 und Anhang Nr. 1–4"
         },
         {
           "id": "quelle:sccs"
+        },
+        {
+          "id": "quelle:kosmetologe-projekt",
+          "fundstelle": "Impact-Liste, Stand 2026-10-23"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
       "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/vo-2024-996.md",
       "verweise_von": [
+        "recht:anhang-vi-uv-filter",
+        "recht:eu-kosmetikverordnung",
         "wirkstoff:arbutin",
         "wirkstoff:genistein-daidzein",
         "wirkstoff:kojisaeure",
@@ -3433,7 +3470,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/methylbenzyliden-campher.md",
-      "verweise_von": []
+      "verweise_von": [
+        "recht:vo-2024-996"
+      ]
     },
     {
       "id": "wirkstoff:minoxidil",
@@ -4049,6 +4088,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/retinyl-palmitat.md",
       "verweise_von": [
+        "recht:vo-2024-996",
         "wirkstoff:retinol"
       ]
     },
