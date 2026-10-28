@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 11 (Ellsässer Kap. 4 → weitere Wirkstoffe, mit Studienrecherche)
+- 8 neue Wirkstoffe: Propolis, Selen, Resveratrol (mit Polyphenol-Übersicht), Pyridoxin, Carotinoide (inkl. β-Carotin),
+  α-Liponsäure, Kristall-Mittagsblume, Madecassosid (eigene Datei, bisher bei Centella mitbehandelt)
+- PubMed-Recherche für alle acht: `evidenz` und `impact` gesetzt, Abschnitt „Studienlage“ mit DOIs,
+  Bericht `berichte/recherche/2026-10-28_ellsaesser-kap4.md`, Impact-Liste nachgeführt
+- Wichtige Befunde: Propolis ist ein häufiges Kontaktallergen (5,5 % in der europäischen Standardreihe);
+  Resveratrol topisch allein ohne Faltennutzen; für die Talgwirkung von Vitamin B6 keine Studie
+- Hinweise zur Quelle: kein INCI „Selen“, INCI von Propolis, Systemwirkungen der Polyphenole; Rechtsstand Selen offen
+
 ## 2026-10-28 – Aluminium (SCCS) und Siloxane (REACH)
 - Neuer Wirkstoff `wirkstoff:aluminiumsalze` mit SCCS/1662/23 (Final Opinion 2024, PDF gelesen)
 - Neuer Rechtseintrag `recht:reach-siloxane` (VO (EU) 2024/1328, D4/D5/D6)
