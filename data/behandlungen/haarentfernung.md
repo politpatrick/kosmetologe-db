@@ -29,6 +29,7 @@ verwandt:
 - behandlung:laserbehandlung
 - wirkstoff:ammoniumthioglykolat
 - wirkstoff:wasserstoffperoxid
+- recht:nisv
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.12, S. 227–233
@@ -52,4 +53,4 @@ nie beim Ein- oder Ausführen. Danach desinfizieren, in der hellen Jahreszeit Li
 - Langwierige Behandlung: Erwartungen dämpfen.
 
 ## Recht
-Rechtsrahmen: Seit 2021 regelt die NiSV (Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung) Laser-, IPL- und Hochfrequenzanwendungen an Menschen. Viele dieser Verfahren sind Ärztinnen und Ärzten vorbehalten, für andere ist ein Fachkundenachweis nötig (eigene Ergänzung, nicht aus der Quelle; beim Review gegen die NiSV prüfen).
+Rechtsrahmen: Seit 2021 regelt die NiSV (Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung) Laser-, IPL- und Hochfrequenzanwendungen an Menschen. Viele dieser Verfahren sind Ärztinnen und Ärzten vorbehalten, für andere ist ein Fachkundenachweis nötig Details siehe `recht:nisv`.

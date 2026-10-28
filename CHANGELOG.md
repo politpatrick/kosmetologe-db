@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Recht: NiSV und Tätowiermittel
+- `recht:nisv`: Arztvorbehalte und Fachkundepflicht für Laser, IPL, Hochfrequenz, Ultraschall; Betreiberpflichten (aus dem amtlichen Text)
+- `recht:taetowiermittel`: TätoV und REACH Anhang XVII Eintrag 75 für Tätowierfarben und Permanent Make-up
+- Laser, Haarentfernung, Iontophorese, Narbenbehandlung und Permanent Make-up mit den Rechtseinträgen verknüpft
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 6 (Herrmann/Trinkkeller → Behandlungen)
 - 10 neue Behandlungen: Hautanalyse, Dermabrasion, Kryotherapie, Laserbehandlung, Narbenbehandlung, Milienentfernung,
   Haarentfernung, Iontophorese, Camouflage, Permanent Make-up

@@ -150,13 +150,15 @@
 - `formulierung:shampoo` [Shampoo](data/formulierungen/shampoo.md) – Reinigt Haar und Kopfhaut von Talg und Rückständen; Kombination aus anionischem und amphoterem Tensid macht es milder. [entwurf]
 - `formulierung:sonnenschutz-mineralisch` [Mineralischer Sonnenschutz (TiO₂/ZnO-Dispersion)](data/formulierungen/sonnenschutz-mineralisch.md) – Sonnenschutz mit Titandioxid oder Zinkoxid, die UV absorbieren und streuen; breites Spektrum, gut verträglich, Partikelgröße entscheidet. [entwurf]
 
-## recht (7)
+## recht (9)
 - `recht:anhang-ii-arzneistoffe` [Arzneistoffe in Anhang II (Verbotsliste) der VO (EG) 1223/2009](data/recht/anhang-ii-arzneistoffe.md) – Welche dermatologischen Arzneistoffe namentlich oder über Gruppeneinträge (Antibiotika, Glucocorticoide …) in Kosmetika verboten sind.
 - `recht:anhang-iii-duftstoff-allergene` [Duftstoff-Allergene – Anhang III Nr. 327–371 (VO (EU) 2023/1545)](data/recht/anhang-iii-duftstoff-allergene.md) – 45 neu kennzeichnungspflichtige Duftstoffe ab 0,001 % (Leave-on) bzw. 0,01 % (Rinse-off); Bereitstellung nicht konformer Ware bis 31.07.2028.
 - `recht:anhang-vi-uv-filter` [UV-Filter – Anhang VI (und Verbote in Anhang II) der VO (EG) 1223/2009](data/recht/anhang-vi-uv-filter.md) – Zugelassene UV-Filter mit Höchstkonzentrationen; 4-MBC und 3-BC sind inzwischen in Anhang II verboten.
 - `recht:eu-kosmetikverordnung` [Verordnung (EG) Nr. 1223/2009 über kosmetische Mittel](data/recht/eu-kosmetikverordnung.md) – Zentrale EU-Regelung für Sicherheit, Kennzeichnung, Inhaltsstoffe (Anhänge II–VI) und Notifizierung kosmetischer Mittel.
 - `recht:kosmetikermstrv` [Kosmetikermeisterverordnung (KosmetikerMstrV)](data/recht/kosmetikermstrv.md) – Regelt die Meisterprüfung (Teile I und II) im Kosmetiker-Gewerbe und damit das berufliche Kompetenzprofil.
 - `recht:kosmetikv-2014` [Kosmetik-Verordnung (KosmetikV 2014)](data/recht/kosmetikv-2014.md) – Deutsche Ergänzung zur EU-Kosmetikverordnung – Anzeigepflichten, Sprache der Kennzeichnung, Giftnotruf-Meldungen, Ordnungswidrigkeiten.
+- `recht:nisv` [Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen (NiSV)](data/recht/nisv.md) – Regelt gewerbliche, nichtmedizinische Anwendungen von Laser, IPL, Hochfrequenz, Ultraschall, Nieder- und Gleichstrom am Menschen – mit Arztvorbehalt für bestimmte Verfahren und Fachkundepflicht für alle anderen. [entwurf]
+- `recht:taetowiermittel` [Tätowiermittel und Permanent Make-up (TätoV und REACH-Beschränkung)](data/recht/taetowiermittel.md) – Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75. [entwurf]
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
 ## begriff (15)

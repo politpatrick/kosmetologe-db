@@ -25,6 +25,7 @@ verwandt:
 - behandlung:laserbehandlung
 - behandlung:dermabrasion
 - wirkstoff:aha
+- recht:nisv
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.9, S. 222–225; Kap. 26

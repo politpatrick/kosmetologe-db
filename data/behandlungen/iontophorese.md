@@ -22,6 +22,7 @@ tags:
 - geraet
 verwandt:
 - haut:hyperhidrose
+- recht:nisv
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.13, S. 233–234
