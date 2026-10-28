@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 4 (Tadros → formulierung, begriff)
+- 7 neue Formulierungen: Nanoemulsion, Mehrfachemulsion (W/O/W), Liposomen, flüssigkristalline Phasen, Shampoo,
+  Haarspülung, mineralischer Sonnenschutz
+- 3 neue Begriffe: Tensid, Mizelle/CMC, Emulsionszerfall
+- Rechtliche Ergänzungen (Nano-Kennzeichnung) als eigene Ergänzung markiert
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 3 (Ellsässer → haut, begriff)
 - 6 neue Hautzustände: normale, fettige/unreine, reife und sensible Haut, Baby- und Kinderhaut, Cellulite/Lipödem
 - 9 neue Begriffe: Säureschutzmantel, Hydrolipidfilm, NMF, Komedogenität, Konservierungsmittel, Antioxidans, Syndet,
