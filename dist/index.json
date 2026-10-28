@@ -1,7 +1,39 @@
 {
   "schema_version": 1,
-  "anzahl": 136,
+  "anzahl": 151,
   "eintraege": [
+    {
+      "id": "begriff:antioxidans",
+      "typ": "begriff",
+      "titel": "Antioxidans",
+      "aliase": [
+        "Antioxidantien",
+        "Radikalfänger"
+      ],
+      "kurz": "Stoff, der Inhaltsstoffe vor dem Ranzigwerden schützt bzw. in der Haut freie Radikale abfängt, z. B. Vitamin E und C.",
+      "tags": [
+        "inhaltsstoffe",
+        "stabilitaet",
+        "uv"
+      ],
+      "verwandt": [
+        "wirkstoff:ascorbinsaeure",
+        "begriff:konservierungsmittel",
+        "haut:chronischer-lichtschaden"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 3.2, S. 57–58; Kap. 4.6"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/antioxidans.md",
+      "verweise_von": [
+        "begriff:konservierungsmittel"
+      ]
+    },
     {
       "id": "begriff:hlb-wert",
       "typ": "begriff",
@@ -38,6 +70,40 @@
       ]
     },
     {
+      "id": "begriff:hydrolipidfilm",
+      "typ": "begriff",
+      "titel": "Hydrolipidfilm",
+      "aliase": [
+        "Hydrolipidmantel",
+        "Oberflächenfilm der Haut"
+      ],
+      "kurz": "Emulsionsartiger Film aus Talg, Schweiß und Hautlipiden auf der Hornschicht; schützt vor Austrocknung und Chemikalien.",
+      "tags": [
+        "barriere"
+      ],
+      "verwandt": [
+        "begriff:saeureschutzmantel",
+        "begriff:nmf",
+        "haut:sebostase",
+        "formulierung:emulsion-ow",
+        "formulierung:emulsion-wo"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.5.3, S. 30–31"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/hydrolipidfilm.md",
+      "verweise_von": [
+        "begriff:nmf",
+        "begriff:saeureschutzmantel",
+        "haut:sebostase"
+      ]
+    },
+    {
       "id": "begriff:inci",
       "typ": "begriff",
       "titel": "INCI",
@@ -57,6 +123,237 @@
       "pfad": "data/begriffe/inci.md",
       "verweise_von": [
         "recht:anhang-iii-duftstoff-allergene"
+      ]
+    },
+    {
+      "id": "begriff:komedogenitaet",
+      "typ": "begriff",
+      "titel": "Komedogenität",
+      "aliase": [
+        "komedogen",
+        "nicht komedogen",
+        "aknegen"
+      ],
+      "kurz": "Eigenschaft eines Stoffes, Mitesser zu begünstigen; heute mangels zugelassener Tests kaum belegbar.",
+      "tags": [
+        "akne",
+        "inhaltsstoffe"
+      ],
+      "verwandt": [
+        "haut:fettige-haut",
+        "haut:akne-vulgaris"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.8, S. 113–114"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/komedogenitaet.md",
+      "verweise_von": [
+        "haut:fettige-haut"
+      ]
+    },
+    {
+      "id": "begriff:konservierungsmittel",
+      "typ": "begriff",
+      "titel": "Konservierungsmittel",
+      "aliase": [
+        "Konservierungsstoffe",
+        "Konservierung"
+      ],
+      "kurz": "Zusätze, die das Keimwachstum in wasserhaltigen Kosmetika hemmen; zulässige Stoffe regelt Anhang V der EU-Kosmetikverordnung.",
+      "tags": [
+        "inhaltsstoffe",
+        "stabilitaet"
+      ],
+      "verwandt": [
+        "recht:eu-kosmetikverordnung",
+        "wirkstoff:parabene",
+        "wirkstoff:isothiazolinone",
+        "wirkstoff:benzylalkohol",
+        "wirkstoff:formaldehyd-abspalter",
+        "begriff:antioxidans"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 3.1, S. 50–57"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/konservierungsmittel.md",
+      "verweise_von": [
+        "begriff:antioxidans"
+      ]
+    },
+    {
+      "id": "begriff:lichtschutzfaktor",
+      "typ": "begriff",
+      "titel": "Lichtschutzfaktor (LSF)",
+      "aliase": [
+        "LSF",
+        "SPF",
+        "Sun Protection Factor"
+      ],
+      "kurz": "Maß für den Schutz vor UVB-bedingtem Sonnenbrand; sagt nichts über UVA-Schutz oder Langzeitschäden aus.",
+      "tags": [
+        "uv",
+        "sonnenschutz"
+      ],
+      "verwandt": [
+        "begriff:uva-schutz",
+        "haut:sonnenbrand",
+        "recht:anhang-vi-uv-filter",
+        "wirkstoff:octocrylen",
+        "wirkstoff:zinkoxid",
+        "wirkstoff:titandioxid"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 8.3.3, S. 235–237"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/lichtschutzfaktor.md",
+      "verweise_von": [
+        "begriff:uva-schutz"
+      ]
+    },
+    {
+      "id": "begriff:nmf",
+      "typ": "begriff",
+      "titel": "NMF (natürliche Feuchthaltefaktoren)",
+      "aliase": [
+        "Natural Moisturizing Factors",
+        "Feuchthaltefaktoren"
+      ],
+      "kurz": "Kleine wasserbindende Moleküle in der Hornschicht, z. B. Aminosäuren, Harnstoff, Milchsäure, PCA; entscheidend für die Hautfeuchte.",
+      "tags": [
+        "feuchtigkeit",
+        "barriere"
+      ],
+      "verwandt": [
+        "wirkstoff:urea",
+        "wirkstoff:glycerin",
+        "begriff:hydrolipidfilm",
+        "haut:sebostase"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.5.4, S. 30"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/nmf.md",
+      "verweise_von": [
+        "begriff:hydrolipidfilm",
+        "haut:sebostase"
+      ]
+    },
+    {
+      "id": "begriff:saeureschutzmantel",
+      "typ": "begriff",
+      "titel": "Säureschutzmantel",
+      "aliase": [
+        "Hautoberflächen-pH",
+        "pH-Wert der Haut"
+      ],
+      "kurz": "Leicht saurer Film auf der Haut (pH etwa 4,5–5,5) aus Schweiß und Talg; hemmt Keime und stabilisiert die Barriere.",
+      "tags": [
+        "barriere",
+        "ph"
+      ],
+      "verwandt": [
+        "begriff:hydrolipidfilm",
+        "begriff:syndet",
+        "haut:babyhaut"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.5.2, S. 30; Kap. 2.6.1, S. 33"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/saeureschutzmantel.md",
+      "verweise_von": [
+        "begriff:hydrolipidfilm",
+        "begriff:syndet"
+      ]
+    },
+    {
+      "id": "begriff:syndet",
+      "typ": "begriff",
+      "titel": "Syndet",
+      "aliase": [
+        "synthetisches Detergens",
+        "seifenfreies Waschstück"
+      ],
+      "kurz": "Waschstück aus synthetischen Tensiden statt Seife; hautfreundlich einstellbar, z. B. auf leicht sauren pH.",
+      "tags": [
+        "reinigung",
+        "tenside"
+      ],
+      "verwandt": [
+        "begriff:saeureschutzmantel",
+        "haut:fettige-haut",
+        "haut:sebostase",
+        "haut:psoriasis"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 5.3.2, S. 128"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/syndet.md",
+      "verweise_von": [
+        "begriff:saeureschutzmantel"
+      ]
+    },
+    {
+      "id": "begriff:uva-schutz",
+      "typ": "begriff",
+      "titel": "UVA-Schutz",
+      "aliase": [
+        "UVA-Schutzfaktor",
+        "UVA-PF",
+        "PPD"
+      ],
+      "kurz": "Schutz vor langwelliger UV-Strahlung, die ohne Sonnenbrand Langzeitschäden verursacht; in der EU mindestens ein Drittel des LSF.",
+      "tags": [
+        "uv",
+        "sonnenschutz"
+      ],
+      "verwandt": [
+        "begriff:lichtschutzfaktor",
+        "haut:chronischer-lichtschaden",
+        "haut:polymorphe-lichtdermatose",
+        "wirkstoff:avobenzon",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 8.3.4, S. 238–239"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/uva-schutz.md",
+      "verweise_von": [
+        "begriff:lichtschutzfaktor"
       ]
     },
     {
@@ -175,7 +472,9 @@
       "pfad": "data/formulierungen/emulsion-ow.md",
       "verweise_von": [
         "begriff:hlb-wert",
-        "formulierung:emulsion-wo"
+        "begriff:hydrolipidfilm",
+        "formulierung:emulsion-wo",
+        "haut:normale-haut"
       ]
     },
     {
@@ -217,6 +516,7 @@
       "pfad": "data/formulierungen/emulsion-wo.md",
       "verweise_von": [
         "begriff:hlb-wert",
+        "begriff:hydrolipidfilm",
         "formulierung:emulsion-ow",
         "haut:sebostase"
       ]
@@ -269,6 +569,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/akne-vulgaris.md",
       "verweise_von": [
+        "begriff:komedogenitaet",
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
         "haut:effloreszenz-erosion",
@@ -276,6 +577,7 @@
         "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
         "haut:effloreszenz-zyste",
+        "haut:fettige-haut",
         "haut:follikulitis",
         "haut:postinflammatorische-hyperpigmentierung",
         "wirkstoff:azelainsaeure",
@@ -411,6 +713,47 @@
       ]
     },
     {
+      "id": "haut:babyhaut",
+      "typ": "haut",
+      "titel": "Baby- und Kinderhaut",
+      "aliase": [
+        "Babyhaut",
+        "Kinderhaut",
+        "Säuglingshaut"
+      ],
+      "kategorie": "hauttyp",
+      "merkmale": [
+        "sehr dünn, durchlässige Hornschicht",
+        "wenig Talg und Schweiß",
+        "pH sinkt erst in den ersten Wochen auf etwa 5,5"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "kurz": "Dünne, durchlässige Haut mit unreifer Barriere und ohne Lichtschwiele; sparsam pflegen, Sonne meiden.",
+      "tags": [
+        "hauttyp",
+        "kinder",
+        "barriere",
+        "uv"
+      ],
+      "verwandt": [
+        "haut:neurodermitis",
+        "haut:sonnenbrand",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.7.11, S. 47"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/babyhaut.md",
+      "verweise_von": [
+        "begriff:saeureschutzmantel"
+      ]
+    },
+    {
       "id": "haut:besenreiser",
       "typ": "haut",
       "titel": "Besenreiser (Venektasien)",
@@ -446,6 +789,43 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/besenreiser.md",
+      "verweise_von": []
+    },
+    {
+      "id": "haut:cellulite",
+      "typ": "haut",
+      "titel": "Cellulite und Lipödem",
+      "aliase": [
+        "Cellulitis",
+        "Orangenhaut",
+        "Lipödem"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "Dellen und wellige Oberfläche an Oberschenkeln und Gesäß",
+        "nur bei Frauen",
+        "Lipödem: schmerzhafte, symmetrische Fettverteilungsstörung"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "schmerzhafte, druckempfindliche Beine",
+        "Schwellungen",
+        "deutliche Unterschiede zwischen Rumpf und Beinen"
+      ],
+      "kurz": "Wellige Hautstruktur durch Veränderungen im Binde- und Fettgewebe bei Frauen; Lipödem ist eine eigene, ärztlich zu behandelnde Erkrankung.",
+      "tags": [
+        "koerper",
+        "bindegewebe"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.7.12, S. 47–48"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/cellulite.md",
       "verweise_von": []
     },
     {
@@ -490,6 +870,9 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/chronischer-lichtschaden.md",
       "verweise_von": [
+        "begriff:antioxidans",
+        "begriff:uva-schutz",
+        "haut:reife-haut",
         "haut:sonnenbrand"
       ]
     },
@@ -951,6 +1334,57 @@
       ]
     },
     {
+      "id": "haut:fettige-haut",
+      "typ": "haut",
+      "titel": "Fettige Haut (Seborrhoe) und unreine Haut",
+      "aliase": [
+        "Seborrhoe",
+        "fett-feuchte Haut",
+        "Seborrhoea oleosa",
+        "unreine Haut",
+        "Präakne"
+      ],
+      "kategorie": "hauttyp",
+      "merkmale": [
+        "glänzend, grobporig, dick",
+        "widerstandsfähig gegen Reize",
+        "bei unreiner Haut Mitesser und einzelne Pusteln"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "aerztlich_abklaeren": [
+        "Übergang zu entzündlicher Akne mit Knoten oder Narben"
+      ],
+      "kurz": "Talgreiche, glänzende und grobporige Haut, meist von der Pubertät bis Mitte 20; Talg binden, Komedogenes meiden, Unreinheiten vorbeugen.",
+      "tags": [
+        "hauttyp",
+        "seborrhoe",
+        "talgdruese"
+      ],
+      "verwandt": [
+        "haut:akne-vulgaris",
+        "haut:mischhaut",
+        "begriff:komedogenitaet",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:niacinamid",
+        "wirkstoff:zink"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.7.5, S. 39–40; Kap. 7.1.2 und 7.1.4, S. 192–195"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/fettige-haut.md",
+      "verweise_von": [
+        "begriff:komedogenitaet",
+        "begriff:syndet",
+        "haut:mischhaut",
+        "haut:normale-haut"
+      ]
+    },
+    {
       "id": "haut:follikulaere-hyperkeratose",
       "typ": "haut",
       "titel": "Follikuläre Hyperkeratose",
@@ -1326,7 +1760,8 @@
       "pfad": "data/haut/kontaktekzem.md",
       "verweise_von": [
         "haut:effloreszenz-rhagade",
-        "haut:neurodermitis"
+        "haut:neurodermitis",
+        "haut:sensible-haut"
       ]
     },
     {
@@ -1479,12 +1914,25 @@
       "tags": [
         "hauttyp"
       ],
+      "verwandt": [
+        "haut:fettige-haut",
+        "haut:normale-haut",
+        "haut:sebostase"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.7.4, S. 38–39; Kap. 7.1.3, S. 194"
+        }
+      ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/mischhaut.md",
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "haut:fettige-haut",
+        "haut:normale-haut",
         "haut:talgdruesenhyperplasie",
         "wirkstoff:glycerin",
         "wirkstoff:niacinamid",
@@ -1573,7 +2021,46 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/neurodermitis.md",
       "verweise_von": [
+        "haut:babyhaut",
         "haut:impetigo-contagiosa"
+      ]
+    },
+    {
+      "id": "haut:normale-haut",
+      "typ": "haut",
+      "titel": "Normale Haut",
+      "aliase": [
+        "Eudermie",
+        "normaler Hautzustand"
+      ],
+      "kategorie": "hauttyp",
+      "merkmale": [
+        "feinporig, glatt, matt bis seidig",
+        "rosig, ohne Unreinheiten",
+        "kein Spannen oder Jucken"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "kurz": "Ausgeglichener Hautzustand, eher selten und meist bei jungen Menschen; Ziel der Pflege ist, ihn zu erhalten.",
+      "tags": [
+        "hauttyp"
+      ],
+      "verwandt": [
+        "haut:mischhaut",
+        "haut:sebostase",
+        "haut:fettige-haut",
+        "formulierung:emulsion-ow"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.7.3, S. 38; Kap. 7.1.1, S. 191–192"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/normale-haut.md",
+      "verweise_von": [
+        "haut:mischhaut"
       ]
     },
     {
@@ -1780,7 +2267,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/polymorphe-lichtdermatose.md",
-      "verweise_von": []
+      "verweise_von": [
+        "begriff:uva-schutz"
+      ]
     },
     {
       "id": "haut:postinflammatorische-hyperpigmentierung",
@@ -1867,8 +2356,52 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/psoriasis.md",
       "verweise_von": [
+        "begriff:syndet",
         "haut:effloreszenz-schuppe",
         "haut:onychomykose"
+      ]
+    },
+    {
+      "id": "haut:reife-haut",
+      "typ": "haut",
+      "titel": "Reife Haut und Altershaut",
+      "aliase": [
+        "Altershaut",
+        "reife Haut",
+        "Faltenbildung"
+      ],
+      "kategorie": "hauttyp",
+      "merkmale": [
+        "dünn, trocken und fettarm",
+        "Falten, Runzeln, Elastizitätsverlust",
+        "leicht reizbar, juckt, kleine Einrisse"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "kurz": "Mit dem Alter dünner, trockener und weniger elastischer Hautzustand; schonend reinigen, Lipide und Feuchtigkeit zuführen, vor UV schützen.",
+      "tags": [
+        "hauttyp",
+        "alter",
+        "barriere"
+      ],
+      "verwandt": [
+        "haut:sebostase",
+        "haut:chronischer-lichtschaden",
+        "wirkstoff:retinol",
+        "wirkstoff:ceramid-np",
+        "wirkstoff:urea",
+        "wirkstoff:hyaluronsaeure"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.7.7, S. 41–42; Kap. 7.1.6–7.1.7, S. 197–198"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/reife-haut.md",
+      "verweise_von": [
+        "haut:sebostase"
       ]
     },
     {
@@ -1920,6 +2453,7 @@
         "haut:effloreszenz-pustel",
         "haut:periorale-dermatitis",
         "haut:seborrhoisches-ekzem",
+        "haut:sensible-haut",
         "haut:teleangiektasien",
         "wirkstoff:azelainsaeure",
         "wirkstoff:ceramid-np",
@@ -2047,21 +2581,32 @@
       "verwandt": [
         "wirkstoff:urea",
         "wirkstoff:glycerin",
-        "formulierung:emulsion-wo"
+        "formulierung:emulsion-wo",
+        "begriff:nmf",
+        "begriff:hydrolipidfilm",
+        "haut:reife-haut",
+        "haut:sensible-haut"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 2 Haut"
+          "fundstelle": "Kap. 2.7.6, S. 40–41; Kap. 7.1.5, S. 195–196"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/sebostase.md",
       "verweise_von": [
+        "begriff:hydrolipidfilm",
+        "begriff:nmf",
+        "begriff:syndet",
         "formulierung:emulsion-wo",
         "haut:effloreszenz-rhagade",
+        "haut:mischhaut",
         "haut:neurodermitis",
+        "haut:normale-haut",
+        "haut:reife-haut",
+        "haut:sensible-haut",
         "wirkstoff:glycerin",
         "wirkstoff:hyaluronsaeure",
         "wirkstoff:niacinamid",
@@ -2069,6 +2614,52 @@
         "wirkstoff:retinol",
         "wirkstoff:salicylsaeure",
         "wirkstoff:urea"
+      ]
+    },
+    {
+      "id": "haut:sensible-haut",
+      "typ": "haut",
+      "titel": "Sensible Haut (empfindliche Haut)",
+      "aliase": [
+        "empfindliche Haut",
+        "sensitive Haut",
+        "reaktive Haut"
+      ],
+      "kategorie": "hauttyp",
+      "merkmale": [
+        "Rötung, Spannen, Brennen oder Jucken nach Produkten",
+        "oft trocken-fettarm",
+        "geringe UV-Toleranz"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "aerztlich_abklaeren": [
+        "anhaltende Rötung mit Äderchen oder Pusteln",
+        "Verdacht auf Kontaktallergie"
+      ],
+      "kurz": "Kein medizinisch definierter Hauttyp: Haut reagiert leicht mit Rötung und Brennen; reizarme, kurze Pflegeroutinen.",
+      "tags": [
+        "hauttyp",
+        "sensibel",
+        "barriere"
+      ],
+      "verwandt": [
+        "haut:rosazea",
+        "haut:sebostase",
+        "haut:kontaktekzem",
+        "wirkstoff:panthenol",
+        "wirkstoff:glycerin"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2.7.8, S. 42–43; Kap. 7.1.8, S. 198"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/sensible-haut.md",
+      "verweise_von": [
+        "haut:sebostase"
       ]
     },
     {
@@ -2110,6 +2701,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/sonnenbrand.md",
       "verweise_von": [
+        "begriff:lichtschutzfaktor",
+        "haut:babyhaut",
         "haut:chronischer-lichtschaden",
         "haut:polymorphe-lichtdermatose"
       ]
@@ -2493,10 +3086,26 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/quellen/ellsaesser-koerperpflegekunde.md",
       "verweise_von": [
+        "begriff:antioxidans",
         "begriff:hlb-wert",
+        "begriff:hydrolipidfilm",
+        "begriff:komedogenitaet",
+        "begriff:konservierungsmittel",
+        "begriff:lichtschutzfaktor",
+        "begriff:nmf",
+        "begriff:saeureschutzmantel",
+        "begriff:syndet",
+        "begriff:uva-schutz",
         "behandlung:ausreinigung",
         "formulierung:emulsion-wo",
+        "haut:babyhaut",
+        "haut:cellulite",
+        "haut:fettige-haut",
+        "haut:mischhaut",
+        "haut:normale-haut",
+        "haut:reife-haut",
         "haut:sebostase",
+        "haut:sensible-haut",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
         "wirkstoff:ammoniumthioglykolat",
@@ -3146,7 +3755,10 @@
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/anhang-vi-uv-filter.md",
       "verweise_von": [
+        "begriff:lichtschutzfaktor",
+        "begriff:uva-schutz",
         "haut:aktinische-keratose",
+        "haut:babyhaut",
         "haut:chronischer-lichtschaden",
         "haut:malignes-melanom",
         "haut:polymorphe-lichtdermatose",
@@ -3206,6 +3818,7 @@
       "pfad": "data/recht/eu-kosmetikverordnung.md",
       "verweise_von": [
         "begriff:inci",
+        "begriff:konservierungsmittel",
         "kontext:fachliche-grundsaetze",
         "recht:anhang-ii-arzneistoffe",
         "recht:anhang-iii-duftstoff-allergene",
@@ -3582,7 +4195,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ascorbinsaeure.md",
-      "verweise_von": []
+      "verweise_von": [
+        "begriff:antioxidans"
+      ]
     },
     {
       "id": "wirkstoff:avobenzon",
@@ -3611,7 +4226,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/avobenzon.md",
-      "verweise_von": []
+      "verweise_von": [
+        "begriff:uva-schutz"
+      ]
     },
     {
       "id": "wirkstoff:azelainsaeure",
@@ -3841,7 +4458,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/benzylalkohol.md",
-      "verweise_von": []
+      "verweise_von": [
+        "begriff:konservierungsmittel"
+      ]
     },
     {
       "id": "wirkstoff:camellioside-a",
@@ -3900,6 +4519,7 @@
       "pfad": "data/wirkstoffe/ceramid-np.md",
       "verweise_von": [
         "haut:neurodermitis",
+        "haut:reife-haut",
         "wirkstoff:panthenol"
       ]
     },
@@ -4179,6 +4799,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/formaldehyd-abspalter.md",
       "verweise_von": [
+        "begriff:konservierungsmittel",
         "haut:kontaktekzem"
       ]
     },
@@ -4257,9 +4878,11 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/glycerin.md",
       "verweise_von": [
+        "begriff:nmf",
         "formulierung:emulsion-ow",
         "haut:neurodermitis",
         "haut:sebostase",
+        "haut:sensible-haut",
         "wirkstoff:hyaluronsaeure",
         "wirkstoff:urea"
       ]
@@ -4340,6 +4963,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/hyaluronsaeure.md",
       "verweise_von": [
+        "haut:reife-haut",
         "wirkstoff:glycerin"
       ]
     },
@@ -4463,6 +5087,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/isothiazolinone.md",
       "verweise_von": [
+        "begriff:konservierungsmittel",
         "haut:kontaktekzem"
       ]
     },
@@ -4806,6 +5431,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/niacinamid.md",
       "verweise_von": [
+        "haut:fettige-haut",
         "haut:melasma",
         "haut:postinflammatorische-hyperpigmentierung"
       ]
@@ -4876,7 +5502,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/octocrylen.md",
-      "verweise_von": []
+      "verweise_von": [
+        "begriff:lichtschutzfaktor"
+      ]
     },
     {
       "id": "wirkstoff:paba-derivate",
@@ -4967,6 +5595,7 @@
       "verweise_von": [
         "haut:neurodermitis",
         "haut:rosazea",
+        "haut:sensible-haut",
         "wirkstoff:ceramid-np"
       ]
     },
@@ -5004,7 +5633,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/parabene.md",
-      "verweise_von": []
+      "verweise_von": [
+        "begriff:konservierungsmittel"
+      ]
     },
     {
       "id": "wirkstoff:peptide",
@@ -5184,6 +5815,7 @@
       ],
       "pfad": "data/wirkstoffe/retinol.md",
       "verweise_von": [
+        "haut:reife-haut",
         "recht:vo-2024-996",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
@@ -5357,6 +5989,7 @@
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
         "haut:akne-vulgaris",
+        "haut:fettige-haut",
         "haut:follikulaere-hyperkeratose",
         "haut:psoriasis",
         "haut:verrucae-plantares",
@@ -5454,7 +6087,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/titandioxid.md",
-      "verweise_von": []
+      "verweise_von": [
+        "begriff:lichtschutzfaktor"
+      ]
     },
     {
       "id": "wirkstoff:tranexamsaeure",
@@ -5705,10 +6340,12 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/urea.md",
       "verweise_von": [
+        "begriff:nmf",
         "haut:effloreszenz-rhagade",
         "haut:follikulaere-hyperkeratose",
         "haut:neurodermitis",
         "haut:psoriasis",
+        "haut:reife-haut",
         "haut:sebostase",
         "wirkstoff:glycerin"
       ]
@@ -5829,6 +6466,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/zink.md",
       "verweise_von": [
+        "haut:fettige-haut",
         "haut:seborrhoisches-ekzem"
       ]
     },
@@ -5877,7 +6515,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/zinkoxid.md",
-      "verweise_von": []
+      "verweise_von": [
+        "begriff:lichtschutzfaktor"
+      ]
     }
   ]
 }
