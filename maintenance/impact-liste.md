@@ -50,7 +50,7 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Dead Sea Salt (Totes-Meer-Salz) | toten-meer-salz.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Cholesterol | cholesterol.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Phytosterole | phytosterole.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Squalane / Squalene | squalan.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Squalane / Squalene | squalan.md | keine (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
 | Linolsäure | linolsaeure.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | γ-Linolensäure | gamma-linolensaeure.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Phospholipide / Lecithin | phospholipide-lecithin.md | nicht bewertet (nur Lehrbuch) | – | offen |
@@ -72,13 +72,13 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Ascorbic Acid (Vitamin C) | ascorbinsaeure.md | moderat (SR 7 RCTs, n=139) | J Cosmet Dermatol 2023 | hoch |
 | Ascorbyl Palmitate | ascorbyl-palmitat.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Magnesium Ascorbyl Phosphate | magnesium-ascorbyl-phosphat.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Tocopherol (Vitamin E) | tocopherol.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Tocopherol (Vitamin E) | tocopherol.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | mittel |
 | Tocopheryl Acetate | tocopheryl-acetat.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Carotinoide | carotinoide.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | β-Carotin | beta-carotin.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Ubiquinone (Coenzym Q10) | ubiquinon.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Ubiquinone (Coenzym Q10) | ubiquinon.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
 | Thioctic Acid (α-Liponsäure) | thioctsaeure.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Camellia sinensis (Grüner Tee) | gruentee.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Camellia sinensis (Grüner Tee) | gruentee.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
 | Resveratrol | resveratrol.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | α-Glycosilrutin | glycosylrutin.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Traubenkernextrakt (OPC) | traubenkernextrakt.md | nicht bewertet (nur Lehrbuch) | – | offen |
@@ -125,14 +125,14 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 
 | Wirkstoff | Datei | Evidenz (Stand 2026-10) | Letzte relevante Publikation | Impact |
 |---|---|---|---|---|
-| Allantoin | allantoin.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Bisabolol | bisabolol.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Aloe Barbadensis | aloe-barbadensis.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Hamamelis | hamamelis.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Kamille | kamille.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Allantoin | allantoin.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
+| Bisabolol | bisabolol.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
+| Aloe Barbadensis | aloe-barbadensis.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | mittel |
+| Hamamelis | hamamelis.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
+| Kamille | kamille.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | niedrig |
 | Ringelblume | ringelblume.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Salbei | salbei.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Centella asiatica | centella-asiatica.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Centella asiatica | centella-asiatica.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | mittel |
 | Madecassoside | madecassosid.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Asiaticoside | asiaticosid.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Glycyrrhetinic Acid | glycyrrhetinsaeure.md | nicht bewertet (nur Lehrbuch) | – | offen |
@@ -147,7 +147,7 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Wirkstoff | Datei | Evidenz (Stand 2026-10) | Letzte relevante Publikation | Impact |
 |---|---|---|---|---|
 | Peptide (Kollagenpeptide) | peptide.md | schwach (Herstellerstudien, Kombinationsprodukte) | Dermatol Ther 2026 | mittel |
-| Coffein | coffein.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Coffein | coffein.md | moderat (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | mittel |
 
 ### UV-Filter
 
@@ -202,7 +202,7 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Clindamycin | clindamycin.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Erythromycin | erythromycin.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Oxytetracyclin | oxytetracyclin.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Teebaumöl (Melaleuca alternifolia) | teebaumoel.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Teebaumöl (Melaleuca alternifolia) | teebaumoel.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | mittel |
 
 ### Haar, Kopfhaut, Nägel
 

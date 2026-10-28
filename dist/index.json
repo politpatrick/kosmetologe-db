@@ -4701,23 +4701,31 @@
       "verweise_von": [
         "kontext:recherche-methodik",
         "wirkstoff:aha",
+        "wirkstoff:allantoin",
+        "wirkstoff:aloe-barbadensis",
         "wirkstoff:ascorbinsaeure",
         "wirkstoff:azelainsaeure",
         "wirkstoff:benzalkoniumchlorid",
         "wirkstoff:benzophenon-2",
         "wirkstoff:benzylalkohol",
+        "wirkstoff:bisabolol",
         "wirkstoff:camellioside-a",
+        "wirkstoff:centella-asiatica",
         "wirkstoff:ceramid-np",
         "wirkstoff:cetylpyridiniumchlorid",
         "wirkstoff:chlorhexidin",
+        "wirkstoff:coffein",
         "wirkstoff:dimethylphthalat",
         "wirkstoff:ethyl-ascorbinsaeure",
         "wirkstoff:exosomen",
         "wirkstoff:formaldehyd-abspalter",
+        "wirkstoff:gruentee",
+        "wirkstoff:hamamelis",
         "wirkstoff:hyaluronsaeure",
         "wirkstoff:hydrochinon",
         "wirkstoff:ipbc",
         "wirkstoff:isothiazolinone",
+        "wirkstoff:kamille",
         "wirkstoff:niacinamid",
         "wirkstoff:o-phenylphenol",
         "wirkstoff:paba-derivate",
@@ -4726,8 +4734,12 @@
         "wirkstoff:peptide",
         "wirkstoff:phmb",
         "wirkstoff:retinol",
+        "wirkstoff:squalan",
+        "wirkstoff:teebaumoel",
+        "wirkstoff:tocopherol",
         "wirkstoff:tranexamsaeure",
         "wirkstoff:triclosan",
+        "wirkstoff:ubiquinon",
         "wirkstoff:xep-716-miniprotein"
       ]
     },
@@ -5584,8 +5596,8 @@
         "haut:fettige-haut"
       ],
       "konzentration_typisch": "0,1–0,5 %",
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "niedrig",
       "kurz": "Ursprünglich aus Beinwell gewonnener, gut verträglicher Wirkstoff, der beruhigt, die Heilung fördert und die Haut glättet.",
       "tags": [
         "beruhigung",
@@ -5603,6 +5615,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Allantoin“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -5636,8 +5652,8 @@
         "haut:sensible-haut",
         "haut:sebostase"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "mittel",
       "kurz": "Gel aus dem Blattmark der Aloe; spendet Feuchtigkeit, beruhigt und wird besonders in Sonnen- und After-Sun-Pflege eingesetzt.",
       "tags": [
         "beruhigung",
@@ -5656,6 +5672,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Aloe Barbadensis“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -6103,8 +6123,8 @@
         "haut:rosazea"
       ],
       "konzentration_typisch": "um 0,8 % (laut Quelle optimal)",
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "niedrig",
       "kurz": "Hauptwirkstoff der Kamille; entzündungshemmend und deutlich weniger allergen als der Kamillengesamtextrakt.",
       "tags": [
         "beruhigung",
@@ -6123,6 +6143,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Bisabolol“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -6183,8 +6207,8 @@
         "haut:effloreszenz-narbe",
         "haut:rosazea"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "mittel",
       "kurz": "Heilpflanze mit Madecassosid und Asiaticosid; regt laut Quelle die Kollagenbildung an, wirkt entzündungshemmend und unterstützt Wundheilung und Narbenpflege.",
       "tags": [
         "beruhigung",
@@ -6204,6 +6228,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Centella asiatica“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -6347,8 +6375,8 @@
         "haut:cellulite",
         "haut:androgenetische-alopezie"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "moderat",
+      "impact": "mittel",
       "kurz": "Methylxanthin aus Kaffee und Tee; in Cellulite-, Augen- und Haarwuchsprodukten eingesetzt, der Nutzen auf der Haut ist begrenzt belegt.",
       "tags": [
         "koerper",
@@ -6368,6 +6396,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Caffeine“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -6708,8 +6740,8 @@
         "haut:reife-haut",
         "haut:chronischer-lichtschaden"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "niedrig",
       "kurz": "Extrakt aus unfermentierten Teeblättern mit Catechinen wie EGCG; wird als Antioxidans gegen lichtbedingten oxidativen Stress eingesetzt.",
       "tags": [
         "antioxidans",
@@ -6728,6 +6760,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Camellia sinensis“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -6758,8 +6794,8 @@
         "haut:mischhaut",
         "haut:sonnenbrand"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "niedrig",
       "kurz": "Gerbstoffreicher Extrakt aus Blättern oder Rinde; zieht zusammen, wirkt entzündungshemmend und kommt bei unreiner Haut und nach der Sonne zum Einsatz.",
       "tags": [
         "adstringierend",
@@ -6777,6 +6813,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Hamamelis virginiana“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -7022,8 +7062,8 @@
         "haut:babyhaut",
         "haut:fettige-haut"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "niedrig",
       "kurz": "Klassische Heilpflanze; Extrakt und Öl wirken entzündungshemmend und beruhigend, das Öl kann aber Allergien auslösen.",
       "tags": [
         "beruhigung",
@@ -7042,6 +7082,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Chamomilla Recutita“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -8018,8 +8062,8 @@
         "haut:reife-haut",
         "haut:sensible-haut"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "keine",
+      "impact": "niedrig",
       "kurz": "Squalen ist natürlicher Bestandteil des Hauttalgs (rund 12 %); das gesättigte, stabile Squalan ist ein leichtes, gut verträgliches Pflegeöl.",
       "tags": [
         "lipide",
@@ -8038,6 +8082,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Squalane“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -8111,8 +8159,8 @@
         "haut:fettige-haut",
         "haut:akne-vulgaris"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "mittel",
       "kurz": "Ätherisches Öl des australischen Teebaums mit stark antimikrobieller und pilzhemmender Wirkung; oxidiertes Öl kann stark allergisieren.",
       "tags": [
         "antimikrobiell",
@@ -8132,6 +8180,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Melaleuca alternifolia“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -8211,8 +8263,8 @@
         "haut:reife-haut",
         "haut:chronischer-lichtschaden"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "mittel",
       "kurz": "Fettlösliches Vitamin und wichtigstes Antioxidans der Hautlipide; schützt Produkte vor dem Ranzigwerden und die Haut vor Radikalen.",
       "tags": [
         "antioxidans",
@@ -8232,6 +8284,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Tocopherol“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",
@@ -8478,8 +8534,8 @@
         "haut:reife-haut",
         "haut:chronischer-lichtschaden"
       ],
-      "evidenz": "nicht-bewertet",
-      "impact": "offen",
+      "evidenz": "schwach",
+      "impact": "niedrig",
       "kurz": "Körpereigenes Coenzym der Energiegewinnung und Radikalfänger; der Gehalt sinkt im Alter, daher beliebt in Anti-Aging-Pflege.",
       "tags": [
         "antioxidans",
@@ -8498,6 +8554,10 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Ubiquinone“"
+        },
+        {
+          "id": "quelle:pubmed",
+          "fundstelle": "Recherche 2026-10-28"
         }
       ],
       "status": "entwurf",

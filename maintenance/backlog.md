@@ -28,4 +28,4 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11), Kap. 30–31 (Pflege im Alter, Botulinum, Filler, Microneedling, Kryolipolyse)
 - [x] Übertrag Runde 7: Ellsässer Kap. 4 → 12 Wirkstoffe aus Impact-Liste Abschnitt B (2026-10-28)
 - [ ] Ellsässer Kap. 4 offen: Pyridoxin, Carotinoide, Glycerylglucoside, Totes-Meer-Salz, Kristall-Mittagsblume, Propolis, Selen, Adenosin, Photolyase, SOD, α-Liponsäure, Polyphenole/Resveratrol, eigene Datei `madecassosid` (laut Impact-Liste)
-- [ ] Studienrecherche (PubMed/SCCS) für die 12 Lehrbuch-Wirkstoffe aus Runde 7 nachholen und `evidenz`/`impact` setzen
+- [x] Studienrecherche (PubMed) für die 12 Lehrbuch-Wirkstoffe aus Runde 7 (2026-10-28); offen: SCCS/CosIng, Kamille-Allergie, topisches Q10
