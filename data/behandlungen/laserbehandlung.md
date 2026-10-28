@@ -30,7 +30,7 @@ verwandt:
 - recht:nisv
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
-  fundstelle: Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238
+  fundstelle: Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238; Kap. 31.2.4 und 31.2.10, S. 275, 278–279
 status: entwurf
 aktualisiert: '2026-10-28'
 ---
@@ -47,3 +47,8 @@ Die Wirkung hängt von der Wellenlänge ab: Sie wird dort aufgenommen, wo das Ge
 
 ## Recht
 Rechtsrahmen: Seit 2021 regelt die NiSV (Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung) Laser-, IPL- und Hochfrequenzanwendungen an Menschen. Viele dieser Verfahren sind Ärztinnen und Ärzten vorbehalten, für andere ist ein Fachkundenachweis nötig Details siehe `recht:nisv`.
+
+## Laser Skin Resurfacing und fraktionierte Laser (Kap. 31)
+Er:YAG- oder ultragepulster CO2-Laser tragen hauchdünne Schichten ab (Narben, feine Falten, Pigmentflecken); Ausfallzeit 1–2 Wochen,
+danach etwa 8 Wochen LSF 50+. Fraktionierte Laser setzen ein Raster mikroskopischer Verletzungen. Die Quelle bezeichnet den
+fraktionierten CO2-Laser als „nichtinvasiv“; abtragende Verfahren sind nach der NiSV aber ärztlich.
