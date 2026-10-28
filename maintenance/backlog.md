@@ -8,10 +8,11 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Projektanweisungen des claude.ai-Projekts als `kontext:`-Einträge übernehmen (Evidenzvorgabe, Tonalität, Design)
 - [ ] Rechtsstand Anhang III Nr. 334 und 339: abgeschnittene Stoffnamen nachtragen
 - [x] Hauttypen vervollständigt: normale, fettige, sensible, reife Haut, Babyhaut (2026-10-28)
-- [ ] Effloreszenzenlehre komplett (Herrmann/Trinkkeller Kap. 2): bis auf Ulcus und Ekthyma erledigt
+- [x] Effloreszenzenlehre komplett (Herrmann/Trinkkeller Kap. 2): Ulcus und Ekthyma ergänzt (2026-10-28)
 - [x] Übertrag Runde 1: Herrmann/Trinkkeller → 19 `haut:`-Einträge (2026-10-28)
 - [x] Übertrag Runde 2: Herrmann/Trinkkeller → 27 weitere `haut:`-Einträge (2026-10-28)
-- [ ] Herrmann/Trinkkeller offen: Ulcus, Hämangiom/Feuermal, Ichthyosis, Allergie-Grundlagen, Erysipel, Candidose, Windpocken, Dermatomyositis/Sklerodermie, Kap. 25–26, 28–30 (Rezepturen, Pflege im Alter); erledigt: Nägel, Epizoonosen, Lupus (2026-10-28)
+- [x] Übertrag Runde 13: Herrmann/Trinkkeller → Ulcus/Ekthyma, Ichthyosis, Feuermal, Hämangiom, Erysipel, Candidose, Windpocken, Dermatomyositis, Sklerodermie (2026-10-28)
+- [ ] Herrmann/Trinkkeller offen: Allergie-Grundlagen, Kap. 25–26, 28–30 (Rezepturen nur als Bauprinzip, Pflege im Alter); Angiom und Spinnennaevus (Kap. 8.6–8.7); erledigt: Nägel, Epizoonosen, Lupus, seltenere Hautbilder (2026-10-28)
 - [x] Übertrag Runde 3: Ellsässer → 6 `haut:` und 9 `begriff:` (2026-10-28)
 - [ ] Ellsässer offen: Tenside und Emulgatorklassen, Gelbildner, Lipidkomponenten, Peelings, Wirkstoffe aus Kap. 4 abgleichen, Sonnenberatung und Pigmentierungstypen, Deo (Kap. 10), Naturkosmetik und kritisch bewertete Stoffe (Kap. 1.3–1.4); Kap. 9 offen: Haarfarben (9.4), Haarausfall-Pflege (9.5), Rasur und Haarentfernung (9.6–9.7), Nagelpflege (9.8)
 - [x] Übertrag Runde 4: Tadros → 7 `formulierung:` und 3 `begriff:` (2026-10-28)
