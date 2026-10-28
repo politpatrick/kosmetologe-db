@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 90,
+  "anzahl": 109,
   "eintraege": [
     {
       "id": "begriff:hlb-wert",
@@ -92,7 +92,11 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/ausreinigung.md",
       "verweise_von": [
-        "haut:akne-vulgaris"
+        "haut:akne-vulgaris",
+        "haut:effloreszenz-pustel",
+        "haut:herpes-simplex",
+        "haut:milien",
+        "haut:postinflammatorische-hyperpigmentierung"
       ]
     },
     {
@@ -128,6 +132,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/chemisches-peeling.md",
       "verweise_von": [
+        "haut:herpes-simplex",
+        "haut:melasma",
         "wirkstoff:aha",
         "wirkstoff:salicylsaeure"
       ]
@@ -244,13 +250,16 @@
       ],
       "verwandt": [
         "haut:effloreszenz-papel",
+        "haut:effloreszenz-pustel",
+        "haut:effloreszenz-zyste",
+        "haut:postinflammatorische-hyperpigmentierung",
         "wirkstoff:salicylsaeure",
         "behandlung:ausreinigung"
       ],
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. Talgdrüsenerkrankungen"
+          "fundstelle": "Kap. 9.2, S. 80–84"
         }
       ],
       "status": "entwurf",
@@ -259,10 +268,95 @@
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "haut:effloreszenz-pustel",
+        "haut:effloreszenz-zyste",
+        "haut:postinflammatorische-hyperpigmentierung",
         "wirkstoff:azelainsaeure",
         "wirkstoff:niacinamid",
         "wirkstoff:retinol",
         "wirkstoff:salicylsaeure"
+      ]
+    },
+    {
+      "id": "haut:aktinische-keratose",
+      "typ": "haut",
+      "titel": "Aktinische Keratose",
+      "aliase": [
+        "Lichtkeratose",
+        "solare Keratose"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "raue, festhaftende Schuppung",
+        "an lichtexponierten Stellen",
+        "meist ab 50 und bei heller Haut"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "raue, schuppende Stellen an Sonnenterrassen (Stirn, Glatze, Handrücken)",
+        "nicht abheilende Krusten"
+      ],
+      "kurz": "Durch jahrzehntelange UV-Belastung entstandene Verhornungsstörung; Vorstufe von Hautkrebs, gehört in ärztliche Hand.",
+      "tags": [
+        "uv",
+        "praekanzerose",
+        "verhornung"
+      ],
+      "verwandt": [
+        "haut:seborrhoische-keratose",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 6.5, S. 67–68; Kap. 15.2.1"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/aktinische-keratose.md",
+      "verweise_von": [
+        "haut:seborrhoische-keratose"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-macula",
+      "typ": "haut",
+      "titel": "Fleck (Macula)",
+      "aliase": [
+        "Macula",
+        "Makula",
+        "Fleck"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "umschriebene Farbveränderung",
+        "nicht tastbar, Hautniveau unverändert"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Primäreffloreszenz: begrenzte Farbänderung der Haut ohne Erhabenheit oder Vertiefung.",
+      "tags": [
+        "effloreszenz",
+        "primaer",
+        "pigment"
+      ],
+      "verwandt": [
+        "haut:vitiligo",
+        "haut:melasma",
+        "haut:teleangiektasien"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.1, S. 32–33"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-macula.md",
+      "verweise_von": [
+        "haut:teleangiektasien",
+        "haut:vitiligo"
       ]
     },
     {
@@ -288,14 +382,359 @@
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. 2.2"
+          "fundstelle": "Kap. 2.2, S. 33–36"
         }
       ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-papel.md",
       "verweise_von": [
-        "haut:akne-vulgaris"
+        "haut:akne-vulgaris",
+        "haut:periorale-dermatitis"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-pustel",
+      "typ": "haut",
+      "titel": "Pustel (Eiterbläschen)",
+      "aliase": [
+        "Pustula",
+        "Eiterbläschen"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "mit Eiter gefüllter Hohlraum",
+        "kuppelförmig oder gedellt",
+        "oft follikelgebunden"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "gedellte Pusteln (Hinweis auf Virusinfektion)",
+        "großflächige oder konfluierende Pusteln",
+        "Fieber oder Krankheitsgefühl"
+      ],
+      "kurz": "Primäreffloreszenz: eitergefülltes Bläschen, steril oder durch Erreger; gedellte Formen sprechen für Viren.",
+      "tags": [
+        "effloreszenz",
+        "primaer",
+        "entzuendung"
+      ],
+      "verwandt": [
+        "haut:akne-vulgaris",
+        "haut:rosazea",
+        "haut:periorale-dermatitis",
+        "behandlung:ausreinigung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.4, S. 38–39"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-pustel.md",
+      "verweise_von": [
+        "haut:akne-vulgaris",
+        "haut:periorale-dermatitis"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-zyste",
+      "typ": "haut",
+      "titel": "Zyste",
+      "aliase": [
+        "Cystis",
+        "Retentionszyste",
+        "Talgretentionszyste"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "abgekapselter Hohlraum mit flüssigem oder breiigem Inhalt",
+        "prall bis derb",
+        "teils sichtbarer Follikelausgang"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jede Zyste, die entfernt werden soll",
+        "entzündete oder schmerzhafte Zyste"
+      ],
+      "kurz": "Abgekapselter Hohlraum in der Haut; nur ärztlich samt Kapsel entfernbar, nie ausdrücken.",
+      "tags": [
+        "effloreszenz",
+        "talgdruese"
+      ],
+      "verwandt": [
+        "haut:akne-vulgaris",
+        "haut:milien"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.6, S. 40–41; Kap. 9.1.1, S. 80; Kap. 15.1.9, S. 129"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-zyste.md",
+      "verweise_von": [
+        "haut:akne-vulgaris",
+        "haut:milien"
+      ]
+    },
+    {
+      "id": "haut:follikulaere-hyperkeratose",
+      "typ": "haut",
+      "titel": "Follikuläre Hyperkeratose",
+      "aliase": [
+        "Keratosis pilaris",
+        "Reibeisenhaut"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "raue Hornpfröpfe in den Follikelöffnungen",
+        "v. a. Oberarme und Oberschenkel",
+        "oft familiär"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "kurz": "Verhornte Follikelöffnungen mit rauer Haut, meist an Armen und Beinen; mild keratolytisch pflegen, nicht kratzen.",
+      "tags": [
+        "verhornung",
+        "koerper"
+      ],
+      "verwandt": [
+        "wirkstoff:urea",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:aha"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 6.1, S. 67"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/follikulaere-hyperkeratose.md",
+      "verweise_von": []
+    },
+    {
+      "id": "haut:herpes-simplex",
+      "typ": "haut",
+      "titel": "Herpes simplex (Lippenherpes)",
+      "aliase": [
+        "Fieberbläschen",
+        "Herpes labialis",
+        "HSV"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "Kribbeln und Juckreiz als Vorbote",
+        "gruppierte Bläschen, später Krusten",
+        "Abheilung in etwa zwei Wochen"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "Befall in Augennähe",
+        "ausgedehnte oder sehr häufige Rezidive",
+        "Herpes bei geschwächtem Immunsystem"
+      ],
+      "kurz": "Ansteckende Virusinfektion mit wiederkehrenden Bläschen; aktive Herpesstellen sind Kontraindikation für Gesichtsbehandlungen.",
+      "tags": [
+        "virus",
+        "kontraindikation",
+        "ansteckend"
+      ],
+      "verwandt": [
+        "behandlung:chemisches-peeling",
+        "behandlung:ausreinigung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 21.1.3, S. 173"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/herpes-simplex.md",
+      "verweise_von": []
+    },
+    {
+      "id": "haut:kontaktekzem",
+      "typ": "haut",
+      "titel": "Kontaktekzem",
+      "aliase": [
+        "Kontaktdermatitis",
+        "allergisches Kontaktekzem",
+        "toxisches Kontaktekzem"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "Rötung am Kontaktort",
+        "Juckreiz, beim allergischen Typ oft Bläschen und Streuung",
+        "chronisch Verdickung und Einrisse"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "Verdacht auf Allergie gegen ein Produkt",
+        "Bläschen, Nässen oder Streuung",
+        "beruflich bedingte Hautveränderungen"
+      ],
+      "kurz": "Entzündung durch Hautkontakt mit Reizstoffen (toxisch) oder Allergenen (allergisch); Auslöser finden und meiden.",
+      "tags": [
+        "ekzem",
+        "allergie",
+        "berufsdermatose"
+      ],
+      "verwandt": [
+        "recht:anhang-iii-duftstoff-allergene",
+        "wirkstoff:isothiazolinone",
+        "wirkstoff:formaldehyd-abspalter",
+        "kontext:fachliche-grundsaetze"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 17.2–17.3, S. 145–146"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/kontaktekzem.md",
+      "verweise_von": [
+        "haut:neurodermitis"
+      ]
+    },
+    {
+      "id": "haut:malignes-melanom",
+      "typ": "haut",
+      "titel": "Malignes Melanom (schwarzer Hautkrebs)",
+      "aliase": [
+        "Melanom",
+        "schwarzer Hautkrebs"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "dunkler, unregelmäßiger oder sich verändernder Fleck",
+        "Wachstum nach langem Stillstand",
+        "Juckreiz, Brennen oder Blutung"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "sofort bei jedem der Warnzeichen",
+        "dunkle Verfärbung unter dem Nagel ohne Verletzung"
+      ],
+      "kurz": "Bösartiger Tumor der Pigmentzellen; Warnzeichen erkennen und sofort an die Hautärztin oder den Hautarzt verweisen.",
+      "tags": [
+        "tumor-boesartig",
+        "uv",
+        "warnzeichen"
+      ],
+      "verwandt": [
+        "haut:pigmentnaevus",
+        "haut:seborrhoische-keratose",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 15.3.4, S. 134–135"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/malignes-melanom.md",
+      "verweise_von": [
+        "haut:pigmentnaevus",
+        "haut:seborrhoische-keratose"
+      ]
+    },
+    {
+      "id": "haut:melasma",
+      "typ": "haut",
+      "titel": "Melasma (Chloasma)",
+      "aliase": [
+        "Chloasma",
+        "Schwangerschaftsflecken"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "flächige braune Flecken",
+        "meist symmetrisch an Stirn, Wangen, Oberlippe",
+        "v. a. Frauen zwischen 20 und 40"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "unregelmäßige oder einseitige Pigmentflecken",
+        "Flecken mit Farb- oder Formveränderung"
+      ],
+      "kurz": "Hormonell und durch UV begünstigte Hyperpigmentierung im Gesicht; harmlos, aber hartnäckig – Lichtschutz ist die Basis.",
+      "tags": [
+        "pigment",
+        "uv",
+        "hormon"
+      ],
+      "verwandt": [
+        "haut:postinflammatorische-hyperpigmentierung",
+        "wirkstoff:azelainsaeure",
+        "wirkstoff:tranexamsaeure",
+        "wirkstoff:niacinamid",
+        "wirkstoff:kojisaeure",
+        "behandlung:chemisches-peeling"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 7.2.2, S. 71–72"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/melasma.md",
+      "verweise_von": [
+        "haut:effloreszenz-macula",
+        "haut:postinflammatorische-hyperpigmentierung"
+      ]
+    },
+    {
+      "id": "haut:milien",
+      "typ": "haut",
+      "titel": "Milien (Grießkörner)",
+      "aliase": [
+        "Grießkörner",
+        "Hautgrieß",
+        "Milium"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "weiß-gelbliche, harte Körnchen",
+        "stecknadelkopfgroß",
+        "v. a. um die Augen"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "kurz": "Kleine verhornte Zysten direkt unter der Hautoberfläche; Entfernung durch Anritzen, nicht durch Drücken.",
+      "tags": [
+        "verhornung",
+        "augenpartie"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-zyste",
+        "haut:talgdruesenhyperplasie",
+        "behandlung:ausreinigung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 15.1.10, S. 129"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/milien.md",
+      "verweise_von": [
+        "haut:effloreszenz-zyste",
+        "haut:talgdruesenhyperplasie"
       ]
     },
     {
@@ -319,9 +758,189 @@
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "haut:talgdruesenhyperplasie",
         "wirkstoff:glycerin",
         "wirkstoff:niacinamid",
         "wirkstoff:salicylsaeure"
+      ]
+    },
+    {
+      "id": "haut:neurodermitis",
+      "typ": "haut",
+      "titel": "Neurodermitis (atopisches Ekzem)",
+      "aliase": [
+        "atopische Dermatitis",
+        "endogenes Ekzem"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "sehr trockene Haut",
+        "starker, oft nächtlicher Juckreiz",
+        "Ekzeme in Beugen, an Hals und Gesicht",
+        "verdickte Haut bei langem Verlauf"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "akuter Schub mit Nässen oder Krusten",
+        "Anzeichen einer Infektion",
+        "Ausdehnung oder Schlafstörung durch Juckreiz"
+      ],
+      "kurz": "Chronisch-entzündliche Hauterkrankung mit Barrierestörung und Juckreiz; Basispflege auch in schubfreien Zeiten.",
+      "tags": [
+        "ekzem",
+        "barriere",
+        "atopie",
+        "sensibel"
+      ],
+      "verwandt": [
+        "haut:sebostase",
+        "wirkstoff:urea",
+        "wirkstoff:ceramid-np",
+        "wirkstoff:glycerin",
+        "wirkstoff:panthenol",
+        "haut:kontaktekzem"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 17.6, S. 147–149"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/neurodermitis.md",
+      "verweise_von": []
+    },
+    {
+      "id": "haut:periorale-dermatitis",
+      "typ": "haut",
+      "titel": "Periorale Dermatitis",
+      "aliase": [
+        "Mundrose",
+        "Stewardessenkrankheit"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "kleine Papeln und Pusteln um den Mund, Lippensaum frei",
+        "Brennen und Spannungsgefühl",
+        "v. a. junge Frauen"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "Erstdiagnose",
+        "Kortisonanwendung im Gesicht",
+        "Ausbreitung auf Augenlider"
+      ],
+      "kurz": "Rosazeaähnliche Entzündung um Mund und Nase, oft durch Überpflege oder Kortison; Pflege radikal reduzieren.",
+      "tags": [
+        "roetung",
+        "sensibel",
+        "ueberpflege"
+      ],
+      "verwandt": [
+        "haut:rosazea",
+        "haut:effloreszenz-papel",
+        "haut:effloreszenz-pustel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 9.4, S. 86"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/periorale-dermatitis.md",
+      "verweise_von": [
+        "haut:effloreszenz-pustel",
+        "haut:rosazea"
+      ]
+    },
+    {
+      "id": "haut:pigmentnaevus",
+      "typ": "haut",
+      "titel": "Pigmentnaevus (Muttermal)",
+      "aliase": [
+        "Muttermal",
+        "Leberfleck",
+        "Naevuszellnaevus"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "brauner Fleck bis erhabenes Knötchen",
+        "teils behaart",
+        "manchmal hautfarben bis rötlich"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "Veränderung von Form, Farbe oder Größe",
+        "Juckreiz, Blutung oder Entzündung",
+        "unregelmäßige Begrenzung"
+      ],
+      "kurz": "Gutartige Ansammlung von Pigmentzellen; atypische Male können zu Melanomen werden – beobachten und nicht behandeln.",
+      "tags": [
+        "pigment",
+        "tumor-gutartig",
+        "uv"
+      ],
+      "verwandt": [
+        "haut:malignes-melanom",
+        "haut:seborrhoische-keratose"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 15.1.8, S. 129"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/pigmentnaevus.md",
+      "verweise_von": [
+        "haut:malignes-melanom",
+        "haut:seborrhoische-keratose"
+      ]
+    },
+    {
+      "id": "haut:postinflammatorische-hyperpigmentierung",
+      "typ": "haut",
+      "titel": "Postinflammatorische Hyperpigmentierung",
+      "aliase": [
+        "PIH",
+        "Pigmentflecken nach Entzündung"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "braune Flecken an Stellen früherer Entzündung",
+        "häufig nach Akne",
+        "verblasst langsam über Monate bis Jahre"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "kurz": "Pigmentflecken nach Entzündungen, oft nach Akne und Quetschen; vorbeugen durch schonende Behandlung und Lichtschutz.",
+      "tags": [
+        "pigment",
+        "akne",
+        "uv"
+      ],
+      "verwandt": [
+        "haut:akne-vulgaris",
+        "haut:melasma",
+        "wirkstoff:azelainsaeure",
+        "wirkstoff:niacinamid",
+        "behandlung:ausreinigung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 7.2.2, S. 72"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/postinflammatorische-hyperpigmentierung.md",
+      "verweise_von": [
+        "haut:akne-vulgaris",
+        "haut:melasma"
       ]
     },
     {
@@ -342,7 +961,7 @@
       "kosmetisch_behandelbar": "eingeschraenkt",
       "aerztlich_abklaeren": [
         "Papulopusteln",
-        "Augenbeteiligung",
+        "Augenbeteiligung (Augenarzt)",
         "Knollennase"
       ],
       "kurz": "Chronisch-entzündliche Gesichtsdermatose; reizarme Pflege, Triggervermeidung, keine mechanischen Peelings.",
@@ -351,11 +970,15 @@
         "sensibel"
       ],
       "verwandt": [
-        "wirkstoff:panthenol"
+        "wirkstoff:panthenol",
+        "wirkstoff:azelainsaeure",
+        "haut:teleangiektasien",
+        "haut:periorale-dermatitis"
       ],
       "quellen": [
         {
-          "id": "quelle:herrmann-trinkkeller-dermatologie"
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 9.3, S. 84–86"
         }
       ],
       "status": "entwurf",
@@ -364,12 +987,100 @@
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "haut:effloreszenz-pustel",
+        "haut:periorale-dermatitis",
+        "haut:seborrhoisches-ekzem",
+        "haut:teleangiektasien",
         "wirkstoff:azelainsaeure",
         "wirkstoff:ceramid-np",
         "wirkstoff:panthenol",
         "wirkstoff:retinol",
         "wirkstoff:urea"
       ]
+    },
+    {
+      "id": "haut:seborrhoische-keratose",
+      "typ": "haut",
+      "titel": "Seborrhoische Keratose (Alterswarze)",
+      "aliase": [
+        "Alterswarze",
+        "Verruca seborrhoica"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "warzig, wie aufgeklebt",
+        "grau, braun bis schwarz",
+        "ab etwa 40, nie an Handflächen und Fußsohlen"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jede neue oder sich verändernde dunkle Hautveränderung",
+        "Unsicherheit gegenüber Melanom"
+      ],
+      "kurz": "Häufigster gutartiger Hauttumor, ohne Viren und ohne Entartung; kann einem Melanom ähneln und wird ärztlich entfernt.",
+      "tags": [
+        "tumor-gutartig",
+        "alter"
+      ],
+      "verwandt": [
+        "haut:malignes-melanom",
+        "haut:aktinische-keratose",
+        "haut:pigmentnaevus"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 6.6, S. 68; Kap. 15.1.7, S. 128–129"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/seborrhoische-keratose.md",
+      "verweise_von": [
+        "haut:aktinische-keratose",
+        "haut:malignes-melanom",
+        "haut:pigmentnaevus"
+      ]
+    },
+    {
+      "id": "haut:seborrhoisches-ekzem",
+      "typ": "haut",
+      "titel": "Seborrhoisches Ekzem",
+      "aliase": [
+        "seborrhoische Dermatitis"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "gerötete Herde mit gelblich-fettiger Schuppung",
+        "Nasolabialfalten, Augenbrauen, Haaransatz, Brustmitte",
+        "oft mit Kopfschuppen"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "Erstdiagnose",
+        "ausgedehnter oder hartnäckiger Befall"
+      ],
+      "kurz": "Chronisch wiederkehrende schuppende Rötung in talgreichen Zonen; zu fettige Pflege verschlechtert.",
+      "tags": [
+        "ekzem",
+        "seborrhoe",
+        "kopfhaut"
+      ],
+      "verwandt": [
+        "wirkstoff:ketoconazol",
+        "wirkstoff:zink",
+        "haut:rosazea"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 17.4, S. 146–147"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/seborrhoisches-ekzem.md",
+      "verweise_von": []
     },
     {
       "id": "haut:sebostase",
@@ -414,6 +1125,7 @@
       "pfad": "data/haut/sebostase.md",
       "verweise_von": [
         "formulierung:emulsion-wo",
+        "haut:neurodermitis",
         "wirkstoff:glycerin",
         "wirkstoff:hyaluronsaeure",
         "wirkstoff:niacinamid",
@@ -421,6 +1133,131 @@
         "wirkstoff:retinol",
         "wirkstoff:salicylsaeure",
         "wirkstoff:urea"
+      ]
+    },
+    {
+      "id": "haut:talgdruesenhyperplasie",
+      "typ": "haut",
+      "titel": "Talgdrüsenhyperplasie",
+      "aliase": [
+        "Hyperplasia glandulae sebaceae"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "gelbliche, stecknadelkopfgroße Knötchen mit Delle",
+        "Stirn, Wangen, Schläfen",
+        "ab etwa 35 bei fettiger Haut"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "Abgrenzung zum Basalzellkarzinom bei glänzenden, wachsenden Knötchen"
+      ],
+      "kurz": "Vergrößerte einzelne Talgdrüsen als gelbliche Knötchen; harmlos, lässt sich nicht ausreinigen, Entfernung ist ärztlich.",
+      "tags": [
+        "talgdruese",
+        "seborrhoe",
+        "alter"
+      ],
+      "verwandt": [
+        "haut:milien",
+        "haut:mischhaut"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 9.1.2, S. 80"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/talgdruesenhyperplasie.md",
+      "verweise_von": [
+        "haut:milien"
+      ]
+    },
+    {
+      "id": "haut:teleangiektasien",
+      "typ": "haut",
+      "titel": "Teleangiektasien (Äderchen)",
+      "aliase": [
+        "Couperose",
+        "geplatzte Äderchen",
+        "erweiterte Kapillaren"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "feine rote Linien oder sternförmige Gefäßnetze",
+        "v. a. Wangen und Nase"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "auffällige Gefäßzeichnung an Nasen- oder Mundschleimhaut",
+        "plötzliche Zunahme"
+      ],
+      "kurz": "Dauerhaft erweiterte feinste Hautgefäße; kosmetisch Reize meiden, Verödung per Laser ist ärztlich.",
+      "tags": [
+        "gefaesse",
+        "roetung",
+        "sensibel"
+      ],
+      "verwandt": [
+        "haut:rosazea",
+        "haut:effloreszenz-macula"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 8.1, S. 74"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/teleangiektasien.md",
+      "verweise_von": [
+        "haut:effloreszenz-macula",
+        "haut:rosazea"
+      ]
+    },
+    {
+      "id": "haut:vitiligo",
+      "typ": "haut",
+      "titel": "Vitiligo (Weißfleckenkrankheit)",
+      "aliase": [
+        "Weißfleckenkrankheit",
+        "Leukoderm"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "scharf begrenzte, pigmentlose Flecken",
+        "oft symmetrisch",
+        "häufig zuerst an lichtexponierten Stellen"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "neu aufgetretene oder sich ausbreitende weiße Flecken"
+      ],
+      "kurz": "Pigmentverlust durch fehlende Melanozyten; betroffene Haut täglich mit Lichtschutz versorgen, Camouflage möglich.",
+      "tags": [
+        "pigment",
+        "uv",
+        "camouflage"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-macula",
+        "wirkstoff:hydrochinon",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 7.1.2, S. 70–71"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/vitiligo.md",
+      "verweise_von": [
+        "haut:effloreszenz-macula"
       ]
     },
     {
@@ -448,6 +1285,7 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/kontext/fachliche-grundsaetze.md",
       "verweise_von": [
+        "haut:kontaktekzem",
         "kontext:recherche-methodik"
       ]
     },
@@ -655,8 +1493,27 @@
       "pfad": "data/quellen/herrmann-trinkkeller-dermatologie.md",
       "verweise_von": [
         "haut:akne-vulgaris",
+        "haut:aktinische-keratose",
+        "haut:effloreszenz-macula",
         "haut:effloreszenz-papel",
+        "haut:effloreszenz-pustel",
+        "haut:effloreszenz-zyste",
+        "haut:follikulaere-hyperkeratose",
+        "haut:herpes-simplex",
+        "haut:kontaktekzem",
+        "haut:malignes-melanom",
+        "haut:melasma",
+        "haut:milien",
+        "haut:neurodermitis",
+        "haut:periorale-dermatitis",
+        "haut:pigmentnaevus",
+        "haut:postinflammatorische-hyperpigmentierung",
         "haut:rosazea",
+        "haut:seborrhoische-keratose",
+        "haut:seborrhoisches-ekzem",
+        "haut:talgdruesenhyperplasie",
+        "haut:teleangiektasien",
+        "haut:vitiligo",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
         "wirkstoff:ammoniumthioglykolat",
@@ -1058,6 +1915,7 @@
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/anhang-iii-duftstoff-allergene.md",
       "verweise_von": [
+        "haut:kontaktekzem",
         "recht:eu-kosmetikverordnung",
         "wirkstoff:benzylalkohol",
         "wirkstoff:menthol"
@@ -1102,6 +1960,9 @@
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/anhang-vi-uv-filter.md",
       "verweise_von": [
+        "haut:aktinische-keratose",
+        "haut:malignes-melanom",
+        "haut:vitiligo",
         "recht:anhang-ii-arzneistoffe",
         "recht:eu-kosmetikverordnung",
         "wirkstoff:3-benzyliden-campher",
@@ -1411,7 +2272,9 @@
         "recht:eu-kosmetikverordnung"
       ],
       "pfad": "data/wirkstoffe/aha.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:follikulaere-hyperkeratose"
+      ]
     },
     {
       "id": "wirkstoff:ammoniumthioglykolat",
@@ -1597,7 +2460,11 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/azelainsaeure.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:melasma",
+        "haut:postinflammatorische-hyperpigmentierung",
+        "haut:rosazea"
+      ]
     },
     {
       "id": "wirkstoff:benzalkoniumchlorid",
@@ -1843,6 +2710,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ceramid-np.md",
       "verweise_von": [
+        "haut:neurodermitis",
         "wirkstoff:panthenol"
       ]
     },
@@ -2121,7 +2989,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/formaldehyd-abspalter.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:kontaktekzem"
+      ]
     },
     {
       "id": "wirkstoff:genistein-daidzein",
@@ -2199,6 +3069,7 @@
       "pfad": "data/wirkstoffe/glycerin.md",
       "verweise_von": [
         "formulierung:emulsion-ow",
+        "haut:neurodermitis",
         "haut:sebostase",
         "wirkstoff:hyaluronsaeure",
         "wirkstoff:urea"
@@ -2324,6 +3195,7 @@
       ],
       "pfad": "data/wirkstoffe/hydrochinon.md",
       "verweise_von": [
+        "haut:vitiligo",
         "wirkstoff:arbutin"
       ]
     },
@@ -2401,7 +3273,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/isothiazolinone.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:kontaktekzem"
+      ]
     },
     {
       "id": "wirkstoff:ketoconazol",
@@ -2443,7 +3317,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ketoconazol.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:seborrhoisches-ekzem"
+      ]
     },
     {
       "id": "wirkstoff:kojisaeure",
@@ -2483,6 +3359,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/kojisaeure.md",
       "verweise_von": [
+        "haut:melasma",
         "recht:vo-2024-996",
         "wirkstoff:arbutin"
       ]
@@ -2735,7 +3612,10 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/niacinamid.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:melasma",
+        "haut:postinflammatorische-hyperpigmentierung"
+      ]
     },
     {
       "id": "wirkstoff:o-phenylphenol",
@@ -2892,6 +3772,7 @@
       ],
       "pfad": "data/wirkstoffe/panthenol.md",
       "verweise_von": [
+        "haut:neurodermitis",
         "haut:rosazea",
         "wirkstoff:ceramid-np"
       ]
@@ -3283,6 +4164,7 @@
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
         "haut:akne-vulgaris",
+        "haut:follikulaere-hyperkeratose",
         "wirkstoff:aha"
       ]
     },
@@ -3402,7 +4284,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/tranexamsaeure.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:melasma"
+      ]
     },
     {
       "id": "wirkstoff:tretinoin",
@@ -3625,6 +4509,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/urea.md",
       "verweise_von": [
+        "haut:follikulaere-hyperkeratose",
+        "haut:neurodermitis",
         "haut:sebostase",
         "wirkstoff:glycerin"
       ]
@@ -3744,7 +4630,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/zink.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:seborrhoisches-ekzem"
+      ]
     },
     {
       "id": "wirkstoff:zinkoxid",
