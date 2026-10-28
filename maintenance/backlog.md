@@ -8,9 +8,10 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Projektanweisungen des claude.ai-Projekts als `kontext:`-Einträge übernehmen (Evidenzvorgabe, Tonalität, Design)
 - [ ] Rechtsstand Anhang III Nr. 334 und 339: abgeschnittene Stoffnamen nachtragen
 - [ ] Hauttypen vervollständigen: normale Haut, Seborrhoe (oleosa/sicca), sensible Haut, reife Haut
-- [ ] Effloreszenzenlehre komplett (Herrmann/Trinkkeller Kap. 2): Macula, Papel, Pustel, Zyste erledigt; offen Bläschen, Quaddel, Schuppe, Kruste, Erosion, Rhagade, Ulcus, Narbe/Keloid
+- [ ] Effloreszenzenlehre komplett (Herrmann/Trinkkeller Kap. 2): bis auf Ulcus und Ekthyma erledigt
 - [x] Übertrag Runde 1: Herrmann/Trinkkeller → 19 `haut:`-Einträge (2026-10-28)
-- [ ] Übertrag Runde 2: Herrmann/Trinkkeller Rest (Kap. 2, 8, 10, 12, 14, 16, 19–21) → `haut:`
+- [x] Übertrag Runde 2: Herrmann/Trinkkeller → 27 weitere `haut:`-Einträge (2026-10-28)
+- [ ] Herrmann/Trinkkeller offen: Ulcus, Hämangiom/Feuermal, Ichthyosis, Allergie-Grundlagen, Erysipel, Candidose, Windpocken, Epizoonosen (Läuse, Krätze), Kap. 25–31 (Kosmetik-Teil, Rezepturen)
 - [ ] Übertrag Runde 3: Ellsässer → `behandlung:` und `begriff:` (Hautanalyse, Massage, Gesichtsbehandlung, Hygiene)
 - [ ] Übertrag Runde 4: Tadros → `formulierung:` (Gele, Tensidsysteme, Lipogele, Stabilität, Konservierung)
 - [ ] Übertrag Runde 5: Springer-Lexikon → `begriff:` (Glossar, Aliase für bestehende Einträge)

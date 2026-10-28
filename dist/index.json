@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 109,
+  "anzahl": 136,
   "eintraege": [
     {
       "id": "begriff:hlb-wert",
@@ -271,9 +271,12 @@
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "haut:effloreszenz-erosion",
+        "haut:effloreszenz-narbe",
         "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
         "haut:effloreszenz-zyste",
+        "haut:follikulitis",
         "haut:postinflammatorische-hyperpigmentierung",
         "wirkstoff:azelainsaeure",
         "wirkstoff:niacinamid",
@@ -321,7 +324,302 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/aktinische-keratose.md",
       "verweise_von": [
+        "haut:chronischer-lichtschaden",
         "haut:seborrhoische-keratose"
+      ]
+    },
+    {
+      "id": "haut:alopecia-areata",
+      "typ": "haut",
+      "titel": "Kreisrunder Haarausfall (Alopecia areata)",
+      "aliase": [
+        "Alopecia areata",
+        "kreisrunder Haarausfall"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "plötzlich runde, kahle Stellen",
+        "Follikelöffnungen sichtbar erhalten",
+        "manchmal Nagelveränderungen"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "neu aufgetretene kahle Stellen",
+        "Rötung oder Schuppung der Kopfhaut"
+      ],
+      "kurz": "Häufigste entzündliche Form des Haarausfalls, vermutlich autoimmun; heilt oft nach Monaten spontan. Ärztlich abklären.",
+      "tags": [
+        "haare",
+        "kopfhaut",
+        "psyche"
+      ],
+      "verwandt": [
+        "haut:androgenetische-alopezie",
+        "wirkstoff:minoxidil"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 12.1.1, S. 102–104"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/alopecia-areata.md",
+      "verweise_von": [
+        "haut:androgenetische-alopezie"
+      ]
+    },
+    {
+      "id": "haut:androgenetische-alopezie",
+      "typ": "haut",
+      "titel": "Erblich-hormoneller Haarausfall (androgenetische Alopezie)",
+      "aliase": [
+        "androgenetische Alopezie",
+        "erblich bedingter Haarausfall",
+        "Geheimratsecken"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "Männer: Geheimratsecken, Tonsur, Glatze",
+        "Frauen: Lichtung am Oberkopf, vorderer Haaransatz bleibt meist"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Mit Abstand häufigste Form des Haarausfalls durch ererbte Empfindlichkeit der Haarwurzeln gegen Androgene; Haare wachsen selten nach.",
+      "tags": [
+        "haare",
+        "kopfhaut",
+        "hormon"
+      ],
+      "verwandt": [
+        "wirkstoff:minoxidil",
+        "haut:alopecia-areata",
+        "haut:hirsutismus"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 12.1.2, S. 103"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/androgenetische-alopezie.md",
+      "verweise_von": [
+        "haut:alopecia-areata",
+        "haut:hirsutismus"
+      ]
+    },
+    {
+      "id": "haut:besenreiser",
+      "typ": "haut",
+      "titel": "Besenreiser (Venektasien)",
+      "aliase": [
+        "Venektasien",
+        "Besenreiservarizen"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "blaurote bis violette, geschlängelte Venen",
+        "mehrere Zentimeter lang",
+        "v. a. Oberschenkel"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "dicke, tastbare Krampfadern",
+        "Schwellung oder Verfärbung am Unterschenkel"
+      ],
+      "kurz": "Erweiterte kleine Venen, meist bei Frauen; Entfernung möglich, aber mit hohem Rückfallrisiko – schriftlich aufklären.",
+      "tags": [
+        "gefaesse",
+        "beine"
+      ],
+      "verwandt": [
+        "haut:teleangiektasien"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 8.2, S. 74–75"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/besenreiser.md",
+      "verweise_von": []
+    },
+    {
+      "id": "haut:chronischer-lichtschaden",
+      "typ": "haut",
+      "titel": "Chronischer Lichtschaden (Lichtalterung)",
+      "aliase": [
+        "Lichtalterung",
+        "Photoaging",
+        "aktinische Elastose"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "dünne, schlaffe, faltige Haut",
+        "Äderchen und Pigmentflecken an Lichtterrassen",
+        "raue Hornauflagerungen"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "raue, nicht abheilende Stellen",
+        "neue oder wachsende Knötchen"
+      ],
+      "kurz": "Summierter UV-Schaden über Jahre: Elastizitätsverlust, Falten, Äderchen, aktinische Keratosen bis Hautkrebs.",
+      "tags": [
+        "uv",
+        "alter",
+        "sonnenschutz"
+      ],
+      "verwandt": [
+        "haut:aktinische-keratose",
+        "haut:sonnenbrand",
+        "haut:teleangiektasien",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 14.2, S. 122"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/chronischer-lichtschaden.md",
+      "verweise_von": [
+        "haut:sonnenbrand"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-blaeschen",
+      "typ": "haut",
+      "titel": "Bläschen und Blase",
+      "aliase": [
+        "Vesicula",
+        "Bulla",
+        "Blase"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "mit klarer oder blutiger Flüssigkeit gefüllter Hohlraum",
+        "halbkugelig",
+        "platzt zur Erosion auf"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "gruppierte Bläschen",
+        "großflächige Blasenbildung",
+        "Bläschen mit Fieber"
+      ],
+      "kurz": "Primäreffloreszenz: flüssigkeitsgefüllter Hohlraum in der Haut, ausgelöst v. a. durch Erreger oder Druck; nicht öffnen.",
+      "tags": [
+        "effloreszenz",
+        "primaer"
+      ],
+      "verwandt": [
+        "haut:herpes-simplex",
+        "haut:effloreszenz-erosion",
+        "haut:effloreszenz-pustel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.3, S. 36–38"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-blaeschen.md",
+      "verweise_von": [
+        "haut:effloreszenz-erosion",
+        "haut:herpes-zoster"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-erosion",
+      "typ": "haut",
+      "titel": "Erosion und Exkoriation",
+      "aliase": [
+        "Erosio",
+        "Abschürfung",
+        "Exkoriation",
+        "Kratzwunde"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "Erosion: hellrot, feucht glänzend, blutet nicht",
+        "Exkoriation: tiefer, punktförmig blutend"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Oberflächlicher Hautdefekt: Erosion heilt ohne Narbe, die tiefere Exkoriation blutet und hinterlässt eine Narbe.",
+      "tags": [
+        "effloreszenz",
+        "sekundaer",
+        "narbe"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-blaeschen",
+        "haut:effloreszenz-narbe",
+        "haut:akne-vulgaris"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.9, S. 43"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-erosion.md",
+      "verweise_von": [
+        "haut:effloreszenz-blaeschen",
+        "haut:effloreszenz-kruste",
+        "haut:effloreszenz-narbe"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-kruste",
+      "typ": "haut",
+      "titel": "Kruste",
+      "aliase": [
+        "Crusta",
+        "Borke",
+        "Schorf"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "eingetrocknetes Wundsekret als fester Belag",
+        "gelblich, bräunlich oder blutig"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "goldgelbe Krusten",
+        "Krusten mit Rötung oder Schwellung der Umgebung"
+      ],
+      "kurz": "Sekundäreffloreszenz: eingetrocknetes Sekret aus Serum, Eiter oder Blut auf verletzter Haut; schützt die Wunde.",
+      "tags": [
+        "effloreszenz",
+        "sekundaer"
+      ],
+      "verwandt": [
+        "haut:impetigo-contagiosa",
+        "haut:herpes-simplex",
+        "haut:effloreszenz-erosion"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.8, S. 42–43"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-kruste.md",
+      "verweise_von": [
+        "haut:impetigo-contagiosa"
       ]
     },
     {
@@ -361,8 +659,50 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-macula.md",
       "verweise_von": [
+        "haut:pityriasis-versicolor",
         "haut:teleangiektasien",
         "haut:vitiligo"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-narbe",
+      "typ": "haut",
+      "titel": "Narbe",
+      "aliase": [
+        "Cicatrix",
+        "atrophe Narbe",
+        "Aknenarbe"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "glatte, dünne Epidermis",
+        "eingesunken oder tastbare Delle",
+        "ohne Haare und Poren"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Bindegewebiger Ersatz nach tiefen Hautdefekten; atrophe Narben sind eingesunken, hypertrophe und Keloide überschießend.",
+      "tags": [
+        "effloreszenz",
+        "sekundaer",
+        "narbe"
+      ],
+      "verwandt": [
+        "haut:keloid",
+        "haut:effloreszenz-erosion",
+        "haut:akne-vulgaris"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.13, S. 46–47"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-narbe.md",
+      "verweise_von": [
+        "haut:effloreszenz-erosion",
+        "haut:keloid"
       ]
     },
     {
@@ -449,7 +789,121 @@
       "pfad": "data/haut/effloreszenz-pustel.md",
       "verweise_von": [
         "haut:akne-vulgaris",
+        "haut:effloreszenz-blaeschen",
+        "haut:follikulitis",
         "haut:periorale-dermatitis"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-quaddel",
+      "typ": "haut",
+      "titel": "Quaddel",
+      "aliase": [
+        "Urtica",
+        "Seropapel"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "beetartig erhaben, glatt",
+        "hellrot bis porzellanweiß",
+        "flüchtig, verschwindet meist nach Stunden"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Primäreffloreszenz: flüchtige, juckende Schwellung durch Flüssigkeit in der oberen Lederhaut; typisch für Nesselsucht.",
+      "tags": [
+        "effloreszenz",
+        "primaer",
+        "allergie"
+      ],
+      "verwandt": [
+        "haut:urtikaria"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.5, S. 39–40"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-quaddel.md",
+      "verweise_von": [
+        "haut:urtikaria"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-rhagade",
+      "typ": "haut",
+      "titel": "Rhagade (Schrunde)",
+      "aliase": [
+        "Schrunde",
+        "Fissur",
+        "Einriss"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "schmaler, spaltförmiger Einriss",
+        "schmerzhaft",
+        "häufig an Händen, Fersen, Mundwinkeln"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Spaltförmiger, schmerzhafter Einriss durch alle Epidermisschichten, oft bei sehr trockener oder verdickter Haut.",
+      "tags": [
+        "effloreszenz",
+        "sekundaer",
+        "barriere"
+      ],
+      "verwandt": [
+        "haut:kontaktekzem",
+        "haut:sebostase",
+        "wirkstoff:urea"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.10, S. 44"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-rhagade.md",
+      "verweise_von": []
+    },
+    {
+      "id": "haut:effloreszenz-schuppe",
+      "typ": "haut",
+      "titel": "Schuppe",
+      "aliase": [
+        "Squama"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "abgelöste Hornzellen auf der Hautoberfläche",
+        "fein bis grob-lamellär"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Sekundäreffloreszenz: sichtbar abgestoßene Hornschicht, z. B. nach Entzündung oder bei Schuppenflechte.",
+      "tags": [
+        "effloreszenz",
+        "sekundaer",
+        "verhornung"
+      ],
+      "verwandt": [
+        "haut:psoriasis",
+        "haut:seborrhoisches-ekzem",
+        "haut:pityriasis-versicolor"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.7, S. 41–42"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-schuppe.md",
+      "verweise_von": [
+        "haut:psoriasis"
       ]
     },
     {
@@ -534,6 +988,51 @@
       "verweise_von": []
     },
     {
+      "id": "haut:follikulitis",
+      "typ": "haut",
+      "titel": "Follikulitis (Haarbalgentzündung)",
+      "aliase": [
+        "Haarbalgentzündung",
+        "Rasurpickel",
+        "Furunkel"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "Pusteln mit zentralem Haar",
+        "oft im Bartbereich",
+        "schmerzhaft, teils zusammenfließend"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "Furunkel im Gesicht",
+        "Fieber",
+        "keine Abheilung nach 1–2 Wochen"
+      ],
+      "kurz": "Oberflächliche bakterielle Entzündung des Haarfollikels; ansteckend, kann zu Furunkel oder Gesichtserysipel werden.",
+      "tags": [
+        "infektion",
+        "ansteckend",
+        "rasur"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-pustel",
+        "haut:akne-vulgaris",
+        "haut:impetigo-contagiosa"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 19.3–19.4, S. 160–161"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/follikulitis.md",
+      "verweise_von": [
+        "haut:impetigo-contagiosa"
+      ]
+    },
+    {
       "id": "haut:herpes-simplex",
       "typ": "haut",
       "titel": "Herpes simplex (Lippenherpes)",
@@ -574,7 +1073,213 @@
       "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/herpes-simplex.md",
+      "verweise_von": [
+        "haut:effloreszenz-blaeschen",
+        "haut:effloreszenz-kruste",
+        "haut:herpes-zoster"
+      ]
+    },
+    {
+      "id": "haut:herpes-zoster",
+      "typ": "haut",
+      "titel": "Gürtelrose (Herpes zoster)",
+      "aliase": [
+        "Gürtelrose",
+        "Zoster"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "einseitig, gürtelförmig in einem Nervensegment",
+        "Schmerzen, dann Rötung und gruppierte Bläschen"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jeder Verdacht",
+        "Befall von Stirn, Auge oder Ohr"
+      ],
+      "kurz": "Wiederaufflammen des Windpockenvirus in einem Nerv; schmerzhaft und ansteckend für Menschen ohne Windpocken-Immunität.",
+      "tags": [
+        "virus",
+        "ansteckend",
+        "kontraindikation"
+      ],
+      "verwandt": [
+        "haut:herpes-simplex",
+        "haut:effloreszenz-blaeschen"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 21.1.1, S. 172"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/herpes-zoster.md",
       "verweise_von": []
+    },
+    {
+      "id": "haut:hirsutismus",
+      "typ": "haut",
+      "titel": "Hirsutismus (männliches Behaarungsmuster bei Frauen)",
+      "aliase": [
+        "Hirsutismus",
+        "Hypertrichose"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "dunkle Terminalhaare an Kinn, Oberlippe, Brust oder Bauch",
+        "evtl. mit Haarausfall am Kopf"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "plötzlich auftretende männliche Behaarung",
+        "zusätzlich Zyklusstörungen oder tiefere Stimme"
+      ],
+      "kurz": "Verstärkte Behaarung nach männlichem Muster; Ursache (Hormone, Tumoren, Arzneimittel) ärztlich klären, dann Haarentfernung.",
+      "tags": [
+        "haare",
+        "hormon",
+        "haarentfernung"
+      ],
+      "verwandt": [
+        "haut:androgenetische-alopezie"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 12.2.1–12.2.2, S. 104"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/hirsutismus.md",
+      "verweise_von": [
+        "haut:androgenetische-alopezie"
+      ]
+    },
+    {
+      "id": "haut:hyperhidrose",
+      "typ": "haut",
+      "titel": "Hyperhidrose (übermäßiges Schwitzen)",
+      "aliase": [
+        "vermehrtes Schwitzen",
+        "Hyperhidrosis"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "übermäßiger Schweiß an Händen, Füßen, Achseln oder Stirn",
+        "oft anfallsartig, durch Stress verstärkt"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "neu aufgetretenes, einseitiges oder nächtliches Schwitzen",
+        "Begleitsymptome wie Gewichtsverlust oder Herzrasen"
+      ],
+      "kurz": "Übermäßige Schweißbildung bei etwa 1 % der Bevölkerung; Antitranspirantien sind erste Maßnahme, Ursachen ärztlich abklären.",
+      "tags": [
+        "schweiss",
+        "deo"
+      ],
+      "verwandt": [
+        "haut:tinea-pedis",
+        "haut:pityriasis-versicolor"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 10.1, S. 88–89"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/hyperhidrose.md",
+      "verweise_von": [
+        "haut:pityriasis-versicolor",
+        "haut:tinea-pedis"
+      ]
+    },
+    {
+      "id": "haut:impetigo-contagiosa",
+      "typ": "haut",
+      "titel": "Impetigo contagiosa (Borkenflechte)",
+      "aliase": [
+        "Borkenflechte",
+        "Impetigo"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "Rötung mit Bläschen oder Pusteln",
+        "goldgelbe Krusten",
+        "v. a. um Nase und Mund"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "goldgelbe Krusten",
+        "rasche Ausbreitung",
+        "Fieber"
+      ],
+      "kurz": "Hoch ansteckende bakterielle Hautinfektion, meist bei Kindern; Behandlung ist ärztlich, keine kosmetische Behandlung bis zur Abheilung.",
+      "tags": [
+        "infektion",
+        "ansteckend",
+        "kontraindikation"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-kruste",
+        "haut:neurodermitis",
+        "haut:follikulitis"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 19.2, S. 159"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/impetigo-contagiosa.md",
+      "verweise_von": [
+        "haut:effloreszenz-kruste",
+        "haut:follikulitis"
+      ]
+    },
+    {
+      "id": "haut:keloid",
+      "typ": "haut",
+      "titel": "Keloid und hypertrophe Narbe",
+      "aliase": [
+        "Wulstnarbe",
+        "hypertrophe Narbe",
+        "Narbenhypertrophie"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "wulstig, derb, über die Wunde hinauswachsend",
+        "rosa bis rötlich, teils mit Äderchen",
+        "häufig an Brustbein, Dekolleté, Ohren"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Überschießende Narbenbildung aus Kollagen; schwer behandelbar, bildet sich nicht zurück. Vor invasiven Eingriffen Neigung erfragen.",
+      "tags": [
+        "narbe",
+        "kontraindikation"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-narbe"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.14, S. 47–48"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/keloid.md",
+      "verweise_von": [
+        "haut:effloreszenz-narbe"
+      ]
     },
     {
       "id": "haut:kontaktekzem",
@@ -620,6 +1325,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/kontaktekzem.md",
       "verweise_von": [
+        "haut:effloreszenz-rhagade",
         "haut:neurodermitis"
       ]
     },
@@ -665,7 +1371,8 @@
       "pfad": "data/haut/malignes-melanom.md",
       "verweise_von": [
         "haut:pigmentnaevus",
-        "haut:seborrhoische-keratose"
+        "haut:seborrhoische-keratose",
+        "haut:sonnenbrand"
       ]
     },
     {
@@ -785,6 +1492,41 @@
       ]
     },
     {
+      "id": "haut:molluscum-contagiosum",
+      "typ": "haut",
+      "titel": "Dellwarzen (Molluscum contagiosum)",
+      "aliase": [
+        "Dellwarzen",
+        "Molluscum contagiosum"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "kleine, glänzende Knötchen mit zentraler Delle",
+        "v. a. Gesicht, Lider, Hals, Achseln"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Durch Pockenviren verursachte, hoch ansteckende Knötchen, meist bei Kindern; heilen oft nach Monaten von selbst.",
+      "tags": [
+        "virus",
+        "ansteckend"
+      ],
+      "verwandt": [
+        "haut:verrucae-vulgares"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 21.2.2, S. 173"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/molluscum-contagiosum.md",
+      "verweise_von": [
+        "haut:verrucae-vulgares"
+      ]
+    },
+    {
       "id": "haut:neurodermitis",
       "typ": "haut",
       "titel": "Neurodermitis (atopisches Ekzem)",
@@ -830,7 +1572,47 @@
       "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/neurodermitis.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:impetigo-contagiosa"
+      ]
+    },
+    {
+      "id": "haut:onychomykose",
+      "typ": "haut",
+      "titel": "Nagelpilz (Onychomykose)",
+      "aliase": [
+        "Nagelpilz",
+        "Tinea unguium"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "verdickter, gelblich verfärbter Nagel",
+        "krümelig zerfallende Nagelsubstanz"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Pilzinfektion des Nagels, unbehandelt fortschreitend; von Nagelpsoriasis nur durch Pilzkultur sicher zu unterscheiden.",
+      "tags": [
+        "pilz",
+        "ansteckend",
+        "nagel"
+      ],
+      "verwandt": [
+        "haut:tinea-pedis",
+        "haut:psoriasis"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 20.5, S. 167–168; Kap. 1.3.2, S. 30"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/onychomykose.md",
+      "verweise_von": [
+        "haut:psoriasis",
+        "haut:tinea-pedis"
+      ]
     },
     {
       "id": "haut:periorale-dermatitis",
@@ -926,6 +1708,81 @@
       ]
     },
     {
+      "id": "haut:pityriasis-versicolor",
+      "typ": "haut",
+      "titel": "Kleienpilzflechte (Pityriasis versicolor)",
+      "aliase": [
+        "Kleienpilzflechte",
+        "Pityriasis versicolor"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "linsen- bis münzgroße, später zusammenfließende Flecken",
+        "leicht schuppend",
+        "im Sommer hell, im Winter bräunlich"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Harmlose, aber kosmetisch störende Hefepilzbesiedlung der Hornschicht, meist am Rumpf; mit Antimykotika gut behandelbar.",
+      "tags": [
+        "pilz",
+        "pigment",
+        "schweiss"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-macula",
+        "haut:hyperhidrose",
+        "wirkstoff:ketoconazol"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 20.7, S. 169"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/pityriasis-versicolor.md",
+      "verweise_von": [
+        "haut:effloreszenz-schuppe",
+        "haut:hyperhidrose"
+      ]
+    },
+    {
+      "id": "haut:polymorphe-lichtdermatose",
+      "typ": "haut",
+      "titel": "Polymorphe Lichtdermatose (Sonnenallergie)",
+      "aliase": [
+        "Sonnenallergie",
+        "PLD"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "juckende Knötchen oder Bläschen nach Sonnenexposition",
+        "an lichtexponierten Stellen"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Juckende, unterschiedlich aussehende Hautreaktion auf Sonnenlicht; Lichtschutz und langsame Gewöhnung, ärztlich abklären.",
+      "tags": [
+        "uv",
+        "allergie",
+        "sonnenschutz"
+      ],
+      "verwandt": [
+        "haut:sonnenbrand",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 14.2, S. 122–123"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/polymorphe-lichtdermatose.md",
+      "verweise_von": []
+    },
+    {
       "id": "haut:postinflammatorische-hyperpigmentierung",
       "typ": "haut",
       "titel": "Postinflammatorische Hyperpigmentierung",
@@ -966,6 +1823,52 @@
       "verweise_von": [
         "haut:akne-vulgaris",
         "haut:melasma"
+      ]
+    },
+    {
+      "id": "haut:psoriasis",
+      "typ": "haut",
+      "titel": "Schuppenflechte (Psoriasis vulgaris)",
+      "aliase": [
+        "Psoriasis",
+        "Schuppenflechte"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "scharf begrenzte rote Herde mit silbrigen Schuppen",
+        "Ellenbogen, Knie, Kopfhaut",
+        "Tüpfel- oder Ölflecknägel"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "Erstdiagnose",
+        "Gelenkschmerzen",
+        "Nagelveränderungen"
+      ],
+      "kurz": "Chronische, nicht ansteckende Entzündung mit überstürzter Verhornung; oft Gelenke und Nägel beteiligt. Pflege ergänzt die ärztliche Therapie.",
+      "tags": [
+        "schuppung",
+        "barriere",
+        "chronisch"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-schuppe",
+        "haut:onychomykose",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:urea"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 24.1, S. 186–188; Kap. 2.7, S. 41–42"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/psoriasis.md",
+      "verweise_von": [
+        "haut:effloreszenz-schuppe",
+        "haut:onychomykose"
       ]
     },
     {
@@ -1067,7 +1970,8 @@
       "verweise_von": [
         "haut:aktinische-keratose",
         "haut:malignes-melanom",
-        "haut:pigmentnaevus"
+        "haut:pigmentnaevus",
+        "haut:verrucae-vulgares"
       ]
     },
     {
@@ -1109,7 +2013,9 @@
       "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/seborrhoisches-ekzem.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:effloreszenz-schuppe"
+      ]
     },
     {
       "id": "haut:sebostase",
@@ -1154,6 +2060,7 @@
       "pfad": "data/haut/sebostase.md",
       "verweise_von": [
         "formulierung:emulsion-wo",
+        "haut:effloreszenz-rhagade",
         "haut:neurodermitis",
         "wirkstoff:glycerin",
         "wirkstoff:hyaluronsaeure",
@@ -1162,6 +2069,49 @@
         "wirkstoff:retinol",
         "wirkstoff:salicylsaeure",
         "wirkstoff:urea"
+      ]
+    },
+    {
+      "id": "haut:sonnenbrand",
+      "typ": "haut",
+      "titel": "Sonnenbrand (akuter Lichtschaden)",
+      "aliase": [
+        "Dermatitis solaris",
+        "akuter Lichtschaden"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "Rötung und Schwellung",
+        "Brennen, bei Schwere Bläschen",
+        "später Schuppung"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "großflächige Blasen",
+        "Fieber oder Kreislaufbeschwerden"
+      ],
+      "kurz": "Akute Entzündung durch zu viel UV-Strahlung; schwere Formen mit Allgemeinsymptomen. Häufige Sonnenbrände erhöhen das Melanomrisiko.",
+      "tags": [
+        "uv",
+        "sonnenschutz"
+      ],
+      "verwandt": [
+        "haut:chronischer-lichtschaden",
+        "haut:malignes-melanom",
+        "recht:anhang-vi-uv-filter"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 14.2, S. 121–122"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/sonnenbrand.md",
+      "verweise_von": [
+        "haut:chronischer-lichtschaden",
+        "haut:polymorphe-lichtdermatose"
       ]
     },
     {
@@ -1245,8 +2195,171 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/teleangiektasien.md",
       "verweise_von": [
+        "haut:besenreiser",
+        "haut:chronischer-lichtschaden",
         "haut:effloreszenz-macula",
         "haut:rosazea"
+      ]
+    },
+    {
+      "id": "haut:tinea-pedis",
+      "typ": "haut",
+      "titel": "Fußpilz (Tinea pedis)",
+      "aliase": [
+        "Fußpilz",
+        "Fußmykose",
+        "Tinea manum"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "Schuppung, Rötung, aufgeweichte Haut v. a. zwischen den Zehen",
+        "Juckreiz"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Häufigste ansteckende Pilzerkrankung, meist durch Fadenpilze; begünstigt durch Feuchtigkeit und Durchblutungsstörungen.",
+      "tags": [
+        "pilz",
+        "ansteckend",
+        "fuss"
+      ],
+      "verwandt": [
+        "haut:onychomykose",
+        "haut:hyperhidrose"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 20.1.1, S. 164"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/tinea-pedis.md",
+      "verweise_von": [
+        "haut:hyperhidrose",
+        "haut:onychomykose"
+      ]
+    },
+    {
+      "id": "haut:urtikaria",
+      "typ": "haut",
+      "titel": "Urtikaria (Nesselsucht)",
+      "aliase": [
+        "Nesselsucht",
+        "Nesselfieber",
+        "Quincke-Ödem"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "juckende Quaddeln",
+        "flüchtig, wechselnde Stellen",
+        "evtl. Schwellung von Lidern und Lippen"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "Schwellung im Gesicht oder Mund",
+        "Atemnot",
+        "Quaddeln über Wochen"
+      ],
+      "kurz": "Juckende Quaddeln durch allergische oder andere Reize; Schwellung im Mund- und Rachenbereich ist ein Notfall.",
+      "tags": [
+        "allergie",
+        "notfall"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-quaddel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 16.3–16.4, S. 140–141"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/urtikaria.md",
+      "verweise_von": [
+        "haut:effloreszenz-quaddel"
+      ]
+    },
+    {
+      "id": "haut:verrucae-plantares",
+      "typ": "haut",
+      "titel": "Dornwarzen (Verrucae plantares)",
+      "aliase": [
+        "Dornwarzen",
+        "Fußsohlenwarzen",
+        "Plantarwarzen"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "flach, von Hornhaut bedeckt",
+        "schwarze Pünktchen (Einblutungen)",
+        "Druckschmerz"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Warzen an Druckstellen der Fußsohle; leicht mit Hühneraugen zu verwechseln, aber ansteckend.",
+      "tags": [
+        "virus",
+        "ansteckend",
+        "fuss"
+      ],
+      "verwandt": [
+        "haut:verrucae-vulgares",
+        "wirkstoff:salicylsaeure"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 21.3.3, S. 175; Kap. 6.4, S. 67"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/verrucae-plantares.md",
+      "verweise_von": [
+        "haut:verrucae-vulgares"
+      ]
+    },
+    {
+      "id": "haut:verrucae-vulgares",
+      "typ": "haut",
+      "titel": "Gewöhnliche Warzen (Verrucae vulgares)",
+      "aliase": [
+        "Warzen",
+        "Stachelwarzen",
+        "Verruca vulgaris"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "raue, hornige Knötchen",
+        "hautfarben bis bräunlich",
+        "v. a. an Händen, Füßen, Gesicht"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Durch Papillomviren ausgelöste, ansteckende Hautwucherungen, häufig bei Kindern und Jugendlichen.",
+      "tags": [
+        "virus",
+        "ansteckend"
+      ],
+      "verwandt": [
+        "haut:verrucae-plantares",
+        "haut:molluscum-contagiosum",
+        "haut:seborrhoische-keratose",
+        "wirkstoff:salicylsaeure"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 21.3.2, S. 175"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/verrucae-vulgares.md",
+      "verweise_von": [
+        "haut:molluscum-contagiosum",
+        "haut:verrucae-plantares"
       ]
     },
     {
@@ -1536,25 +2649,52 @@
       "verweise_von": [
         "haut:akne-vulgaris",
         "haut:aktinische-keratose",
+        "haut:alopecia-areata",
+        "haut:androgenetische-alopezie",
+        "haut:besenreiser",
+        "haut:chronischer-lichtschaden",
+        "haut:effloreszenz-blaeschen",
+        "haut:effloreszenz-erosion",
+        "haut:effloreszenz-kruste",
         "haut:effloreszenz-macula",
+        "haut:effloreszenz-narbe",
         "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
+        "haut:effloreszenz-quaddel",
+        "haut:effloreszenz-rhagade",
+        "haut:effloreszenz-schuppe",
         "haut:effloreszenz-zyste",
         "haut:follikulaere-hyperkeratose",
+        "haut:follikulitis",
         "haut:herpes-simplex",
+        "haut:herpes-zoster",
+        "haut:hirsutismus",
+        "haut:hyperhidrose",
+        "haut:impetigo-contagiosa",
+        "haut:keloid",
         "haut:kontaktekzem",
         "haut:malignes-melanom",
         "haut:melasma",
         "haut:milien",
+        "haut:molluscum-contagiosum",
         "haut:neurodermitis",
+        "haut:onychomykose",
         "haut:periorale-dermatitis",
         "haut:pigmentnaevus",
+        "haut:pityriasis-versicolor",
+        "haut:polymorphe-lichtdermatose",
         "haut:postinflammatorische-hyperpigmentierung",
+        "haut:psoriasis",
         "haut:rosazea",
         "haut:seborrhoische-keratose",
         "haut:seborrhoisches-ekzem",
+        "haut:sonnenbrand",
         "haut:talgdruesenhyperplasie",
         "haut:teleangiektasien",
+        "haut:tinea-pedis",
+        "haut:urtikaria",
+        "haut:verrucae-plantares",
+        "haut:verrucae-vulgares",
         "haut:vitiligo",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
@@ -2007,7 +3147,10 @@
       "pfad": "data/recht/anhang-vi-uv-filter.md",
       "verweise_von": [
         "haut:aktinische-keratose",
+        "haut:chronischer-lichtschaden",
         "haut:malignes-melanom",
+        "haut:polymorphe-lichtdermatose",
+        "haut:sonnenbrand",
         "haut:vitiligo",
         "recht:anhang-ii-arzneistoffe",
         "recht:eu-kosmetikverordnung",
@@ -3364,6 +4507,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ketoconazol.md",
       "verweise_von": [
+        "haut:pityriasis-versicolor",
         "haut:seborrhoisches-ekzem"
       ]
     },
@@ -3560,7 +4704,10 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/minoxidil.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:alopecia-areata",
+        "haut:androgenetische-alopezie"
+      ]
     },
     {
       "id": "wirkstoff:natriumfluorid",
@@ -4211,6 +5358,9 @@
         "behandlung:chemisches-peeling",
         "haut:akne-vulgaris",
         "haut:follikulaere-hyperkeratose",
+        "haut:psoriasis",
+        "haut:verrucae-plantares",
+        "haut:verrucae-vulgares",
         "wirkstoff:aha"
       ]
     },
@@ -4555,8 +5705,10 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/urea.md",
       "verweise_von": [
+        "haut:effloreszenz-rhagade",
         "haut:follikulaere-hyperkeratose",
         "haut:neurodermitis",
+        "haut:psoriasis",
         "haut:sebostase",
         "wirkstoff:glycerin"
       ]

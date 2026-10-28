@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 2 (Herrmann/Trinkkeller → haut)
+- 27 neue `haut:`-Einträge direkt aus dem Original, eigene Formulierungen mit Kapitel und gedruckter Seite:
+  Effloreszenzen (Bläschen, Quaddel, Schuppe, Kruste, Erosion/Exkoriation, Rhagade, Narbe), Keloid, Besenreiser,
+  Hyperhidrose, Haare (kreisrunder und erblicher Haarausfall, Hirsutismus), Licht (Sonnenbrand, chronischer Lichtschaden,
+  polymorphe Lichtdermatose), Urtikaria, Infektionen (Impetigo, Follikulitis, Fußpilz, Nagelpilz, Kleienpilzflechte,
+  Gürtelrose, Dellwarzen, Warzen, Dornwarzen), Schuppenflechte
+- Fragwürdige Buchangaben als „Hinweis zur Quelle“ markiert (Entartungsrate aktinischer Keratosen, Ansteckung bei Pityriasis versicolor)
+
 ## 2026-10-28 – Runde 1 am Original geprüft
 - 22 `haut:`-Einträge gegen Herrmann/Trinkkeller (Original) abgeglichen und auf `geprueft` gesetzt
 - Korrekturen: Papel ohne erfundene Größengrenze, Rosazea ohne „Brennen“ und mit Buchempfehlungen neu gefasst,
