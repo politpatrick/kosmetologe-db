@@ -67,30 +67,30 @@
 - `wirkstoff:zinkoxid` [Zinkoxid](data/wirkstoffe/zinkoxid.md) – Mineralischer Breitband-UV-Filter (Anhang VI, max. 25 %) und Wundschutz; Nanoform mit Auflagen. [entwurf]
 
 ## haut (24)
-- `haut:akne-vulgaris` [Akne vulgaris](data/haut/akne-vulgaris.md) – Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung. [entwurf]
-- `haut:aktinische-keratose` [Aktinische Keratose](data/haut/aktinische-keratose.md) – Durch jahrzehntelange UV-Belastung entstandene Verhornungsstörung; Vorstufe von Hautkrebs, gehört in ärztliche Hand. [entwurf]
-- `haut:effloreszenz-macula` [Fleck (Macula)](data/haut/effloreszenz-macula.md) – Primäreffloreszenz: begrenzte Farbänderung der Haut ohne Erhabenheit oder Vertiefung. [entwurf]
-- `haut:effloreszenz-papel` [Papel (Knötchen)](data/haut/effloreszenz-papel.md) – Primäreffloreszenz – kleine, feste Erhabenheit; größer als ca. 0,5–1 cm spricht man von Knoten. [entwurf]
-- `haut:effloreszenz-pustel` [Pustel (Eiterbläschen)](data/haut/effloreszenz-pustel.md) – Primäreffloreszenz: eitergefülltes Bläschen, steril oder durch Erreger; gedellte Formen sprechen für Viren. [entwurf]
-- `haut:effloreszenz-zyste` [Zyste](data/haut/effloreszenz-zyste.md) – Abgekapselter Hohlraum in der Haut; nur ärztlich samt Kapsel entfernbar, nie ausdrücken. [entwurf]
-- `haut:follikulaere-hyperkeratose` [Follikuläre Hyperkeratose](data/haut/follikulaere-hyperkeratose.md) – Verhornte Follikelöffnungen mit rauer Haut, meist an Armen und Beinen; mild keratolytisch pflegen, nicht kratzen. [entwurf]
-- `haut:herpes-simplex` [Herpes simplex (Lippenherpes)](data/haut/herpes-simplex.md) – Ansteckende Virusinfektion mit wiederkehrenden Bläschen; aktive Herpesstellen sind Kontraindikation für Gesichtsbehandlungen. [entwurf]
-- `haut:kontaktekzem` [Kontaktekzem](data/haut/kontaktekzem.md) – Entzündung durch Hautkontakt mit Reizstoffen (toxisch) oder Allergenen (allergisch); Auslöser finden und meiden. [entwurf]
-- `haut:malignes-melanom` [Malignes Melanom (schwarzer Hautkrebs)](data/haut/malignes-melanom.md) – Bösartiger Tumor der Pigmentzellen; Warnzeichen erkennen und sofort an die Hautärztin oder den Hautarzt verweisen. [entwurf]
-- `haut:melasma` [Melasma (Chloasma)](data/haut/melasma.md) – Hormonell und durch UV begünstigte Hyperpigmentierung im Gesicht; harmlos, aber hartnäckig – Lichtschutz ist die Basis. [entwurf]
-- `haut:milien` [Milien (Grießkörner)](data/haut/milien.md) – Kleine verhornte Zysten direkt unter der Hautoberfläche; Entfernung durch Anritzen, nicht durch Drücken. [entwurf]
+- `haut:akne-vulgaris` [Akne vulgaris](data/haut/akne-vulgaris.md) – Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung.
+- `haut:aktinische-keratose` [Aktinische Keratose](data/haut/aktinische-keratose.md) – Durch jahrzehntelange UV-Belastung entstandene Verhornungsstörung; Vorstufe von Hautkrebs, gehört in ärztliche Hand.
+- `haut:effloreszenz-macula` [Fleck (Macula)](data/haut/effloreszenz-macula.md) – Primäreffloreszenz: begrenzte Farbänderung der Haut ohne Erhabenheit oder Vertiefung.
+- `haut:effloreszenz-papel` [Papel (Knötchen)](data/haut/effloreszenz-papel.md) – Primäreffloreszenz – feste, erhabene Hautveränderung ohne Flüssigkeit; größere Formen heißen Knoten (Nodus).
+- `haut:effloreszenz-pustel` [Pustel (Eiterbläschen)](data/haut/effloreszenz-pustel.md) – Primäreffloreszenz: eitergefülltes Bläschen, steril oder durch Erreger; gedellte Formen sprechen für Viren.
+- `haut:effloreszenz-zyste` [Zyste](data/haut/effloreszenz-zyste.md) – Abgekapselter Hohlraum in der Haut; nur ärztlich samt Kapsel entfernbar, nie ausdrücken.
+- `haut:follikulaere-hyperkeratose` [Follikuläre Hyperkeratose](data/haut/follikulaere-hyperkeratose.md) – Verhornte Follikelöffnungen mit rauer Haut, meist an Armen und Beinen; mild keratolytisch pflegen, nicht kratzen.
+- `haut:herpes-simplex` [Herpes simplex (Lippenherpes)](data/haut/herpes-simplex.md) – Ansteckende Virusinfektion mit wiederkehrenden Bläschen; aktive Herpesstellen sind Kontraindikation für Gesichtsbehandlungen.
+- `haut:kontaktekzem` [Kontaktekzem](data/haut/kontaktekzem.md) – Entzündung durch Hautkontakt mit Reizstoffen (toxisch) oder Allergenen (allergisch); Auslöser finden und meiden.
+- `haut:malignes-melanom` [Malignes Melanom (schwarzer Hautkrebs)](data/haut/malignes-melanom.md) – Bösartiger Tumor der Pigmentzellen; Warnzeichen erkennen und sofort an die Hautärztin oder den Hautarzt verweisen.
+- `haut:melasma` [Melasma (Chloasma)](data/haut/melasma.md) – Hormonell und durch UV begünstigte Hyperpigmentierung im Gesicht; harmlos, aber hartnäckig – Lichtschutz ist die Basis.
+- `haut:milien` [Milien (Grießkörner)](data/haut/milien.md) – Kleine verhornte Zysten direkt unter der Hautoberfläche; Entfernung durch Anritzen, nicht durch Drücken.
 - `haut:mischhaut` [Mischhaut](data/haut/mischhaut.md) – Kombination aus seborrhoischer T-Zone und normaler bis trockener Wangenpartie; zonenweise pflegen. [entwurf]
-- `haut:neurodermitis` [Neurodermitis (atopisches Ekzem)](data/haut/neurodermitis.md) – Chronisch-entzündliche Hauterkrankung mit Barrierestörung und Juckreiz; Basispflege auch in schubfreien Zeiten. [entwurf]
-- `haut:periorale-dermatitis` [Periorale Dermatitis](data/haut/periorale-dermatitis.md) – Rosazeaähnliche Entzündung um Mund und Nase, oft durch Überpflege oder Kortison; Pflege radikal reduzieren. [entwurf]
-- `haut:pigmentnaevus` [Pigmentnaevus (Muttermal)](data/haut/pigmentnaevus.md) – Gutartige Ansammlung von Pigmentzellen; atypische Male können zu Melanomen werden – beobachten und nicht behandeln. [entwurf]
-- `haut:postinflammatorische-hyperpigmentierung` [Postinflammatorische Hyperpigmentierung](data/haut/postinflammatorische-hyperpigmentierung.md) – Pigmentflecken nach Entzündungen, oft nach Akne und Quetschen; vorbeugen durch schonende Behandlung und Lichtschutz. [entwurf]
-- `haut:rosazea` [Rosazea](data/haut/rosazea.md) – Chronisch-entzündliche Gesichtsdermatose; reizarme Pflege, Triggervermeidung, keine mechanischen Peelings. [entwurf]
-- `haut:seborrhoische-keratose` [Seborrhoische Keratose (Alterswarze)](data/haut/seborrhoische-keratose.md) – Häufigster gutartiger Hauttumor, ohne Viren und ohne Entartung; kann einem Melanom ähneln und wird ärztlich entfernt. [entwurf]
-- `haut:seborrhoisches-ekzem` [Seborrhoisches Ekzem](data/haut/seborrhoisches-ekzem.md) – Chronisch wiederkehrende schuppende Rötung in talgreichen Zonen; zu fettige Pflege verschlechtert. [entwurf]
+- `haut:neurodermitis` [Neurodermitis (atopisches Ekzem)](data/haut/neurodermitis.md) – Chronisch-entzündliche Hauterkrankung mit Barrierestörung und Juckreiz; Basispflege auch in schubfreien Zeiten.
+- `haut:periorale-dermatitis` [Periorale Dermatitis](data/haut/periorale-dermatitis.md) – Rosazeaähnliche Entzündung um Mund und Nase, oft durch Überpflege oder Kortison; Pflege radikal reduzieren.
+- `haut:pigmentnaevus` [Pigmentnaevus (Muttermal)](data/haut/pigmentnaevus.md) – Gutartige Ansammlung von Pigmentzellen; atypische Male können zu Melanomen werden – beobachten und nicht behandeln.
+- `haut:postinflammatorische-hyperpigmentierung` [Postinflammatorische Hyperpigmentierung](data/haut/postinflammatorische-hyperpigmentierung.md) – Pigmentflecken nach Entzündungen, oft nach Akne und Quetschen; vorbeugen durch schonende Behandlung und Lichtschutz.
+- `haut:rosazea` [Rosazea](data/haut/rosazea.md) – Chronische, nicht ansteckende Erkrankung von Gefäßen, Bindegewebe und Talgdrüsen im Gesicht; Auslöser meiden, Lichtschutz, keine durchblutungsfördernde Pflege.
+- `haut:seborrhoische-keratose` [Seborrhoische Keratose (Alterswarze)](data/haut/seborrhoische-keratose.md) – Häufigster gutartiger Hauttumor, ohne Viren und ohne Entartung; kann einem Melanom ähneln und wird ärztlich entfernt.
+- `haut:seborrhoisches-ekzem` [Seborrhoisches Ekzem](data/haut/seborrhoisches-ekzem.md) – Chronisch wiederkehrende schuppende Rötung in talgreichen Zonen; zu fettige Pflege verschlechtert.
 - `haut:sebostase` [Trockene Haut (Sebostase)](data/haut/sebostase.md) – Haut mit verminderter Talgproduktion und gestörter Barriere; braucht Lipide und Feuchthaltefaktoren. [entwurf]
-- `haut:talgdruesenhyperplasie` [Talgdrüsenhyperplasie](data/haut/talgdruesenhyperplasie.md) – Vergrößerte einzelne Talgdrüsen als gelbliche Knötchen; harmlos, lässt sich nicht ausreinigen, Entfernung ist ärztlich. [entwurf]
-- `haut:teleangiektasien` [Teleangiektasien (Äderchen)](data/haut/teleangiektasien.md) – Dauerhaft erweiterte feinste Hautgefäße; kosmetisch Reize meiden, Verödung per Laser ist ärztlich. [entwurf]
-- `haut:vitiligo` [Vitiligo (Weißfleckenkrankheit)](data/haut/vitiligo.md) – Pigmentverlust durch fehlende Melanozyten; betroffene Haut täglich mit Lichtschutz versorgen, Camouflage möglich. [entwurf]
+- `haut:talgdruesenhyperplasie` [Talgdrüsenhyperplasie](data/haut/talgdruesenhyperplasie.md) – Vergrößerte einzelne Talgdrüsen als gelbliche Knötchen; harmlos, lässt sich nicht ausreinigen, Entfernung ist ärztlich.
+- `haut:teleangiektasien` [Teleangiektasien (Äderchen)](data/haut/teleangiektasien.md) – Dauerhaft erweiterte feinste Hautgefäße; kosmetisch Reize meiden, Verödung per Laser ist ärztlich.
+- `haut:vitiligo` [Vitiligo (Weißfleckenkrankheit)](data/haut/vitiligo.md) – Pigmentverlust durch fehlende Melanozyten; betroffene Haut täglich mit Lichtschutz versorgen, Camouflage möglich.
 
 ## behandlung (2)
 - `behandlung:ausreinigung` [Ausreinigung (manuelle Komedonenentfernung)](data/behandlungen/ausreinigung.md) – Klassische Behandlung bei Komedonen – Vorbereitung, Erweichung, manuelle Entleerung, Desinfektion, Beruhigung. [entwurf]

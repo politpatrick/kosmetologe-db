@@ -22,7 +22,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 6.1, S. 67
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Kosmetische Grundsätze

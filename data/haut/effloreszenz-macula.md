@@ -23,7 +23,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.1, S. 32–33
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Einordnung
@@ -33,4 +34,4 @@ Ursachen sind u. a. erweiterte oder verengte Gefäße, ausgetretenes Blut, einge
 
 ## Praxis
 - Für die Beratung zählt die Farbe als erster Hinweis: rot (Gefäße), braun (Melanin), weiß (Pigmentmangel).
-- Je tiefer das Pigment liegt, desto schlechter sprechen kosmetische Aufhellung oder Peelings an.
+- Je tiefer das Pigment liegt, desto schlechter sprechen kosmetische Aufhellung oder Peelings an (eigene Ergänzung).

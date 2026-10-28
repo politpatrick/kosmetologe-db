@@ -49,12 +49,12 @@ Vor Design-, Code- oder Textaufgaben immer die `kontext:`-Einträge mit passende
 ## Private Quellen
 Die Fachbücher liegen nur lokal unter `privat/` (per .gitignore ausgeschlossen):
 - `privat/originale/*.pdf` – Originale; daneben `*.txt` als durchsuchbarer Textauszug mit
-  Markern `<!-- PDF-Seite n -->`. Pfad im Quelleneintrag: `lokal_privat`.
+  Markern `<!-- PDF-Seite n | gedruckt S. m -->`. Pfad im Quelleneintrag: `lokal_privat`.
 - `privat/*.md` – Zusammenfassungen (Feld `lokal_zusammenfassung`); das Springer-Lexikon ist dort im Original.
 
 Regeln:
 - Zum Prüfen und Erweitern gilt das **Original**; die Zusammenfassung nur zur Orientierung.
-- Fundstellen nennen **gedruckte** Seiten: gedruckte Seite = PDF-Seite − `seitenversatz` des Quelleneintrags.
+- Fundstellen nennen **gedruckte** Seiten (Marker `gedruckt S. m`; bei `?` über Nachbarseiten oder Inhaltsverzeichnis bestimmen).
 - Lesen ja, zitieren oder einchecken nie. Nur eigene Formulierungen ins Repo.
 - `privat/` existiert nur auf dem Mac des Nutzers; fehlt es, Prüfungen gegen Bücher überspringen und im PR vermerken.
 

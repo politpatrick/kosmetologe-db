@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-28 – Runde 1 am Original geprüft
+- 22 `haut:`-Einträge gegen Herrmann/Trinkkeller (Original) abgeglichen und auf `geprueft` gesetzt
+- Korrekturen: Papel ohne erfundene Größengrenze, Rosazea ohne „Brennen“ und mit Buchempfehlungen neu gefasst,
+  Kontaktallergene laut Quelle, Milien-Technik, Fundstellen (aktinische Keratose, PIH, Melasma, Kontaktekzem)
+- Akne: Haupttext ergänzt; Melasma und Kontaktekzem: Hinweise zur Quelle
+- Feld `seitenversatz` entfernt (Versatz schwankt im PDF); gedruckte Seiten stehen als Marker im privaten Textauszug
+
 ## 2026-10-28 – Originale der Fachbücher
 - Quelleneinträge Herrmann/Trinkkeller, Ellsässer und Tadros am Impressum geprüft: Vornamen, Auflage, Verlag, ISBN, DOI
 - Neue Quellenfelder `lokal_zusammenfassung`, `auflage`, `isbn`, `seitenversatz`; `lokal_privat` zeigt auf das Original

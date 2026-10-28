@@ -24,8 +24,9 @@ verwandt:
 - recht:anhang-vi-uv-filter
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
-  fundstelle: Kap. 6.5, S. 67–68; Kap. 15.2.1
-status: entwurf
+  fundstelle: Kap. 6.5, S. 67–68; Kap. 15.2.1, S. 131
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Einordnung

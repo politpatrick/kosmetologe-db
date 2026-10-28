@@ -9,7 +9,6 @@ lokal_privat: privat/originale/Tadros_Formulierungen_2023.txt
 verlag: Walter de Gruyter
 isbn: 978-3-11-079852-4
 lokal_zusammenfassung: privat/Tadros_Formulierungen_Kosmetik_Zusammenfassung.md
-seitenversatz: 14
 geprueft_am: 2026-10-28
 kurz: Kolloidchemische Grundlagen kosmetischer Formulierungen – Tenside, Emulsionen, Nanoemulsionen, Liposomen, Shampoos, Sonnenschutz.
 tags: [formulierung, kolloidchemie]

@@ -93,8 +93,7 @@
       "lokal_privat": "Pfad zum privaten Originaltext (Text-Auszug des PDFs, nie ins Repo)",
       "lokal_zusammenfassung": "Pfad zur privaten Zusammenfassung (nie ins Repo)",
       "auflage": "Auflage als Text, z. B. \"4. Auflage\"",
-      "isbn": "ISBN der Druckausgabe",
-      "seitenversatz": "PDF-Seite minus gedruckte Seite im privaten Original; Fundstellen nennen immer gedruckte Seiten"
+      "isbn": "ISBN der Druckausgabe"
     }
   },
   "kontext": {

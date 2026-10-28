@@ -7,7 +7,7 @@ aliase:
 - Stewardessenkrankheit
 kategorie: erkrankung
 merkmale:
-- kleine Papeln und Pusteln um den Mund, Lippensaum frei
+- kleine Papeln und Pusteln um den Mund, später auch Wangen, Stirn und Lider
 - Brennen und Spannungsgefühl
 - v. a. junge Frauen
 kosmetisch_behandelbar: eingeschraenkt
@@ -27,7 +27,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 9.4, S. 86
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Einordnung

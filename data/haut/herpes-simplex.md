@@ -8,7 +8,7 @@ aliase:
 - HSV
 kategorie: erkrankung
 merkmale:
-- Kribbeln und Juckreiz als Vorbote
+- Juckreiz, oft auch Brennen
 - gruppierte Bläschen, später Krusten
 - Abheilung in etwa zwei Wochen
 kosmetisch_behandelbar: nein
@@ -27,7 +27,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 21.1.3, S. 173
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Einordnung

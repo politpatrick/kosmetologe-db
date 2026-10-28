@@ -7,7 +7,7 @@ aliase:
 kategorie: erkrankung
 merkmale:
 - gerötete Herde mit gelblich-fettiger Schuppung
-- Nasolabialfalten, Augenbrauen, Haaransatz, Brustmitte
+- Nasolabialfalten, Augenbrauen, Stirn am Haaransatz, Brust- und Rückenmitte
 - oft mit Kopfschuppen
 kosmetisch_behandelbar: eingeschraenkt
 aerztlich_abklaeren:
@@ -25,7 +25,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 17.4, S. 146–147
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'
 ---
 ## Einordnung

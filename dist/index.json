@@ -241,7 +241,9 @@
         "Knoten und Zysten",
         "Narbenbildung",
         "starke Entzündung",
-        "psychische Belastung"
+        "psychische Belastung",
+        "Berufsakne",
+        "Verdacht auf Acne inversa"
       ],
       "kurz": "Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung.",
       "tags": [
@@ -262,12 +264,14 @@
           "fundstelle": "Kap. 9.2, S. 80–84"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/akne-vulgaris.md",
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
         "haut:effloreszenz-zyste",
         "haut:postinflammatorische-hyperpigmentierung",
@@ -309,10 +313,11 @@
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. 6.5, S. 67–68; Kap. 15.2.1"
+          "fundstelle": "Kap. 6.5, S. 67–68; Kap. 15.2.1, S. 131"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/aktinische-keratose.md",
       "verweise_von": [
@@ -351,7 +356,8 @@
           "fundstelle": "Kap. 2.1, S. 32–33"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-macula.md",
       "verweise_von": [
@@ -369,15 +375,20 @@
       ],
       "kategorie": "effloreszenz",
       "merkmale": [
-        "tastbare Erhabenheit unter 0",
-        "5 cm",
+        "über das Hautniveau erhaben",
+        "fest",
         "ohne Flüssigkeit"
       ],
       "kosmetisch_behandelbar": "eingeschraenkt",
-      "kurz": "Primäreffloreszenz – kleine, feste Erhabenheit; größer als ca. 0,5–1 cm spricht man von Knoten.",
+      "kurz": "Primäreffloreszenz – feste, erhabene Hautveränderung ohne Flüssigkeit; größere Formen heißen Knoten (Nodus).",
       "tags": [
         "effloreszenz",
         "primaer"
+      ],
+      "verwandt": [
+        "haut:akne-vulgaris",
+        "haut:rosazea",
+        "haut:periorale-dermatitis"
       ],
       "quellen": [
         {
@@ -385,7 +396,8 @@
           "fundstelle": "Kap. 2.2, S. 33–36"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-papel.md",
       "verweise_von": [
@@ -431,7 +443,8 @@
           "fundstelle": "Kap. 2.4, S. 38–39"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-pustel.md",
       "verweise_von": [
@@ -474,7 +487,8 @@
           "fundstelle": "Kap. 2.6, S. 40–41; Kap. 9.1.1, S. 80; Kap. 15.1.9, S. 129"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-zyste.md",
       "verweise_von": [
@@ -513,7 +527,8 @@
           "fundstelle": "Kap. 6.1, S. 67"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/follikulaere-hyperkeratose.md",
       "verweise_von": []
@@ -529,7 +544,7 @@
       ],
       "kategorie": "erkrankung",
       "merkmale": [
-        "Kribbeln und Juckreiz als Vorbote",
+        "Juckreiz, oft auch Brennen",
         "gruppierte Bläschen, später Krusten",
         "Abheilung in etwa zwei Wochen"
       ],
@@ -555,7 +570,8 @@
           "fundstelle": "Kap. 21.1.3, S. 173"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/herpes-simplex.md",
       "verweise_von": []
@@ -596,10 +612,11 @@
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. 17.2–17.3, S. 145–146"
+          "fundstelle": "Kap. 17, S. 144–146"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/kontaktekzem.md",
       "verweise_von": [
@@ -642,7 +659,8 @@
           "fundstelle": "Kap. 15.3.4, S. 134–135"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/malignes-melanom.md",
       "verweise_von": [
@@ -661,7 +679,7 @@
       "kategorie": "hautzustand",
       "merkmale": [
         "flächige braune Flecken",
-        "meist symmetrisch an Stirn, Wangen, Oberlippe",
+        "meist symmetrisch im Gesicht",
         "v. a. Frauen zwischen 20 und 40"
       ],
       "kosmetisch_behandelbar": "eingeschraenkt",
@@ -686,10 +704,11 @@
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. 7.2.2, S. 71–72"
+          "fundstelle": "Kap. 7.2.2, S. 71"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/melasma.md",
       "verweise_von": [
@@ -729,7 +748,8 @@
           "fundstelle": "Kap. 15.1.10, S. 129"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/milien.md",
       "verweise_von": [
@@ -806,7 +826,8 @@
           "fundstelle": "Kap. 17.6, S. 147–149"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/neurodermitis.md",
       "verweise_von": []
@@ -821,7 +842,7 @@
       ],
       "kategorie": "erkrankung",
       "merkmale": [
-        "kleine Papeln und Pusteln um den Mund, Lippensaum frei",
+        "kleine Papeln und Pusteln um den Mund, später auch Wangen, Stirn und Lider",
         "Brennen und Spannungsgefühl",
         "v. a. junge Frauen"
       ],
@@ -848,10 +869,12 @@
           "fundstelle": "Kap. 9.4, S. 86"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/periorale-dermatitis.md",
       "verweise_von": [
+        "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
         "haut:rosazea"
       ]
@@ -893,7 +916,8 @@
           "fundstelle": "Kap. 15.1.8, S. 129"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/pigmentnaevus.md",
       "verweise_von": [
@@ -932,10 +956,11 @@
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. 7.2.2, S. 72"
+          "fundstelle": "Kap. 7.2.2, S. 71–72"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/postinflammatorische-hyperpigmentierung.md",
       "verweise_von": [
@@ -953,10 +978,10 @@
       ],
       "kategorie": "erkrankung",
       "merkmale": [
-        "anfallsartige Rötung (Flush)",
+        "Rötung an Nase und Wangen",
         "Teleangiektasien",
-        "Papeln ohne Komedonen",
-        "Brennen"
+        "Papeln und Pusteln ohne Komedonen",
+        "meist fettige Haut"
       ],
       "kosmetisch_behandelbar": "eingeschraenkt",
       "aerztlich_abklaeren": [
@@ -964,7 +989,7 @@
         "Augenbeteiligung (Augenarzt)",
         "Knollennase"
       ],
-      "kurz": "Chronisch-entzündliche Gesichtsdermatose; reizarme Pflege, Triggervermeidung, keine mechanischen Peelings.",
+      "kurz": "Chronische, nicht ansteckende Erkrankung von Gefäßen, Bindegewebe und Talgdrüsen im Gesicht; Auslöser meiden, Lichtschutz, keine durchblutungsfördernde Pflege.",
       "tags": [
         "roetung",
         "sensibel"
@@ -981,12 +1006,14 @@
           "fundstelle": "Kap. 9.3, S. 84–86"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/rosazea.md",
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
         "haut:periorale-dermatitis",
         "haut:seborrhoisches-ekzem",
@@ -1033,7 +1060,8 @@
           "fundstelle": "Kap. 6.6, S. 68; Kap. 15.1.7, S. 128–129"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/seborrhoische-keratose.md",
       "verweise_von": [
@@ -1052,7 +1080,7 @@
       "kategorie": "erkrankung",
       "merkmale": [
         "gerötete Herde mit gelblich-fettiger Schuppung",
-        "Nasolabialfalten, Augenbrauen, Haaransatz, Brustmitte",
+        "Nasolabialfalten, Augenbrauen, Stirn am Haaransatz, Brust- und Rückenmitte",
         "oft mit Kopfschuppen"
       ],
       "kosmetisch_behandelbar": "eingeschraenkt",
@@ -1077,7 +1105,8 @@
           "fundstelle": "Kap. 17.4, S. 146–147"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/seborrhoisches-ekzem.md",
       "verweise_von": []
@@ -1168,7 +1197,8 @@
           "fundstelle": "Kap. 9.1.2, S. 80"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/talgdruesenhyperplasie.md",
       "verweise_von": [
@@ -1210,7 +1240,8 @@
           "fundstelle": "Kap. 8.1, S. 74"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/teleangiektasien.md",
       "verweise_von": [
@@ -1253,7 +1284,8 @@
           "fundstelle": "Kap. 7.1.2, S. 70–71"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/vitiligo.md",
       "verweise_von": [
@@ -1338,7 +1370,6 @@
       "isbn": "978-3-662-59999-0",
       "doi": "10.1007/978-3-662-60000-9",
       "lokal_zusammenfassung": "privat/Koerperpflegekunde_und_Kosmetik_Ellsaesser_2020.md",
-      "seitenversatz": 22,
       "kurz": "Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.",
       "tags": [
         "lehrbuch",
@@ -1493,7 +1524,6 @@
       "isbn": "978-3-662-60989-7",
       "doi": "10.1007/978-3-662-60990-3",
       "lokal_zusammenfassung": "privat/Dermatologie_und_medizinische_Kosmetik_Zusammenfassung.md",
-      "seitenversatz": 13,
       "geprueft_am": "2026-10-28",
       "kurz": "Leitfaden zu Hautanatomie, Effloreszenzenlehre, Anamnese und Hauterkrankungen aus Sicht der Kosmetikpraxis (Quellenkürzel D).",
       "tags": [
@@ -1803,7 +1833,6 @@
       "verlag": "Walter de Gruyter",
       "isbn": "978-3-11-079852-4",
       "lokal_zusammenfassung": "privat/Tadros_Formulierungen_Kosmetik_Zusammenfassung.md",
-      "seitenversatz": 14,
       "geprueft_am": "2026-10-28",
       "kurz": "Kolloidchemische Grundlagen kosmetischer Formulierungen – Tenside, Emulsionen, Nanoemulsionen, Liposomen, Shampoos, Sonnenschutz.",
       "tags": [
