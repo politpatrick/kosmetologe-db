@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Aluminium (SCCS) und Siloxane (REACH)
+- Neuer Wirkstoff `wirkstoff:aluminiumsalze` mit SCCS/1662/23 (Final Opinion 2024, PDF gelesen)
+- Neuer Rechtseintrag `recht:reach-siloxane` (VO (EU) 2024/1328, D4/D5/D6)
+- Silikone, Deo und Hyperhidrose verknüpft, vorläufige Hinweise ersetzt
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 10 (Ellsässer Kap. 6 und 10 → Grundlagen, Deo)
 - Neue Begriffe: Emulgator, Paraffine und Mineralöle, Silikone, Zubereitungsformen
 - Neue Formulierungen: Gel, Deodorant und Antitranspirant

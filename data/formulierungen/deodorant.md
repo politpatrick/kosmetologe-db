@@ -22,6 +22,7 @@ verwandt:
 - haut:hyperhidrose
 - behandlung:iontophorese
 - recht:anhang-iii-duftstoff-allergene
+- wirkstoff:aluminiumsalze
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 10, S. 283–290
@@ -45,4 +46,4 @@ Die Bezeichnung „Deo“ unterscheidet beides im Handel meist nicht.
 - Nur auf gereinigter Haut anwenden; getragene Kleidung waschen, nicht nur lüften; luftige Stoffe wählen.
 - Bei starkem Schwitzen siehe `haut:hyperhidrose`; Aluminiumchlorid-Präparate abends auftragen.
 - Laut Herrmann/Trinkkeller ist ein Gesundheitsrisiko durch Aluminium in Deos bei äußerlicher Anwendung nicht belegt;
-  die SCCS-Bewertung zu Aluminiumverbindungen beim Review ergänzen (eigene Ergänzung).
+  SCCS-Bewertung siehe `wirkstoff:aluminiumsalze`.

@@ -3,11 +3,12 @@
 > Wissensdatenbank zu Kosmetologie: Wirkstoffe, Haut, Behandlungen, Formulierungen, Recht, Begriffe, Quellen und Projektkontext.
 > Volltext eines Eintrags: Datei unter `pfad` lesen. Maschinenlesbar: dist/index.json.
 
-## wirkstoff (73)
+## wirkstoff (74)
 - `wirkstoff:3-benzyliden-campher` [3-Benzyliden-Campher (3-Benzylidene Camphor, 3-BC)](data/wirkstoffe/3-benzyliden-campher.md) – Früherer UV-B-Filter, heute in der EU verboten (Anhang II Nr. 1379); nur noch historisch relevant. [entwurf]
 - `wirkstoff:aha` [Alpha-Hydroxysäuren (AHA: Glykolsäure, Milchsäure u. a.)](data/wirkstoffe/aha.md) – Fruchtsäuren für Peelings und Hautglättung; erhöhen nachweislich die UV-Empfindlichkeit, Grenzwertangaben in Lehrbüchern widersprüchlich. [entwurf]
 - `wirkstoff:allantoin` [Allantoin](data/wirkstoffe/allantoin.md) – Ursprünglich aus Beinwell gewonnener, gut verträglicher Wirkstoff, der beruhigt, die Heilung fördert und die Haut glättet. [entwurf]
 - `wirkstoff:aloe-barbadensis` [Aloe vera](data/wirkstoffe/aloe-barbadensis.md) – Gel aus dem Blattmark der Aloe; spendet Feuchtigkeit, beruhigt und wird besonders in Sonnen- und After-Sun-Pflege eingesetzt. [entwurf]
+- `wirkstoff:aluminiumsalze` [Aluminiumsalze (Antitranspirant-Wirkstoffe)](data/wirkstoffe/aluminiumsalze.md) – Wirkstoffe der Antitranspirantien; verengen die Schweißdrüsenausgänge. Laut SCCS (2024) in Kosmetika bis zu festgelegten Höchstwerten sicher, Gesamtaufnahme aus Kosmetik und Nahrung kann aber Grenzwerte erreichen. [entwurf]
 - `wirkstoff:ammoniumthioglykolat` [Ammonium Thioglycolate](data/wirkstoffe/ammoniumthioglykolat.md) – Reduktionsmittel für Dauerwelle und Haarglättung; in Anhang III mit Konzentrationsgrenzen und Warnhinweisen geregelt. [entwurf]
 - `wirkstoff:arbutin` [Arbutin und Alpha-Arbutin](data/wirkstoffe/arbutin.md) – Aufheller mit Grenzwerten – Arbutin 7 % (Gesichtscreme), Alpha-Arbutin 2 % Gesichtscreme / 0,5 % Körperlotion; Hydrochinon-Rest so gering wie möglich. [entwurf]
 - `wirkstoff:ascorbinsaeure` [Ascorbinsäure (Vitamin C, L-Ascorbic Acid)](data/wirkstoffe/ascorbinsaeure.md) – Vitamin C – Antioxidans, Kofaktor der Kollagensynthese und Melaninhemmer; viel beworben, in wässriger Lösung instabil. [entwurf]
@@ -185,7 +186,7 @@
 - `formulierung:shampoo` [Shampoo](data/formulierungen/shampoo.md) – Reinigt Haar und Kopfhaut von Talg und Rückständen; Kombination aus anionischem und amphoterem Tensid macht es milder. [entwurf]
 - `formulierung:sonnenschutz-mineralisch` [Mineralischer Sonnenschutz (TiO₂/ZnO-Dispersion)](data/formulierungen/sonnenschutz-mineralisch.md) – Sonnenschutz mit Titandioxid oder Zinkoxid, die UV absorbieren und streuen; breites Spektrum, gut verträglich, Partikelgröße entscheidet. [entwurf]
 
-## recht (9)
+## recht (10)
 - `recht:anhang-ii-arzneistoffe` [Arzneistoffe in Anhang II (Verbotsliste) der VO (EG) 1223/2009](data/recht/anhang-ii-arzneistoffe.md) – Welche dermatologischen Arzneistoffe namentlich oder über Gruppeneinträge (Antibiotika, Glucocorticoide …) in Kosmetika verboten sind.
 - `recht:anhang-iii-duftstoff-allergene` [Duftstoff-Allergene – Anhang III Nr. 327–371 (VO (EU) 2023/1545)](data/recht/anhang-iii-duftstoff-allergene.md) – 45 neu kennzeichnungspflichtige Duftstoffe ab 0,001 % (Leave-on) bzw. 0,01 % (Rinse-off); Bereitstellung nicht konformer Ware bis 31.07.2028.
 - `recht:anhang-vi-uv-filter` [UV-Filter – Anhang VI (und Verbote in Anhang II) der VO (EG) 1223/2009](data/recht/anhang-vi-uv-filter.md) – Zugelassene UV-Filter mit Höchstkonzentrationen; 4-MBC und 3-BC sind inzwischen in Anhang II verboten.
@@ -193,6 +194,7 @@
 - `recht:kosmetikermstrv` [Kosmetikermeisterverordnung (KosmetikerMstrV)](data/recht/kosmetikermstrv.md) – Regelt die Meisterprüfung (Teile I und II) im Kosmetiker-Gewerbe und damit das berufliche Kompetenzprofil.
 - `recht:kosmetikv-2014` [Kosmetik-Verordnung (KosmetikV 2014)](data/recht/kosmetikv-2014.md) – Deutsche Ergänzung zur EU-Kosmetikverordnung – Anzeigepflichten, Sprache der Kennzeichnung, Giftnotruf-Meldungen, Ordnungswidrigkeiten.
 - `recht:nisv` [Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen (NiSV)](data/recht/nisv.md) – Regelt gewerbliche, nichtmedizinische Anwendungen von Laser, IPL, Hochfrequenz, Ultraschall, Nieder- und Gleichstrom am Menschen – mit Arztvorbehalt für bestimmte Verfahren und Fachkundepflicht für alle anderen. [entwurf]
+- `recht:reach-siloxane` [REACH-Beschränkung der zyklischen Siloxane D4, D5 und D6](data/recht/reach-siloxane.md) – Zyklische Silikone D4, D5 und D6 dürfen ab 0,1 % nicht mehr in Kosmetik in Verkehr gebracht werden – für abwaschbare Produkte seit 6.6.2026, für Leave-on-Produkte ab 6.6.2027. [entwurf]
 - `recht:taetowiermittel` [Tätowiermittel und Permanent Make-up (TätoV und REACH-Beschränkung)](data/recht/taetowiermittel.md) – Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75. [entwurf]
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
