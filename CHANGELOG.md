@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 13 (Herrmann/Trinkkeller → seltenere Hautbilder)
+- 9 neue `haut:`-Einträge direkt aus dem Original: Ulcus mit Ekthyma (Effloreszenzenlehre damit vollständig), Ichthyosis,
+  Feuermal, Hämangiom, Erysipel, Candidose, Windpocken, Dermatomyositis, Sklerodermie
+- Warnzeichen und Verweis an den Arzt hervorgehoben (Erysipel als Notfall, Lidrötung bei Dermatomyositis, Raynaud bei Sklerodermie)
+- Hinweise zur Quelle: Feuermal und Storchenbiss vermischt, Häufigkeit der Ichthyosis, Tumoranteil bei Dermatomyositis,
+  Ekthyma-Definition, Propranolol-Zulassung; Lexikon-Abweichungen (Erysipel-Ort, Ichthyose-Ursache)
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 12 (Ellsässer Kap. 9 → Haarkosmetik)
 - 4 neue `haut:`-Einträge: Kopfschuppen, fettiges Haar, trockenes/strapaziertes Haar mit Spliss, Haartypen (normal, fein, grau)
 - 2 neue Formulierungen: Antischuppenshampoo und Haarwasser, Stylingprodukte (Festiger, Gel, Spray, Wachs)

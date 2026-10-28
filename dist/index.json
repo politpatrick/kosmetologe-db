@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 234,
+  "anzahl": 243,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -535,6 +535,7 @@
         "behandlung:microneedling",
         "behandlung:milienentfernung",
         "behandlung:permanent-make-up",
+        "haut:erysipel",
         "haut:kopflaeuse",
         "haut:paronychie",
         "haut:skabies"
@@ -952,7 +953,10 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/camouflage.md",
       "verweise_von": [
-        "behandlung:permanent-make-up"
+        "behandlung:permanent-make-up",
+        "haut:haemangiom",
+        "haut:naevus-flammeus",
+        "haut:sklerodermie"
       ]
     },
     {
@@ -1453,6 +1457,8 @@
         "behandlung:haarentfernung",
         "behandlung:hautstraffung-energiebasiert",
         "behandlung:narbenbehandlung",
+        "haut:haemangiom",
+        "haut:naevus-flammeus",
         "recht:nisv",
         "wirkstoff:madecassosid"
       ]
@@ -2614,6 +2620,8 @@
       "pfad": "data/haut/babyhaut.md",
       "verweise_von": [
         "begriff:saeureschutzmantel",
+        "haut:candidose",
+        "haut:haemangiom",
         "wirkstoff:allantoin",
         "wirkstoff:bisabolol",
         "wirkstoff:kamille",
@@ -2697,6 +2705,59 @@
       "verweise_von": [
         "haut:onycholyse"
       ]
+    },
+    {
+      "id": "haut:candidose",
+      "typ": "haut",
+      "titel": "Candidose (Hefepilzinfektion)",
+      "aliase": [
+        "Candidiasis",
+        "Soor",
+        "Hefepilz",
+        "Candida-Intertrigo",
+        "Windeldermatitis mit Candida"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "Rötung und leichter Juckreiz in Hautfalten",
+        "kleine Bläschen, die eintrocknen",
+        "sich ausbreitende, rote, juckende Herde mit Erosionen, leicht nässend",
+        "weißliche Beläge auf Schleimhäuten",
+        "oft am Nagelwall (Paronychie) und zwischen Fingern und Zehen"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "nässende, rote Herde in Hautfalten, unter der Brust oder im Windelbereich",
+        "weißliche Beläge im Mund",
+        "wiederkehrender Befall (Hinweis auf Diabetes oder Immunschwäche)"
+      ],
+      "kurz": "Überwucherung durch Hefepilze der normalen Hautflora, begünstigt durch feucht-warme Falten, Diabetes, Immunschwäche und Antibiotika; Behandlung ärztlich.",
+      "tags": [
+        "infektion",
+        "pilz",
+        "kontraindikation"
+      ],
+      "verwandt": [
+        "haut:paronychie",
+        "haut:tinea-pedis",
+        "haut:onychomykose",
+        "haut:babyhaut",
+        "haut:pityriasis-versicolor"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 20.6, S. 168"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Candidamykosen“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/candidose.md",
+      "verweise_von": []
     },
     {
       "id": "haut:cellulite",
@@ -2805,6 +2866,50 @@
       ]
     },
     {
+      "id": "haut:dermatomyositis",
+      "typ": "haut",
+      "titel": "Dermatomyositis",
+      "aliase": [
+        "DM",
+        "juvenile Dermatomyositis"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "fliederfarbene Rötung und Schwellung um die Augen",
+        "„weinerlicher“ Gesichtsausdruck",
+        "unscharf begrenzte Rötungen an den Händen",
+        "symmetrische Schwäche von Schulter- und Beckenmuskulatur"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "violette Rötung der Lider, besonders zusammen mit Muskelschwäche",
+        "Rötungen über den Fingergelenken, Nagelfalzveränderungen"
+      ],
+      "kurz": "Seltene Autoimmunerkrankung von Haut und Muskulatur; bei Erwachsenen oft mit einem Tumorleiden verbunden. Typische Lidrötung als Warnzeichen erkennen und an den Arzt verweisen.",
+      "tags": [
+        "autoimmun",
+        "bindegewebe",
+        "warnzeichen"
+      ],
+      "verwandt": [
+        "haut:lupus-erythematodes",
+        "haut:sklerodermie",
+        "haut:rosazea"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 23.2, S. 183–184"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/dermatomyositis.md",
+      "verweise_von": [
+        "haut:sklerodermie"
+      ]
+    },
+    {
       "id": "haut:effloreszenz-blaeschen",
       "typ": "haut",
       "titel": "Bläschen und Blase",
@@ -2850,7 +2955,8 @@
       "pfad": "data/haut/effloreszenz-blaeschen.md",
       "verweise_von": [
         "haut:effloreszenz-erosion",
-        "haut:herpes-zoster"
+        "haut:herpes-zoster",
+        "haut:windpocken"
       ]
     },
     {
@@ -2892,7 +2998,8 @@
       "verweise_von": [
         "haut:effloreszenz-blaeschen",
         "haut:effloreszenz-kruste",
-        "haut:effloreszenz-narbe"
+        "haut:effloreszenz-narbe",
+        "haut:effloreszenz-ulcus"
       ]
     },
     {
@@ -3034,7 +3141,9 @@
         "behandlung:microneedling",
         "behandlung:narbenbehandlung",
         "haut:effloreszenz-erosion",
+        "haut:effloreszenz-ulcus",
         "haut:keloid",
+        "haut:windpocken",
         "wirkstoff:centella-asiatica",
         "wirkstoff:madecassosid"
       ]
@@ -3219,7 +3328,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-rhagade.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:effloreszenz-ulcus"
+      ]
     },
     {
       "id": "haut:effloreszenz-schuppe",
@@ -3256,6 +3367,63 @@
       "pfad": "data/haut/effloreszenz-schuppe.md",
       "verweise_von": [
         "haut:psoriasis"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-ulcus",
+      "typ": "haut",
+      "titel": "Ulcus (Geschwür) und Ekthyma",
+      "aliase": [
+        "Geschwür",
+        "Ulkus",
+        "Ulcus cruris",
+        "Unterschenkelgeschwür",
+        "Ekthyma"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "Gewebsdefekt bis in die Lederhaut oder tiefer",
+        "Grund oft schmierig belegt (Fibrin, abgestorbenes Gewebe)",
+        "Rand im Hautniveau (ausgestanzt), wallartig erhaben oder unterminiert",
+        "heilt schlecht; Heilung zeigt sich an kleinen roten Pünktchen (Granulationsgewebe)",
+        {
+          "Ekthyma": "rundovales, scharf ausgestanztes chronisches Geschwür am durchblutungsgestörten Unterschenkel"
+        }
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jedes chronische Geschwür",
+        "erhabener Randsaum oder Gewebe, das über das Hautniveau wächst (Hautkrebs möglich, sofort zum Hautarzt)"
+      ],
+      "kurz": "Tiefer Gewebsdefekt mit schlechter Heilungstendenz, am häufigsten als Unterschenkelgeschwür bei Durchblutungsstörungen; gehört in ärztliche Behandlung.",
+      "tags": [
+        "effloreszenz",
+        "sekundaer",
+        "kontraindikation",
+        "warnzeichen"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-erosion",
+        "haut:effloreszenz-rhagade",
+        "haut:effloreszenz-narbe",
+        "haut:erysipel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 2.11–2.12, S. 44–45; Kap. 8.3, S. 75 (Ulcus cruris bei Krampfadern)"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Ulkus“, „Ulcus cruris“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-ulcus.md",
+      "verweise_von": [
+        "haut:erysipel",
+        "haut:sklerodermie"
       ]
     },
     {
@@ -3346,6 +3514,61 @@
       "verweise_von": [
         "haut:paronychie",
         "haut:zangennagel"
+      ]
+    },
+    {
+      "id": "haut:erysipel",
+      "typ": "haut",
+      "titel": "Erysipel (Wundrose)",
+      "aliase": [
+        "Wundrose",
+        "Gesichtsrose",
+        "Rotlauf"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "plötzlicher Beginn mit Fieber, Schüttelfrost, Kopfschmerz",
+        "scharf begrenzte, zungenförmige, glänzend-lackartige Rötung",
+        "Schwellung, Hitzegefühl, Druckschmerz",
+        "teils Blasen (bullöses Erysipel)",
+        "meist am Unterschenkel, auch im Gesicht"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jede neue, warme, schmerzhafte und scharf begrenzte Rötung, besonders am Unterschenkel",
+        "Rötung mit Fieber oder Schüttelfrost (noch am selben Tag)",
+        "Rötung im Gesicht (Gefahr einer Hirnvenenthrombose)"
+      ],
+      "kurz": "Akute Streptokokkeninfektion der Lederhaut über kleine Hautverletzungen; Notfall für die Arztpraxis, immer Antibiotika. Kosmetische Hygiene beugt Eintrittspforten vor.",
+      "tags": [
+        "infektion",
+        "bakteriell",
+        "kontraindikation",
+        "warnzeichen"
+      ],
+      "verwandt": [
+        "haut:impetigo-contagiosa",
+        "haut:follikulitis",
+        "haut:tinea-pedis",
+        "haut:effloreszenz-ulcus",
+        "haut:paronychie",
+        "begriff:praxishygiene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 19.1, S. 158–159; Kap. 19.3, S. 160"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Erysipel“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/erysipel.md",
+      "verweise_von": [
+        "haut:effloreszenz-ulcus"
       ]
     },
     {
@@ -3502,7 +3725,9 @@
       "geprueft_am": "2026-10-28",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/follikulaere-hyperkeratose.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:ichthyosis"
+      ]
     },
     {
       "id": "haut:follikulitis",
@@ -3551,6 +3776,7 @@
       "pfad": "data/haut/follikulitis.md",
       "verweise_von": [
         "behandlung:ausreinigung",
+        "haut:erysipel",
         "haut:impetigo-contagiosa",
         "haut:paronychie"
       ]
@@ -3609,6 +3835,57 @@
       "verweise_von": [
         "formulierung:haarstyling",
         "haut:strapaziertes-haar"
+      ]
+    },
+    {
+      "id": "haut:haemangiom",
+      "typ": "haut",
+      "titel": "Hämangiom (Blutschwamm)",
+      "aliase": [
+        "Blutschwamm",
+        "infantiles Hämangiom",
+        "Erdbeerfleck"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "gutartige Gefäßwucherung in Haut oder Schleimhaut",
+        "dunkel- bis blaurot, weich, eindrückbar",
+        "tritt meist in den ersten Lebenswochen auf",
+        "bildet sich häufig bis zum Schulalter zurück"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jedes Hämangiom beim Säugling, vor allem bei raschem Wachstum",
+        "Lage an Auge, Lippe, Nase, Ohr oder im Windelbereich",
+        "Geschwürbildung oder Blutung"
+      ],
+      "kurz": "Häufigster gutartiger Tumor im Säuglingsalter; bildet sich meist von selbst zurück, Behandlung ärztlich (heute oft mit Propranolol).",
+      "tags": [
+        "gefaesse",
+        "kinder",
+        "tumor-gutartig"
+      ],
+      "verwandt": [
+        "haut:naevus-flammeus",
+        "haut:babyhaut",
+        "behandlung:laserbehandlung",
+        "behandlung:camouflage"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 8.5, S. 76"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Hämangiom“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/haemangiom.md",
+      "verweise_von": [
+        "haut:naevus-flammeus"
       ]
     },
     {
@@ -3706,7 +3983,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/herpes-zoster.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:windpocken"
+      ]
     },
     {
       "id": "haut:hirsutismus",
@@ -3802,6 +4081,55 @@
       ]
     },
     {
+      "id": "haut:ichthyosis",
+      "typ": "haut",
+      "titel": "Ichthyosis (Fischschuppenkrankheit)",
+      "aliase": [
+        "Fischschuppenkrankheit",
+        "Ichthyose",
+        "Ichthyosis vulgaris"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "vermehrte, pflastersteinartig nebeneinanderliegende Schuppen",
+        "teils schmutzig-grauer Farbton",
+        "Kratzspur erscheint weiß",
+        "angeboren, oft familiär gehäuft"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "Erstdiagnose und Abgrenzung zu trockener Haut",
+        "ausgedehnter Befall, Rötung, Blasen oder Befall bei Neugeborenen"
+      ],
+      "kurz": "Angeborene Verhornungsstörung mit stark vermehrter Schuppung; Pflege mit Harnstoff oder Salicylsäure löst Schuppen und bindet Feuchtigkeit, Diagnose ärztlich.",
+      "tags": [
+        "verhornung",
+        "trockene-haut",
+        "genetisch"
+      ],
+      "verwandt": [
+        "haut:sebostase",
+        "haut:follikulaere-hyperkeratose",
+        "haut:neurodermitis",
+        "wirkstoff:urea",
+        "wirkstoff:salicylsaeure"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 6.3, S. 67"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Ichthyose“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/ichthyosis.md",
+      "verweise_von": []
+    },
+    {
       "id": "haut:impetigo-contagiosa",
       "typ": "haut",
       "titel": "Impetigo contagiosa (Borkenflechte)",
@@ -3844,7 +4172,9 @@
       "verweise_von": [
         "behandlung:ausreinigung",
         "haut:effloreszenz-kruste",
-        "haut:follikulitis"
+        "haut:erysipel",
+        "haut:follikulitis",
+        "haut:windpocken"
       ]
     },
     {
@@ -4130,7 +4460,10 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/lupus-erythematodes.md",
-      "verweise_von": []
+      "verweise_von": [
+        "haut:dermatomyositis",
+        "haut:sklerodermie"
+      ]
     },
     {
       "id": "haut:malignes-melanom",
@@ -4366,6 +4699,57 @@
       ]
     },
     {
+      "id": "haut:naevus-flammeus",
+      "typ": "haut",
+      "titel": "Naevus flammeus (Feuermal)",
+      "aliase": [
+        "Feuermal",
+        "Portweinfleck",
+        "Storchenbiss (Naevus simplex, abzugrenzen)"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "angeborener, scharf begrenzter hell- bis blauroter Fleck",
+        "sehr klein bis großflächig",
+        "schmerzfrei",
+        "blasst unter Druck mit dem Glasspatel ab"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "jedes Feuermal (kann auf weitere Gefäßfehlbildungen an Hirnhäuten oder Auge hinweisen)",
+        "Feuermal im Stirn- oder Augenbereich bei Kindern"
+      ],
+      "kurz": "Angeborene, flächige Erweiterung feinster Hautkapillaren; harmlos, aber kosmetisch belastend. Lasertherapie ärztlich, Camouflage kosmetisch.",
+      "tags": [
+        "gefaesse",
+        "angeboren",
+        "rote-flecken"
+      ],
+      "verwandt": [
+        "haut:haemangiom",
+        "haut:teleangiektasien",
+        "behandlung:laserbehandlung",
+        "behandlung:camouflage",
+        "recht:nisv"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 8.4, S. 75–76"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Feuermal“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/naevus-flammeus.md",
+      "verweise_von": [
+        "haut:haemangiom"
+      ]
+    },
+    {
       "id": "haut:nagelverfaerbung",
       "typ": "haut",
       "titel": "Nagelverfärbungen",
@@ -4462,6 +4846,7 @@
       "pfad": "data/haut/neurodermitis.md",
       "verweise_von": [
         "haut:babyhaut",
+        "haut:ichthyosis",
         "haut:impetigo-contagiosa",
         "wirkstoff:kristall-mittagsblume",
         "wirkstoff:propolis"
@@ -4587,6 +4972,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/onychomykose.md",
       "verweise_von": [
+        "haut:candidose",
         "haut:nagelverfaerbung",
         "haut:onycholyse",
         "haut:psoriasis",
@@ -4635,7 +5021,9 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/paronychie.md",
       "verweise_von": [
-        "haut:eingewachsener-nagel"
+        "haut:candidose",
+        "haut:eingewachsener-nagel",
+        "haut:erysipel"
       ]
     },
     {
@@ -4776,6 +5164,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/pityriasis-versicolor.md",
       "verweise_von": [
+        "haut:candidose",
         "haut:effloreszenz-schuppe",
         "haut:hyperhidrose",
         "wirkstoff:selendisulfid"
@@ -5036,6 +5425,7 @@
         "behandlung:laserbehandlung",
         "behandlung:microneedling",
         "behandlung:mikrodermabrasion",
+        "haut:dermatomyositis",
         "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
         "haut:lupus-erythematodes",
@@ -5209,6 +5599,7 @@
         "begriff:syndet",
         "formulierung:emulsion-wo",
         "haut:effloreszenz-rhagade",
+        "haut:ichthyosis",
         "haut:kopfschuppen",
         "haut:mischhaut",
         "haut:neurodermitis",
@@ -5328,6 +5719,64 @@
       "pfad": "data/haut/skabies.md",
       "verweise_von": [
         "haut:kopflaeuse"
+      ]
+    },
+    {
+      "id": "haut:sklerodermie",
+      "typ": "haut",
+      "titel": "Sklerodermie (zirkumskript und systemisch)",
+      "aliase": [
+        "Hautverhärtung",
+        "Morphea",
+        "zirkumskripte Sklerodermie",
+        "systemische Sklerodermie",
+        "SSc"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        {
+          "zirkumskript": "eingesunkene, verhärtete band-, ring- oder scheibenförmige Herde, anfangs mit lila Randsaum"
+        },
+        {
+          "systemisch": "Gefäßkrämpfe und Kälteempfindlichkeit der Finger (Raynaud), dann Verhärtung der Fingerhaut"
+        },
+        {
+          "systemisch": "maskenhaftes Gesicht, kleine Mundöffnung, Pigmentverschiebungen, Fingerkuppengeschwüre"
+        }
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "neu auftretende Hautverhärtung oder eingesunkene Herde",
+        "weiß-blau-rote Verfärbung der Finger bei Kälte (Raynaud)",
+        "verkürztes Zungenbändchen, Schluckbeschwerden, Atemnot"
+      ],
+      "kurz": "Bindegewebserkrankung mit Verhärtung der Haut; die umschriebene Form ist gutartig, die systemische befällt innere Organe und ist ernst. Kosmetik nur unterstützend nach ärztlicher Absprache.",
+      "tags": [
+        "autoimmun",
+        "bindegewebe",
+        "warnzeichen"
+      ],
+      "verwandt": [
+        "haut:lupus-erythematodes",
+        "haut:dermatomyositis",
+        "haut:effloreszenz-ulcus",
+        "behandlung:camouflage"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 23.3, S. 184"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Sklerodermie“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/sklerodermie.md",
+      "verweise_von": [
+        "haut:dermatomyositis"
       ]
     },
     {
@@ -5530,6 +5979,7 @@
         "haut:besenreiser",
         "haut:chronischer-lichtschaden",
         "haut:effloreszenz-macula",
+        "haut:naevus-flammeus",
         "haut:rosazea"
       ]
     },
@@ -5572,6 +6022,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/tinea-pedis.md",
       "verweise_von": [
+        "haut:candidose",
+        "haut:erysipel",
         "haut:hyperhidrose",
         "haut:onychomykose"
       ]
@@ -5837,6 +6289,52 @@
         "behandlung:permanent-make-up",
         "haut:effloreszenz-macula"
       ]
+    },
+    {
+      "id": "haut:windpocken",
+      "typ": "haut",
+      "titel": "Windpocken (Varizellen)",
+      "aliase": [
+        "Varizellen",
+        "Varicella",
+        "Wasserpocken"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "zunächst rote Flecken",
+        "am ganzen Körper verteilte Herde mit starkem Juckreiz",
+        "Papeln, dann Bläschen, dann Pusteln und Krusten nebeneinander",
+        "meist im Kindesalter"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jeder Verdacht (ansteckend)",
+        "Verdacht auf Beteiligung von Auge oder Ohr (Facharzt)",
+        "Windpocken bei Erwachsenen, Schwangeren, Neugeborenen oder Immungeschwächten"
+      ],
+      "kurz": "Hoch ansteckende Erstinfektion mit dem Varizella-Zoster-Virus; heilt ohne Kratzen narbenlos. Das Virus bleibt im Körper und kann später eine Gürtelrose auslösen.",
+      "tags": [
+        "infektion",
+        "viral",
+        "ansteckend",
+        "kontraindikation"
+      ],
+      "verwandt": [
+        "haut:herpes-zoster",
+        "haut:effloreszenz-blaeschen",
+        "haut:effloreszenz-narbe",
+        "haut:impetigo-contagiosa"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 21.1.2, S. 172"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/windpocken.md",
+      "verweise_von": []
     },
     {
       "id": "haut:zangennagel",
@@ -6247,7 +6745,9 @@
         "haut:androgenetische-alopezie",
         "haut:besenreiser",
         "haut:bruechige-naegel",
+        "haut:candidose",
         "haut:chronischer-lichtschaden",
+        "haut:dermatomyositis",
         "haut:effloreszenz-blaeschen",
         "haut:effloreszenz-erosion",
         "haut:effloreszenz-kruste",
@@ -6258,14 +6758,18 @@
         "haut:effloreszenz-quaddel",
         "haut:effloreszenz-rhagade",
         "haut:effloreszenz-schuppe",
+        "haut:effloreszenz-ulcus",
         "haut:effloreszenz-zyste",
         "haut:eingewachsener-nagel",
+        "haut:erysipel",
         "haut:follikulaere-hyperkeratose",
         "haut:follikulitis",
+        "haut:haemangiom",
         "haut:herpes-simplex",
         "haut:herpes-zoster",
         "haut:hirsutismus",
         "haut:hyperhidrose",
+        "haut:ichthyosis",
         "haut:impetigo-contagiosa",
         "haut:insektenstiche",
         "haut:keloid",
@@ -6276,6 +6780,7 @@
         "haut:melasma",
         "haut:milien",
         "haut:molluscum-contagiosum",
+        "haut:naevus-flammeus",
         "haut:nagelverfaerbung",
         "haut:neurodermitis",
         "haut:onycholyse",
@@ -6292,6 +6797,7 @@
         "haut:seborrhoische-keratose",
         "haut:seborrhoisches-ekzem",
         "haut:skabies",
+        "haut:sklerodermie",
         "haut:sonnenbrand",
         "haut:talgdruesenhyperplasie",
         "haut:teleangiektasien",
@@ -6302,6 +6808,7 @@
         "haut:verrucae-plantares",
         "haut:verrucae-vulgares",
         "haut:vitiligo",
+        "haut:windpocken",
         "haut:zangennagel",
         "haut:zeckenstich",
         "wirkstoff:3-benzyliden-campher",
@@ -6587,6 +7094,7 @@
         "formulierung:shampoo",
         "formulierung:sonnenschutz-mineralisch",
         "haut:akne-vulgaris",
+        "haut:candidose",
         "haut:cellulite",
         "haut:chronischer-lichtschaden",
         "haut:effloreszenz-blaeschen",
@@ -6597,19 +7105,24 @@
         "haut:effloreszenz-pustel",
         "haut:effloreszenz-quaddel",
         "haut:effloreszenz-rhagade",
+        "haut:effloreszenz-ulcus",
         "haut:effloreszenz-zyste",
+        "haut:erysipel",
         "haut:fettige-haut",
         "haut:fettiges-haar",
         "haut:follikulitis",
+        "haut:haemangiom",
         "haut:herpes-simplex",
         "haut:herpes-zoster",
         "haut:hirsutismus",
+        "haut:ichthyosis",
         "haut:kontaktekzem",
         "haut:kopfschuppen",
         "haut:malignes-melanom",
         "haut:melasma",
         "haut:milien",
         "haut:mischhaut",
+        "haut:naevus-flammeus",
         "haut:neurodermitis",
         "haut:normale-haut",
         "haut:onychomykose",
@@ -6622,6 +7135,7 @@
         "haut:seborrhoisches-ekzem",
         "haut:sebostase",
         "haut:sensible-haut",
+        "haut:sklerodermie",
         "haut:sonnenbrand",
         "haut:strapaziertes-haar",
         "haut:teleangiektasien",
@@ -7137,6 +7651,7 @@
         "behandlung:laserbehandlung",
         "behandlung:narbenbehandlung",
         "behandlung:permanent-make-up",
+        "haut:naevus-flammeus",
         "recht:taetowiermittel"
       ]
     },
@@ -10307,6 +10822,7 @@
         "haut:akne-vulgaris",
         "haut:fettige-haut",
         "haut:follikulaere-hyperkeratose",
+        "haut:ichthyosis",
         "haut:psoriasis",
         "haut:verrucae-plantares",
         "haut:verrucae-vulgares",
@@ -11059,6 +11575,7 @@
         "haut:bruechige-naegel",
         "haut:effloreszenz-rhagade",
         "haut:follikulaere-hyperkeratose",
+        "haut:ichthyosis",
         "haut:neurodermitis",
         "haut:psoriasis",
         "haut:reife-haut",
