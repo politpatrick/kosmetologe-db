@@ -25,7 +25,8 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] Übertrag Runde 6: Herrmann/Trinkkeller Kap. 5 und 27 → 10 `behandlung:` und Praxishygiene (2026-10-28)
 - [x] `recht:nisv` angelegt (2026-10-28); offen: Nadelepilation und Iontophorese einordnen — (Laser, IPL, Hochfrequenz; Arztvorbehalt und Fachkunde) und mit Laser-, Haarentfernungs- und Narbeneinträgen verknüpfen
 - [x] `recht:taetowiermittel` angelegt (2026-10-28); offen: Grenzwerte Eintrag 75 am EUR-Lex-Text prüfen — (Tätowiermittel-Verordnung, REACH-Beschränkung Tätowierfarben) für Permanent Make-up
-- [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11), Kap. 30–31 (Pflege im Alter, Botulinum, Filler, Microneedling, Kryolipolyse)
+- [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11), Kap. 30 (Pflege im Alter); Kap. 31 erledigt (2026-10-28)
 - [x] Übertrag Runde 7: Ellsässer Kap. 4 → 12 Wirkstoffe aus Impact-Liste Abschnitt B (2026-10-28)
 - [ ] Ellsässer Kap. 4 offen: Pyridoxin, Carotinoide, Glycerylglucoside, Totes-Meer-Salz, Kristall-Mittagsblume, Propolis, Selen, Adenosin, Photolyase, SOD, α-Liponsäure, Polyphenole/Resveratrol, eigene Datei `madecassosid` (laut Impact-Liste)
 - [x] Studienrecherche (PubMed) für die 12 Lehrbuch-Wirkstoffe aus Runde 7 (2026-10-28); offen: SCCS/CosIng, Kamille-Allergie, topisches Q10
+- [ ] Microneedling: rechtliche Abgrenzung Kosmetik/Heilkunde nach Nadellänge klären; Kryolipolyse: Medizinprodukte- und Berufsrecht prüfen

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 186,
+  "anzahl": 194,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -411,6 +411,7 @@
       "verweise_von": [
         "behandlung:ausreinigung",
         "behandlung:hautanalyse",
+        "behandlung:microneedling",
         "behandlung:milienentfernung",
         "behandlung:permanent-make-up"
       ]
@@ -615,6 +616,52 @@
       ]
     },
     {
+      "id": "behandlung:botulinumtoxin",
+      "typ": "behandlung",
+      "titel": "Botulinumtoxin-Behandlung",
+      "aliase": [
+        "Botox",
+        "Botulinumtoxin A",
+        "Faltenrelaxer"
+      ],
+      "ziel": "Mimische Falten durch vorübergehende Lähmung einzelner Gesichtsmuskeln glätten",
+      "indikation": [
+        "mimische Falten (Stirn, Zornesfalte, Krähenfüße)",
+        "haut:hyperhidrose"
+      ],
+      "kontraindikation": [
+        "Schwangerschaft und Stillzeit",
+        "Albuminallergie",
+        "Infektion im Behandlungsareal",
+        "Einnahme von Aminoglykosid-Antibiotika"
+      ],
+      "kurz": "Heilkundliche Injektion eines Nervengifts in mimische Muskeln; wirkt nach 2–10 Tagen für 3–6 Monate. Danach zwei Wochen keine kosmetische Gesichtsbehandlung.",
+      "tags": [
+        "aerztlich",
+        "anti-aging",
+        "injektion"
+      ],
+      "verwandt": [
+        "behandlung:dermafiller",
+        "haut:hyperhidrose",
+        "haut:reife-haut"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.2.8, S. 277–278"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/botulinumtoxin.md",
+      "verweise_von": [
+        "behandlung:dermafiller",
+        "behandlung:fadenlifting",
+        "behandlung:mesotherapie"
+      ]
+    },
+    {
       "id": "behandlung:camouflage",
       "typ": "behandlung",
       "titel": "Camouflage (medizinisches Abdecken)",
@@ -702,7 +749,7 @@
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. 27.2, S. 209–210; Kap. 27.9.2 und 27.11, S. 222, 227"
+          "fundstelle": "Kap. 27.2, S. 209–210; Kap. 27.9.2 und 27.11, S. 222, 227; Kap. 31.2.3, S. 274–275"
         }
       ],
       "status": "entwurf",
@@ -710,6 +757,8 @@
       "pfad": "data/behandlungen/chemisches-peeling.md",
       "verweise_von": [
         "behandlung:dermabrasion",
+        "behandlung:microneedling",
+        "behandlung:mikrodermabrasion",
         "behandlung:narbenbehandlung",
         "haut:herpes-simplex",
         "haut:melasma",
@@ -758,8 +807,97 @@
       "pfad": "data/behandlungen/dermabrasion.md",
       "verweise_von": [
         "behandlung:chemisches-peeling",
+        "behandlung:mikrodermabrasion",
         "behandlung:narbenbehandlung"
       ]
+    },
+    {
+      "id": "behandlung:dermafiller",
+      "typ": "behandlung",
+      "titel": "Unterspritzung mit Dermafillern",
+      "aliase": [
+        "Filler",
+        "Hyaluronsäure-Filler",
+        "Faltenunterspritzung",
+        "Eigenfett"
+      ],
+      "ziel": "Falten und Volumenverlust durch Einspritzen von Füllstoffen ausgleichen",
+      "indikation": [
+        "statische Falten",
+        "Lippenkontur",
+        "haut:effloreszenz-narbe"
+      ],
+      "kontraindikation": [
+        "bekannte Allergie gegen den Füllstoff",
+        "Infektion im Areal",
+        "Keloidneigung"
+      ],
+      "kurz": "Heilkundliche Injektion von Hyaluronsäure, Kollagen, Hydroxylapatit, Polymilchsäure oder Eigenfett; abbaubare Filler halten Monate, nicht abbaubare bergen Dauerrisiken.",
+      "tags": [
+        "aerztlich",
+        "anti-aging",
+        "injektion"
+      ],
+      "verwandt": [
+        "behandlung:botulinumtoxin",
+        "wirkstoff:hyaluronsaeure",
+        "behandlung:narbenbehandlung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.2.7, S. 276–277; Kap. 27.9.1, S. 222–223"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/dermafiller.md",
+      "verweise_von": [
+        "behandlung:botulinumtoxin",
+        "behandlung:fadenlifting"
+      ]
+    },
+    {
+      "id": "behandlung:fadenlifting",
+      "typ": "behandlung",
+      "titel": "Fadenlifting",
+      "aliase": [
+        "Thread Lift",
+        "Faden-Lifting"
+      ],
+      "ziel": "Erschlaffte Haut mit selbstauflösenden Fäden anheben und die Kollagenbildung anregen",
+      "indikation": [
+        "Erschlaffung im Gesicht",
+        "leichte Falten"
+      ],
+      "kontraindikation": [
+        "Neigung zu Keloiden oder Wundheilungsstörungen",
+        "Autoimmunerkrankungen",
+        "Diabetes mellitus",
+        "Allergien",
+        "Schwangerschaft und Stillzeit"
+      ],
+      "dauer_min": 60,
+      "kurz": "Ärztliches, ambulantes Verfahren mit resorbierbaren Fäden unter örtlicher Betäubung; Effekt hält laut Quelle etwa zwei Jahre.",
+      "tags": [
+        "aerztlich",
+        "anti-aging",
+        "invasiv"
+      ],
+      "verwandt": [
+        "behandlung:dermafiller",
+        "behandlung:botulinumtoxin"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.2.9, S. 278"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/fadenlifting.md",
+      "verweise_von": []
     },
     {
       "id": "behandlung:haarentfernung",
@@ -852,6 +990,48 @@
       "verweise_von": []
     },
     {
+      "id": "behandlung:hautstraffung-energiebasiert",
+      "typ": "behandlung",
+      "titel": "Hautstraffung mit Radiofrequenz und fokussiertem Ultraschall",
+      "aliase": [
+        "Thermage",
+        "Ultherapie",
+        "HIFU",
+        "Radiofrequenz-Lifting"
+      ],
+      "ziel": "Tiefere Hautschichten erwärmen, um Kollagenfasern zu straffen und die Kollagenneubildung anzuregen",
+      "indikation": [
+        "haut:reife-haut",
+        "Erschlaffung an Gesicht, Hals und Dekolleté"
+      ],
+      "kontraindikation": [
+        "Herzschrittmacher und Metallimplantate im Areal (eigene Ergänzung)",
+        "Schwangerschaft (eigene Ergänzung)",
+        "Entzündung im Areal"
+      ],
+      "kurz": "Radiofrequenz (z. B. Thermage) oder fokussierter Ultraschall (Ultherapie, HIFU) erhitzt die Haut in der Tiefe; Ergebnisse nach Monaten, Wirkung etwa 2–3 Jahre.",
+      "tags": [
+        "geraet",
+        "anti-aging",
+        "nisv"
+      ],
+      "verwandt": [
+        "recht:nisv",
+        "behandlung:laserbehandlung",
+        "haut:reife-haut"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.2.5–31.2.6, S. 275–276"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/hautstraffung-energiebasiert.md",
+      "verweise_von": []
+    },
+    {
       "id": "behandlung:iontophorese",
       "typ": "behandlung",
       "titel": "Leitungswasser-Iontophorese",
@@ -895,6 +1075,44 @@
       ]
     },
     {
+      "id": "behandlung:kryolipolyse",
+      "typ": "behandlung",
+      "titel": "Kryolipolyse (Fettreduktion durch Kälte)",
+      "aliase": [
+        "Kryolipolyse",
+        "Fat Freezing"
+      ],
+      "ziel": "Umschriebene Fettpolster durch kontrollierte Kälte abbauen",
+      "indikation": [
+        "umschriebene Fettpolster"
+      ],
+      "kontraindikation": [
+        "Kälteurtikaria",
+        "Kryoglobulinämie",
+        "Hernien im Areal (eigene Ergänzung)"
+      ],
+      "dauer_min": 60,
+      "kurz": "Fettgewebe wird angesaugt und etwa eine Stunde auf rund 4 °C gekühlt; die Fettzellen sterben ab, Ergebnisse nach Wochen bis Monaten.",
+      "tags": [
+        "koerper",
+        "geraet"
+      ],
+      "verwandt": [
+        "haut:cellulite",
+        "behandlung:kryotherapie"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.3, S. 278–279"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/kryolipolyse.md",
+      "verweise_von": []
+    },
+    {
       "id": "behandlung:kryotherapie",
       "typ": "behandlung",
       "titel": "Kryotherapie (Vereisung)",
@@ -935,6 +1153,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/kryotherapie.md",
       "verweise_von": [
+        "behandlung:kryolipolyse",
         "behandlung:narbenbehandlung"
       ]
     },
@@ -976,7 +1195,7 @@
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238"
+          "fundstelle": "Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238; Kap. 31.2.4 und 31.2.10, S. 275, 278–279"
         }
       ],
       "status": "entwurf",
@@ -985,9 +1204,146 @@
       "verweise_von": [
         "behandlung:dermabrasion",
         "behandlung:haarentfernung",
+        "behandlung:hautstraffung-energiebasiert",
         "behandlung:narbenbehandlung",
         "recht:nisv"
       ]
+    },
+    {
+      "id": "behandlung:mesotherapie",
+      "typ": "behandlung",
+      "titel": "Mesotherapie",
+      "aliase": [
+        "Mesobotox",
+        "Mesolift"
+      ],
+      "ziel": "Durch viele kleine Injektionen von Wirkstoffgemischen Hautalterung, Cellulite oder Haarausfall behandeln",
+      "indikation": [
+        "laut Anbietern: Hautalterung, Cellulite, Haarausfall, Narben"
+      ],
+      "kontraindikation": [
+        "Schwangerschaft",
+        "Infektion im Areal",
+        "Blutgerinnungsstörung"
+      ],
+      "kurz": "Komplementärmedizinisches Injektionsverfahren mit niedrig dosierten Wirkstoffmischungen; laut Quelle bis heute ohne Wirksamkeitsnachweis durch klinische Studien.",
+      "tags": [
+        "aerztlich",
+        "injektion",
+        "anti-aging"
+      ],
+      "verwandt": [
+        "behandlung:botulinumtoxin",
+        "behandlung:microneedling"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.2.1, S. 272–273"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/mesotherapie.md",
+      "verweise_von": []
+    },
+    {
+      "id": "behandlung:microneedling",
+      "typ": "behandlung",
+      "titel": "Microneedling (Kollagen-Induktion)",
+      "aliase": [
+        "Micro Needling",
+        "Dermaroller",
+        "Kollagen-Induktionstherapie"
+      ],
+      "ziel": "Durch viele feine Nadelstiche einen Wundheilungsreiz setzen, der Kollagen und Hyaluronsäure neu bilden lässt",
+      "indikation": [
+        "haut:effloreszenz-narbe",
+        "haut:reife-haut",
+        "Dehnungsstreifen",
+        "haut:cellulite",
+        "haut:androgenetische-alopezie"
+      ],
+      "kontraindikation": [
+        "aktive Akne",
+        "haut:herpes-simplex",
+        "Ekzeme",
+        "haut:rosazea",
+        "haut:verrucae-vulgares",
+        "haut:keloid",
+        "Blutverdünner oder Gerinnungsstörung"
+      ],
+      "dauer_min": 60,
+      "kurz": "Nadelroller oder -geräte (0,2–3 mm) setzen Mikroverletzungen; die Wundheilung regt Kollagen an. Hilft bei Narben, Fältchen und Dehnungsstreifen.",
+      "tags": [
+        "anti-aging",
+        "narben",
+        "invasiv"
+      ],
+      "verwandt": [
+        "behandlung:narbenbehandlung",
+        "behandlung:chemisches-peeling",
+        "begriff:praxishygiene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.2.2, S. 273–274; Kap. 27.9.2, S. 222–223"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/microneedling.md",
+      "verweise_von": [
+        "behandlung:mesotherapie",
+        "behandlung:mikrodermabrasion"
+      ]
+    },
+    {
+      "id": "behandlung:mikrodermabrasion",
+      "typ": "behandlung",
+      "titel": "Mikrodermabrasion",
+      "aliase": [
+        "Mikrodermabrasio",
+        "Kristall-Peeling",
+        "Diamant-Peeling"
+      ],
+      "ziel": "Hornschicht mit feinen Kristallen oder Diamantaufsatz schonend abtragen, Hautbild glätten und Wirkstoffaufnahme verbessern",
+      "indikation": [
+        "haut:reife-haut",
+        "haut:fettige-haut",
+        "haut:postinflammatorische-hyperpigmentierung",
+        "feine Fältchen"
+      ],
+      "kontraindikation": [
+        "haut:rosazea",
+        "haut:herpes-simplex",
+        "aktive entzündliche Akne",
+        "frischer Sonnenbrand",
+        "Isotretinoin-Therapie"
+      ],
+      "dauer_min": 45,
+      "kurz": "Physikalisches Peeling, bei dem feinste Kristalle die oberste Hautschicht nahezu schmerzfrei abschleifen; kosmetische Alternative zur ärztlichen Dermabrasion.",
+      "tags": [
+        "peeling",
+        "geraet",
+        "anti-aging"
+      ],
+      "verwandt": [
+        "behandlung:dermabrasion",
+        "behandlung:chemisches-peeling",
+        "behandlung:microneedling"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.2.3, S. 275"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/mikrodermabrasion.md",
+      "verweise_von": []
     },
     {
       "id": "behandlung:milienentfernung",
@@ -1075,8 +1431,10 @@
         "behandlung:camouflage",
         "behandlung:chemisches-peeling",
         "behandlung:dermabrasion",
+        "behandlung:dermafiller",
         "behandlung:kryotherapie",
         "behandlung:laserbehandlung",
+        "behandlung:microneedling",
         "recht:nisv",
         "wirkstoff:centella-asiatica"
       ]
@@ -1728,6 +2086,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/androgenetische-alopezie.md",
       "verweise_von": [
+        "behandlung:microneedling",
         "haut:alopecia-areata",
         "haut:hirsutismus",
         "wirkstoff:coffein"
@@ -1857,6 +2216,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/cellulite.md",
       "verweise_von": [
+        "behandlung:kryolipolyse",
+        "behandlung:microneedling",
         "wirkstoff:coffein"
       ]
     },
@@ -2142,6 +2503,8 @@
       "verweise_von": [
         "behandlung:camouflage",
         "behandlung:dermabrasion",
+        "behandlung:dermafiller",
+        "behandlung:microneedling",
         "behandlung:narbenbehandlung",
         "haut:effloreszenz-erosion",
         "haut:keloid",
@@ -2466,6 +2829,7 @@
         "begriff:komedogenitaet",
         "begriff:syndet",
         "behandlung:ausreinigung",
+        "behandlung:mikrodermabrasion",
         "haut:mischhaut",
         "haut:normale-haut",
         "wirkstoff:allantoin",
@@ -2608,6 +2972,8 @@
       "pfad": "data/haut/herpes-simplex.md",
       "verweise_von": [
         "behandlung:ausreinigung",
+        "behandlung:microneedling",
+        "behandlung:mikrodermabrasion",
         "haut:effloreszenz-blaeschen",
         "haut:effloreszenz-kruste",
         "haut:herpes-zoster"
@@ -2739,6 +3105,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/hyperhidrose.md",
       "verweise_von": [
+        "behandlung:botulinumtoxin",
         "behandlung:iontophorese",
         "haut:pityriasis-versicolor",
         "haut:tinea-pedis"
@@ -2826,6 +3193,7 @@
       "verweise_von": [
         "behandlung:dermabrasion",
         "behandlung:kryotherapie",
+        "behandlung:microneedling",
         "behandlung:narbenbehandlung",
         "behandlung:permanent-make-up",
         "haut:effloreszenz-narbe"
@@ -3478,6 +3846,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/postinflammatorische-hyperpigmentierung.md",
       "verweise_von": [
+        "behandlung:mikrodermabrasion",
         "haut:akne-vulgaris",
         "haut:melasma"
       ]
@@ -3569,6 +3938,10 @@
           "fundstelle": "Kap. 2.7.7, S. 41–42; Kap. 7.1.6–7.1.7, S. 197–198"
         },
         {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 31.1, S. 270–272"
+        },
+        {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Hautalterung“"
         }
@@ -3577,6 +3950,10 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/reife-haut.md",
       "verweise_von": [
+        "behandlung:botulinumtoxin",
+        "behandlung:hautstraffung-energiebasiert",
+        "behandlung:microneedling",
+        "behandlung:mikrodermabrasion",
         "haut:sebostase",
         "wirkstoff:centella-asiatica",
         "wirkstoff:gruentee",
@@ -3631,6 +4008,8 @@
         "behandlung:camouflage",
         "behandlung:chemisches-peeling",
         "behandlung:laserbehandlung",
+        "behandlung:microneedling",
+        "behandlung:mikrodermabrasion",
         "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
         "haut:periorale-dermatitis",
@@ -4189,6 +4568,7 @@
       "pfad": "data/haut/verrucae-vulgares.md",
       "verweise_von": [
         "behandlung:kryotherapie",
+        "behandlung:microneedling",
         "haut:molluscum-contagiosum",
         "haut:verrucae-plantares"
       ]
@@ -4517,14 +4897,22 @@
       "verweise_von": [
         "begriff:praxishygiene",
         "behandlung:ausreinigung",
+        "behandlung:botulinumtoxin",
         "behandlung:camouflage",
         "behandlung:chemisches-peeling",
         "behandlung:dermabrasion",
+        "behandlung:dermafiller",
+        "behandlung:fadenlifting",
         "behandlung:haarentfernung",
         "behandlung:hautanalyse",
+        "behandlung:hautstraffung-energiebasiert",
         "behandlung:iontophorese",
+        "behandlung:kryolipolyse",
         "behandlung:kryotherapie",
         "behandlung:laserbehandlung",
+        "behandlung:mesotherapie",
+        "behandlung:microneedling",
+        "behandlung:mikrodermabrasion",
         "behandlung:milienentfernung",
         "behandlung:narbenbehandlung",
         "behandlung:permanent-make-up",
@@ -4566,6 +4954,7 @@
         "haut:polymorphe-lichtdermatose",
         "haut:postinflammatorische-hyperpigmentierung",
         "haut:psoriasis",
+        "haut:reife-haut",
         "haut:rosazea",
         "haut:seborrhoische-keratose",
         "haut:seborrhoisches-ekzem",
@@ -5368,6 +5757,7 @@
       "pfad": "data/recht/nisv.md",
       "verweise_von": [
         "behandlung:haarentfernung",
+        "behandlung:hautstraffung-energiebasiert",
         "behandlung:iontophorese",
         "behandlung:laserbehandlung",
         "behandlung:narbenbehandlung",
@@ -6904,6 +7294,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/hyaluronsaeure.md",
       "verweise_von": [
+        "behandlung:dermafiller",
         "haut:reife-haut",
         "wirkstoff:glycerin"
       ]

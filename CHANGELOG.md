@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 8 (Herrmann/Trinkkeller Kap. 31 → Anti-Aging-Verfahren)
+- 8 neue Behandlungen: Mikrodermabrasion, Microneedling, Botulinumtoxin, Dermafiller, Fadenlifting, Mesotherapie,
+  energiebasierte Hautstraffung (Radiofrequenz, fokussierter Ultraschall), Kryolipolyse
+- Chemisches Peeling: vier Peelingtiefen, Kontraindikationen; Laser: Skin Resurfacing; reife Haut: Vorbeugung
+- Heilkundevorbehalt bei Injektionen und NiSV-Bezüge gekennzeichnet; Fehler der Quelle (Erreger von Botulinumtoxin) vermerkt
+
 ## 2026-10-28 – Studienrecherche für die Lehrbuch-Wirkstoffe aus Runde 7
 - PubMed-Recherche für 12 Wirkstoffe; `evidenz` und `impact` gesetzt, Abschnitt „Studienlage“ mit DOIs
 - Wichtige Befunde: Vitamin E ohne Narbennutzen bei häufiger Kontaktdermatitis; Coffein bei Haarausfall moderat belegt; Allantoin-RCT negativ

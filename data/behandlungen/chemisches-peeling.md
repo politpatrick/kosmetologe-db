@@ -13,7 +13,7 @@ tags: [peeling, saeure]
 verwandt: [behandlung:dermabrasion, behandlung:narbenbehandlung, wirkstoff:aha, wirkstoff:trichloressigsaeure, begriff:lichtschutzfaktor]
 quellen:
   - id: quelle:herrmann-trinkkeller-dermatologie
-    fundstelle: "Kap. 27.2, S. 209–210; Kap. 27.9.2 und 27.11, S. 222, 227"
+    fundstelle: "Kap. 27.2, S. 209–210; Kap. 27.9.2 und 27.11, S. 222, 227; Kap. 31.2.3, S. 274–275"
 status: entwurf
 aktualisiert: 2026-10-28
 ---
@@ -26,3 +26,13 @@ Abgrenzung: mittlere und tiefe Peelings sind ärztliche Leistungen (siehe recht:
 - Nach einem oberflächlichen Peeling etwa vier Wochen konsequenter Sonnenschutz (LSF 50), nach tiefem Peeling sechs Monate.
 - Sich lösende Haut nie abziehen, sonst drohen Pigmentstörungen und Narben.
 - Tiefe Peelings und Trichloressigsäure-Peelings sind ärztlich.
+
+## Peelingtiefen (Kap. 31.2.3)
+1. Sehr oberflächlich, nur Hornschicht (z. B. Salicylsäure niedrig dosiert).
+2. Oberflächlich bis zur Basalmembran (z. B. Fruchtsäuren, höher dosierte Salicylsäure).
+3. Mitteltief bis in die obere Lederhaut (z. B. 35 % Trichloressigsäure) – ärztlich.
+4. Tief (z. B. Phenol) – nur erfahrene Hautärztin oder erfahrener Hautarzt.
+
+Weitere Hinweise laut Quelle: Wiederholung alle 3–4 Monate; kein Einfluss auf Porengröße oder Äderchen;
+lichtsensibilisierende Arzneimittel (z. B. Retinoide) mindestens 6 Monate vorher absetzen; Herpes und Gürtelrose sind
+absolute Kontraindikationen; danach mehrere Wochen LSF 50+.
