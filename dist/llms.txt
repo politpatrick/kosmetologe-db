@@ -114,15 +114,15 @@
 - `begriff:inci` [INCI](data/begriffe/inci.md) – Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.
 
 ## quelle (9)
-- `quelle:ellsaesser-koerperpflegekunde` [Körperpflegekunde und Kosmetik](data/quellen/ellsaesser-koerperpflegekunde.md) – Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.
+- `quelle:ellsaesser-koerperpflegekunde` [Körperpflegekunde und Kosmetik – Ein Lehrbuch für die PTA-Ausbildung und die Beratung in der Apothekenpraxis](data/quellen/ellsaesser-koerperpflegekunde.md) – Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.
 - `quelle:eur-lex` [EUR-Lex – Rechtsdatenbank der EU](data/quellen/eur-lex.md) – Amtliche konsolidierte Fassungen von EU-Verordnungen, u. a. der Kosmetikverordnung.
 - `quelle:gesetze-im-internet` [Gesetze im Internet (BMJ)](data/quellen/gesetze-im-internet.md) – Amtliche Bundesrechtsdatenbank; maschinenlesbar gespiegelt im Repo law-data-germany.
-- `quelle:herrmann-trinkkeller-dermatologie` [Dermatologie und medizinische Kosmetik – Leitfaden für die kosmetische Praxis](data/quellen/herrmann-trinkkeller-dermatologie.md) – Leitfaden zu Hautanatomie, Effloreszenzenlehre, Anamnese und Hauterkrankungen aus Sicht der Kosmetikpraxis (Quellenkürzel D). [entwurf]
+- `quelle:herrmann-trinkkeller-dermatologie` [Dermatologie und medizinische Kosmetik – Leitfaden für die kosmetische Praxis](data/quellen/herrmann-trinkkeller-dermatologie.md) – Leitfaden zu Hautanatomie, Effloreszenzenlehre, Anamnese und Hauterkrankungen aus Sicht der Kosmetikpraxis (Quellenkürzel D).
 - `quelle:kosmetologe-projekt` [Projekt Kosmetologe – eigene Recherchen und Auswertungen](data/quellen/kosmetologe-projekt.md) – Eigene Rechtsauswertungen, Impact-Liste und Rechercheberichte aus dem claude.ai-Projekt Kosmetologe (Stand bis 2026-10-28).
 - `quelle:pubmed` [PubMed](data/quellen/pubmed.md) – Bibliografische Datenbank biomedizinischer Literatur; Grundlage der wöchentlichen Wirkstoff-Recherche (Abstracts, PMID/DOI).
 - `quelle:sccs` [SCCS – Scientific Committee on Consumer Safety](data/quellen/sccs.md) – Wissenschaftlicher Ausschuss der EU-Kommission; Gutachten (Opinions) sind Grundlage für Änderungen der Anhänge der Kosmetikverordnung.
 - `quelle:springer-lexikon-kosmetik` [Springer Lexikon Kosmetik und Körperpflege](data/quellen/springer-lexikon-kosmetik.md) – Alphabetisches Fachlexikon zu INCI-Stoffen, Begriffen und Verfahren der Kosmetik.
-- `quelle:tadros-formulierungen` [Formulierungen in Kosmetik und Körperpflege](data/quellen/tadros-formulierungen.md) – Kolloidchemische Grundlagen kosmetischer Formulierungen – Tenside, Emulsionen, Nanoemulsionen, Liposomen, Shampoos, Sonnenschutz. [entwurf]
+- `quelle:tadros-formulierungen` [Formulierungen in Kosmetik und Körperpflege](data/quellen/tadros-formulierungen.md) – Kolloidchemische Grundlagen kosmetischer Formulierungen – Tenside, Emulsionen, Nanoemulsionen, Liposomen, Shampoos, Sonnenschutz.
 
 ## kontext (2)
 - `kontext:fachliche-grundsaetze` [Fachliche Grundsätze für alle Antworten](data/kontext/fachliche-grundsaetze.md) – Leitplanken – Abgrenzung zur Heilkunde, Quellenpflicht, Rechtsstand prüfen, keine Buchtexte veröffentlichen.
