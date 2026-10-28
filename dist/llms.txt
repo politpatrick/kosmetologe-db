@@ -172,10 +172,12 @@
 - `behandlung:narbenbehandlung` [Narbenbehandlung](data/behandlungen/narbenbehandlung.md) – Je nach Narbentyp: Schältherapie, Needling, fraktionierter Laser oder Filler bei eingesunkenen Narben; Kälte, Kompression und Narbensalben bei Keloiden. [entwurf]
 - `behandlung:permanent-make-up` [Permanent Make-up und medizinische Pigmentierung](data/behandlungen/permanent-make-up.md) – Einbringen von Farbpigmenten mit Einmalnadeln; Haltbarkeit hängt von Tiefe, Pigment und Haut ab, Farbe verändert sich mit der Zeit. [entwurf]
 
-## formulierung (9)
+## formulierung (11)
+- `formulierung:deodorant` [Deodorant und Antitranspirant](data/formulierungen/deodorant.md) – Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer. [entwurf]
 - `formulierung:emulsion-ow` [Öl-in-Wasser-Emulsion (O/W)](data/formulierungen/emulsion-ow.md) – Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen.
 - `formulierung:emulsion-wo` [Wasser-in-Öl-Emulsion (W/O)](data/formulierungen/emulsion-wo.md) – Wassertröpfchen in Öl – reichhaltig, okklusiv, wasserabweisend; für trockene Haut, Nacht- und Kälteschutzpflege. [entwurf]
 - `formulierung:fluessigkristalline-phasen` [Flüssigkristalline Phasen (lamellare Strukturen)](data/formulierungen/fluessigkristalline-phasen.md) – Geordnete, aber fließfähige Strukturen aus Tensiden; lamellare Phasen ähneln den Hautlipiden und stabilisieren Cremes. [entwurf]
+- `formulierung:gel` [Gel (Hydrogel)](data/formulierungen/gel.md) – Wasser in einem dreidimensionalen Netz aus Gelbildnern, vorstellbar wie ein vollgesogener Schwamm; fettfrei, kühlend, geeignet für fettige Haut und Augenpartie. [entwurf]
 - `formulierung:haarspuelung` [Haarspülung (Conditioner)](data/formulierungen/haarspuelung.md) – Lagert positiv geladene Pflegestoffe auf dem negativ geladenen Haar ab; verbessert Kämmbarkeit, Glanz und verringert statische Aufladung. [entwurf]
 - `formulierung:liposomen` [Liposomen und Vesikel](data/formulierungen/liposomen.md) – Kugelige Bläschen aus Phospholipid-Doppelschichten; nehmen fett- und wasserlösliche Wirkstoffe auf und ähneln Zellmembranen. [entwurf]
 - `formulierung:mehrfachemulsion` [Mehrfachemulsion (W/O/W)](data/formulierungen/mehrfachemulsion.md) – In Öltröpfchen eingeschlossene Wassertröpfchen in Wasser; schützt empfindliche Wirkstoffe und kombiniert leichtes O/W-Gefühl mit W/O-Feuchtigkeit. [entwurf]
@@ -194,8 +196,9 @@
 - `recht:taetowiermittel` [Tätowiermittel und Permanent Make-up (TätoV und REACH-Beschränkung)](data/recht/taetowiermittel.md) – Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75. [entwurf]
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
-## begriff (15)
+## begriff (19)
 - `begriff:antioxidans` [Antioxidans](data/begriffe/antioxidans.md) – Stoff, der Inhaltsstoffe vor dem Ranzigwerden schützt bzw. in der Haut freie Radikale abfängt, z. B. Vitamin E und C. [entwurf]
+- `begriff:emulgator` [Emulgator](data/begriffe/emulgator.md) – Grenzflächenaktiver Stoff, der Öl und Wasser zu einer Emulsion verbindet; der HLB-Wert entscheidet, ob eine W/O- oder O/W-Emulsion entsteht. [entwurf]
 - `begriff:emulsionszerfall` [Emulsionszerfall](data/begriffe/emulsionszerfall.md) – Prozesse, durch die Emulsionen bei Lagerung entmischen: Aufrahmen, Absetzen, Flockung, Ostwald-Reifung, Koaleszenz, Phaseninversion. [entwurf]
 - `begriff:hlb-wert` [HLB-Wert](data/begriffe/hlb-wert.md) – Kennzahl (0–20) für das Verhältnis hydrophiler zu lipophiler Anteile eines Emulgators; bestimmt O/W- oder W/O-Tendenz.
 - `begriff:hydrolipidfilm` [Hydrolipidfilm](data/begriffe/hydrolipidfilm.md) – Emulsionsartiger Film aus Talg, Schweiß und Hautlipiden auf der Hornschicht; schützt vor Austrocknung und Chemikalien. [entwurf]
@@ -205,11 +208,14 @@
 - `begriff:lichtschutzfaktor` [Lichtschutzfaktor (LSF)](data/begriffe/lichtschutzfaktor.md) – Maß für den Schutz vor UVB-bedingtem Sonnenbrand; sagt nichts über UVA-Schutz oder Langzeitschäden aus. [entwurf]
 - `begriff:mizelle` [Mizelle und CMC](data/begriffe/mizelle.md) – Zusammenlagerung von Tensidmolekülen in Wasser oberhalb der kritischen Mizellbildungskonzentration (CMC); bindet Fett im Inneren. [entwurf]
 - `begriff:nmf` [NMF (natürliche Feuchthaltefaktoren)](data/begriffe/nmf.md) – Kleine wasserbindende Moleküle in der Hornschicht, z. B. Aminosäuren, Harnstoff, Milchsäure, PCA; entscheidend für die Hautfeuchte. [entwurf]
+- `begriff:paraffine` [Paraffine und Mineralöle](data/begriffe/paraffine.md) – Gesättigte Kohlenwasserstoffe aus Erdöl oder Synthese: chemisch stabil, kaum allergen, wirken stark okklusiv; in Pflege eher als Bestandteil denn als Hauptgrundlage. [entwurf]
 - `begriff:praxishygiene` [Praxishygiene](data/begriffe/praxishygiene.md) – Hygieneplan, Händedesinfektion, Aufbereitung von Instrumenten, Flächendesinfektion und Verhalten bei Stichverletzungen. [entwurf]
 - `begriff:saeureschutzmantel` [Säureschutzmantel](data/begriffe/saeureschutzmantel.md) – Leicht saurer Film auf der Haut (pH etwa 4,5–5,5) aus Schweiß und Talg; hemmt Keime und stabilisiert die Barriere. [entwurf]
+- `begriff:silikone` [Silikone](data/begriffe/silikone.md) – Synthetische Silicium-Sauerstoff-Polymere wie Dimethicone; geben ein seidiges, nicht fettendes Hautgefühl, glätten Haare und sind sehr gut verträglich. [entwurf]
 - `begriff:syndet` [Syndet](data/begriffe/syndet.md) – Waschstück aus synthetischen Tensiden statt Seife; hautfreundlich einstellbar, z. B. auf leicht sauren pH. [entwurf]
 - `begriff:tensid` [Tensid](data/begriffe/tensid.md) – Molekül mit wasser- und fettliebendem Teil, das Grenzflächenspannung senkt; Grundlage von Reinigung, Schaum und Emulgierung. [entwurf]
 - `begriff:uva-schutz` [UVA-Schutz](data/begriffe/uva-schutz.md) – Schutz vor langwelliger UV-Strahlung, die ohne Sonnenbrand Langzeitschäden verursacht; in der EU mindestens ein Drittel des LSF. [entwurf]
+- `begriff:zubereitungsformen` [Zubereitungsformen (Creme, Lotion, Salbe, Gel)](data/begriffe/zubereitungsformen.md) – Bezeichnungen kosmetischer Grundlagen nach Konsistenz und Aufbau: streichfähig (Creme, Salbe, Gel) oder fließfähig (Lotion, Milch, Fluid). [entwurf]
 
 ## quelle (9)
 - `quelle:ellsaesser-koerperpflegekunde` [Körperpflegekunde und Kosmetik – Ein Lehrbuch für die PTA-Ausbildung und die Beratung in der Apothekenpraxis](data/quellen/ellsaesser-koerperpflegekunde.md) – Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.

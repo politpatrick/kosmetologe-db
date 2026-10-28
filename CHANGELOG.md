@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 10 (Ellsässer Kap. 6 und 10 → Grundlagen, Deo)
+- Neue Begriffe: Emulgator, Paraffine und Mineralöle, Silikone, Zubereitungsformen
+- Neue Formulierungen: Gel, Deodorant und Antitranspirant
+- Hyperhidrose mit Deo verknüpft; umstrittene Buchthese zu Paraffinen und offene Punkte (Silikon-Umweltrecht, SCCS Aluminium) markiert
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 9 (Herrmann/Trinkkeller → Nägel, Hautparasiten, Lupus)
 - 8 Nagelthemen: Verfärbungen, Onycholyse, brüchige Nägel, eingewachsener Nagel, Zangen- und Rollnagel, verdickte Nägel,
   Paronychie, Uhrglasnagel

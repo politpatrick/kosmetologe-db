@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 207,
+  "anzahl": 213,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -42,6 +42,40 @@
       ]
     },
     {
+      "id": "begriff:emulgator",
+      "typ": "begriff",
+      "titel": "Emulgator",
+      "aliase": [
+        "Emulgatoren",
+        "Emulsionsbildner",
+        "Koemulgator"
+      ],
+      "kurz": "Grenzflächenaktiver Stoff, der Öl und Wasser zu einer Emulsion verbindet; der HLB-Wert entscheidet, ob eine W/O- oder O/W-Emulsion entsteht.",
+      "tags": [
+        "emulsion",
+        "inhaltsstoffe"
+      ],
+      "verwandt": [
+        "begriff:hlb-wert",
+        "begriff:tensid",
+        "formulierung:emulsion-ow",
+        "formulierung:emulsion-wo",
+        "begriff:emulsionszerfall"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 6.1–6.2, S. 141–143"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/emulgator.md",
+      "verweise_von": [
+        "begriff:zubereitungsformen"
+      ]
+    },
+    {
       "id": "begriff:emulsionszerfall",
       "typ": "begriff",
       "titel": "Emulsionszerfall",
@@ -77,6 +111,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/emulsionszerfall.md",
       "verweise_von": [
+        "begriff:emulgator",
         "formulierung:emulsion-ow",
         "formulierung:mehrfachemulsion",
         "formulierung:nanoemulsion"
@@ -117,6 +152,7 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/begriffe/hlb-wert.md",
       "verweise_von": [
+        "begriff:emulgator",
         "begriff:tensid",
         "formulierung:emulsion-ow",
         "formulierung:emulsion-wo"
@@ -156,6 +192,7 @@
       "pfad": "data/begriffe/hydrolipidfilm.md",
       "verweise_von": [
         "begriff:nmf",
+        "begriff:paraffine",
         "begriff:saeureschutzmantel",
         "haut:sebostase",
         "wirkstoff:squalan"
@@ -260,7 +297,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/konservierungsmittel.md",
       "verweise_von": [
-        "begriff:antioxidans"
+        "begriff:antioxidans",
+        "formulierung:gel"
       ]
     },
     {
@@ -382,6 +420,40 @@
       ]
     },
     {
+      "id": "begriff:paraffine",
+      "typ": "begriff",
+      "titel": "Paraffine und Mineralöle",
+      "aliase": [
+        "Paraffinum Liquidum",
+        "Mineralöl",
+        "Vaseline",
+        "Petrolatum"
+      ],
+      "kurz": "Gesättigte Kohlenwasserstoffe aus Erdöl oder Synthese: chemisch stabil, kaum allergen, wirken stark okklusiv; in Pflege eher als Bestandteil denn als Hauptgrundlage.",
+      "tags": [
+        "lipide",
+        "inhaltsstoffe",
+        "okklusiv"
+      ],
+      "verwandt": [
+        "begriff:silikone",
+        "begriff:hydrolipidfilm",
+        "formulierung:emulsion-wo"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 6.3.5, S. 165–166"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/paraffine.md",
+      "verweise_von": [
+        "begriff:silikone"
+      ]
+    },
+    {
       "id": "begriff:praxishygiene",
       "typ": "begriff",
       "titel": "Praxishygiene",
@@ -452,6 +524,40 @@
       ]
     },
     {
+      "id": "begriff:silikone",
+      "typ": "begriff",
+      "titel": "Silikone",
+      "aliase": [
+        "Dimethicone",
+        "Cyclomethicone",
+        "Polysiloxane",
+        "Silikonöle"
+      ],
+      "kurz": "Synthetische Silicium-Sauerstoff-Polymere wie Dimethicone; geben ein seidiges, nicht fettendes Hautgefühl, glätten Haare und sind sehr gut verträglich.",
+      "tags": [
+        "lipide",
+        "inhaltsstoffe",
+        "haare"
+      ],
+      "verwandt": [
+        "begriff:paraffine",
+        "formulierung:haarspuelung",
+        "formulierung:emulsion-ow"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 6.3.6, S. 166–167"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/silikone.md",
+      "verweise_von": [
+        "begriff:paraffine"
+      ]
+    },
+    {
       "id": "begriff:syndet",
       "typ": "begriff",
       "titel": "Syndet",
@@ -518,6 +624,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/tensid.md",
       "verweise_von": [
+        "begriff:emulgator",
         "begriff:mizelle",
         "formulierung:haarspuelung",
         "formulierung:shampoo"
@@ -556,6 +663,42 @@
       "verweise_von": [
         "begriff:lichtschutzfaktor",
         "formulierung:sonnenschutz-mineralisch"
+      ]
+    },
+    {
+      "id": "begriff:zubereitungsformen",
+      "typ": "begriff",
+      "titel": "Zubereitungsformen (Creme, Lotion, Salbe, Gel)",
+      "aliase": [
+        "Darreichungsformen",
+        "Creme",
+        "Lotion",
+        "Salbe",
+        "Milch",
+        "Fluid"
+      ],
+      "kurz": "Bezeichnungen kosmetischer Grundlagen nach Konsistenz und Aufbau: streichfähig (Creme, Salbe, Gel) oder fließfähig (Lotion, Milch, Fluid).",
+      "tags": [
+        "formulierung",
+        "grundlagen"
+      ],
+      "verwandt": [
+        "formulierung:emulsion-ow",
+        "formulierung:emulsion-wo",
+        "formulierung:gel",
+        "begriff:emulgator"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 6 Einleitung, S. 137; Kap. 6.7.1, S. 181–182"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/zubereitungsformen.md",
+      "verweise_von": [
+        "formulierung:gel"
       ]
     },
     {
@@ -1074,6 +1217,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/iontophorese.md",
       "verweise_von": [
+        "formulierung:deodorant",
         "recht:nisv"
       ]
     },
@@ -1494,6 +1638,51 @@
       ]
     },
     {
+      "id": "formulierung:deodorant",
+      "typ": "formulierung",
+      "titel": "Deodorant und Antitranspirant",
+      "aliase": [
+        "Deo",
+        "Antiperspirant",
+        "Antitranspirant",
+        "Deodorans"
+      ],
+      "system": "Deo (Roller, Spray, Stick, Creme)",
+      "bestandteile": [
+        "Antitranspirant: Aluminiumsalze (z. B. Aluminium Chlorohydrate)",
+        "Deodorant: antimikrobielle Stoffe, Geruchsbinder (Zinc Ricinoleate), Enzymhemmer (Triethyl Citrate)",
+        "Duftstoffe",
+        "Alkohol oder Emulsionsgrundlage"
+      ],
+      "stabilitaet": "Aluminiumsalze reagieren sauer und können reizen; Alkohol trocknet aus (eigene Ergänzung).",
+      "kurz": "Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer.",
+      "tags": [
+        "deo",
+        "schweiss"
+      ],
+      "verwandt": [
+        "haut:hyperhidrose",
+        "behandlung:iontophorese",
+        "recht:anhang-iii-duftstoff-allergene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 10, S. 283–290"
+        },
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 10.1, S. 88; Kap. 27.13, S. 234"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/deodorant.md",
+      "verweise_von": [
+        "haut:hyperhidrose"
+      ]
+    },
+    {
       "id": "formulierung:emulsion-ow",
       "typ": "formulierung",
       "titel": "Öl-in-Wasser-Emulsion (O/W)",
@@ -1532,11 +1721,15 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/formulierungen/emulsion-ow.md",
       "verweise_von": [
+        "begriff:emulgator",
         "begriff:emulsionszerfall",
         "begriff:hlb-wert",
         "begriff:hydrolipidfilm",
+        "begriff:silikone",
+        "begriff:zubereitungsformen",
         "formulierung:emulsion-wo",
         "formulierung:fluessigkristalline-phasen",
+        "formulierung:gel",
         "formulierung:mehrfachemulsion",
         "formulierung:nanoemulsion",
         "haut:normale-haut"
@@ -1584,9 +1777,12 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/formulierungen/emulsion-wo.md",
       "verweise_von": [
+        "begriff:emulgator",
         "begriff:emulsionszerfall",
         "begriff:hlb-wert",
         "begriff:hydrolipidfilm",
+        "begriff:paraffine",
+        "begriff:zubereitungsformen",
         "formulierung:emulsion-ow",
         "formulierung:mehrfachemulsion",
         "haut:sebostase"
@@ -1633,6 +1829,47 @@
       ]
     },
     {
+      "id": "formulierung:gel",
+      "typ": "formulierung",
+      "titel": "Gel (Hydrogel)",
+      "aliase": [
+        "Hydrogel",
+        "Gelgrundlage",
+        "Lipogel (Abgrenzung)"
+      ],
+      "system": "Gel",
+      "bestandteile": [
+        "Lösungsmittel (meist Wasser, teils Alkohol)",
+        "Gelbildner (z. B. Carbomer, Cellulosederivate, Xanthan, Silikate)",
+        "Feuchthaltemittel",
+        "Konservierung"
+      ],
+      "stabilitaet": "Gerüst aus schwachen Bindungen muss sich beim Einmassieren lösen; Elektrolyte, falscher pH-Wert oder Alkohol können das Gel verflüssigen (eigene Ergänzung).",
+      "kurz": "Wasser in einem dreidimensionalen Netz aus Gelbildnern, vorstellbar wie ein vollgesogener Schwamm; fettfrei, kühlend, geeignet für fettige Haut und Augenpartie.",
+      "tags": [
+        "formulierung",
+        "fettfrei"
+      ],
+      "verwandt": [
+        "begriff:zubereitungsformen",
+        "haut:fettige-haut",
+        "begriff:konservierungsmittel",
+        "formulierung:emulsion-ow"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 6.5, S. 172–179"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/gel.md",
+      "verweise_von": [
+        "begriff:zubereitungsformen"
+      ]
+    },
+    {
       "id": "formulierung:haarspuelung",
       "typ": "formulierung",
       "titel": "Haarspülung (Conditioner)",
@@ -1672,6 +1909,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/formulierungen/haarspuelung.md",
       "verweise_von": [
+        "begriff:silikone",
         "formulierung:shampoo"
       ]
     },
@@ -2914,6 +3152,7 @@
         "begriff:syndet",
         "behandlung:ausreinigung",
         "behandlung:mikrodermabrasion",
+        "formulierung:gel",
         "haut:mischhaut",
         "haut:normale-haut",
         "wirkstoff:allantoin",
@@ -3178,7 +3417,8 @@
       ],
       "verwandt": [
         "haut:tinea-pedis",
-        "haut:pityriasis-versicolor"
+        "haut:pityriasis-versicolor",
+        "formulierung:deodorant"
       ],
       "quellen": [
         {
@@ -3192,6 +3432,7 @@
       "verweise_von": [
         "behandlung:botulinumtoxin",
         "behandlung:iontophorese",
+        "formulierung:deodorant",
         "haut:pityriasis-versicolor",
         "haut:tinea-pedis"
       ]
@@ -5259,17 +5500,23 @@
       "pfad": "data/quellen/ellsaesser-koerperpflegekunde.md",
       "verweise_von": [
         "begriff:antioxidans",
+        "begriff:emulgator",
         "begriff:hlb-wert",
         "begriff:hydrolipidfilm",
         "begriff:komedogenitaet",
         "begriff:konservierungsmittel",
         "begriff:lichtschutzfaktor",
         "begriff:nmf",
+        "begriff:paraffine",
         "begriff:saeureschutzmantel",
+        "begriff:silikone",
         "begriff:syndet",
         "begriff:uva-schutz",
+        "begriff:zubereitungsformen",
         "behandlung:ausreinigung",
+        "formulierung:deodorant",
         "formulierung:emulsion-wo",
+        "formulierung:gel",
         "haut:babyhaut",
         "haut:cellulite",
         "haut:fettige-haut",
@@ -5464,6 +5711,7 @@
         "behandlung:milienentfernung",
         "behandlung:narbenbehandlung",
         "behandlung:permanent-make-up",
+        "formulierung:deodorant",
         "haut:akne-vulgaris",
         "haut:aktinische-keratose",
         "haut:alopecia-areata",
@@ -6051,6 +6299,7 @@
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/anhang-iii-duftstoff-allergene.md",
       "verweise_von": [
+        "formulierung:deodorant",
         "haut:kontaktekzem",
         "recht:eu-kosmetikverordnung",
         "wirkstoff:benzylalkohol",
