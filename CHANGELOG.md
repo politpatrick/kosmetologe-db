@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 7 (Ellsässer Kap. 4 → Wirkstoffe)
+- 12 neue Wirkstoffe aus der Impact-Liste (Abschnitt B, bisher ohne Datei): Allantoin, Aloe vera, Bisabolol, Coffein,
+  Grüner Tee, Hamamelis, Kamille, Centella asiatica, Teebaumöl, Tocopherol, Squalan/Squalen, Coenzym Q10
+- INCI gegen Springer-Lexikon-Stichwörter abgeglichen; Evidenz `nicht-bewertet`, Impact `offen` (nur Lehrbuch)
+
 ## 2026-10-28 – Recht: NiSV und Tätowiermittel
 - `recht:nisv`: Arztvorbehalte und Fachkundepflicht für Laser, IPL, Hochfrequenz, Ultraschall; Betreiberpflichten (aus dem amtlichen Text)
 - `recht:taetowiermittel`: TätoV und REACH Anhang XVII Eintrag 75 für Tätowierfarben und Permanent Make-up
