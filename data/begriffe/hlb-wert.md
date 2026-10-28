@@ -8,8 +8,18 @@ tags: [emulsion, tensid]
 verwandt: [formulierung:emulsion-ow, formulierung:emulsion-wo]
 quellen:
   - id: quelle:tadros-formulierungen
-    fundstelle: Kap. 2
-status: entwurf
+    fundstelle: Kap. 6.4, S. 114 und 120–121 (Tab. 6.1)
+  - id: quelle:ellsaesser-koerperpflegekunde
+    fundstelle: Abschnitt Emulsionen
+status: geprueft
 aktualisiert: 2026-10-28
+geprueft_am: 2026-10-28
 ---
-Faustregel: HLB 3–6 W/O-Emulgatoren, HLB 8–18 O/W-Emulgatoren.
+Halbempirische Skala nach Griffin, ursprünglich für nichtionische Emulgatoren.
+
+Faustregel: HLB 3–6 W/O-Emulgatoren, HLB 8–18 O/W-Emulgatoren (Tadros). Andere Lehrbücher ziehen die
+Grenze gröber (etwa unter bzw. über 8), die Bereiche sind daher als Orientierung zu verstehen.
+
+Werte von Emulgatormischungen lassen sich näherungsweise gewichtsanteilig mitteln. Jedes Öl hat einen
+eigenen „erforderlichen HLB“; neben dem HLB entscheidet auch die chemische Passung von Emulgator und Öl
+über die Stabilität.

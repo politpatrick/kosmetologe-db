@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Wöchentliche Prüfung
+- `recht:vo-2024-996` am Amtsblatt-Text geprüft: Anhang VI und 4-MBC ergänzt, Grenzwerte und Übergangsfristen tabelliert
+- `recht:eu-kosmetikverordnung` gegen konsolidierte Fassung 18.05.2026 geprüft, URL aktualisiert, Art. 19/20 präzisiert
+- `begriff:hlb-wert`, `formulierung:emulsion-ow` geprüft (Fundstellen korrigiert); `formulierung:emulsion-wo` teilgeprüft, Beleg für Magnesiumsulfat offen
+
 ## 2026-10-28 – Recherchierte Wirkstoffdateien
 - 59 Wirkstoffdateien aus dem claude.ai-Projekt übernommen: 36 neue Einträge, 23 bestehende mit dem Projekttext zusammengeführt (54 → 90 Einträge)
 - Dateiverweise (`foo.md`) in Eintrags-IDs umgewandelt; Rechts- und Quellenbezüge automatisch verknüpft
