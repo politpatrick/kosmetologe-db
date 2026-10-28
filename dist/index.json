@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 151,
+  "anzahl": 161,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -35,6 +35,43 @@
       ]
     },
     {
+      "id": "begriff:emulsionszerfall",
+      "typ": "begriff",
+      "titel": "Emulsionszerfall",
+      "aliase": [
+        "Emulsionsinstabilität",
+        "Aufrahmung",
+        "Koaleszenz",
+        "Ostwald-Reifung",
+        "Phaseninversion"
+      ],
+      "kurz": "Prozesse, durch die Emulsionen bei Lagerung entmischen: Aufrahmen, Absetzen, Flockung, Ostwald-Reifung, Koaleszenz, Phaseninversion.",
+      "tags": [
+        "emulsion",
+        "stabilitaet"
+      ],
+      "verwandt": [
+        "formulierung:emulsion-ow",
+        "formulierung:emulsion-wo",
+        "formulierung:nanoemulsion",
+        "formulierung:mehrfachemulsion"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 6.3, S. 115–116"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/emulsionszerfall.md",
+      "verweise_von": [
+        "formulierung:emulsion-ow",
+        "formulierung:mehrfachemulsion",
+        "formulierung:nanoemulsion"
+      ]
+    },
+    {
       "id": "begriff:hlb-wert",
       "typ": "begriff",
       "titel": "HLB-Wert",
@@ -65,6 +102,7 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/begriffe/hlb-wert.md",
       "verweise_von": [
+        "begriff:tensid",
         "formulierung:emulsion-ow",
         "formulierung:emulsion-wo"
       ]
@@ -222,7 +260,43 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/lichtschutzfaktor.md",
       "verweise_von": [
-        "begriff:uva-schutz"
+        "begriff:uva-schutz",
+        "formulierung:sonnenschutz-mineralisch"
+      ]
+    },
+    {
+      "id": "begriff:mizelle",
+      "typ": "begriff",
+      "titel": "Mizelle und CMC",
+      "aliase": [
+        "Mizellen",
+        "kritische Mizellbildungskonzentration",
+        "CMC",
+        "Mizellenwasser"
+      ],
+      "kurz": "Zusammenlagerung von Tensidmolekülen in Wasser oberhalb der kritischen Mizellbildungskonzentration (CMC); bindet Fett im Inneren.",
+      "tags": [
+        "tenside",
+        "reinigung"
+      ],
+      "verwandt": [
+        "begriff:tensid",
+        "formulierung:fluessigkristalline-phasen",
+        "formulierung:shampoo"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 4.1, S. 79; Kap. 10.2.2, S. 221"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/mizelle.md",
+      "verweise_von": [
+        "begriff:tensid",
+        "formulierung:fluessigkristalline-phasen",
+        "formulierung:shampoo"
       ]
     },
     {
@@ -319,7 +393,43 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/syndet.md",
       "verweise_von": [
-        "begriff:saeureschutzmantel"
+        "begriff:saeureschutzmantel",
+        "begriff:tensid"
+      ]
+    },
+    {
+      "id": "begriff:tensid",
+      "typ": "begriff",
+      "titel": "Tensid",
+      "aliase": [
+        "Tenside",
+        "grenzflächenaktiver Stoff",
+        "Detergens"
+      ],
+      "kurz": "Molekül mit wasser- und fettliebendem Teil, das Grenzflächenspannung senkt; Grundlage von Reinigung, Schaum und Emulgierung.",
+      "tags": [
+        "tenside",
+        "reinigung"
+      ],
+      "verwandt": [
+        "begriff:mizelle",
+        "begriff:syndet",
+        "formulierung:shampoo",
+        "begriff:hlb-wert"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 2.1, S. 12–13"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/tensid.md",
+      "verweise_von": [
+        "begriff:mizelle",
+        "formulierung:haarspuelung",
+        "formulierung:shampoo"
       ]
     },
     {
@@ -353,7 +463,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/uva-schutz.md",
       "verweise_von": [
-        "begriff:lichtschutzfaktor"
+        "begriff:lichtschutzfaktor",
+        "formulierung:sonnenschutz-mineralisch"
       ]
     },
     {
@@ -458,7 +569,10 @@
       "verwandt": [
         "formulierung:emulsion-wo",
         "begriff:hlb-wert",
-        "wirkstoff:glycerin"
+        "wirkstoff:glycerin",
+        "begriff:emulsionszerfall",
+        "formulierung:nanoemulsion",
+        "formulierung:mehrfachemulsion"
       ],
       "quellen": [
         {
@@ -471,9 +585,13 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/formulierungen/emulsion-ow.md",
       "verweise_von": [
+        "begriff:emulsionszerfall",
         "begriff:hlb-wert",
         "begriff:hydrolipidfilm",
         "formulierung:emulsion-wo",
+        "formulierung:fluessigkristalline-phasen",
+        "formulierung:mehrfachemulsion",
+        "formulierung:nanoemulsion",
         "haut:normale-haut"
       ]
     },
@@ -515,11 +633,298 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/formulierungen/emulsion-wo.md",
       "verweise_von": [
+        "begriff:emulsionszerfall",
         "begriff:hlb-wert",
         "begriff:hydrolipidfilm",
         "formulierung:emulsion-ow",
+        "formulierung:mehrfachemulsion",
         "haut:sebostase"
       ]
+    },
+    {
+      "id": "formulierung:fluessigkristalline-phasen",
+      "typ": "formulierung",
+      "titel": "Flüssigkristalline Phasen (lamellare Strukturen)",
+      "aliase": [
+        "lamellare Phase",
+        "Lamellarsystem",
+        "Lyotrope Flüssigkristalle"
+      ],
+      "system": "Selbstorganisierte Tensidstrukturen: hexagonal, lamellar, kubisch",
+      "bestandteile": [
+        "Tenside oder Lipide in hoher Konzentration",
+        "Wasser"
+      ],
+      "stabilitaet": "Hohe Viskosität; lamellare Schichten um Emulsionströpfchen verhindern Koaleszenz.",
+      "kurz": "Geordnete, aber fließfähige Strukturen aus Tensiden; lamellare Phasen ähneln den Hautlipiden und stabilisieren Cremes.",
+      "tags": [
+        "struktur",
+        "emulsion",
+        "lipide"
+      ],
+      "verwandt": [
+        "formulierung:liposomen",
+        "formulierung:emulsion-ow",
+        "begriff:mizelle"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 4.1–4.3, S. 79–80"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/fluessigkristalline-phasen.md",
+      "verweise_von": [
+        "begriff:mizelle",
+        "formulierung:liposomen"
+      ]
+    },
+    {
+      "id": "formulierung:haarspuelung",
+      "typ": "formulierung",
+      "titel": "Haarspülung (Conditioner)",
+      "aliase": [
+        "Conditioner",
+        "Spülung",
+        "Haarkur"
+      ],
+      "system": "Kationisches Tensid- oder Polymersystem, meist O/W-Emulsion",
+      "bestandteile": [
+        "kationische Tenside (z. B. Cetrimonium Chloride, Esterquats)",
+        "kationische Polymere (z. B. Polyquaternium-10)",
+        "Fettalkohole",
+        "Silikone"
+      ],
+      "stabilitaet": "Kationische und anionische Tenside können ausfallen; daher getrennte Spülung oder abgestimmte 2-in-1-Systeme.",
+      "kurz": "Lagert positiv geladene Pflegestoffe auf dem negativ geladenen Haar ab; verbessert Kämmbarkeit, Glanz und verringert statische Aufladung.",
+      "tags": [
+        "haare",
+        "pflege"
+      ],
+      "verwandt": [
+        "formulierung:shampoo",
+        "begriff:tensid"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 11.1, S. 236"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/haarspuelung.md",
+      "verweise_von": [
+        "formulierung:shampoo"
+      ]
+    },
+    {
+      "id": "formulierung:liposomen",
+      "typ": "formulierung",
+      "titel": "Liposomen und Vesikel",
+      "aliase": [
+        "Liposom",
+        "Vesikel",
+        "Phospholipid-Vesikel"
+      ],
+      "system": "Lipid-Doppelschicht-Vesikel in wässriger Dispersion",
+      "bestandteile": [
+        "Phospholipide (meist Phosphatidylcholin aus Ei oder Soja)",
+        "Wasser",
+        "Wirkstoff in Membran oder Innenraum"
+      ],
+      "stabilitaet": "Weniger stabil als Nanoemulsionen; Größe und Lamellenzahl hängen von der Herstellung ab (Schütteln, Ultraschall).",
+      "kurz": "Kugelige Bläschen aus Phospholipid-Doppelschichten; nehmen fett- und wasserlösliche Wirkstoffe auf und ähneln Zellmembranen.",
+      "tags": [
+        "traeger",
+        "lipide"
+      ],
+      "verwandt": [
+        "formulierung:nanoemulsion",
+        "formulierung:fluessigkristalline-phasen",
+        "wirkstoff:ceramid-np"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 9.1–9.2, S. 210–211"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/liposomen.md",
+      "verweise_von": [
+        "formulierung:fluessigkristalline-phasen",
+        "formulierung:nanoemulsion"
+      ]
+    },
+    {
+      "id": "formulierung:mehrfachemulsion",
+      "typ": "formulierung",
+      "titel": "Mehrfachemulsion (W/O/W)",
+      "aliase": [
+        "W/O/W",
+        "O/W/O",
+        "multiple Emulsion"
+      ],
+      "system": "Emulsion von Emulsionen, meist W/O/W",
+      "bestandteile": [
+        "innere Wasserphase mit Wirkstoff",
+        "Ölphase als Membran",
+        "äußere Wasserphase",
+        "lipophiler Emulgator innen",
+        "hydrophiler Emulgator außen"
+      ],
+      "stabilitaet": "Empfindlich: Wasser wandert osmotisch zwischen innerer und äußerer Phase, innere Tröpfchen können austreten oder verschmelzen.",
+      "kurz": "In Öltröpfchen eingeschlossene Wassertröpfchen in Wasser; schützt empfindliche Wirkstoffe und kombiniert leichtes O/W-Gefühl mit W/O-Feuchtigkeit.",
+      "tags": [
+        "emulsion"
+      ],
+      "verwandt": [
+        "formulierung:emulsion-ow",
+        "formulierung:emulsion-wo",
+        "begriff:emulsionszerfall"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 8.1–8.3, S. 194–195"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/mehrfachemulsion.md",
+      "verweise_von": [
+        "begriff:emulsionszerfall",
+        "formulierung:emulsion-ow"
+      ]
+    },
+    {
+      "id": "formulierung:nanoemulsion",
+      "typ": "formulierung",
+      "titel": "Nanoemulsion",
+      "aliase": [
+        "Nano-Emulsion",
+        "Mikroemulsion (Abgrenzung)"
+      ],
+      "system": "Emulsion O/W mit Tröpfchen von 20–200 nm",
+      "bestandteile": [
+        "Ölphase",
+        "Wasserphase",
+        "nichtionische oder polymere Tenside (ca. 5–10 % bei 20 % Öl)",
+        "wasserunlöslicher Ölanteil gegen Ostwald-Reifung"
+      ],
+      "stabilitaet": "Nur kinetisch stabil; kein Aufrahmen dank Brownscher Bewegung, Hauptrisiko ist Ostwald-Reifung, die das Produkt trüb werden lässt.",
+      "kurz": "Sehr feine Emulsion, durchscheinend bis klar, ohne Aufrahmen; leichtes Hautgefühl und gute Verteilung von Wirk- und Duftstoffen.",
+      "tags": [
+        "emulsion",
+        "nano"
+      ],
+      "verwandt": [
+        "formulierung:emulsion-ow",
+        "begriff:emulsionszerfall",
+        "formulierung:liposomen"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 7.1, S. 159–160"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/nanoemulsion.md",
+      "verweise_von": [
+        "begriff:emulsionszerfall",
+        "formulierung:emulsion-ow",
+        "formulierung:liposomen"
+      ]
+    },
+    {
+      "id": "formulierung:shampoo",
+      "typ": "formulierung",
+      "titel": "Shampoo",
+      "aliase": [
+        "Haarwaschmittel",
+        "2-in-1-Shampoo"
+      ],
+      "system": "Tensidsystem (wässrige Lösung, Gel oder Lotion)",
+      "bestandteile": [
+        "anionisches Haupttensid (z. B. Alkylethersulfat)",
+        "amphoteres Cotensid (z. B. Betain)",
+        "Schaumverstärker und Verdicker",
+        "kationische Polymere als Conditioner",
+        "Konservierung, Duft"
+      ],
+      "stabilitaet": "Soll 2–3 Jahre physikalisch und chemisch stabil bleiben; Viskosität über Tensidstruktur oder Verdicker.",
+      "kurz": "Reinigt Haar und Kopfhaut von Talg und Rückständen; Kombination aus anionischem und amphoterem Tensid macht es milder.",
+      "tags": [
+        "haare",
+        "tenside",
+        "reinigung"
+      ],
+      "verwandt": [
+        "begriff:tensid",
+        "formulierung:haarspuelung",
+        "begriff:mizelle"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 10.1–10.4, S. 219–222"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/shampoo.md",
+      "verweise_von": [
+        "begriff:mizelle",
+        "begriff:tensid",
+        "formulierung:haarspuelung"
+      ]
+    },
+    {
+      "id": "formulierung:sonnenschutz-mineralisch",
+      "typ": "formulierung",
+      "titel": "Mineralischer Sonnenschutz (TiO₂/ZnO-Dispersion)",
+      "aliase": [
+        "physikalischer Sonnenschutz",
+        "Mikropigmente",
+        "anorganische UV-Filter"
+      ],
+      "system": "Dispersion anorganischer Partikel in Emulsion, Mousse oder Gel",
+      "bestandteile": [
+        "Titandioxid und/oder Zinkoxid als Partikel",
+        "Dispergiermittel",
+        "Emulgatoren",
+        "Verdicker"
+      ],
+      "stabilitaet": "Partikel müssen fein verteilt bleiben; Agglomerate verringern UV-Schutz und machen das Produkt weiß.",
+      "kurz": "Sonnenschutz mit Titandioxid oder Zinkoxid, die UV absorbieren und streuen; breites Spektrum, gut verträglich, Partikelgröße entscheidet.",
+      "tags": [
+        "uv",
+        "sonnenschutz",
+        "pigmente"
+      ],
+      "verwandt": [
+        "wirkstoff:titandioxid",
+        "wirkstoff:zinkoxid",
+        "recht:anhang-vi-uv-filter",
+        "begriff:lichtschutzfaktor",
+        "begriff:uva-schutz"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 12.1–12.2, S. 251–252"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/sonnenschutz-mineralisch.md",
+      "verweise_von": []
     },
     {
       "id": "haut:akne-vulgaris",
@@ -3593,9 +3998,19 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/quellen/tadros-formulierungen.md",
       "verweise_von": [
+        "begriff:emulsionszerfall",
         "begriff:hlb-wert",
+        "begriff:mizelle",
+        "begriff:tensid",
         "formulierung:emulsion-ow",
         "formulierung:emulsion-wo",
+        "formulierung:fluessigkristalline-phasen",
+        "formulierung:haarspuelung",
+        "formulierung:liposomen",
+        "formulierung:mehrfachemulsion",
+        "formulierung:nanoemulsion",
+        "formulierung:shampoo",
+        "formulierung:sonnenschutz-mineralisch",
         "wirkstoff:ammoniumthioglykolat",
         "wirkstoff:fluorouracil",
         "wirkstoff:ketoconazol",
@@ -3757,6 +4172,7 @@
       "verweise_von": [
         "begriff:lichtschutzfaktor",
         "begriff:uva-schutz",
+        "formulierung:sonnenschutz-mineralisch",
         "haut:aktinische-keratose",
         "haut:babyhaut",
         "haut:chronischer-lichtschaden",
@@ -4518,6 +4934,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ceramid-np.md",
       "verweise_von": [
+        "formulierung:liposomen",
         "haut:neurodermitis",
         "haut:reife-haut",
         "wirkstoff:panthenol"
@@ -6088,7 +6505,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/titandioxid.md",
       "verweise_von": [
-        "begriff:lichtschutzfaktor"
+        "begriff:lichtschutzfaktor",
+        "formulierung:sonnenschutz-mineralisch"
       ]
     },
     {
@@ -6516,7 +6934,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/zinkoxid.md",
       "verweise_von": [
-        "begriff:lichtschutzfaktor"
+        "begriff:lichtschutzfaktor",
+        "formulierung:sonnenschutz-mineralisch"
       ]
     }
   ]
