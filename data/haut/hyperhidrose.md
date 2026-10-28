@@ -20,6 +20,7 @@ tags:
 verwandt:
 - haut:tinea-pedis
 - haut:pityriasis-versicolor
+- formulierung:deodorant
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 10.1, S. 88–89
