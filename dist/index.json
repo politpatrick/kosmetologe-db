@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 161,
+  "anzahl": 172,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -217,6 +217,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/begriffe/komedogenitaet.md",
       "verweise_von": [
+        "behandlung:ausreinigung",
         "haut:fettige-haut"
       ]
     },
@@ -295,6 +296,8 @@
       "pfad": "data/begriffe/lichtschutzfaktor.md",
       "verweise_von": [
         "begriff:uva-schutz",
+        "behandlung:camouflage",
+        "behandlung:chemisches-peeling",
         "formulierung:sonnenschutz-mineralisch"
       ]
     },
@@ -372,6 +375,40 @@
       "verweise_von": [
         "begriff:hydrolipidfilm",
         "haut:sebostase"
+      ]
+    },
+    {
+      "id": "begriff:praxishygiene",
+      "typ": "begriff",
+      "titel": "Praxishygiene",
+      "aliase": [
+        "Hygieneplan",
+        "Hygiene im Kosmetikinstitut"
+      ],
+      "kurz": "Hygieneplan, Händedesinfektion, Aufbereitung von Instrumenten, Flächendesinfektion und Verhalten bei Stichverletzungen.",
+      "tags": [
+        "hygiene",
+        "praxis"
+      ],
+      "verwandt": [
+        "behandlung:ausreinigung",
+        "behandlung:milienentfernung",
+        "behandlung:permanent-make-up"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.1, S. 208–209"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/praxishygiene.md",
+      "verweise_von": [
+        "behandlung:ausreinigung",
+        "behandlung:hautanalyse",
+        "behandlung:milienentfernung",
+        "behandlung:permanent-make-up"
       ]
     },
     {
@@ -516,28 +553,46 @@
     {
       "id": "behandlung:ausreinigung",
       "typ": "behandlung",
-      "titel": "Ausreinigung (manuelle Komedonenentfernung)",
-      "ziel": "Entfernen offener und geschlossener Komedonen unter hygienischen Bedingungen",
+      "titel": "Ausreinigung (Aknetoilette)",
+      "aliase": [
+        "Aknetoilette",
+        "Komedonenentfernung",
+        "Ausreinigung"
+      ],
+      "ziel": "Offene und geschlossene Komedonen schonend und hygienisch entfernen, Entzündungen und Narben vorbeugen",
       "indikation": [
         "haut:akne-vulgaris",
+        "haut:fettige-haut",
         "haut:mischhaut"
       ],
       "kontraindikation": [
-        "haut:rosazea",
-        "entzündliche Pusteln und Knoten",
-        "Herpes im Behandlungsareal",
+        "Papeln und Knoten (nie manipulieren)",
+        "Furunkel und Karbunkel (nur ärztlich)",
+        "haut:herpes-simplex",
+        "haut:impetigo-contagiosa",
+        "haut:follikulitis",
         "Antikoagulanzien"
       ],
       "wirkstoffe": [
         "wirkstoff:salicylsaeure"
       ],
-      "dauer_min": 20,
-      "kurz": "Klassische Behandlung bei Komedonen – Vorbereitung, Erweichung, manuelle Entleerung, Desinfektion, Beruhigung.",
+      "dauer_min": 45,
+      "kurz": "Reinigen, mit Dampf oder warmen Kompressen erweichen, Komedonen mit geschützten Fingerkuppen entleeren, desinfizieren, Maske oder Packung.",
       "tags": [
         "akne",
         "manuell"
       ],
+      "verwandt": [
+        "haut:effloreszenz-pustel",
+        "behandlung:milienentfernung",
+        "begriff:praxishygiene",
+        "begriff:komedogenitaet"
+      ],
       "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.6, S. 215–219"
+        },
         {
           "id": "quelle:ellsaesser-koerperpflegekunde"
         }
@@ -546,11 +601,62 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/ausreinigung.md",
       "verweise_von": [
+        "begriff:praxishygiene",
+        "behandlung:milienentfernung",
         "haut:akne-vulgaris",
         "haut:effloreszenz-pustel",
         "haut:herpes-simplex",
         "haut:milien",
         "haut:postinflammatorische-hyperpigmentierung"
+      ]
+    },
+    {
+      "id": "behandlung:camouflage",
+      "typ": "behandlung",
+      "titel": "Camouflage (medizinisches Abdecken)",
+      "aliase": [
+        "Medical Make-up",
+        "Abdeckschminke",
+        "medizinische Schminke"
+      ],
+      "ziel": "Farb- und Strukturveränderungen der Haut unauffällig abdecken",
+      "indikation": [
+        "haut:vitiligo",
+        "haut:melasma",
+        "haut:rosazea",
+        "haut:teleangiektasien",
+        "haut:effloreszenz-narbe",
+        "haut:chronischer-lichtschaden",
+        "Feuermal",
+        "Tätowierungen"
+      ],
+      "kontraindikation": [
+        "offene Wunden",
+        "akut entzündete Haut"
+      ],
+      "dauer_min": 45,
+      "kurz": "Stark pigmentierte, wasserfeste Abdeckprodukte; Grün neutralisiert Rot, hell hebt hervor, dunkel lässt zurücktreten.",
+      "tags": [
+        "make-up",
+        "beratung"
+      ],
+      "verwandt": [
+        "haut:vitiligo",
+        "haut:melasma",
+        "behandlung:narbenbehandlung",
+        "begriff:lichtschutzfaktor"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.16, S. 238–239; Kap. 27.6–27.7, S. 219–220"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/camouflage.md",
+      "verweise_von": [
+        "behandlung:permanent-make-up"
       ]
     },
     {
@@ -582,14 +688,430 @@
         "peeling",
         "saeure"
       ],
+      "verwandt": [
+        "behandlung:dermabrasion",
+        "behandlung:narbenbehandlung",
+        "wirkstoff:aha",
+        "wirkstoff:trichloressigsaeure",
+        "begriff:lichtschutzfaktor"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.2, S. 209–210; Kap. 27.9.2 und 27.11, S. 222, 227"
+        }
+      ],
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/chemisches-peeling.md",
       "verweise_von": [
+        "behandlung:dermabrasion",
+        "behandlung:narbenbehandlung",
         "haut:herpes-simplex",
         "haut:melasma",
         "wirkstoff:aha",
         "wirkstoff:salicylsaeure"
+      ]
+    },
+    {
+      "id": "behandlung:dermabrasion",
+      "typ": "behandlung",
+      "titel": "Dermabrasion (Hautschleifen)",
+      "aliase": [
+        "Schleifen",
+        "Dermabrasio"
+      ],
+      "ziel": "Oberflächliche Hautschichten durch hochtouriges Schleifen abtragen, z. B. bei Narben oder Schmutzeinsprengungen",
+      "indikation": [
+        "haut:keloid",
+        "haut:effloreszenz-narbe",
+        "Schmutz- und Tätowierpigmente"
+      ],
+      "kontraindikation": [
+        "Keloidneigung",
+        "Hals und Oberkörper (Narbenrisiko)",
+        "frische Bräune"
+      ],
+      "kurz": "Ärztliches Verfahren: Abschleifen der Haut bis zur Basalmembran unter Betäubung; danach konsequenter Lichtschutz.",
+      "tags": [
+        "aerztlich",
+        "narben",
+        "abtragend"
+      ],
+      "verwandt": [
+        "behandlung:chemisches-peeling",
+        "behandlung:laserbehandlung",
+        "behandlung:narbenbehandlung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.3, S. 210–211"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/dermabrasion.md",
+      "verweise_von": [
+        "behandlung:chemisches-peeling",
+        "behandlung:narbenbehandlung"
+      ]
+    },
+    {
+      "id": "behandlung:haarentfernung",
+      "typ": "behandlung",
+      "titel": "Haarentfernung (Epilation und Depilation)",
+      "aliase": [
+        "Epilation",
+        "Depilation",
+        "Waxing",
+        "Sugaring",
+        "Nadelepilation"
+      ],
+      "ziel": "Unerwünschte Haare vorübergehend oder dauerhaft entfernen",
+      "indikation": [
+        "haut:hirsutismus",
+        "Hypertrichose",
+        "kosmetischer Wunsch"
+      ],
+      "kontraindikation": [
+        "Pigmentmale im Areal",
+        "Herzschrittmacher oder Insulinpumpe (Elektroepilation)",
+        "Metallimplantate nahe dem Areal (Elektroepilation)",
+        "Risikoschwangerschaft (Elektroepilation)",
+        "frische Bräune (Laser, IPL)"
+      ],
+      "kurz": "Von Rasur und Wachs bis Nadelepilation und Laser; Ursache verstärkter Behaarung vorher ärztlich klären lassen.",
+      "tags": [
+        "haare",
+        "haarentfernung",
+        "nisv"
+      ],
+      "verwandt": [
+        "haut:hirsutismus",
+        "behandlung:laserbehandlung",
+        "wirkstoff:ammoniumthioglykolat",
+        "wirkstoff:wasserstoffperoxid"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.12, S. 227–233"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/haarentfernung.md",
+      "verweise_von": [
+        "behandlung:laserbehandlung"
+      ]
+    },
+    {
+      "id": "behandlung:hautanalyse",
+      "typ": "behandlung",
+      "titel": "Hautanalyse und Anamnese",
+      "aliase": [
+        "Anamnese",
+        "Hautdiagnose",
+        "Erstberatung"
+      ],
+      "ziel": "Hautzustand und Vorgeschichte systematisch erfassen, Behandlung planen und Fälle für die Hautärztin oder den Hautarzt erkennen",
+      "indikation": [
+        "vor jeder Erstbehandlung",
+        "bei neuen oder veränderten Hautbefunden"
+      ],
+      "kontraindikation": [
+        "keine"
+      ],
+      "dauer_min": 20,
+      "kurz": "Strukturierte Befragung und Untersuchung vor jeder Behandlung; die Kosmetikerin ist oft der erste Filter, der an die Hautärztin oder den Hautarzt verweist.",
+      "tags": [
+        "beratung",
+        "diagnostik"
+      ],
+      "verwandt": [
+        "haut:malignes-melanom",
+        "haut:pigmentnaevus",
+        "begriff:praxishygiene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 5, S. 60–63"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/hautanalyse.md",
+      "verweise_von": []
+    },
+    {
+      "id": "behandlung:iontophorese",
+      "typ": "behandlung",
+      "titel": "Leitungswasser-Iontophorese",
+      "aliase": [
+        "Iontophorese",
+        "Gleichstrombehandlung bei Schwitzen"
+      ],
+      "ziel": "Übermäßiges Schwitzen an Händen, Füßen oder Achseln durch Gleichstrom im Wasserbad mindern",
+      "indikation": [
+        "haut:hyperhidrose",
+        "dyshidrotisches Hand- und Fußekzem (nicht akut)"
+      ],
+      "kontraindikation": [
+        "Herzschrittmacher",
+        "Metallimplantate im Stromweg",
+        "Schwangerschaft",
+        "offene Hautstellen",
+        "akutes Ekzem"
+      ],
+      "dauer_min": 30,
+      "kurz": "Hände oder Füße im Wasserbad, schwacher Gleichstrom (5–25 mA) bis zu angenehmem Kribbeln; anfangs täglich, Wirkung hält Monate.",
+      "tags": [
+        "schweiss",
+        "geraet"
+      ],
+      "verwandt": [
+        "haut:hyperhidrose"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.13, S. 233–234"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/iontophorese.md",
+      "verweise_von": []
+    },
+    {
+      "id": "behandlung:kryotherapie",
+      "typ": "behandlung",
+      "titel": "Kryotherapie (Vereisung)",
+      "aliase": [
+        "Vereisung",
+        "Kältetherapie",
+        "Kryochirurgie"
+      ],
+      "ziel": "Hautveränderungen durch Vereisung mit flüssigem Stickstoff (−196 °C) gezielt zerstören",
+      "indikation": [
+        "haut:verrucae-vulgares",
+        "haut:verrucae-plantares",
+        "haut:keloid",
+        "haut:seborrhoische-keratose",
+        "Lentigines"
+      ],
+      "kontraindikation": [
+        "Kälteurtikaria",
+        "Kryoglobulinämie"
+      ],
+      "kurz": "Ärztliches Verfahren mit flüssigem Stickstoff, v. a. bei Warzen, Keratosen und Keloiden; hinterlässt oft helle Flecken, daher Lichtschutz.",
+      "tags": [
+        "aerztlich",
+        "warzen",
+        "narben"
+      ],
+      "verwandt": [
+        "behandlung:narbenbehandlung",
+        "haut:aktinische-keratose"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.4, S. 211–212; Kap. 27.8, S. 220–221"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/kryotherapie.md",
+      "verweise_von": [
+        "behandlung:narbenbehandlung"
+      ]
+    },
+    {
+      "id": "behandlung:laserbehandlung",
+      "typ": "behandlung",
+      "titel": "Laserbehandlung (dermatologisch)",
+      "aliase": [
+        "Lasertherapie",
+        "Laser",
+        "IPL"
+      ],
+      "ziel": "Gefäße, Pigmente, Haare oder Hautschichten mit gebündeltem Licht gezielt behandeln",
+      "indikation": [
+        "haut:teleangiektasien",
+        "haut:besenreiser",
+        "haut:melasma",
+        "haut:hirsutismus",
+        "Tätowierungen",
+        "Falten und Narben"
+      ],
+      "kontraindikation": [
+        "frische Bräune oder Solarium",
+        "Pigmentmal ohne ärztliche Abklärung",
+        "Keloidneigung"
+      ],
+      "kurz": "Jede Laserart wirkt auf ein bestimmtes Ziel (Blutfarbstoff, Melanin, Wasser); Einsatz ärztlich bzw. nach NiSV mit Fachkunde.",
+      "tags": [
+        "aerztlich",
+        "geraet",
+        "nisv"
+      ],
+      "verwandt": [
+        "behandlung:haarentfernung",
+        "behandlung:narbenbehandlung",
+        "haut:rosazea"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/laserbehandlung.md",
+      "verweise_von": [
+        "behandlung:dermabrasion",
+        "behandlung:haarentfernung",
+        "behandlung:narbenbehandlung"
+      ]
+    },
+    {
+      "id": "behandlung:milienentfernung",
+      "typ": "behandlung",
+      "titel": "Milienentfernung",
+      "aliase": [
+        "Grießkörner entfernen"
+      ],
+      "ziel": "Störende Milien durch Anritzen und Herausheben entfernen",
+      "indikation": [
+        "haut:milien"
+      ],
+      "kontraindikation": [
+        "Säuglinge und Kleinkinder (Rückbildung von selbst)",
+        "entzündete Haut im Areal"
+      ],
+      "dauer_min": 15,
+      "kurz": "Nach Desinfektion und Hautspannung kleinste Inzision mit Fremdkörpernadel oder Lanzette, Milium heraushebeln; Narbenrisiko gegen Nutzen abwägen.",
+      "tags": [
+        "manuell",
+        "augenpartie"
+      ],
+      "verwandt": [
+        "haut:milien",
+        "behandlung:ausreinigung",
+        "begriff:praxishygiene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.10, S. 224–225; Kap. 15.1.10, S. 129"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/milienentfernung.md",
+      "verweise_von": [
+        "begriff:praxishygiene",
+        "behandlung:ausreinigung"
+      ]
+    },
+    {
+      "id": "behandlung:narbenbehandlung",
+      "typ": "behandlung",
+      "titel": "Narbenbehandlung",
+      "aliase": [
+        "Aknenarben-Behandlung",
+        "Keloidbehandlung",
+        "Needling",
+        "Microneedling"
+      ],
+      "ziel": "Eingesunkene Narben glätten, überschießende Narben abflachen",
+      "indikation": [
+        "haut:effloreszenz-narbe",
+        "haut:keloid",
+        "haut:akne-vulgaris"
+      ],
+      "kontraindikation": [
+        "aktive Entzündung im Areal",
+        "Keloidneigung (bei abtragenden Verfahren)"
+      ],
+      "kurz": "Je nach Narbentyp: Schältherapie, Needling, fraktionierter Laser oder Filler bei eingesunkenen Narben; Kälte, Kompression und Narbensalben bei Keloiden.",
+      "tags": [
+        "narben",
+        "aerztlich"
+      ],
+      "verwandt": [
+        "behandlung:chemisches-peeling",
+        "behandlung:kryotherapie",
+        "behandlung:laserbehandlung",
+        "behandlung:dermabrasion",
+        "wirkstoff:aha"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.9, S. 222–225; Kap. 26"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/narbenbehandlung.md",
+      "verweise_von": [
+        "behandlung:camouflage",
+        "behandlung:chemisches-peeling",
+        "behandlung:dermabrasion",
+        "behandlung:kryotherapie",
+        "behandlung:laserbehandlung"
+      ]
+    },
+    {
+      "id": "behandlung:permanent-make-up",
+      "typ": "behandlung",
+      "titel": "Permanent Make-up und medizinische Pigmentierung",
+      "aliase": [
+        "Permanent Make-up",
+        "PMU",
+        "medizinische Pigmentierung",
+        "Mikropigmentierung"
+      ],
+      "ziel": "Fehlende Pigmente oder Konturen dauerhaft ergänzen, z. B. Brauen, Lidstrich, Lippenkontur oder Brustwarze",
+      "indikation": [
+        "haut:alopecia-areata",
+        "haut:vitiligo",
+        "hypopigmentierte Narben",
+        "Mamillenrekonstruktion"
+      ],
+      "kontraindikation": [
+        "Keloidneigung",
+        "Pigmentmal im Areal",
+        "aktive Hautinfektion",
+        "Herpes (Lippen)"
+      ],
+      "dauer_min": 120,
+      "kurz": "Einbringen von Farbpigmenten mit Einmalnadeln; Haltbarkeit hängt von Tiefe, Pigment und Haut ab, Farbe verändert sich mit der Zeit.",
+      "tags": [
+        "pigmentierung",
+        "invasiv"
+      ],
+      "verwandt": [
+        "behandlung:camouflage",
+        "begriff:praxishygiene",
+        "haut:keloid"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.17, S. 239–241"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/permanent-make-up.md",
+      "verweise_von": [
+        "begriff:praxishygiene"
       ]
     },
     {
@@ -1047,6 +1569,7 @@
         "begriff:komedogenitaet",
         "behandlung:ausreinigung",
         "behandlung:chemisches-peeling",
+        "behandlung:narbenbehandlung",
         "haut:effloreszenz-erosion",
         "haut:effloreszenz-narbe",
         "haut:effloreszenz-papel",
@@ -1101,6 +1624,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/aktinische-keratose.md",
       "verweise_von": [
+        "behandlung:kryotherapie",
         "haut:chronischer-lichtschaden",
         "haut:seborrhoische-keratose"
       ]
@@ -1144,6 +1668,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/alopecia-areata.md",
       "verweise_von": [
+        "behandlung:permanent-make-up",
         "haut:androgenetische-alopezie"
       ]
     },
@@ -1264,7 +1789,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/besenreiser.md",
-      "verweise_von": []
+      "verweise_von": [
+        "behandlung:laserbehandlung"
+      ]
     },
     {
       "id": "haut:cellulite",
@@ -1355,6 +1882,7 @@
       "verweise_von": [
         "begriff:antioxidans",
         "begriff:uva-schutz",
+        "behandlung:camouflage",
         "haut:reife-haut",
         "haut:sonnenbrand"
       ]
@@ -1583,6 +2111,9 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-narbe.md",
       "verweise_von": [
+        "behandlung:camouflage",
+        "behandlung:dermabrasion",
+        "behandlung:narbenbehandlung",
         "haut:effloreszenz-erosion",
         "haut:keloid"
       ]
@@ -1678,6 +2209,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-pustel.md",
       "verweise_von": [
+        "behandlung:ausreinigung",
         "haut:akne-vulgaris",
         "haut:effloreszenz-blaeschen",
         "haut:follikulitis",
@@ -1903,6 +2435,7 @@
       "verweise_von": [
         "begriff:komedogenitaet",
         "begriff:syndet",
+        "behandlung:ausreinigung",
         "haut:mischhaut",
         "haut:normale-haut"
       ]
@@ -1990,6 +2523,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/follikulitis.md",
       "verweise_von": [
+        "behandlung:ausreinigung",
         "haut:impetigo-contagiosa"
       ]
     },
@@ -2039,6 +2573,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/herpes-simplex.md",
       "verweise_von": [
+        "behandlung:ausreinigung",
         "haut:effloreszenz-blaeschen",
         "haut:effloreszenz-kruste",
         "haut:herpes-zoster"
@@ -2128,6 +2663,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/hirsutismus.md",
       "verweise_von": [
+        "behandlung:haarentfernung",
+        "behandlung:laserbehandlung",
         "haut:androgenetische-alopezie"
       ]
     },
@@ -2168,6 +2705,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/hyperhidrose.md",
       "verweise_von": [
+        "behandlung:iontophorese",
         "haut:pityriasis-versicolor",
         "haut:tinea-pedis"
       ]
@@ -2213,6 +2751,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/impetigo-contagiosa.md",
       "verweise_von": [
+        "behandlung:ausreinigung",
         "haut:effloreszenz-kruste",
         "haut:follikulitis"
       ]
@@ -2251,6 +2790,10 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/keloid.md",
       "verweise_von": [
+        "behandlung:dermabrasion",
+        "behandlung:kryotherapie",
+        "behandlung:narbenbehandlung",
+        "behandlung:permanent-make-up",
         "haut:effloreszenz-narbe"
       ]
     },
@@ -2352,6 +2895,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/malignes-melanom.md",
       "verweise_von": [
+        "behandlung:hautanalyse",
         "haut:pigmentnaevus",
         "haut:seborrhoische-keratose",
         "haut:sonnenbrand"
@@ -2405,6 +2949,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/melasma.md",
       "verweise_von": [
+        "behandlung:camouflage",
+        "behandlung:laserbehandlung",
         "haut:effloreszenz-macula",
         "haut:postinflammatorische-hyperpigmentierung"
       ]
@@ -2450,6 +2996,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/milien.md",
       "verweise_von": [
+        "behandlung:milienentfernung",
         "haut:effloreszenz-zyste",
         "haut:talgdruesenhyperplasie"
       ]
@@ -2769,6 +3316,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/pigmentnaevus.md",
       "verweise_von": [
+        "behandlung:hautanalyse",
         "haut:malignes-melanom",
         "haut:seborrhoische-keratose"
       ]
@@ -3038,8 +3586,9 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/rosazea.md",
       "verweise_von": [
-        "behandlung:ausreinigung",
+        "behandlung:camouflage",
         "behandlung:chemisches-peeling",
+        "behandlung:laserbehandlung",
         "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
         "haut:periorale-dermatitis",
@@ -3097,6 +3646,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/seborrhoische-keratose.md",
       "verweise_von": [
+        "behandlung:kryotherapie",
         "haut:aktinische-keratose",
         "haut:malignes-melanom",
         "haut:pigmentnaevus",
@@ -3403,6 +3953,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/teleangiektasien.md",
       "verweise_von": [
+        "behandlung:camouflage",
+        "behandlung:laserbehandlung",
         "haut:besenreiser",
         "haut:chronischer-lichtschaden",
         "haut:effloreszenz-macula",
@@ -3534,6 +4086,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/verrucae-plantares.md",
       "verweise_von": [
+        "behandlung:kryotherapie",
         "haut:verrucae-vulgares"
       ]
     },
@@ -3578,6 +4131,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/verrucae-vulgares.md",
       "verweise_von": [
+        "behandlung:kryotherapie",
         "haut:molluscum-contagiosum",
         "haut:verrucae-plantares"
       ]
@@ -3626,6 +4180,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/vitiligo.md",
       "verweise_von": [
+        "behandlung:camouflage",
+        "behandlung:permanent-make-up",
         "haut:effloreszenz-macula"
       ]
     },
@@ -3887,6 +4443,19 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/quellen/herrmann-trinkkeller-dermatologie.md",
       "verweise_von": [
+        "begriff:praxishygiene",
+        "behandlung:ausreinigung",
+        "behandlung:camouflage",
+        "behandlung:chemisches-peeling",
+        "behandlung:dermabrasion",
+        "behandlung:haarentfernung",
+        "behandlung:hautanalyse",
+        "behandlung:iontophorese",
+        "behandlung:kryotherapie",
+        "behandlung:laserbehandlung",
+        "behandlung:milienentfernung",
+        "behandlung:narbenbehandlung",
+        "behandlung:permanent-make-up",
         "haut:akne-vulgaris",
         "haut:aktinische-keratose",
         "haut:alopecia-areata",
@@ -4806,6 +5375,8 @@
       ],
       "pfad": "data/wirkstoffe/aha.md",
       "verweise_von": [
+        "behandlung:chemisches-peeling",
+        "behandlung:narbenbehandlung",
         "haut:follikulaere-hyperkeratose"
       ]
     },
@@ -4852,7 +5423,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/ammoniumthioglykolat.md",
-      "verweise_von": []
+      "verweise_von": [
+        "behandlung:haarentfernung"
+      ]
     },
     {
       "id": "wirkstoff:arbutin",
@@ -7050,7 +7623,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/trichloressigsaeure.md",
-      "verweise_von": []
+      "verweise_von": [
+        "behandlung:chemisches-peeling"
+      ]
     },
     {
       "id": "wirkstoff:triclocarban",
@@ -7249,7 +7824,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/wasserstoffperoxid.md",
-      "verweise_von": []
+      "verweise_von": [
+        "behandlung:haarentfernung"
+      ]
     },
     {
       "id": "wirkstoff:xep-716-miniprotein",
