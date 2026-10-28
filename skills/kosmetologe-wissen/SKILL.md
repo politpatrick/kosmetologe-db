@@ -11,7 +11,7 @@ erfinden, wenn die DB einen Eintrag hat – die DB ist die Referenz.
 ## 1. Daten beschaffen
 Reihenfolge, erste verfügbare Variante nutzen:
 1. Lokaler Klon (falls vorhanden): `dist/llms.txt` und `dist/index.json` im Repo lesen.
-2. Remote: `https://raw.githubusercontent.com/<OWNER>/kosmetologe-db/main/dist/llms.txt`
+2. Remote: `https://raw.githubusercontent.com/politpatrick/kosmetologe-db/main/dist/llms.txt`
    und für Details `…/main/<pfad>` abrufen.
 
 ## 2. Relevante Einträge finden
