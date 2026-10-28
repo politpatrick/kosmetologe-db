@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 9 (Herrmann/Trinkkeller → Nägel, Hautparasiten, Lupus)
+- 8 Nagelthemen: Verfärbungen, Onycholyse, brüchige Nägel, eingewachsener Nagel, Zangen- und Rollnagel, verdickte Nägel,
+  Paronychie, Uhrglasnagel
+- Hautparasiten: Läuse, Krätze, Floh- und Wanzenstiche, Zeckenstich
+- Lupus erythematodes als Warnzeichen (Verwechslung mit Rosazea)
+- Nagelpilz um Frühzeichen und Abgrenzung ergänzt
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 8 (Herrmann/Trinkkeller Kap. 31 → Anti-Aging-Verfahren)
 - 8 neue Behandlungen: Mikrodermabrasion, Microneedling, Botulinumtoxin, Dermafiller, Fadenlifting, Mesotherapie,
   energiebasierte Hautstraffung (Radiofrequenz, fokussierter Ultraschall), Kryolipolyse

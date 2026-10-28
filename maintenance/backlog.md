@@ -11,7 +11,7 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Effloreszenzenlehre komplett (Herrmann/Trinkkeller Kap. 2): bis auf Ulcus und Ekthyma erledigt
 - [x] Übertrag Runde 1: Herrmann/Trinkkeller → 19 `haut:`-Einträge (2026-10-28)
 - [x] Übertrag Runde 2: Herrmann/Trinkkeller → 27 weitere `haut:`-Einträge (2026-10-28)
-- [ ] Herrmann/Trinkkeller offen: Ulcus, Hämangiom/Feuermal, Ichthyosis, Allergie-Grundlagen, Erysipel, Candidose, Windpocken, Epizoonosen (Läuse, Krätze), Kap. 25–31 (Kosmetik-Teil, Rezepturen)
+- [ ] Herrmann/Trinkkeller offen: Ulcus, Hämangiom/Feuermal, Ichthyosis, Allergie-Grundlagen, Erysipel, Candidose, Windpocken, Dermatomyositis/Sklerodermie, Kap. 25–26, 28–30 (Rezepturen, Pflege im Alter); erledigt: Nägel, Epizoonosen, Lupus (2026-10-28)
 - [x] Übertrag Runde 3: Ellsässer → 6 `haut:` und 9 `begriff:` (2026-10-28)
 - [ ] Ellsässer offen: Tenside und Emulgatorklassen, Gelbildner, Lipidkomponenten, Peelings, Wirkstoffe aus Kap. 4 abgleichen, Sonnenberatung und Pigmentierungstypen, Haarkosmetik (Kap. 9), Deo (Kap. 10), Naturkosmetik und kritisch bewertete Stoffe (Kap. 1.3–1.4)
 - [x] Übertrag Runde 4: Tadros → 7 `formulierung:` und 3 `begriff:` (2026-10-28)

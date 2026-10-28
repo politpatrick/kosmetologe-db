@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 194,
+  "anzahl": 207,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -413,7 +413,10 @@
         "behandlung:hautanalyse",
         "behandlung:microneedling",
         "behandlung:milienentfernung",
-        "behandlung:permanent-make-up"
+        "behandlung:permanent-make-up",
+        "haut:kopflaeuse",
+        "haut:paronychie",
+        "haut:skabies"
       ]
     },
     {
@@ -2177,6 +2180,44 @@
       ]
     },
     {
+      "id": "haut:bruechige-naegel",
+      "typ": "haut",
+      "titel": "Brüchige und spaltende Nägel",
+      "aliase": [
+        "Onychorrhexis",
+        "Onychoschisis",
+        "Nagelbrüchigkeit",
+        "weiche Nägel"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "Längsrisse und Splittern (Onychorrhexis)",
+        "Aufspaltung in waagerechte Schichten (Onychoschisis)"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "kurz": "Spröde, splitternde oder schichtweise spaltende Nägel, meist durch Wasser, Seife und Nagellackentferner; Pflege mit Ölen und Urea, Kontakt mit Wasser reduzieren.",
+      "tags": [
+        "naegel",
+        "pflege"
+      ],
+      "verwandt": [
+        "haut:onycholyse",
+        "wirkstoff:urea"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 11.2.3–11.2.4, S. 95; Kap. 1.3.2, S. 29–30"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/bruechige-naegel.md",
+      "verweise_von": [
+        "haut:onycholyse"
+      ]
+    },
+    {
       "id": "haut:cellulite",
       "typ": "haut",
       "titel": "Cellulite und Lipödem",
@@ -2647,6 +2688,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/effloreszenz-quaddel.md",
       "verweise_von": [
+        "haut:insektenstiche",
         "haut:urtikaria"
       ]
     },
@@ -2775,6 +2817,48 @@
       "verweise_von": [
         "haut:akne-vulgaris",
         "haut:milien"
+      ]
+    },
+    {
+      "id": "haut:eingewachsener-nagel",
+      "typ": "haut",
+      "titel": "Eingewachsener Nagel (Unguis incarnatus)",
+      "aliase": [
+        "Unguis incarnatus",
+        "eingewachsener Zehennagel"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "Nagelrand drückt in den seitlichen Nagelfalz",
+        "Schmerz, Rötung, Schwellung",
+        "teils Hornhaut im Nagelfalz"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "Eiter oder starke Rötung",
+        "Diabetes oder Durchblutungsstörung"
+      ],
+      "kurz": "Seitlicher Nagelrand wächst durch Schuhdruck oder zu tief geschnittene Ecken in den Nagelfalz ein; entzündungsgefährdet, Korrektur durch Nagelspangen oder ärztlich.",
+      "tags": [
+        "naegel",
+        "fuss"
+      ],
+      "verwandt": [
+        "haut:paronychie",
+        "haut:zangennagel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 11.2.10, S. 99"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/eingewachsener-nagel.md",
+      "verweise_von": [
+        "haut:paronychie",
+        "haut:zangennagel"
       ]
     },
     {
@@ -2922,7 +3006,8 @@
       "pfad": "data/haut/follikulitis.md",
       "verweise_von": [
         "behandlung:ausreinigung",
-        "haut:impetigo-contagiosa"
+        "haut:impetigo-contagiosa",
+        "haut:paronychie"
       ]
     },
     {
@@ -3158,6 +3243,42 @@
       ]
     },
     {
+      "id": "haut:insektenstiche",
+      "typ": "haut",
+      "titel": "Floh- und Wanzenstiche",
+      "aliase": [
+        "Flohstiche",
+        "Wanzenstiche",
+        "Bettwanzen",
+        "Pulicosis",
+        "Cimicosis"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "gruppierte oder in Reihen angeordnete, stark juckende Quaddeln und Knötchen",
+        "Bettwanzen: morgens Stiche an unbedeckten Stellen"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Juckende Stichreaktionen; Flöhe kommen oft von Haustieren, Bettwanzen verstecken sich in Möbeln und Betten und brauchen eine professionelle Bekämpfung.",
+      "tags": [
+        "parasiten"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-quaddel",
+        "haut:urtikaria"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 22.1.2–22.1.3, S. 179"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/insektenstiche.md",
+      "verweise_von": []
+    },
+    {
       "id": "haut:keloid",
       "typ": "haut",
       "titel": "Keloid und hypertrophe Narbe",
@@ -3250,9 +3371,95 @@
         "haut:effloreszenz-rhagade",
         "haut:neurodermitis",
         "haut:sensible-haut",
+        "haut:skabies",
         "wirkstoff:kamille",
         "wirkstoff:teebaumoel"
       ]
+    },
+    {
+      "id": "haut:kopflaeuse",
+      "typ": "haut",
+      "titel": "Läuse (Kopf-, Kleider- und Filzläuse)",
+      "aliase": [
+        "Pediculosis",
+        "Kopfläuse",
+        "Nissen",
+        "Filzläuse",
+        "Kleiderläuse"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "starker Juckreiz",
+        "Nissen fest am Haarschaft, v. a. hinter den Ohren und im Nacken",
+        "Kratzspuren, teils entzündet"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "kurz": "Flügellose Insekten, die Blut saugen und ihre Eier (Nissen) an Haare oder in Kleidernähte kleben; Kopfläuse sind kein Zeichen mangelnder Hygiene.",
+      "tags": [
+        "parasiten",
+        "ansteckend",
+        "kontraindikation",
+        "kopfhaut"
+      ],
+      "verwandt": [
+        "haut:skabies",
+        "begriff:praxishygiene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 22.1.1, S. 178"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/kopflaeuse.md",
+      "verweise_von": [
+        "haut:skabies"
+      ]
+    },
+    {
+      "id": "haut:lupus-erythematodes",
+      "typ": "haut",
+      "titel": "Lupus erythematodes",
+      "aliase": [
+        "Lupus",
+        "Schmetterlingserythem",
+        "diskoider Lupus",
+        "SLE"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "schuppende, gerötete, scheibenförmige Herde, oft im Gesicht",
+        "Schmetterlingsförmige Rötung über Nase und Wangen",
+        "Verschlechterung durch Sonne"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "Schmetterlingsrötung im Gesicht",
+        "schuppende Herde, die mit Narben abheilen",
+        "Gelenkbeschwerden oder Abgeschlagenheit"
+      ],
+      "kurz": "Autoimmunerkrankung der Haut oder des ganzen Körpers; die schmetterlingsförmige Gesichtsrötung kann mit Rosazea verwechselt werden. Immer ärztlich abklären.",
+      "tags": [
+        "autoimmun",
+        "warnzeichen",
+        "uv"
+      ],
+      "verwandt": [
+        "haut:rosazea",
+        "haut:polymorphe-lichtdermatose"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 23.1, S. 182"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/lupus-erythematodes.md",
+      "verweise_von": []
     },
     {
       "id": "haut:malignes-melanom",
@@ -3300,6 +3507,7 @@
       "pfad": "data/haut/malignes-melanom.md",
       "verweise_von": [
         "behandlung:hautanalyse",
+        "haut:nagelverfaerbung",
         "haut:pigmentnaevus",
         "haut:seborrhoische-keratose",
         "haut:sonnenbrand"
@@ -3486,6 +3694,51 @@
       ]
     },
     {
+      "id": "haut:nagelverfaerbung",
+      "typ": "haut",
+      "titel": "Nagelverfärbungen",
+      "aliase": [
+        "Leukonychie",
+        "Chromonychie",
+        "weiße Flecken im Nagel"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "weiße Punkte oder Streifen",
+        "gelbe, grüne, braun-schwarze oder rotbraune Verfärbung"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "braun-schwarzer Streifen oder Fleck ohne Verletzung",
+        "grüne Verfärbung",
+        "Verfärbung mehrerer Nägel ohne erkennbaren Grund"
+      ],
+      "kurz": "Farbveränderungen der Nagelplatte: meist harmlos (weiße Flecken, Bluterguss), aber auch Hinweis auf Pilz, Bakterien, Psoriasis, innere Erkrankungen oder ein Melanom.",
+      "tags": [
+        "naegel",
+        "warnzeichen"
+      ],
+      "verwandt": [
+        "haut:onychomykose",
+        "haut:psoriasis",
+        "haut:malignes-melanom",
+        "haut:onycholyse"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 11.1, S. 94; Kap. 1.3.2, S. 30"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/nagelverfaerbung.md",
+      "verweise_von": [
+        "haut:onycholyse",
+        "haut:uhrglasnagel"
+      ]
+    },
+    {
       "id": "haut:neurodermitis",
       "typ": "haut",
       "titel": "Neurodermitis (atopisches Ekzem)",
@@ -3583,6 +3836,46 @@
       ]
     },
     {
+      "id": "haut:onycholyse",
+      "typ": "haut",
+      "titel": "Onycholyse (Nagelablösung)",
+      "aliase": [
+        "Nagelablösung"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "Nagel löst sich vom freien Rand her vom Nagelbett",
+        "weißlich-gelber Bereich unter dem Nagel"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "jede Onycholyse ohne klare äußere Ursache"
+      ],
+      "kurz": "Ablösung der Nagelplatte vom Nagelbett, oft durch Wasser, Reinigungsmittel oder zu intensive Unternagelpflege, aber auch bei Pilz, Psoriasis oder inneren Erkrankungen.",
+      "tags": [
+        "naegel"
+      ],
+      "verwandt": [
+        "haut:nagelverfaerbung",
+        "haut:onychomykose",
+        "haut:psoriasis",
+        "haut:bruechige-naegel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 11.2.2, S. 95"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/onycholyse.md",
+      "verweise_von": [
+        "haut:bruechige-naegel",
+        "haut:nagelverfaerbung"
+      ]
+    },
+    {
       "id": "haut:onychomykose",
       "typ": "haut",
       "titel": "Nagelpilz (Onychomykose)",
@@ -3609,7 +3902,7 @@
       "quellen": [
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
-          "fundstelle": "Kap. 20.5, S. 167–168; Kap. 1.3.2, S. 30"
+          "fundstelle": "Kap. 20.5, S. 167–168; Kap. 11.2.5, S. 95–96; Kap. 1.3.2, S. 30"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
@@ -3620,8 +3913,55 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/onychomykose.md",
       "verweise_von": [
+        "haut:nagelverfaerbung",
+        "haut:onycholyse",
         "haut:psoriasis",
-        "haut:tinea-pedis"
+        "haut:tinea-pedis",
+        "haut:verdickte-naegel"
+      ]
+    },
+    {
+      "id": "haut:paronychie",
+      "typ": "haut",
+      "titel": "Paronychie (Nagelfalzentzündung)",
+      "aliase": [
+        "Nagelbettentzündung",
+        "Nagelwallentzündung",
+        "Umlauf"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "gerötet geschwollener Nagelwall",
+        "Nagelhäutchen zerstört",
+        "teils Eiter",
+        "später Wachstumsstörungen des Nagels"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jede Nagelwallentzündung mit Eiter",
+        "zunehmende Schwellung oder Schmerzen"
+      ],
+      "kurz": "Bakterielle oder durch Hefepilze bedingte Entzündung am Nagelwall, oft nach Verletzungen bei Maniküre oder Pediküre; kann zum Panaritium fortschreiten.",
+      "tags": [
+        "naegel",
+        "infektion"
+      ],
+      "verwandt": [
+        "haut:eingewachsener-nagel",
+        "haut:follikulitis",
+        "begriff:praxishygiene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 11.2.12, S. 100"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/paronychie.md",
+      "verweise_von": [
+        "haut:eingewachsener-nagel"
       ]
     },
     {
@@ -3804,7 +4144,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/polymorphe-lichtdermatose.md",
       "verweise_von": [
-        "begriff:uva-schutz"
+        "begriff:uva-schutz",
+        "haut:lupus-erythematodes"
       ]
     },
     {
@@ -3899,7 +4240,10 @@
       "verweise_von": [
         "begriff:syndet",
         "haut:effloreszenz-schuppe",
-        "haut:onychomykose"
+        "haut:nagelverfaerbung",
+        "haut:onycholyse",
+        "haut:onychomykose",
+        "haut:verdickte-naegel"
       ]
     },
     {
@@ -4012,6 +4356,7 @@
         "behandlung:mikrodermabrasion",
         "haut:effloreszenz-papel",
         "haut:effloreszenz-pustel",
+        "haut:lupus-erythematodes",
         "haut:periorale-dermatitis",
         "haut:seborrhoisches-ekzem",
         "haut:sensible-haut",
@@ -4252,6 +4597,50 @@
       ]
     },
     {
+      "id": "haut:skabies",
+      "typ": "haut",
+      "titel": "Krätze (Skabies)",
+      "aliase": [
+        "Skabies",
+        "Krätzemilbe",
+        "Sarcoptes"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "sehr starker Juckreiz, besonders in der Bettwärme",
+        "kleine juckende Knötchen",
+        "feine Milbengänge, z. B. zwischen den Fingern"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "jeder Verdacht",
+        "Juckreiz mehrerer Personen im Umfeld"
+      ],
+      "kurz": "Ansteckender Befall der Hornschicht mit Krätzmilben; laut Quelle zuletzt fast verdoppelt, besonders in Kinder- und Pflegeeinrichtungen. Behandlung ärztlich.",
+      "tags": [
+        "parasiten",
+        "ansteckend",
+        "kontraindikation"
+      ],
+      "verwandt": [
+        "haut:kopflaeuse",
+        "haut:kontaktekzem",
+        "begriff:praxishygiene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 22.2.1, S. 179"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/skabies.md",
+      "verweise_von": [
+        "haut:kopflaeuse"
+      ]
+    },
+    {
       "id": "haut:sonnenbrand",
       "typ": "haut",
       "titel": "Sonnenbrand (akuter Lichtschaden)",
@@ -4441,6 +4830,44 @@
       ]
     },
     {
+      "id": "haut:uhrglasnagel",
+      "typ": "haut",
+      "titel": "Uhrglasnagel",
+      "aliase": [
+        "Unguis hippocraticus",
+        "Trommelschlägelfinger"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "groß, stark gewölbt wie ein Uhrglas",
+        "oft mit aufgetriebenen Fingerendgliedern"
+      ],
+      "kosmetisch_behandelbar": "nein",
+      "aerztlich_abklaeren": [
+        "neu aufgetreten",
+        "an mehreren Fingern",
+        "mit Atemnot oder Blaufärbung"
+      ],
+      "kurz": "Stark gewölbte Nägel, oft mit Trommelschlägelfingern; Warnzeichen für Herz-, Lungen- oder Lebererkrankungen und immer ärztlich abzuklären.",
+      "tags": [
+        "naegel",
+        "warnzeichen"
+      ],
+      "verwandt": [
+        "haut:nagelverfaerbung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 11.2.11, S. 99"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/uhrglasnagel.md",
+      "verweise_von": []
+    },
+    {
       "id": "haut:urtikaria",
       "typ": "haut",
       "titel": "Urtikaria (Nesselsucht)",
@@ -4483,7 +4910,49 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/urtikaria.md",
       "verweise_von": [
-        "haut:effloreszenz-quaddel"
+        "haut:effloreszenz-quaddel",
+        "haut:insektenstiche",
+        "haut:zeckenstich"
+      ]
+    },
+    {
+      "id": "haut:verdickte-naegel",
+      "typ": "haut",
+      "titel": "Verdickte Nägel (Pachyonychie, Onychogrypose)",
+      "aliase": [
+        "Pachyonychie",
+        "Onychogrypose",
+        "Krallennagel",
+        "Widderhornnagel",
+        "Holznagel"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "stark verdickte, gelbliche, undurchsichtige Nagelplatte",
+        "Onychogrypose: verdickt, gerillt, widderhornartig gekrümmt"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Verdickte Nägel nach Druck, Verletzung oder Erkrankung; leicht mit Nagelpilz zu verwechseln. Regelmäßig abtragen lassen, Pilz ärztlich ausschließen.",
+      "tags": [
+        "naegel",
+        "fuss"
+      ],
+      "verwandt": [
+        "haut:onychomykose",
+        "haut:psoriasis",
+        "haut:zangennagel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 11.2.6–11.2.7, S. 96–98"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/verdickte-naegel.md",
+      "verweise_von": [
+        "haut:zangennagel"
       ]
     },
     {
@@ -4621,6 +5090,85 @@
         "behandlung:permanent-make-up",
         "haut:effloreszenz-macula"
       ]
+    },
+    {
+      "id": "haut:zangennagel",
+      "typ": "haut",
+      "titel": "Zangennagel und Rollnagel",
+      "aliase": [
+        "Unguis convolutus",
+        "Unguis inflexus",
+        "Rollnagel",
+        "Trompetennagel"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "stark quergewölbter, zangenartig einrollender Nagel",
+        "Rollnagel: starke Längswölbung, Nagelspitze presst auf die Kuppe"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Nageldeformitäten mit starker Quer- oder Längswölbung; teils schmerzlos, teils mit Druckstellen und Hornhaut; Korrektur durch Spangen und Tamponaden.",
+      "tags": [
+        "naegel",
+        "fuss"
+      ],
+      "verwandt": [
+        "haut:eingewachsener-nagel",
+        "haut:verdickte-naegel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 11.2.8–11.2.9, S. 98–99"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/zangennagel.md",
+      "verweise_von": [
+        "haut:eingewachsener-nagel",
+        "haut:verdickte-naegel"
+      ]
+    },
+    {
+      "id": "haut:zeckenstich",
+      "typ": "haut",
+      "titel": "Zeckenstich",
+      "aliase": [
+        "Zeckenbiss",
+        "Borreliose",
+        "Erythema migrans",
+        "FSME"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "festgesaugte Zecke",
+        "Rötung an der Einstichstelle",
+        "Warnzeichen: sich ausbreitender roter Ring (Wanderröte)"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "sich ausbreitende Rötung",
+        "Fieber oder Krankheitsgefühl nach einem Stich"
+      ],
+      "kurz": "Zecken können Borrelien und FSME-Viren übertragen; Zecke mechanisch mit Pinzette entfernen, nicht mit Öl ersticken. Wachsende Rötung ärztlich abklären.",
+      "tags": [
+        "parasiten",
+        "warnzeichen"
+      ],
+      "verwandt": [
+        "haut:urtikaria"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 22.2.2, S. 179–180"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/zeckenstich.md",
+      "verweise_von": []
     },
     {
       "id": "kontext:fachliche-grundsaetze",
@@ -4921,6 +5469,7 @@
         "haut:alopecia-areata",
         "haut:androgenetische-alopezie",
         "haut:besenreiser",
+        "haut:bruechige-naegel",
         "haut:chronischer-lichtschaden",
         "haut:effloreszenz-blaeschen",
         "haut:effloreszenz-erosion",
@@ -4933,6 +5482,7 @@
         "haut:effloreszenz-rhagade",
         "haut:effloreszenz-schuppe",
         "haut:effloreszenz-zyste",
+        "haut:eingewachsener-nagel",
         "haut:follikulaere-hyperkeratose",
         "haut:follikulitis",
         "haut:herpes-simplex",
@@ -4940,14 +5490,20 @@
         "haut:hirsutismus",
         "haut:hyperhidrose",
         "haut:impetigo-contagiosa",
+        "haut:insektenstiche",
         "haut:keloid",
         "haut:kontaktekzem",
+        "haut:kopflaeuse",
+        "haut:lupus-erythematodes",
         "haut:malignes-melanom",
         "haut:melasma",
         "haut:milien",
         "haut:molluscum-contagiosum",
+        "haut:nagelverfaerbung",
         "haut:neurodermitis",
+        "haut:onycholyse",
         "haut:onychomykose",
+        "haut:paronychie",
         "haut:periorale-dermatitis",
         "haut:pigmentnaevus",
         "haut:pityriasis-versicolor",
@@ -4958,14 +5514,19 @@
         "haut:rosazea",
         "haut:seborrhoische-keratose",
         "haut:seborrhoisches-ekzem",
+        "haut:skabies",
         "haut:sonnenbrand",
         "haut:talgdruesenhyperplasie",
         "haut:teleangiektasien",
         "haut:tinea-pedis",
+        "haut:uhrglasnagel",
         "haut:urtikaria",
+        "haut:verdickte-naegel",
         "haut:verrucae-plantares",
         "haut:verrucae-vulgares",
         "haut:vitiligo",
+        "haut:zangennagel",
+        "haut:zeckenstich",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
         "wirkstoff:ammoniumthioglykolat",
@@ -9004,6 +9565,7 @@
       "pfad": "data/wirkstoffe/urea.md",
       "verweise_von": [
         "begriff:nmf",
+        "haut:bruechige-naegel",
         "haut:effloreszenz-rhagade",
         "haut:follikulaere-hyperkeratose",
         "haut:neurodermitis",

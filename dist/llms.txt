@@ -78,13 +78,14 @@
 - `wirkstoff:zink` [Zink](data/wirkstoffe/zink.md) – Wasserlösliche Zinksalze; in Anhang III Nr. 24 vor allem für Mund- und Zahnpflege begrenzt. [entwurf]
 - `wirkstoff:zinkoxid` [Zinkoxid](data/wirkstoffe/zinkoxid.md) – Mineralischer Breitband-UV-Filter (Anhang VI, max. 25 %) und Wundschutz; Nanoform mit Auflagen. [entwurf]
 
-## haut (57)
+## haut (70)
 - `haut:akne-vulgaris` [Akne vulgaris](data/haut/akne-vulgaris.md) – Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung.
 - `haut:aktinische-keratose` [Aktinische Keratose](data/haut/aktinische-keratose.md) – Durch jahrzehntelange UV-Belastung entstandene Verhornungsstörung; Vorstufe von Hautkrebs, gehört in ärztliche Hand.
 - `haut:alopecia-areata` [Kreisrunder Haarausfall (Alopecia areata)](data/haut/alopecia-areata.md) – Häufigste entzündliche Form des Haarausfalls, vermutlich autoimmun; heilt oft nach Monaten spontan. Ärztlich abklären. [entwurf]
 - `haut:androgenetische-alopezie` [Erblich-hormoneller Haarausfall (androgenetische Alopezie)](data/haut/androgenetische-alopezie.md) – Mit Abstand häufigste Form des Haarausfalls durch ererbte Empfindlichkeit der Haarwurzeln gegen Androgene; Haare wachsen selten nach. [entwurf]
 - `haut:babyhaut` [Baby- und Kinderhaut](data/haut/babyhaut.md) – Dünne, durchlässige Haut mit unreifer Barriere und ohne Lichtschwiele; sparsam pflegen, Sonne meiden. [entwurf]
 - `haut:besenreiser` [Besenreiser (Venektasien)](data/haut/besenreiser.md) – Erweiterte kleine Venen, meist bei Frauen; Entfernung möglich, aber mit hohem Rückfallrisiko – schriftlich aufklären. [entwurf]
+- `haut:bruechige-naegel` [Brüchige und spaltende Nägel](data/haut/bruechige-naegel.md) – Spröde, splitternde oder schichtweise spaltende Nägel, meist durch Wasser, Seife und Nagellackentferner; Pflege mit Ölen und Urea, Kontakt mit Wasser reduzieren. [entwurf]
 - `haut:cellulite` [Cellulite und Lipödem](data/haut/cellulite.md) – Wellige Hautstruktur durch Veränderungen im Binde- und Fettgewebe bei Frauen; Lipödem ist eine eigene, ärztlich zu behandelnde Erkrankung. [entwurf]
 - `haut:chronischer-lichtschaden` [Chronischer Lichtschaden (Lichtalterung)](data/haut/chronischer-lichtschaden.md) – Summierter UV-Schaden über Jahre: Elastizitätsverlust, Falten, Äderchen, aktinische Keratosen bis Hautkrebs. [entwurf]
 - `haut:effloreszenz-blaeschen` [Bläschen und Blase](data/haut/effloreszenz-blaeschen.md) – Primäreffloreszenz: flüssigkeitsgefüllter Hohlraum in der Haut, ausgelöst v. a. durch Erreger oder Druck; nicht öffnen. [entwurf]
@@ -98,6 +99,7 @@
 - `haut:effloreszenz-rhagade` [Rhagade (Schrunde)](data/haut/effloreszenz-rhagade.md) – Spaltförmiger, schmerzhafter Einriss durch alle Epidermisschichten, oft bei sehr trockener oder verdickter Haut. [entwurf]
 - `haut:effloreszenz-schuppe` [Schuppe](data/haut/effloreszenz-schuppe.md) – Sekundäreffloreszenz: sichtbar abgestoßene Hornschicht, z. B. nach Entzündung oder bei Schuppenflechte. [entwurf]
 - `haut:effloreszenz-zyste` [Zyste](data/haut/effloreszenz-zyste.md) – Abgekapselter Hohlraum in der Haut; nur ärztlich samt Kapsel entfernbar, nie ausdrücken.
+- `haut:eingewachsener-nagel` [Eingewachsener Nagel (Unguis incarnatus)](data/haut/eingewachsener-nagel.md) – Seitlicher Nagelrand wächst durch Schuhdruck oder zu tief geschnittene Ecken in den Nagelfalz ein; entzündungsgefährdet, Korrektur durch Nagelspangen oder ärztlich. [entwurf]
 - `haut:fettige-haut` [Fettige Haut (Seborrhoe) und unreine Haut](data/haut/fettige-haut.md) – Talgreiche, glänzende und grobporige Haut, meist von der Pubertät bis Mitte 20; Talg binden, Komedogenes meiden, Unreinheiten vorbeugen. [entwurf]
 - `haut:follikulaere-hyperkeratose` [Follikuläre Hyperkeratose](data/haut/follikulaere-hyperkeratose.md) – Verhornte Follikelöffnungen mit rauer Haut, meist an Armen und Beinen; mild keratolytisch pflegen, nicht kratzen.
 - `haut:follikulitis` [Follikulitis (Haarbalgentzündung)](data/haut/follikulitis.md) – Oberflächliche bakterielle Entzündung des Haarfollikels; ansteckend, kann zu Furunkel oder Gesichtserysipel werden. [entwurf]
@@ -106,16 +108,22 @@
 - `haut:hirsutismus` [Hirsutismus (männliches Behaarungsmuster bei Frauen)](data/haut/hirsutismus.md) – Verstärkte Behaarung nach männlichem Muster; Ursache (Hormone, Tumoren, Arzneimittel) ärztlich klären, dann Haarentfernung. [entwurf]
 - `haut:hyperhidrose` [Hyperhidrose (übermäßiges Schwitzen)](data/haut/hyperhidrose.md) – Übermäßige Schweißbildung bei etwa 1 % der Bevölkerung; Antitranspirantien sind erste Maßnahme, Ursachen ärztlich abklären. [entwurf]
 - `haut:impetigo-contagiosa` [Impetigo contagiosa (Borkenflechte)](data/haut/impetigo-contagiosa.md) – Hoch ansteckende bakterielle Hautinfektion, meist bei Kindern; Behandlung ist ärztlich, keine kosmetische Behandlung bis zur Abheilung. [entwurf]
+- `haut:insektenstiche` [Floh- und Wanzenstiche](data/haut/insektenstiche.md) – Juckende Stichreaktionen; Flöhe kommen oft von Haustieren, Bettwanzen verstecken sich in Möbeln und Betten und brauchen eine professionelle Bekämpfung. [entwurf]
 - `haut:keloid` [Keloid und hypertrophe Narbe](data/haut/keloid.md) – Überschießende Narbenbildung aus Kollagen; schwer behandelbar, bildet sich nicht zurück. Vor invasiven Eingriffen Neigung erfragen. [entwurf]
 - `haut:kontaktekzem` [Kontaktekzem](data/haut/kontaktekzem.md) – Entzündung durch Hautkontakt mit Reizstoffen (toxisch) oder Allergenen (allergisch); Auslöser finden und meiden.
+- `haut:kopflaeuse` [Läuse (Kopf-, Kleider- und Filzläuse)](data/haut/kopflaeuse.md) – Flügellose Insekten, die Blut saugen und ihre Eier (Nissen) an Haare oder in Kleidernähte kleben; Kopfläuse sind kein Zeichen mangelnder Hygiene. [entwurf]
+- `haut:lupus-erythematodes` [Lupus erythematodes](data/haut/lupus-erythematodes.md) – Autoimmunerkrankung der Haut oder des ganzen Körpers; die schmetterlingsförmige Gesichtsrötung kann mit Rosazea verwechselt werden. Immer ärztlich abklären. [entwurf]
 - `haut:malignes-melanom` [Malignes Melanom (schwarzer Hautkrebs)](data/haut/malignes-melanom.md) – Bösartiger Tumor der Pigmentzellen; Warnzeichen erkennen und sofort an die Hautärztin oder den Hautarzt verweisen.
 - `haut:melasma` [Melasma (Chloasma)](data/haut/melasma.md) – Hormonell und durch UV begünstigte Hyperpigmentierung im Gesicht; harmlos, aber hartnäckig – Lichtschutz ist die Basis.
 - `haut:milien` [Milien (Grießkörner)](data/haut/milien.md) – Kleine verhornte Zysten direkt unter der Hautoberfläche; Entfernung durch Anritzen, nicht durch Drücken.
 - `haut:mischhaut` [Mischhaut](data/haut/mischhaut.md) – Kombination aus seborrhoischer T-Zone und normaler bis trockener Wangenpartie; zonenweise pflegen. [entwurf]
 - `haut:molluscum-contagiosum` [Dellwarzen (Molluscum contagiosum)](data/haut/molluscum-contagiosum.md) – Durch Pockenviren verursachte, hoch ansteckende Knötchen, meist bei Kindern; heilen oft nach Monaten von selbst. [entwurf]
+- `haut:nagelverfaerbung` [Nagelverfärbungen](data/haut/nagelverfaerbung.md) – Farbveränderungen der Nagelplatte: meist harmlos (weiße Flecken, Bluterguss), aber auch Hinweis auf Pilz, Bakterien, Psoriasis, innere Erkrankungen oder ein Melanom. [entwurf]
 - `haut:neurodermitis` [Neurodermitis (atopisches Ekzem)](data/haut/neurodermitis.md) – Chronisch-entzündliche Hauterkrankung mit Barrierestörung und Juckreiz; Basispflege auch in schubfreien Zeiten.
 - `haut:normale-haut` [Normale Haut](data/haut/normale-haut.md) – Ausgeglichener Hautzustand, eher selten und meist bei jungen Menschen; Ziel der Pflege ist, ihn zu erhalten. [entwurf]
+- `haut:onycholyse` [Onycholyse (Nagelablösung)](data/haut/onycholyse.md) – Ablösung der Nagelplatte vom Nagelbett, oft durch Wasser, Reinigungsmittel oder zu intensive Unternagelpflege, aber auch bei Pilz, Psoriasis oder inneren Erkrankungen. [entwurf]
 - `haut:onychomykose` [Nagelpilz (Onychomykose)](data/haut/onychomykose.md) – Pilzinfektion des Nagels, unbehandelt fortschreitend; von Nagelpsoriasis nur durch Pilzkultur sicher zu unterscheiden. [entwurf]
+- `haut:paronychie` [Paronychie (Nagelfalzentzündung)](data/haut/paronychie.md) – Bakterielle oder durch Hefepilze bedingte Entzündung am Nagelwall, oft nach Verletzungen bei Maniküre oder Pediküre; kann zum Panaritium fortschreiten. [entwurf]
 - `haut:periorale-dermatitis` [Periorale Dermatitis](data/haut/periorale-dermatitis.md) – Rosazeaähnliche Entzündung um Mund und Nase, oft durch Überpflege oder Kortison; Pflege radikal reduzieren.
 - `haut:pigmentnaevus` [Pigmentnaevus (Muttermal)](data/haut/pigmentnaevus.md) – Gutartige Ansammlung von Pigmentzellen; atypische Male können zu Melanomen werden – beobachten und nicht behandeln.
 - `haut:pityriasis-versicolor` [Kleienpilzflechte (Pityriasis versicolor)](data/haut/pityriasis-versicolor.md) – Harmlose, aber kosmetisch störende Hefepilzbesiedlung der Hornschicht, meist am Rumpf; mit Antimykotika gut behandelbar. [entwurf]
@@ -128,14 +136,19 @@
 - `haut:seborrhoisches-ekzem` [Seborrhoisches Ekzem](data/haut/seborrhoisches-ekzem.md) – Chronisch wiederkehrende schuppende Rötung in talgreichen Zonen; zu fettige Pflege verschlechtert.
 - `haut:sebostase` [Trockene Haut (Sebostase)](data/haut/sebostase.md) – Haut mit verminderter Talgproduktion und gestörter Barriere; braucht Lipide und Feuchthaltefaktoren. [entwurf]
 - `haut:sensible-haut` [Sensible Haut (empfindliche Haut)](data/haut/sensible-haut.md) – Kein medizinisch definierter Hauttyp: Haut reagiert leicht mit Rötung und Brennen; reizarme, kurze Pflegeroutinen. [entwurf]
+- `haut:skabies` [Krätze (Skabies)](data/haut/skabies.md) – Ansteckender Befall der Hornschicht mit Krätzmilben; laut Quelle zuletzt fast verdoppelt, besonders in Kinder- und Pflegeeinrichtungen. Behandlung ärztlich. [entwurf]
 - `haut:sonnenbrand` [Sonnenbrand (akuter Lichtschaden)](data/haut/sonnenbrand.md) – Akute Entzündung durch zu viel UV-Strahlung; schwere Formen mit Allgemeinsymptomen. Häufige Sonnenbrände erhöhen das Melanomrisiko. [entwurf]
 - `haut:talgdruesenhyperplasie` [Talgdrüsenhyperplasie](data/haut/talgdruesenhyperplasie.md) – Vergrößerte einzelne Talgdrüsen als gelbliche Knötchen; harmlos, lässt sich nicht ausreinigen, Entfernung ist ärztlich.
 - `haut:teleangiektasien` [Teleangiektasien (Äderchen)](data/haut/teleangiektasien.md) – Dauerhaft erweiterte feinste Hautgefäße; kosmetisch Reize meiden, Verödung per Laser ist ärztlich.
 - `haut:tinea-pedis` [Fußpilz (Tinea pedis)](data/haut/tinea-pedis.md) – Häufigste ansteckende Pilzerkrankung, meist durch Fadenpilze; begünstigt durch Feuchtigkeit und Durchblutungsstörungen. [entwurf]
+- `haut:uhrglasnagel` [Uhrglasnagel](data/haut/uhrglasnagel.md) – Stark gewölbte Nägel, oft mit Trommelschlägelfingern; Warnzeichen für Herz-, Lungen- oder Lebererkrankungen und immer ärztlich abzuklären. [entwurf]
 - `haut:urtikaria` [Urtikaria (Nesselsucht)](data/haut/urtikaria.md) – Juckende Quaddeln durch allergische oder andere Reize; Schwellung im Mund- und Rachenbereich ist ein Notfall. [entwurf]
+- `haut:verdickte-naegel` [Verdickte Nägel (Pachyonychie, Onychogrypose)](data/haut/verdickte-naegel.md) – Verdickte Nägel nach Druck, Verletzung oder Erkrankung; leicht mit Nagelpilz zu verwechseln. Regelmäßig abtragen lassen, Pilz ärztlich ausschließen. [entwurf]
 - `haut:verrucae-plantares` [Dornwarzen (Verrucae plantares)](data/haut/verrucae-plantares.md) – Warzen an Druckstellen der Fußsohle; leicht mit Hühneraugen zu verwechseln, aber ansteckend. [entwurf]
 - `haut:verrucae-vulgares` [Gewöhnliche Warzen (Verrucae vulgares)](data/haut/verrucae-vulgares.md) – Durch Papillomviren ausgelöste, ansteckende Hautwucherungen, häufig bei Kindern und Jugendlichen. [entwurf]
 - `haut:vitiligo` [Vitiligo (Weißfleckenkrankheit)](data/haut/vitiligo.md) – Pigmentverlust durch fehlende Melanozyten; betroffene Haut täglich mit Lichtschutz versorgen, Camouflage möglich.
+- `haut:zangennagel` [Zangennagel und Rollnagel](data/haut/zangennagel.md) – Nageldeformitäten mit starker Quer- oder Längswölbung; teils schmerzlos, teils mit Druckstellen und Hornhaut; Korrektur durch Spangen und Tamponaden. [entwurf]
+- `haut:zeckenstich` [Zeckenstich](data/haut/zeckenstich.md) – Zecken können Borrelien und FSME-Viren übertragen; Zecke mechanisch mit Pinzette entfernen, nicht mit Öl ersticken. Wachsende Rötung ärztlich abklären. [entwurf]
 
 ## behandlung (20)
 - `behandlung:ausreinigung` [Ausreinigung (Aknetoilette)](data/behandlungen/ausreinigung.md) – Reinigen, mit Dampf oder warmen Kompressen erweichen, Komedonen mit geschützten Fingerkuppen entleeren, desinfizieren, Maske oder Packung. [entwurf]
