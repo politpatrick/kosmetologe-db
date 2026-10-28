@@ -18,6 +18,10 @@ mit YAML-Frontmatter unter `data/<ordner>/<slug>.md`. IDs haben die Form `typ:sl
 | quelle | data/quellen | Quellenregister (nur bibliografische Daten) |
 | kontext | data/kontext | Projektkontext: Tonalität, Design, Code-Konventionen, Leitplanken |
 
+Außerhalb von `data/` (nicht im Index):
+- `berichte/recherche/` – datierte Rechercheberichte (PubMed, SCCS, EUR-Lex)
+- `maintenance/impact-liste.md` – Priorisierung der Wirkstoffe nach Evidenz und Impact
+
 ## Lesen (schnellster Weg)
 1. `dist/llms.txt` – kompakte Liste aller Einträge mit Kurzbeschreibung.
 2. `dist/index.json` – vollständige Metadaten inkl. Rückverweisen (`verweise_von`).
@@ -25,7 +29,7 @@ mit YAML-Frontmatter unter `data/<ordner>/<slug>.md`. IDs haben die Form `typ:sl
 4. Suche: `python scripts/kdb.py search <begriff>`.
 
 Vor Design-, Code- oder Textaufgaben immer die `kontext:`-Einträge mit passendem `einsatz` lesen,
-`kontext:fachliche-grundsaetze` gilt immer.
+`kontext:fachliche-grundsaetze` und `kontext:recherche-methodik` gelten immer.
 
 ## Schreiben – Regeln
 - Neue Einträge nach Schema `schema/entry.schema.json` + Pflichtfelder aus `schema/types.json`.

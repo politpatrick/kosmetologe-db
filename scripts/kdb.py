@@ -39,7 +39,11 @@ def load_entries():
         if not m:
             entries.append({"_path": path, "_error": "kein YAML-Frontmatter"})
             continue
-        meta = yaml.safe_load(m.group(1)) or {}
+        try:
+            meta = yaml.safe_load(m.group(1)) or {}
+        except yaml.YAMLError as exc:
+            entries.append({"_path": path, "_error": f"YAML-Fehler: {exc}".replace("\n", " ")})
+            continue
         # YAML liefert Datumswerte als date; Schema erwartet Strings
         for k, v in list(meta.items()):
             if isinstance(v, dt.date):

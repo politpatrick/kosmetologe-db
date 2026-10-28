@@ -5,6 +5,8 @@ titel: Hyaluronsäure
 aliase: [Natriumhyaluronat]
 inci: SODIUM HYALURONATE
 stoffgruppe: Humectant (Glykosaminoglykan)
+evidenz: schwach
+impact: mittel
 funktionen: [feuchtigkeitsbindend, filmbildend]
 geeignet_fuer: [haut:sebostase]
 konzentration_typisch: 0,1–1 %

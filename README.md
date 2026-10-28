@@ -13,7 +13,8 @@ schema/      JSON-Schema und Pflichtfelder je Typ
 dist/        generiert: index.json (vollständig), llms.txt (kompakt für LLMs)
 scripts/     kdb.py – validate | build | check-build | search | due | stats
 skills/      Claude-Skill „kosmetologe-wissen“
-maintenance/ Prompts und Backlog für geplante Pflegeaufgaben
+maintenance/ Prompts, Backlog und Impact-Liste für geplante Pflegeaufgaben
+berichte/    Datierte Rechercheberichte
 ```
 
 ## Nutzung
