@@ -31,6 +31,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.7.5, S. 39–40; Kap. 7.1.2 und 7.1.4, S. 192–195
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Seborrhoea oleosa“, „unreine Haut“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

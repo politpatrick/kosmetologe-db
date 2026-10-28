@@ -13,6 +13,8 @@ verwandt: [haut:effloreszenz-papel, haut:effloreszenz-pustel, haut:effloreszenz-
 quellen:
   - id: quelle:herrmann-trinkkeller-dermatologie
     fundstelle: Kap. 9.2, S. 80–84
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „Akne“, „unreine Haut“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: 2026-10-28

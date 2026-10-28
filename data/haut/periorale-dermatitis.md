@@ -27,6 +27,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 9.4, S. 86
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „periorale Dermatitis“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'

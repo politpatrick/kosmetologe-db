@@ -12,6 +12,7 @@ kurz: Kühlender Aromastoff in Mund- und Hautpflege; seit VO (EU) 2023/1545 kenn
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei menthol.md}
 - {id: 'quelle:eur-lex'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Menthol“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

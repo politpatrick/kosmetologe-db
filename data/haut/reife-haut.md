@@ -27,6 +27,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.7.7, S. 41–42; Kap. 7.1.6–7.1.7, S. 197–198
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Hautalterung“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

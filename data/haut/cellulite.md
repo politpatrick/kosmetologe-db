@@ -23,6 +23,8 @@ tags:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.7.12, S. 47–48
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Orangenhaut“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

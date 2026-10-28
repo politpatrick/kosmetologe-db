@@ -6,6 +6,9 @@ aliase: [International Nomenclature of Cosmetic Ingredients]
 kurz: Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.
 tags: [kennzeichnung]
 verwandt: [recht:eu-kosmetikverordnung]
+quellen:
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „INCI“"
 status: geprueft
 aktualisiert: 2026-10-28
 geprueft_am: 2026-10-28

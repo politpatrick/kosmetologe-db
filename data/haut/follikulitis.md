@@ -28,6 +28,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 19.3–19.4, S. 160–161
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Furunkel“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

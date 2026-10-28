@@ -15,6 +15,8 @@ verwandt: [wirkstoff:glycerin]
 quellen:
   - id: quelle:ellsaesser-koerperpflegekunde
     fundstelle: Kap. 4 Wirkstoffe
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „Urea“, „Harnstoff“"
 status: entwurf
 aktualisiert: 2026-10-28
 ---

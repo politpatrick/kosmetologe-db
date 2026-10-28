@@ -22,6 +22,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.7.3, S. 38; Kap. 7.1.1, S. 191–192
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „normale Haut“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

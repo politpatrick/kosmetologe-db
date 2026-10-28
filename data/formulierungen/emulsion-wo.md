@@ -14,6 +14,8 @@ quellen:
     fundstelle: Kap. 6.3–6.4, S. 114–121
   - id: quelle:ellsaesser-koerperpflegekunde
     fundstelle: Abschnitte Emulsionen und Kälteschutz
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „Emulsion“"
 status: entwurf
 aktualisiert: 2026-10-28
 ---

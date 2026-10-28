@@ -24,6 +24,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 21.1.1, S. 172
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Gürtelrose“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

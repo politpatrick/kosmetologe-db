@@ -11,6 +11,8 @@ quellen:
     fundstelle: Kap. 6.4, S. 114 und 120–121 (Tab. 6.1)
   - id: quelle:ellsaesser-koerperpflegekunde
     fundstelle: Abschnitt Emulsionen
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „HLB-Wert“"
 status: geprueft
 aktualisiert: 2026-10-28
 geprueft_am: 2026-10-28

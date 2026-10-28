@@ -23,6 +23,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 12.2.1–12.2.2, S. 104
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Hirsutismus“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

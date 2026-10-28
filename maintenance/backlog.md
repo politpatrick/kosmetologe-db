@@ -16,7 +16,8 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Ellsässer offen: Tenside und Emulgatorklassen, Gelbildner, Lipidkomponenten, Peelings, Wirkstoffe aus Kap. 4 abgleichen, Sonnenberatung und Pigmentierungstypen, Haarkosmetik (Kap. 9), Deo (Kap. 10), Naturkosmetik und kritisch bewertete Stoffe (Kap. 1.3–1.4)
 - [x] Übertrag Runde 4: Tadros → 7 `formulierung:` und 3 `begriff:` (2026-10-28)
 - [ ] Tadros offen: polymere Tenside, Rheologie, Emulgatorauswahl und Herstellung (Kap. 6.4–6.6), Farbkosmetik (Kap. 13), Industriebeispiele (Kap. 14: Rasierschaum, Seifen, Badeöle, Make-up), Gele (ergänzend aus Ellsässer Kap. 6.5)
-- [ ] Übertrag Runde 5: Springer-Lexikon → `begriff:` (Glossar, Aliase für bestehende Einträge)
+- [x] Übertrag Runde 5: Springer-Lexikon → Stichwort-Fundstellen für 101 Einträge, INCI-Abgleich (2026-10-28)
+- [ ] Lexikon offen: ohne Stichwort sind Arzneistoffe (Minoxidil, Ketoconazol, Methotrexat, Fluorouracil, Trichloressigsäure) und einige Hautzustände; Glossar-Begriffe aus dem Lexikon gezielt ergänzen (z. B. Rückfetter, Emollient, Humectant, Okklusiv)
 - [ ] Sonnenschutz-Grundlagen als Begriffe/Formulierung (LSF, UVA-Kennzeichnung, Photostabilität)
 - [ ] Konservierungsstoffe (Anhang V) – häufigste 10
 - [x] Tenside: Klassen und Beispiele (`begriff:tensid`, 2026-10-28)

@@ -14,7 +14,7 @@ quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei tretinoin.md}
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
-- {id: 'quelle:springer-lexikon-kosmetik'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Tretinoin“'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: 'quelle:tadros-formulierungen'}
 status: entwurf

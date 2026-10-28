@@ -27,6 +27,8 @@ verwandt:
 quellen:
 - id: quelle:tadros-formulierungen
   fundstelle: Kap. 12.1–12.2, S. 251–252
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Decksubstanzen“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

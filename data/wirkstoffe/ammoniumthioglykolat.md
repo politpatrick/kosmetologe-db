@@ -14,7 +14,7 @@ quellen:
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:sccs'}
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
-- {id: 'quelle:springer-lexikon-kosmetik'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Ammonium Thioglycolate“'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: 'quelle:tadros-formulierungen'}
 status: entwurf

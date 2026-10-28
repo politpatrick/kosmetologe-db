@@ -16,6 +16,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 4.8, S. 113–114
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „komedogen“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

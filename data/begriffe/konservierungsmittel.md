@@ -19,6 +19,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 3.1, S. 50–57
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Konservierungsmittel“, „Konservierung“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

@@ -21,6 +21,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.5, S. 39–40
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Quaddel“, „Urtica“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

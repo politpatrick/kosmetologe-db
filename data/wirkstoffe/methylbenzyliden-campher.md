@@ -13,6 +13,7 @@ quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei methylbenzyliden-campher.md}
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:sccs'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „4-Methylbenzylidene Camphor“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

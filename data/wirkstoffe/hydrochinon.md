@@ -13,7 +13,7 @@ quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei hydrochinon.md}
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:pubmed'}
-- {id: 'quelle:springer-lexikon-kosmetik'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Hydroquinone“'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 status: entwurf
 aktualisiert: '2026-10-28'

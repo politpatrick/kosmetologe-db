@@ -21,6 +21,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 20.5, S. 167–168; Kap. 1.3.2, S. 30
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Nagelpilz“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

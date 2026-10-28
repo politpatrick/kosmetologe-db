@@ -19,7 +19,7 @@ quellen:
 - {id: 'quelle:ellsaesser-koerperpflegekunde', fundstelle: Kap. 4 Wirkstoffe}
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:sccs'}
-- {id: 'quelle:springer-lexikon-kosmetik'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Salicylic Acid“'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: 'quelle:tadros-formulierungen'}
 status: entwurf
@@ -59,3 +59,6 @@ Projektliteratur, Kürzel: E 4.3.1, D 29.1, 31.2.3 (E = Ellsässer 2020, D = Her
 ## Ergänzende Notizen (Erstbefüllung)
 ### Regulierung
 Als Inhaltsstoff in Anhang III, als Konservierungsstoff in Anhang V der recht:eu-kosmetikverordnung geführt – Höchstkonzentrationen und Warnhinweise beim Review gegen die aktuelle Fassung prüfen.
+
+## Hinweis zur Abkürzung BHA
+Im INCI-Kontext steht BHA für Butylhydroxyanisol (BHA), ein Antioxidans; das Springer-Lexikon führt BHA nur in dieser Bedeutung. Für Salicylsäure ist „BHA“ (Beta-Hydroxysäure) Marketingsprache; in Beratung und Texten daher eindeutig formulieren.

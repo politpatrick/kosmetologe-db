@@ -15,7 +15,7 @@ quellen:
 - {id: 'quelle:pubmed'}
 - {id: 'quelle:sccs'}
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
-- {id: 'quelle:springer-lexikon-kosmetik'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Triclosan“'}
 status: entwurf
 aktualisiert: '2026-10-28'
 verwandt: ['wirkstoff:triclocarban']

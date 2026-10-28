@@ -23,6 +23,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.1, S. 32–33
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Macula“, „Fleck“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'

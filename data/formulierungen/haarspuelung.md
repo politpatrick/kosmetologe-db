@@ -23,6 +23,8 @@ verwandt:
 quellen:
 - id: quelle:tadros-formulierungen
   fundstelle: Kap. 11.1, S. 236
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Conditioner“, „Haarkur“, „Haarspülung“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

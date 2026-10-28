@@ -20,6 +20,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 8.3.3, S. 235–237
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „LSF“, „SPF“, „sun protection factor“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

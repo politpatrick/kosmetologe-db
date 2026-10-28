@@ -24,6 +24,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 21.3.2, S. 175
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Verruca vulgaris“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

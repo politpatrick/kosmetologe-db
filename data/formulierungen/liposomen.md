@@ -23,6 +23,8 @@ verwandt:
 quellen:
 - id: quelle:tadros-formulierungen
   fundstelle: Kap. 9.1–9.2, S. 210–211
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Liposomen“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

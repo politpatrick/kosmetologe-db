@@ -21,6 +21,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 14.2, S. 122–123
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „polymorphe Lichtdermatose“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

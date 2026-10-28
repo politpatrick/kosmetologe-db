@@ -17,6 +17,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 3.2, S. 57–58; Kap. 4.6
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Antioxidans“, „freie Radikale“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

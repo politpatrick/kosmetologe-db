@@ -11,6 +11,8 @@ verwandt: [haut:fettige-haut, haut:normale-haut, haut:sebostase]
 quellen:
   - id: quelle:ellsaesser-koerperpflegekunde
     fundstelle: Kap. 2.7.4, S. 38–39; Kap. 7.1.3, S. 194
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „Mischhaut“"
 status: entwurf
 aktualisiert: 2026-10-28
 ---

@@ -15,6 +15,7 @@ quellen:
 - {id: 'quelle:pubmed'}
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Glycolic Acid“, „Alpha-Hydroxysäuren“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 regulierung: ['recht:eu-kosmetikverordnung']
