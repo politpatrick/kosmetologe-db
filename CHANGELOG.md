@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 12 (Ellsässer Kap. 9 → Haarkosmetik)
+- 4 neue `haut:`-Einträge: Kopfschuppen, fettiges Haar, trockenes/strapaziertes Haar mit Spliss, Haartypen (normal, fein, grau)
+- 2 neue Formulierungen: Antischuppenshampoo und Haarwasser, Stylingprodukte (Festiger, Gel, Spray, Wachs)
+- 2 neue Begriffe: Konditionierungsmittel, Rückfetter
+- 3 neue Wirkstoffe mit PubMed-Recherche: Piroctone Olamine, Selendisulfid, Zinkpyrithion
+  (Bericht `berichte/recherche/2026-10-28_ellsaesser-kap9.md`, Impact-Liste nachgeführt)
+- Shampoo und Haarspülung um Ellsässer ergänzt (Trockenshampoo, 2-in-1, Kur, Leave-in)
+- Hinweise zur Quelle: Zinkpyrithion inzwischen verboten, Selendisulfid kosmetisch bis 1 % zugelassen,
+  Panthenol-Angabe zu Spliss, pauschale Kritik an Alkylsulfaten
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 11 (Ellsässer Kap. 4 → weitere Wirkstoffe, mit Studienrecherche)
 - 8 neue Wirkstoffe: Propolis, Selen, Resveratrol (mit Polyphenol-Übersicht), Pyridoxin, Carotinoide (inkl. β-Carotin),
   α-Liponsäure, Kristall-Mittagsblume, Madecassosid (eigene Datei, bisher bei Centella mitbehandelt)
