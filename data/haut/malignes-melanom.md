@@ -26,6 +26,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 15.3.4, S. 134–135
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „malignes Melanom“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'

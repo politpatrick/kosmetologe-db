@@ -17,6 +17,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.5.4, S. 30
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „NMF“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

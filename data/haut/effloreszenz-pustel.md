@@ -28,6 +28,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.4, S. 38–39
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Eiterbläschen“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'

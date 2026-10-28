@@ -14,6 +14,8 @@ verwandt: [wirkstoff:hyaluronsaeure, wirkstoff:urea]
 quellen:
   - id: quelle:ellsaesser-koerperpflegekunde
     fundstelle: Kap. 3 Zusatzstoffe
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „Glycerin“"
 status: entwurf
 aktualisiert: 2026-10-28
 ---

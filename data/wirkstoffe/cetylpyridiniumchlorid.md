@@ -13,6 +13,7 @@ quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei cetylpyridiniumchlorid.md}
 - {id: 'quelle:pubmed'}
 - {id: 'quelle:sccs'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Cetylpyridinium Chloride“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

@@ -27,6 +27,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.3, S. 36–38
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Bulla“, „Blase“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

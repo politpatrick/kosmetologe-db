@@ -12,6 +12,7 @@ verwandt: ['haut:rosazea', 'wirkstoff:panthenol']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei ceramid-np.md}
 - {id: 'quelle:pubmed'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Ceramide“'}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

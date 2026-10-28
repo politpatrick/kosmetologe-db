@@ -17,6 +17,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.5.3, S. 30–31
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Hydrolipidfilm“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

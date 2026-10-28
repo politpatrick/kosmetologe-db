@@ -24,6 +24,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.13, S. 46–47
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Narbe“, „Cicatrix“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

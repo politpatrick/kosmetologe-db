@@ -12,6 +12,7 @@ kurz: UV-B-Filter und Photostabilisator für Avobenzon; Sicherheitsdebatte wegen
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei octocrylen.md}
 - {id: 'quelle:sccs'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Octocrylene“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

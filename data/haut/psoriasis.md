@@ -28,6 +28,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 24.1, S. 186–188; Kap. 2.7, S. 41–42
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Psoriasis vulgaris“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

@@ -12,6 +12,7 @@ verwandt: ['wirkstoff:ethyl-ascorbinsaeure']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei ascorbinsaeure.md}
 - {id: 'quelle:pubmed'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Ascorbic Acid“, „Vitamin C“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

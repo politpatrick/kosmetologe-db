@@ -25,6 +25,8 @@ verwandt:
 quellen:
 - id: quelle:tadros-formulierungen
   fundstelle: Kap. 10.1–10.4, S. 219–222
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Shampoo“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

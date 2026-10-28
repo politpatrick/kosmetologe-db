@@ -15,6 +15,7 @@ quellen:
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:sccs'}
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Triclocarban“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

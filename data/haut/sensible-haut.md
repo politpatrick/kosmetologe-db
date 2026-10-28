@@ -29,6 +29,8 @@ verwandt:
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.7.8, S. 42–43; Kap. 7.1.8, S. 198
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „empfindliche Haut“, „sensible Haut“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

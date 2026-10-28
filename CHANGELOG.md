@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 5 (Springer-Lexikon → Fundstellen)
+- 101 Einträge mit Stichwort-Fundstellen aus dem Springer-Lexikon belegt (80 neu als Quelle, 21 bisher ohne Stichwort)
+- INCI-Bezeichnungen der Wirkstoffe gegen die Lexikon-Stichwörter abgeglichen: keine Abweichung gefunden
+- Salicylsäure: Hinweis zur doppeldeutigen Abkürzung BHA (im INCI-Kontext Butylhydroxyanisol)
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 4 (Tadros → formulierung, begriff)
 - 7 neue Formulierungen: Nanoemulsion, Mehrfachemulsion (W/O/W), Liposomen, flüssigkristalline Phasen, Shampoo,
   Haarspülung, mineralischer Sonnenschutz

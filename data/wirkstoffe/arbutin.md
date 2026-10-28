@@ -14,7 +14,7 @@ quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei arbutin.md}
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:sccs'}
-- {id: 'quelle:springer-lexikon-kosmetik'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Arbutin“'}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

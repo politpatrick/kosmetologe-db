@@ -13,6 +13,8 @@ verwandt: [wirkstoff:urea, wirkstoff:glycerin, formulierung:emulsion-wo, begriff
 quellen:
   - id: quelle:ellsaesser-koerperpflegekunde
     fundstelle: Kap. 2.7.6, S. 40–41; Kap. 7.1.5, S. 195–196
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „Sebostase“, „trockene Haut“"
 status: entwurf
 aktualisiert: 2026-10-28
 ---

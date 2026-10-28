@@ -25,6 +25,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.8, S. 42–43
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Kruste“, „Crusta“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

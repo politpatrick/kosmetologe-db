@@ -20,6 +20,8 @@ verwandt:
 quellen:
 - id: quelle:tadros-formulierungen
   fundstelle: Kap. 6.3, S. 115–116
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Aufrahmung“, „Koaleszenz“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

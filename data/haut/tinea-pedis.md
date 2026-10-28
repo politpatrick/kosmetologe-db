@@ -22,6 +22,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 20.1.1, S. 164
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Fußpilz“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

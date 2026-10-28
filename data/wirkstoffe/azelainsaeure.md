@@ -12,7 +12,7 @@ verwandt: ['haut:rosazea', 'haut:akne-vulgaris']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei azelainsaeure.md}
 - {id: 'quelle:pubmed'}
-- {id: 'quelle:springer-lexikon-kosmetik'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Azelaic Acid“'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 status: entwurf
 aktualisiert: '2026-10-28'

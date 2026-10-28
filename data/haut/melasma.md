@@ -29,6 +29,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 7.2.2, S. 71
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Chloasma“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'

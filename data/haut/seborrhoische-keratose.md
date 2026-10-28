@@ -25,6 +25,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 6.6, S. 68; Kap. 15.1.7, S. 128–129
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Verruca senilis“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'

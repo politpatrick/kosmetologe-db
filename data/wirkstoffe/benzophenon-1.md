@@ -13,6 +13,7 @@ verwandt: ['wirkstoff:benzophenon-2']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei benzophenon-1.md}
 - {id: 'quelle:sccs'}
+- {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Benzophenone“'}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

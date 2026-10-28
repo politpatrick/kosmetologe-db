@@ -12,6 +12,8 @@ verwandt: [haut:akne-vulgaris, haut:rosazea, haut:periorale-dermatitis]
 quellen:
   - id: quelle:herrmann-trinkkeller-dermatologie
     fundstelle: Kap. 2.2, S. 33–36
+  - id: quelle:springer-lexikon-kosmetik
+    fundstelle: "Stichwort „Papel“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: 2026-10-28

@@ -29,6 +29,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 17, S. 144–146
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „allergisches Kontaktekzem“, „toxisches Kontaktekzem“"
 status: geprueft
 geprueft_am: 2026-10-28
 aktualisiert: '2026-10-28'

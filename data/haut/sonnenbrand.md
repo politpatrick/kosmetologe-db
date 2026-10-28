@@ -25,6 +25,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 14.2, S. 121–122
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Dermatitis solaris“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

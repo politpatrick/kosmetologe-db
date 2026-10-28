@@ -14,6 +14,7 @@ quellen:
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:pubmed'}
 - {id: 'quelle:sccs'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Methylparaben“, „Parabene“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

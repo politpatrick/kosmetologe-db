@@ -25,6 +25,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 16.3–16.4, S. 140–141
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Nesselsucht“, „Quincke-Ödem“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

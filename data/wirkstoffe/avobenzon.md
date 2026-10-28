@@ -12,6 +12,7 @@ kurz: Wichtigster organischer UV-A-Filter (Anhang VI Nr. 8, max. 5 %); nicht pho
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei avobenzon.md}
 - {id: 'quelle:sccs'}
+- {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Butyl Methoxydibenzoylmethane“"}
 status: entwurf
 aktualisiert: '2026-10-28'
 ---

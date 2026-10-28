@@ -18,6 +18,8 @@ verwandt:
 quellen:
 - id: quelle:tadros-formulierungen
   fundstelle: Kap. 4.1, S. 79; Kap. 10.2.2, S. 221
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Mizellen“"
 status: entwurf
 aktualisiert: '2026-10-28'
 ---
