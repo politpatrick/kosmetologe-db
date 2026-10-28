@@ -66,12 +66,14 @@
 - `wirkstoff:zink` [Zink](data/wirkstoffe/zink.md) – Wasserlösliche Zinksalze; in Anhang III Nr. 24 vor allem für Mund- und Zahnpflege begrenzt. [entwurf]
 - `wirkstoff:zinkoxid` [Zinkoxid](data/wirkstoffe/zinkoxid.md) – Mineralischer Breitband-UV-Filter (Anhang VI, max. 25 %) und Wundschutz; Nanoform mit Auflagen. [entwurf]
 
-## haut (51)
+## haut (57)
 - `haut:akne-vulgaris` [Akne vulgaris](data/haut/akne-vulgaris.md) – Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung.
 - `haut:aktinische-keratose` [Aktinische Keratose](data/haut/aktinische-keratose.md) – Durch jahrzehntelange UV-Belastung entstandene Verhornungsstörung; Vorstufe von Hautkrebs, gehört in ärztliche Hand.
 - `haut:alopecia-areata` [Kreisrunder Haarausfall (Alopecia areata)](data/haut/alopecia-areata.md) – Häufigste entzündliche Form des Haarausfalls, vermutlich autoimmun; heilt oft nach Monaten spontan. Ärztlich abklären. [entwurf]
 - `haut:androgenetische-alopezie` [Erblich-hormoneller Haarausfall (androgenetische Alopezie)](data/haut/androgenetische-alopezie.md) – Mit Abstand häufigste Form des Haarausfalls durch ererbte Empfindlichkeit der Haarwurzeln gegen Androgene; Haare wachsen selten nach. [entwurf]
+- `haut:babyhaut` [Baby- und Kinderhaut](data/haut/babyhaut.md) – Dünne, durchlässige Haut mit unreifer Barriere und ohne Lichtschwiele; sparsam pflegen, Sonne meiden. [entwurf]
 - `haut:besenreiser` [Besenreiser (Venektasien)](data/haut/besenreiser.md) – Erweiterte kleine Venen, meist bei Frauen; Entfernung möglich, aber mit hohem Rückfallrisiko – schriftlich aufklären. [entwurf]
+- `haut:cellulite` [Cellulite und Lipödem](data/haut/cellulite.md) – Wellige Hautstruktur durch Veränderungen im Binde- und Fettgewebe bei Frauen; Lipödem ist eine eigene, ärztlich zu behandelnde Erkrankung. [entwurf]
 - `haut:chronischer-lichtschaden` [Chronischer Lichtschaden (Lichtalterung)](data/haut/chronischer-lichtschaden.md) – Summierter UV-Schaden über Jahre: Elastizitätsverlust, Falten, Äderchen, aktinische Keratosen bis Hautkrebs. [entwurf]
 - `haut:effloreszenz-blaeschen` [Bläschen und Blase](data/haut/effloreszenz-blaeschen.md) – Primäreffloreszenz: flüssigkeitsgefüllter Hohlraum in der Haut, ausgelöst v. a. durch Erreger oder Druck; nicht öffnen. [entwurf]
 - `haut:effloreszenz-erosion` [Erosion und Exkoriation](data/haut/effloreszenz-erosion.md) – Oberflächlicher Hautdefekt: Erosion heilt ohne Narbe, die tiefere Exkoriation blutet und hinterlässt eine Narbe. [entwurf]
@@ -84,6 +86,7 @@
 - `haut:effloreszenz-rhagade` [Rhagade (Schrunde)](data/haut/effloreszenz-rhagade.md) – Spaltförmiger, schmerzhafter Einriss durch alle Epidermisschichten, oft bei sehr trockener oder verdickter Haut. [entwurf]
 - `haut:effloreszenz-schuppe` [Schuppe](data/haut/effloreszenz-schuppe.md) – Sekundäreffloreszenz: sichtbar abgestoßene Hornschicht, z. B. nach Entzündung oder bei Schuppenflechte. [entwurf]
 - `haut:effloreszenz-zyste` [Zyste](data/haut/effloreszenz-zyste.md) – Abgekapselter Hohlraum in der Haut; nur ärztlich samt Kapsel entfernbar, nie ausdrücken.
+- `haut:fettige-haut` [Fettige Haut (Seborrhoe) und unreine Haut](data/haut/fettige-haut.md) – Talgreiche, glänzende und grobporige Haut, meist von der Pubertät bis Mitte 20; Talg binden, Komedogenes meiden, Unreinheiten vorbeugen. [entwurf]
 - `haut:follikulaere-hyperkeratose` [Follikuläre Hyperkeratose](data/haut/follikulaere-hyperkeratose.md) – Verhornte Follikelöffnungen mit rauer Haut, meist an Armen und Beinen; mild keratolytisch pflegen, nicht kratzen.
 - `haut:follikulitis` [Follikulitis (Haarbalgentzündung)](data/haut/follikulitis.md) – Oberflächliche bakterielle Entzündung des Haarfollikels; ansteckend, kann zu Furunkel oder Gesichtserysipel werden. [entwurf]
 - `haut:herpes-simplex` [Herpes simplex (Lippenherpes)](data/haut/herpes-simplex.md) – Ansteckende Virusinfektion mit wiederkehrenden Bläschen; aktive Herpesstellen sind Kontraindikation für Gesichtsbehandlungen.
@@ -99,6 +102,7 @@
 - `haut:mischhaut` [Mischhaut](data/haut/mischhaut.md) – Kombination aus seborrhoischer T-Zone und normaler bis trockener Wangenpartie; zonenweise pflegen. [entwurf]
 - `haut:molluscum-contagiosum` [Dellwarzen (Molluscum contagiosum)](data/haut/molluscum-contagiosum.md) – Durch Pockenviren verursachte, hoch ansteckende Knötchen, meist bei Kindern; heilen oft nach Monaten von selbst. [entwurf]
 - `haut:neurodermitis` [Neurodermitis (atopisches Ekzem)](data/haut/neurodermitis.md) – Chronisch-entzündliche Hauterkrankung mit Barrierestörung und Juckreiz; Basispflege auch in schubfreien Zeiten.
+- `haut:normale-haut` [Normale Haut](data/haut/normale-haut.md) – Ausgeglichener Hautzustand, eher selten und meist bei jungen Menschen; Ziel der Pflege ist, ihn zu erhalten. [entwurf]
 - `haut:onychomykose` [Nagelpilz (Onychomykose)](data/haut/onychomykose.md) – Pilzinfektion des Nagels, unbehandelt fortschreitend; von Nagelpsoriasis nur durch Pilzkultur sicher zu unterscheiden. [entwurf]
 - `haut:periorale-dermatitis` [Periorale Dermatitis](data/haut/periorale-dermatitis.md) – Rosazeaähnliche Entzündung um Mund und Nase, oft durch Überpflege oder Kortison; Pflege radikal reduzieren.
 - `haut:pigmentnaevus` [Pigmentnaevus (Muttermal)](data/haut/pigmentnaevus.md) – Gutartige Ansammlung von Pigmentzellen; atypische Male können zu Melanomen werden – beobachten und nicht behandeln.
@@ -106,10 +110,12 @@
 - `haut:polymorphe-lichtdermatose` [Polymorphe Lichtdermatose (Sonnenallergie)](data/haut/polymorphe-lichtdermatose.md) – Juckende, unterschiedlich aussehende Hautreaktion auf Sonnenlicht; Lichtschutz und langsame Gewöhnung, ärztlich abklären. [entwurf]
 - `haut:postinflammatorische-hyperpigmentierung` [Postinflammatorische Hyperpigmentierung](data/haut/postinflammatorische-hyperpigmentierung.md) – Pigmentflecken nach Entzündungen, oft nach Akne und Quetschen; vorbeugen durch schonende Behandlung und Lichtschutz.
 - `haut:psoriasis` [Schuppenflechte (Psoriasis vulgaris)](data/haut/psoriasis.md) – Chronische, nicht ansteckende Entzündung mit überstürzter Verhornung; oft Gelenke und Nägel beteiligt. Pflege ergänzt die ärztliche Therapie. [entwurf]
+- `haut:reife-haut` [Reife Haut und Altershaut](data/haut/reife-haut.md) – Mit dem Alter dünner, trockener und weniger elastischer Hautzustand; schonend reinigen, Lipide und Feuchtigkeit zuführen, vor UV schützen. [entwurf]
 - `haut:rosazea` [Rosazea](data/haut/rosazea.md) – Chronische, nicht ansteckende Erkrankung von Gefäßen, Bindegewebe und Talgdrüsen im Gesicht; Auslöser meiden, Lichtschutz, keine durchblutungsfördernde Pflege.
 - `haut:seborrhoische-keratose` [Seborrhoische Keratose (Alterswarze)](data/haut/seborrhoische-keratose.md) – Häufigster gutartiger Hauttumor, ohne Viren und ohne Entartung; kann einem Melanom ähneln und wird ärztlich entfernt.
 - `haut:seborrhoisches-ekzem` [Seborrhoisches Ekzem](data/haut/seborrhoisches-ekzem.md) – Chronisch wiederkehrende schuppende Rötung in talgreichen Zonen; zu fettige Pflege verschlechtert.
 - `haut:sebostase` [Trockene Haut (Sebostase)](data/haut/sebostase.md) – Haut mit verminderter Talgproduktion und gestörter Barriere; braucht Lipide und Feuchthaltefaktoren. [entwurf]
+- `haut:sensible-haut` [Sensible Haut (empfindliche Haut)](data/haut/sensible-haut.md) – Kein medizinisch definierter Hauttyp: Haut reagiert leicht mit Rötung und Brennen; reizarme, kurze Pflegeroutinen. [entwurf]
 - `haut:sonnenbrand` [Sonnenbrand (akuter Lichtschaden)](data/haut/sonnenbrand.md) – Akute Entzündung durch zu viel UV-Strahlung; schwere Formen mit Allgemeinsymptomen. Häufige Sonnenbrände erhöhen das Melanomrisiko. [entwurf]
 - `haut:talgdruesenhyperplasie` [Talgdrüsenhyperplasie](data/haut/talgdruesenhyperplasie.md) – Vergrößerte einzelne Talgdrüsen als gelbliche Knötchen; harmlos, lässt sich nicht ausreinigen, Entfernung ist ärztlich.
 - `haut:teleangiektasien` [Teleangiektasien (Äderchen)](data/haut/teleangiektasien.md) – Dauerhaft erweiterte feinste Hautgefäße; kosmetisch Reize meiden, Verödung per Laser ist ärztlich.
@@ -136,9 +142,18 @@
 - `recht:kosmetikv-2014` [Kosmetik-Verordnung (KosmetikV 2014)](data/recht/kosmetikv-2014.md) – Deutsche Ergänzung zur EU-Kosmetikverordnung – Anzeigepflichten, Sprache der Kennzeichnung, Giftnotruf-Meldungen, Ordnungswidrigkeiten.
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
-## begriff (2)
+## begriff (11)
+- `begriff:antioxidans` [Antioxidans](data/begriffe/antioxidans.md) – Stoff, der Inhaltsstoffe vor dem Ranzigwerden schützt bzw. in der Haut freie Radikale abfängt, z. B. Vitamin E und C. [entwurf]
 - `begriff:hlb-wert` [HLB-Wert](data/begriffe/hlb-wert.md) – Kennzahl (0–20) für das Verhältnis hydrophiler zu lipophiler Anteile eines Emulgators; bestimmt O/W- oder W/O-Tendenz.
+- `begriff:hydrolipidfilm` [Hydrolipidfilm](data/begriffe/hydrolipidfilm.md) – Emulsionsartiger Film aus Talg, Schweiß und Hautlipiden auf der Hornschicht; schützt vor Austrocknung und Chemikalien. [entwurf]
 - `begriff:inci` [INCI](data/begriffe/inci.md) – Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.
+- `begriff:komedogenitaet` [Komedogenität](data/begriffe/komedogenitaet.md) – Eigenschaft eines Stoffes, Mitesser zu begünstigen; heute mangels zugelassener Tests kaum belegbar. [entwurf]
+- `begriff:konservierungsmittel` [Konservierungsmittel](data/begriffe/konservierungsmittel.md) – Zusätze, die das Keimwachstum in wasserhaltigen Kosmetika hemmen; zulässige Stoffe regelt Anhang V der EU-Kosmetikverordnung. [entwurf]
+- `begriff:lichtschutzfaktor` [Lichtschutzfaktor (LSF)](data/begriffe/lichtschutzfaktor.md) – Maß für den Schutz vor UVB-bedingtem Sonnenbrand; sagt nichts über UVA-Schutz oder Langzeitschäden aus. [entwurf]
+- `begriff:nmf` [NMF (natürliche Feuchthaltefaktoren)](data/begriffe/nmf.md) – Kleine wasserbindende Moleküle in der Hornschicht, z. B. Aminosäuren, Harnstoff, Milchsäure, PCA; entscheidend für die Hautfeuchte. [entwurf]
+- `begriff:saeureschutzmantel` [Säureschutzmantel](data/begriffe/saeureschutzmantel.md) – Leicht saurer Film auf der Haut (pH etwa 4,5–5,5) aus Schweiß und Talg; hemmt Keime und stabilisiert die Barriere. [entwurf]
+- `begriff:syndet` [Syndet](data/begriffe/syndet.md) – Waschstück aus synthetischen Tensiden statt Seife; hautfreundlich einstellbar, z. B. auf leicht sauren pH. [entwurf]
+- `begriff:uva-schutz` [UVA-Schutz](data/begriffe/uva-schutz.md) – Schutz vor langwelliger UV-Strahlung, die ohne Sonnenbrand Langzeitschäden verursacht; in der EU mindestens ein Drittel des LSF. [entwurf]
 
 ## quelle (9)
 - `quelle:ellsaesser-koerperpflegekunde` [Körperpflegekunde und Kosmetik – Ein Lehrbuch für die PTA-Ausbildung und die Beratung in der Apothekenpraxis](data/quellen/ellsaesser-koerperpflegekunde.md) – Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.

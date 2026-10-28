@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-28 – Übertrag aus Büchern, Runde 3 (Ellsässer → haut, begriff)
+- 6 neue Hautzustände: normale, fettige/unreine, reife und sensible Haut, Baby- und Kinderhaut, Cellulite/Lipödem
+- 9 neue Begriffe: Säureschutzmantel, Hydrolipidfilm, NMF, Komedogenität, Konservierungsmittel, Antioxidans, Syndet,
+  Lichtschutzfaktor, UVA-Schutz
+- Mischhaut und trockene Haut: Fundstellen mit Seiten, Pflegehinweise, Verknüpfungen
+- Fragwürdige Buchangaben markiert (pH-Spanne des Säureschutzmantels, Filterleistung bei LSF 30)
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 2 (Herrmann/Trinkkeller → haut)
 - 27 neue `haut:`-Einträge direkt aus dem Original, eigene Formulierungen mit Kapitel und gedruckter Seite:
   Effloreszenzen (Bläschen, Quaddel, Schuppe, Kruste, Erosion/Exkoriation, Rhagade, Narbe), Keloid, Besenreiser,
