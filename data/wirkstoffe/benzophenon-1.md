@@ -35,3 +35,4 @@ Konzentrationen in Produkten; SCCS-Originalgutachten (Details, Margin of Safety)
 
 ## Änderungslog
 - 2026-10-23: neu recherchiert.
+- 2026-10-28: Neuer Fund, Bewertung unverändert. In-silico-Analyse plus Zellkultur: BP-1 verschob Makrophagen in Richtung M2-ähnlichem Phänotyp (uPAR erhöht); deren konditioniertes Medium förderte Proliferation, Migration und Invasion von Brustkrebszellen. Nur mechanistisch, keine Expositionsdosis aus Kosmetikanwendung abgeleitet, keine Humandaten. Evidenz schwach; stützt die bekannte Einordnung als hormonell aktiver Stoff, ändert die Rechtslage nicht. [Wahrscheinlich] Front Mol Biosci 2026, PMID 42947877, doi:10.3389/fmolb.2026.1946836.

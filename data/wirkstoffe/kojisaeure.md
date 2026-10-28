@@ -39,4 +39,5 @@ Andere Aufheller sind teils eigens begrenzt (Arbutin, Alpha-Arbutin) oder Arznei
 Verordnung (EU) 2024/996 (EUR-Lex), Anhang III Eintrag 375, Erwägungsgrund 14; Springer Lexikon Kosmetik (2020).
 
 ## Änderungslog (neueste oben)
+- 2026-10-28: Neuer Fund, Bewertung unverändert. Mausmodell (haarlose Mäuse, einmalige UVB-Dosis, Auswertung Tag 4): mit Arbutin bzw. Kojisäure beladene Hydrogel-Patches (methacrylierte Hyaluronsäure auf Nanofasermembran) verringerten die UVB-bedingte Epidermisverdickung; gegenüber frei aufgetragenem Wirkstoff uneinheitlich. Autoren nennen selbst fehlende Kontrollen (Patch ohne Wirkstoff, Okklusion), daher Wirkstoff- und Trägereffekt nicht trennbar; Pigmentierung nur histologisch, keine Humandaten. Evidenz schwach. [Wahrscheinlich] J Appl Biomater Funct Mater 2026, PMID 42929246, doi:10.1177/22808000261502102.
 - 2026-10-23: Datei neu angelegt (Rechtsstand aus Verordnung 2024/996).
