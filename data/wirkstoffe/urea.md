@@ -8,7 +8,7 @@ stoffgruppe: NMF-Bestandteil
 funktionen: [feuchtigkeitsbindend, keratolytisch]
 geeignet_fuer: [haut:sebostase]
 vorsicht_bei: [haut:rosazea, "offene oder entzündete Haut (Brennen)"]
-konzentration_typisch: 2–5 % feuchtigkeitsspendend, ab ca. 10 % keratolytisch
+konzentration_typisch: ab 2 % hydratisierend, ab 10 % juckreizstillend/keratolytisch, ab 40 % nagelauflösend; Kosmetik bis 10 %
 kurz: Natürlicher Feuchthaltefaktor; niedrig dosiert befeuchtend, höher dosiert hornhautlösend (Füße, Schwielen).
 tags: [feuchtigkeit, nmf, keratolyse]
 verwandt: [wirkstoff:glycerin]

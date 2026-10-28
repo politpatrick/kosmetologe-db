@@ -11,7 +11,7 @@ kurz: Chronisch-entzündliche Gesichtsdermatose; reizarme Pflege, Triggervermeid
 tags: [roetung, sensibel]
 verwandt: [wirkstoff:panthenol]
 quellen:
-  - id: quelle:konrad-dermatologie-kosmetik
+  - id: quelle:herrmann-trinkkeller-dermatologie
 status: entwurf
 aktualisiert: 2026-10-28
 ---

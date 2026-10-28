@@ -3,14 +3,32 @@
 > Wissensdatenbank zu Kosmetologie: Wirkstoffe, Haut, Behandlungen, Formulierungen, Recht, Begriffe, Quellen und Projektkontext.
 > Volltext eines Eintrags: Datei unter `pfad` lesen. Maschinenlesbar: dist/index.json.
 
-## wirkstoff (7)
+## wirkstoff (25)
+- `wirkstoff:aha` [Alpha-Hydroxysäuren (AHA)](data/wirkstoffe/aha.md) – Fruchtsäuren für Peelings und Hautglättung; erhöhen nachweislich die UV-Empfindlichkeit, Grenzwertangaben in Lehrbüchern widersprüchlich. [entwurf]
+- `wirkstoff:arbutin` [Arbutin / Alpha-Arbutin](data/wirkstoffe/arbutin.md) – Aufheller mit Grenzwerten – Arbutin 7 % (Gesichtscreme), Alpha-Arbutin 2 % Gesichtscreme / 0,5 % Körperlotion; Hydrochinon-Rest so gering wie möglich. [entwurf]
+- `wirkstoff:azelainsaeure` [Azelainsäure](data/wirkstoffe/azelainsaeure.md) – Gut belegt bei Rosazea, Akne und Melasma (systematische Übersicht mit 43 RCTs) – allerdings als Arzneimittel; Übertragbarkeit auf Kosmetik offen. [entwurf]
+- `wirkstoff:benzophenon-1` [Benzophenone-1](data/wirkstoffe/benzophenon-1.md) – Als Lichtschutzstabilisator laut SCCS/1672/24 nicht sicher; Verbot (Anhang II) im Kommissionsentwurf. [entwurf]
+- `wirkstoff:benzophenon-2` [Benzophenone-2](data/wirkstoffe/benzophenon-2.md) – Laut SCCS/1679/25 keine Sicherheitsaussage möglich, östrogen aktiv; Verbot (Anhang II) im Kommissionsentwurf. [entwurf]
+- `wirkstoff:camellioside-a` [Camellioside A](data/wirkstoffe/camellioside-a.md) – Neuer Pflanzenwirkstoff; nur In-vitro- und Mausdaten, Hersteller-Mitautor. [entwurf]
+- `wirkstoff:ceramid-np` [Ceramid NP](data/wirkstoffe/ceramid-np.md) – Hautidentisches Ceramid (früher Ceramid 3); stärkt die Lipidbarriere, Wirkung stark vom Trägersystem abhängig. [entwurf]
+- `wirkstoff:ethyl-ascorbinsaeure` [3-O-Ethyl-L-Ascorbinsäure](data/wirkstoffe/ethyl-ascorbinsaeure.md) – Stabiles Vitamin-C-Derivat; bisher nur In-vitro-Daten, keine Humanstudien. [entwurf]
+- `wirkstoff:exosomen` [Exosomen (topisch)](data/wirkstoffe/exosomen.md) – Topische Exosomen werden stark beworben, Humandaten fehlen; Reviews bemängeln fehlende Standardisierung und Langzeitdaten. [entwurf]
+- `wirkstoff:genistein-daidzein` [Genistein / Daidzein](data/wirkstoffe/genistein-daidzein.md) – Soja-Isoflavone; Höchstwerte 0,007 % (Genistein) bzw. 0,02 % (Daidzein) nach SCCS/1641/22. [entwurf]
 - `wirkstoff:glycerin` [Glycerin](data/wirkstoffe/glycerin.md) – Klassisches Feuchthaltemittel in fast allen wasserhaltigen Formulierungen; verbessert Hautfeuchte und Geschmeidigkeit. [entwurf]
 - `wirkstoff:hyaluronsaeure` [Hyaluronsäure](data/wirkstoffe/hyaluronsaeure.md) – Feuchthaltemittel, das Wasser bindet; hochmolekular filmbildend auf der Oberfläche, niedermolekular tiefer in die Hornschicht. [entwurf]
+- `wirkstoff:hydrochinon` [Hydrochinon](data/wirkstoffe/hydrochinon.md) – Als Arzneimittel bei Melasma gut belegt, in Kosmetika verboten; relevant als Verunreinigung von Arbutin. [entwurf]
+- `wirkstoff:kojisaeure` [Kojisäure](data/wirkstoffe/kojisaeure.md) – Aufhellender Wirkstoff; seit VO (EU) 2024/996 max. 1 % in Gesichts- und Handprodukten. [entwurf]
 - `wirkstoff:niacinamid` [Niacinamid](data/wirkstoffe/niacinamid.md) – Wasserlösliches B3-Vitamin, unterstützt Barriere (Ceramidsynthese), reguliert Talg und mindert Rötungen und Pigmentflecken. [entwurf]
 - `wirkstoff:panthenol` [Panthenol](data/wirkstoffe/panthenol.md) – Provitamin B5, wird in der Haut zu Pantothensäure umgewandelt; beruhigt, befeuchtet, unterstützt die Regeneration. [entwurf]
+- `wirkstoff:parabene` [Parabene](data/wirkstoffe/parabene.md) – Konservierungsstoffe mit gut dokumentiertem Rechtsstatus; Butylparaben bei Kindern in Kombination (0,14 %) laut SCCS nicht sicher, Verschärfung im Entwurf. [entwurf]
 - `wirkstoff:retinol` [Retinol](data/wirkstoffe/retinol.md) – Vitamin-A-Alkohol, beschleunigt die Zellerneuerung und fördert Kollagenbildung; lichtempfindlich, anfangs oft Reizung (Retinisierung). [entwurf]
+- `wirkstoff:retinyl-acetat` [Retinyl Acetate](data/wirkstoffe/retinyl-acetat.md) – Retinylester; gleiche Grenzwerte wie Retinol (Anhang III Nr. 376, als Retinoläquivalent). [entwurf]
 - `wirkstoff:salicylsaeure` [Salicylsäure](data/wirkstoffe/salicylsaeure.md) – Fettlösliche Säure, dringt in Follikel ein und löst Verhornungen – Standardwirkstoff bei unreiner Haut. [entwurf]
+- `wirkstoff:tranexamsaeure` [Tranexamsäure](data/wirkstoffe/tranexamsaeure.md) – Topisch/ästhetisch bei Melasma eingesetzt; Humanevidenz schwach bis moderat, oft Kombinationsstudien. [entwurf]
+- `wirkstoff:triclocarban` [Triclocarban](data/wirkstoffe/triclocarban.md) – Konservierungsstoff, Anhang V Nr. 23, max. 0,2 % (SCCS/1643/22). [entwurf]
+- `wirkstoff:triclosan` [Triclosan](data/wirkstoffe/triclosan.md) – Antimikrobieller Konservierungsstoff; durch VO (EU) 2024/996 weiter eingeschränkt, Sicherheitsdaten überwiegend Umwelt/Tier. [entwurf]
 - `wirkstoff:urea` [Harnstoff (Urea)](data/wirkstoffe/urea.md) – Natürlicher Feuchthaltefaktor; niedrig dosiert befeuchtend, höher dosiert hornhautlösend (Füße, Schwielen). [entwurf]
+- `wirkstoff:xep-716-miniprotein` [XEP-716 Miniprotein](data/wirkstoffe/xep-716-miniprotein.md) – TGF-β-mimetisches Miniprotein; Split-Face-RCT-Sekundäranalyse zeigt nominal signifikante Epidermisveränderungen, herstellernah. [entwurf]
 
 ## haut (5)
 - `haut:akne-vulgaris` [Akne vulgaris](data/haut/akne-vulgaris.md) – Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung. [entwurf]
@@ -27,22 +45,30 @@
 - `formulierung:emulsion-ow` [Öl-in-Wasser-Emulsion (O/W)](data/formulierungen/emulsion-ow.md) – Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen. [entwurf]
 - `formulierung:emulsion-wo` [Wasser-in-Öl-Emulsion (W/O)](data/formulierungen/emulsion-wo.md) – Wassertröpfchen in Öl – reichhaltig, okklusiv, wasserabweisend; für trockene Haut, Nacht- und Kälteschutzpflege. [entwurf]
 
-## recht (3)
+## recht (7)
+- `recht:anhang-ii-arzneistoffe` [Arzneistoffe in Anhang II (Verbotsliste) der VO (EG) 1223/2009](data/recht/anhang-ii-arzneistoffe.md) – Welche dermatologischen Arzneistoffe namentlich oder über Gruppeneinträge (Antibiotika, Glucocorticoide …) in Kosmetika verboten sind.
+- `recht:anhang-iii-duftstoff-allergene` [Duftstoff-Allergene – Anhang III Nr. 327–371 (VO (EU) 2023/1545)](data/recht/anhang-iii-duftstoff-allergene.md) – 45 neu kennzeichnungspflichtige Duftstoffe ab 0,001 % (Leave-on) bzw. 0,01 % (Rinse-off); Bereitstellung nicht konformer Ware bis 31.07.2028.
+- `recht:anhang-vi-uv-filter` [UV-Filter – Anhang VI (und Verbote in Anhang II) der VO (EG) 1223/2009](data/recht/anhang-vi-uv-filter.md) – Zugelassene UV-Filter mit Höchstkonzentrationen; 4-MBC und 3-BC sind inzwischen in Anhang II verboten.
 - `recht:eu-kosmetikverordnung` [Verordnung (EG) Nr. 1223/2009 über kosmetische Mittel](data/recht/eu-kosmetikverordnung.md) – Zentrale EU-Regelung für Sicherheit, Kennzeichnung, Inhaltsstoffe (Anhänge II–VI) und Notifizierung kosmetischer Mittel. [entwurf]
 - `recht:kosmetikermstrv` [Kosmetikermeisterverordnung (KosmetikerMstrV)](data/recht/kosmetikermstrv.md) – Regelt die Meisterprüfung (Teile I und II) im Kosmetiker-Gewerbe und damit das berufliche Kompetenzprofil.
 - `recht:kosmetikv-2014` [Kosmetik-Verordnung (KosmetikV 2014)](data/recht/kosmetikv-2014.md) – Deutsche Ergänzung zur EU-Kosmetikverordnung – Anzeigepflichten, Sprache der Kennzeichnung, Giftnotruf-Meldungen, Ordnungswidrigkeiten.
+- `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III und V](data/recht/vo-2024-996.md) – Setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten. [entwurf]
 
 ## begriff (2)
 - `begriff:hlb-wert` [HLB-Wert](data/begriffe/hlb-wert.md) – Kennzahl (0–20) für das Verhältnis hydrophiler zu lipophiler Anteile eines Emulgators; bestimmt O/W- oder W/O-Tendenz. [entwurf]
 - `begriff:inci` [INCI](data/begriffe/inci.md) – Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.
 
-## quelle (6)
+## quelle (9)
 - `quelle:ellsaesser-koerperpflegekunde` [Körperpflegekunde und Kosmetik](data/quellen/ellsaesser-koerperpflegekunde.md) – Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.
 - `quelle:eur-lex` [EUR-Lex – Rechtsdatenbank der EU](data/quellen/eur-lex.md) – Amtliche konsolidierte Fassungen von EU-Verordnungen, u. a. der Kosmetikverordnung.
 - `quelle:gesetze-im-internet` [Gesetze im Internet (BMJ)](data/quellen/gesetze-im-internet.md) – Amtliche Bundesrechtsdatenbank; maschinenlesbar gespiegelt im Repo law-data-germany.
-- `quelle:konrad-dermatologie-kosmetik` [Dermatologie und medizinische Kosmetik – Leitfaden für die kosmetische Praxis](data/quellen/konrad-dermatologie-kosmetik.md) – Leitfaden zu Hautanatomie, Effloreszenzenlehre, Anamnese und Hauterkrankungen aus Sicht der Kosmetikpraxis. [entwurf]
+- `quelle:herrmann-trinkkeller-dermatologie` [Dermatologie und medizinische Kosmetik – Leitfaden für die kosmetische Praxis](data/quellen/herrmann-trinkkeller-dermatologie.md) – Leitfaden zu Hautanatomie, Effloreszenzenlehre, Anamnese und Hauterkrankungen aus Sicht der Kosmetikpraxis (Quellenkürzel D). [entwurf]
+- `quelle:kosmetologe-projekt` [Projekt Kosmetologe – eigene Recherchen und Auswertungen](data/quellen/kosmetologe-projekt.md) – Eigene Rechtsauswertungen, Impact-Liste und Rechercheberichte aus dem claude.ai-Projekt Kosmetologe (Stand bis 2026-10-28).
+- `quelle:pubmed` [PubMed](data/quellen/pubmed.md) – Bibliografische Datenbank biomedizinischer Literatur; Grundlage der wöchentlichen Wirkstoff-Recherche (Abstracts, PMID/DOI).
+- `quelle:sccs` [SCCS – Scientific Committee on Consumer Safety](data/quellen/sccs.md) – Wissenschaftlicher Ausschuss der EU-Kommission; Gutachten (Opinions) sind Grundlage für Änderungen der Anhänge der Kosmetikverordnung.
 - `quelle:springer-lexikon-kosmetik` [Springer Lexikon Kosmetik und Körperpflege](data/quellen/springer-lexikon-kosmetik.md) – Alphabetisches Fachlexikon zu INCI-Stoffen, Begriffen und Verfahren der Kosmetik.
 - `quelle:tadros-formulierungen` [Formulierungen in Kosmetik und Körperpflege](data/quellen/tadros-formulierungen.md) – Kolloidchemische Grundlagen kosmetischer Formulierungen – Tenside, Emulsionen, Nanoemulsionen, Liposomen, Shampoos, Sonnenschutz. [entwurf]
 
-## kontext (1)
+## kontext (2)
 - `kontext:fachliche-grundsaetze` [Fachliche Grundsätze für alle Antworten](data/kontext/fachliche-grundsaetze.md) – Leitplanken – Abgrenzung zur Heilkunde, Quellenpflicht, Rechtsstand prüfen, keine Buchtexte veröffentlichen.
+- `kontext:recherche-methodik` [Recherche-Methodik und Sicherheitskennzeichnung](data/kontext/recherche-methodik.md) – Evidenzstufen (stark/moderat/schwach/keine), Aussage-Sicherheit ([Sicher]/[Wahrscheinlich]/[Vermutung]) und Regeln für die Wirkstoff-Recherche. [entwurf]

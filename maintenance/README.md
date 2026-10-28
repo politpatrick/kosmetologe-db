@@ -4,6 +4,7 @@
 |---|---|---|
 | Qualitätsprüfung | wöchentlich (Mo 08:00) | prompts/woechentlich-pruefen.md |
 | Erweitern | monatlich (1., 09:00) | prompts/monatlich-erweitern.md |
+| Wirkstoff-Recherche | wöchentlich (Mi 08:00) | prompts/woechentlich-recherche.md |
 | Rechtsstand | quartalsweise (1.1./4./7./10., 10:00) | prompts/quartalsweise-recht.md |
 
 Alle Aufgaben arbeiten über Branch + Pull Request – `main` ändert sich erst nach deiner Freigabe.

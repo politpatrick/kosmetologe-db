@@ -11,7 +11,7 @@ kurz: Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisc
 tags: [akne, follikel]
 verwandt: [haut:effloreszenz-papel, wirkstoff:salicylsaeure, behandlung:ausreinigung]
 quellen:
-  - id: quelle:konrad-dermatologie-kosmetik
+  - id: quelle:herrmann-trinkkeller-dermatologie
     fundstelle: Kap. Talgdrüsenerkrankungen
 status: entwurf
 aktualisiert: 2026-10-28

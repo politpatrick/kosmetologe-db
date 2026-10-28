@@ -1,7 +1,11 @@
 {
   "wirkstoff": {
     "ordner": "wirkstoffe",
-    "pflicht": ["inci", "stoffgruppe", "funktionen"],
+    "pflicht": [
+      "inci",
+      "stoffgruppe",
+      "funktionen"
+    ],
     "felder": {
       "inci": "INCI-Bezeichnung",
       "cas": "CAS-Nummer (optional)",
@@ -10,12 +14,16 @@
       "geeignet_fuer": "Liste von haut:-IDs",
       "vorsicht_bei": "Liste von haut:-IDs oder Freitext",
       "konzentration_typisch": "Freitext, z. B. '2–5 %'",
-      "regulierung": "Liste von recht:-IDs mit Hinweis"
+      "regulierung": "Liste von recht:-IDs mit Hinweis",
+      "evidenz": "stark | moderat | schwach | keine | nicht-bewertet",
+      "impact": "hoch | mittel | niedrig | offen"
     }
   },
   "haut": {
     "ordner": "haut",
-    "pflicht": ["kategorie"],
+    "pflicht": [
+      "kategorie"
+    ],
     "felder": {
       "kategorie": "hauttyp | hautzustand | effloreszenz | erkrankung",
       "merkmale": "Liste erkennbarer Merkmale",
@@ -25,7 +33,11 @@
   },
   "behandlung": {
     "ordner": "behandlungen",
-    "pflicht": ["ziel", "indikation", "kontraindikation"],
+    "pflicht": [
+      "ziel",
+      "indikation",
+      "kontraindikation"
+    ],
     "felder": {
       "ziel": "Behandlungsziel",
       "indikation": "Liste von haut:-IDs",
@@ -36,7 +48,9 @@
   },
   "formulierung": {
     "ordner": "formulierungen",
-    "pflicht": ["system"],
+    "pflicht": [
+      "system"
+    ],
     "felder": {
       "system": "z. B. Emulsion O/W, Gel, Tensidsystem",
       "bestandteile": "Liste typischer Baustein-Klassen",
@@ -45,7 +59,11 @@
   },
   "recht": {
     "ordner": "recht",
-    "pflicht": ["norm", "geltung", "pruefen_bis"],
+    "pflicht": [
+      "norm",
+      "geltung",
+      "pruefen_bis"
+    ],
     "felder": {
       "norm": "Offizielle Abkürzung",
       "geltung": "EU | DE",
@@ -54,10 +72,17 @@
       "stand": "Letzte bekannte Änderung"
     }
   },
-  "begriff": { "ordner": "begriffe", "pflicht": [], "felder": {} },
+  "begriff": {
+    "ordner": "begriffe",
+    "pflicht": [],
+    "felder": {}
+  },
   "quelle": {
     "ordner": "quellen",
-    "pflicht": ["art", "lizenz"],
+    "pflicht": [
+      "art",
+      "lizenz"
+    ],
     "felder": {
       "art": "buch | gesetz | studie | web | eigen",
       "autoren": "Liste",
@@ -70,7 +95,9 @@
   },
   "kontext": {
     "ordner": "kontext",
-    "pflicht": ["einsatz"],
+    "pflicht": [
+      "einsatz"
+    ],
     "felder": {
       "einsatz": "Liste: design | code | text | beratung | skill",
       "prioritaet": "hoch | normal"

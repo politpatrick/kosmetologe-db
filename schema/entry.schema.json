@@ -4,7 +4,13 @@
   "title": "Kosmetologe-DB Eintrag (Frontmatter)",
   "description": "Gemeinsame Felder aller Einträge. Typspezifische Pflichtfelder stehen in types.json.",
   "type": "object",
-  "required": ["id", "typ", "titel", "status", "aktualisiert"],
+  "required": [
+    "id",
+    "typ",
+    "titel",
+    "status",
+    "aktualisiert"
+  ],
   "properties": {
     "id": {
       "type": "string",
@@ -12,36 +18,106 @@
       "description": "Global eindeutig, Präfix = Typ, z. B. wirkstoff:niacinamid"
     },
     "typ": {
-      "enum": ["wirkstoff", "haut", "behandlung", "formulierung", "recht", "begriff", "quelle", "kontext"]
+      "enum": [
+        "wirkstoff",
+        "haut",
+        "behandlung",
+        "formulierung",
+        "recht",
+        "begriff",
+        "quelle",
+        "kontext"
+      ]
     },
-    "titel": { "type": "string", "minLength": 2 },
-    "aliase": { "type": "array", "items": { "type": "string" } },
-    "kurz": { "type": "string", "maxLength": 280, "description": "Ein-Satz-Zusammenfassung für Index und Suche" },
-    "tags": { "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9-]+$" } },
+    "titel": {
+      "type": "string",
+      "minLength": 2
+    },
+    "aliase": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "kurz": {
+      "type": "string",
+      "maxLength": 280,
+      "description": "Ein-Satz-Zusammenfassung für Index und Suche"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      }
+    },
     "verwandt": {
       "type": "array",
-      "items": { "type": "string", "pattern": "^[a-z]+:[a-z0-9-]+$" },
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z]+:[a-z0-9-]+$"
+      },
       "description": "IDs verwandter Einträge; werden beim Validieren aufgelöst"
     },
     "quellen": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id"],
+        "required": [
+          "id"
+        ],
         "properties": {
-          "id": { "type": "string", "pattern": "^quelle:[a-z0-9-]+$" },
-          "fundstelle": { "type": "string" }
+          "id": {
+            "type": "string",
+            "pattern": "^quelle:[a-z0-9-]+$"
+          },
+          "fundstelle": {
+            "type": "string"
+          }
         },
         "additionalProperties": false
       }
     },
     "status": {
-      "enum": ["entwurf", "geprueft", "veraltet"],
+      "enum": [
+        "entwurf",
+        "geprueft",
+        "veraltet"
+      ],
       "description": "entwurf = ungeprüft; geprueft = gegen Quelle verifiziert; veraltet = ersetzt/überholt"
     },
-    "aktualisiert": { "type": "string", "format": "date" },
-    "geprueft_am": { "type": "string", "format": "date" },
-    "pruefen_bis": { "type": "string", "format": "date", "description": "Spätestes Datum der nächsten Prüfung (v. a. Recht)" }
+    "aktualisiert": {
+      "type": "string",
+      "format": "date"
+    },
+    "geprueft_am": {
+      "type": "string",
+      "format": "date"
+    },
+    "pruefen_bis": {
+      "type": "string",
+      "format": "date",
+      "description": "Spätestes Datum der nächsten Prüfung (v. a. Recht)"
+    },
+    "evidenz": {
+      "enum": [
+        "stark",
+        "moderat",
+        "schwach",
+        "keine",
+        "nicht-bewertet"
+      ],
+      "description": "Evidenzstufe nach kontext:recherche-methodik"
+    },
+    "impact": {
+      "enum": [
+        "hoch",
+        "mittel",
+        "niedrig",
+        "offen"
+      ],
+      "description": "Recherche-Priorität nach maintenance/impact-liste.md"
+    }
   },
   "additionalProperties": true
 }
