@@ -16,8 +16,8 @@ geeignet_fuer:
 - haut:sebostase
 - haut:reife-haut
 - haut:chronischer-lichtschaden
-evidenz: nicht-bewertet
-impact: offen
+evidenz: schwach
+impact: mittel
 kurz: Fettlösliches Vitamin und wichtigstes Antioxidans der Hautlipide; schützt Produkte vor dem Ranzigwerden und die Haut vor Radikalen.
 tags:
 - antioxidans
@@ -32,6 +32,8 @@ quellen:
   fundstelle: Kap. 4.1.7, S. 76–77; Kap. 3.2, S. 57; Kap. 4.6.1, S. 104
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: Stichwort „Tocopherol“
+- id: quelle:pubmed
+  fundstelle: Recherche 2026-10-28
 status: entwurf
 aktualisiert: '2026-10-28'
 ---
@@ -44,5 +46,15 @@ In der Haut eingelagertes Vitamin E fängt UV-bedingte Radikale ab. In Rezepture
 - Tocopheryl Acetate: stabilerer Ester, wird in der Haut nur teilweise zu freiem Tocopherol gespalten (eigene Ergänzung).
 - Wirkt im Verbund mit Vitamin C, das verbrauchtes Vitamin E regeneriert (eigene Ergänzung).
 
+## Studienlage (PubMed, Recherche 2026-10-28)
+Nach PubMed:
+- [Wahrscheinlich] Baumann & Spencer 1999, doppelblindes RCT n=15 nach Hautkrebsoperation: Vitamin E verbesserte das Narbenbild nicht, in 90 % kein Effekt oder Verschlechterung; 33 % entwickelten eine Kontaktdermatitis. [DOI](https://doi.org/10.1046/j.1524-4725.1999.08223.x)
+- [Wahrscheinlich] Saeg et al. 2021, systematisches Review zu Vitaminen in der Wundversorgung: einzelne Hinweise für Vitamin E bei hypertrophen Narben, aber keine sicheren Schlussfolgerungen. [DOI](https://doi.org/10.1097/PRS.0000000000008061)
+- Konsequenz: Vitamin E als Produktschutz (Antioxidans) unstrittig; Narben- oder Heilversprechen nicht stützen.
+
 ## Stand der Bewertung
-Nur Lehrbuchwissen (Ellsässer), keine eigene Studienrecherche. Evidenz `nicht-bewertet`, Impact `offen`; die monatliche Erweiterung ergänzt PubMed- und SCCS-Recherche.
+Evidenz `schwach`, Impact `mittel`. Schwach für Wirksamkeitsaussagen; ein kleines doppelblindes RCT zur Narbenpflege fand keinen Nutzen, aber häufige Kontaktdermatitis.
+Nur Abstracts gelesen; keine SCCS-Prüfung in diesem Lauf.
+
+## Änderungslog
+- 2026-10-28: Eintrag aus Ellsässer angelegt; am selben Tag PubMed-Recherche ergänzt, Evidenz und Impact gesetzt.

@@ -17,8 +17,8 @@ geeignet_fuer:
 - haut:sonnenbrand
 - haut:sensible-haut
 - haut:sebostase
-evidenz: nicht-bewertet
-impact: offen
+evidenz: schwach
+impact: mittel
 kurz: Gel aus dem Blattmark der Aloe; spendet Feuchtigkeit, beruhigt und wird besonders in Sonnen- und After-Sun-Pflege eingesetzt.
 tags:
 - beruhigung
@@ -32,6 +32,8 @@ quellen:
   fundstelle: Kap. 4.5.2, S. 98
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: Stichwort „Aloe Barbadensis“
+- id: quelle:pubmed
+  fundstelle: Recherche 2026-10-28
 status: entwurf
 aktualisiert: '2026-10-28'
 ---
@@ -45,5 +47,15 @@ In allen Produktarten vom Waschen bis zur Pflege und für alle Altersgruppen, be
 ## INCI
 Je nach Rohstoff z. B. Aloe Barbadensis Leaf Juice, Leaf Extract oder Leaf Juice Powder (eigene Ergänzung).
 
+## Studienlage (PubMed, Recherche 2026-10-28)
+Nach PubMed:
+- [Wahrscheinlich] Sharma et al. 2022, systematisches Review mit Metaanalyse: Bei Verbrennungen 2. Grades heilten Wunden unter Aloe vera im Mittel 4,4 Tage schneller (4 Studien, 133 Personen). [DOI](https://doi.org/10.1097/01.ASW.0000875056.29059.78)
+- [Wahrscheinlich] Dat et al. 2012, Cochrane-Review (7 RCTs, 347 Personen): keine hochwertige Evidenz für Aloe bei akuten oder chronischen Wunden; in einer Studie heilten Operationswunden sogar langsamer. [DOI](https://doi.org/10.1002/14651858.CD008762.pub2)
+- [Wahrscheinlich] Feily & Namazi 2009, Übersicht: kein wirksamer Schutz vor Strahlenschäden oder Sonnenbrand; klinische Wirksamkeit insgesamt unzureichend untersucht. Kein DOI in PubMed (PMID 19218914).
+
 ## Stand der Bewertung
-Nur Lehrbuchwissen (Ellsässer), keine eigene Studienrecherche. Evidenz `nicht-bewertet`, Impact `offen`; die monatliche Erweiterung ergänzt PubMed- und SCCS-Recherche.
+Evidenz `schwach`, Impact `mittel`. Schwach: Systematische Reviews finden Hinweise vor allem bei Verbrennungen, die Studien sind aber klein und von geringer Qualität; kosmetische Wirkaussagen sind kaum untersucht.
+Nur Abstracts gelesen; keine SCCS-Prüfung in diesem Lauf.
+
+## Änderungslog
+- 2026-10-28: Eintrag aus Ellsässer angelegt; am selben Tag PubMed-Recherche ergänzt, Evidenz und Impact gesetzt.

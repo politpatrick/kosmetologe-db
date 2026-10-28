@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 – Studienrecherche für die Lehrbuch-Wirkstoffe aus Runde 7
+- PubMed-Recherche für 12 Wirkstoffe; `evidenz` und `impact` gesetzt, Abschnitt „Studienlage“ mit DOIs
+- Wichtige Befunde: Vitamin E ohne Narbennutzen bei häufiger Kontaktdermatitis; Coffein bei Haarausfall moderat belegt; Allantoin-RCT negativ
+- Impact-Liste nachgeführt, Bericht `berichte/recherche/2026-10-28_lehrbuchwirkstoffe.md`
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 7 (Ellsässer Kap. 4 → Wirkstoffe)
 - 12 neue Wirkstoffe aus der Impact-Liste (Abschnitt B, bisher ohne Datei): Allantoin, Aloe vera, Bisabolol, Coffein,
   Grüner Tee, Hamamelis, Kamille, Centella asiatica, Teebaumöl, Tocopherol, Squalan/Squalen, Coenzym Q10
