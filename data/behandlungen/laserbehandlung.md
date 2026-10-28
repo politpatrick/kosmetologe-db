@@ -27,6 +27,7 @@ verwandt:
 - behandlung:haarentfernung
 - behandlung:narbenbehandlung
 - haut:rosazea
+- recht:nisv
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238
@@ -45,4 +46,4 @@ Die Wirkung hängt von der Wellenlänge ab: Sie wird dort aufgenommen, wo das Ge
 - Alexandrit-Laser nicht auf stark gebräunter Haut.
 
 ## Recht
-Rechtsrahmen: Seit 2021 regelt die NiSV (Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung) Laser-, IPL- und Hochfrequenzanwendungen an Menschen. Viele dieser Verfahren sind Ärztinnen und Ärzten vorbehalten, für andere ist ein Fachkundenachweis nötig (eigene Ergänzung, nicht aus der Quelle; beim Review gegen die NiSV prüfen).
+Rechtsrahmen: Seit 2021 regelt die NiSV (Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung) Laser-, IPL- und Hochfrequenzanwendungen an Menschen. Viele dieser Verfahren sind Ärztinnen und Ärzten vorbehalten, für andere ist ein Fachkundenachweis nötig Details siehe `recht:nisv`.

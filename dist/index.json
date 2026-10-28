@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 172,
+  "anzahl": 174,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -791,7 +791,8 @@
         "haut:hirsutismus",
         "behandlung:laserbehandlung",
         "wirkstoff:ammoniumthioglykolat",
-        "wirkstoff:wasserstoffperoxid"
+        "wirkstoff:wasserstoffperoxid",
+        "recht:nisv"
       ],
       "quellen": [
         {
@@ -803,7 +804,8 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/haarentfernung.md",
       "verweise_von": [
-        "behandlung:laserbehandlung"
+        "behandlung:laserbehandlung",
+        "recht:nisv"
       ]
     },
     {
@@ -872,7 +874,8 @@
         "geraet"
       ],
       "verwandt": [
-        "haut:hyperhidrose"
+        "haut:hyperhidrose",
+        "recht:nisv"
       ],
       "quellen": [
         {
@@ -883,7 +886,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/iontophorese.md",
-      "verweise_von": []
+      "verweise_von": [
+        "recht:nisv"
+      ]
     },
     {
       "id": "behandlung:kryotherapie",
@@ -961,7 +966,8 @@
       "verwandt": [
         "behandlung:haarentfernung",
         "behandlung:narbenbehandlung",
-        "haut:rosazea"
+        "haut:rosazea",
+        "recht:nisv"
       ],
       "quellen": [
         {
@@ -975,7 +981,8 @@
       "verweise_von": [
         "behandlung:dermabrasion",
         "behandlung:haarentfernung",
-        "behandlung:narbenbehandlung"
+        "behandlung:narbenbehandlung",
+        "recht:nisv"
       ]
     },
     {
@@ -1048,7 +1055,8 @@
         "behandlung:kryotherapie",
         "behandlung:laserbehandlung",
         "behandlung:dermabrasion",
-        "wirkstoff:aha"
+        "wirkstoff:aha",
+        "recht:nisv"
       ],
       "quellen": [
         {
@@ -1064,7 +1072,8 @@
         "behandlung:chemisches-peeling",
         "behandlung:dermabrasion",
         "behandlung:kryotherapie",
-        "behandlung:laserbehandlung"
+        "behandlung:laserbehandlung",
+        "recht:nisv"
       ]
     },
     {
@@ -1099,7 +1108,9 @@
       "verwandt": [
         "behandlung:camouflage",
         "begriff:praxishygiene",
-        "haut:keloid"
+        "haut:keloid",
+        "recht:taetowiermittel",
+        "recht:nisv"
       ],
       "quellen": [
         {
@@ -1111,7 +1122,9 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/permanent-make-up.md",
       "verweise_von": [
-        "begriff:praxishygiene"
+        "begriff:praxishygiene",
+        "recht:nisv",
+        "recht:taetowiermittel"
       ]
     },
     {
@@ -4351,6 +4364,7 @@
         "recht:anhang-iii-duftstoff-allergene",
         "recht:anhang-vi-uv-filter",
         "recht:eu-kosmetikverordnung",
+        "recht:taetowiermittel",
         "recht:vo-2024-996",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
@@ -4413,7 +4427,9 @@
       "pfad": "data/quellen/gesetze-im-internet.md",
       "verweise_von": [
         "recht:kosmetikermstrv",
-        "recht:kosmetikv-2014"
+        "recht:kosmetikv-2014",
+        "recht:nisv",
+        "recht:taetowiermittel"
       ]
     },
     {
@@ -4948,6 +4964,7 @@
       "verweise_von": [
         "recht:anhang-vi-uv-filter",
         "recht:eu-kosmetikverordnung",
+        "recht:taetowiermittel",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:benzophenon-1",
         "wirkstoff:benzophenon-2",
@@ -5119,6 +5136,7 @@
         "recht:anhang-iii-duftstoff-allergene",
         "recht:anhang-vi-uv-filter",
         "recht:kosmetikv-2014",
+        "recht:taetowiermittel",
         "recht:vo-2024-996",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
@@ -5226,6 +5244,101 @@
       "pfad": "data/recht/kosmetikv-2014.md",
       "verweise_von": [
         "recht:eu-kosmetikverordnung"
+      ]
+    },
+    {
+      "id": "recht:nisv",
+      "typ": "recht",
+      "titel": "Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen (NiSV)",
+      "aliase": [
+        "NiSV",
+        "Strahlenschutz Kosmetikgeräte"
+      ],
+      "norm": "NiSV",
+      "geltung": "DE",
+      "fundstelle_amtlich": "BGBl I 2018, 2187",
+      "stand": "Geändert durch Art. 2 V v. 12.6.2023 (BGBl. 2023 I Nr. 149)",
+      "url": "https://www.gesetze-im-internet.de/nisv/BJNR218700018.html",
+      "kurz": "Regelt gewerbliche, nichtmedizinische Anwendungen von Laser, IPL, Hochfrequenz, Ultraschall, Nieder- und Gleichstrom am Menschen – mit Arztvorbehalt für bestimmte Verfahren und Fachkundepflicht für alle anderen.",
+      "tags": [
+        "recht",
+        "de",
+        "geraete",
+        "laser",
+        "ipl",
+        "fachkunde"
+      ],
+      "verwandt": [
+        "behandlung:laserbehandlung",
+        "behandlung:haarentfernung",
+        "behandlung:iontophorese",
+        "behandlung:narbenbehandlung",
+        "behandlung:permanent-make-up"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:gesetze-im-internet",
+          "fundstelle": "§§ 1–7, 13, Anlage 3"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pruefen_bis": "2027-04-30",
+      "pfad": "data/recht/nisv.md",
+      "verweise_von": [
+        "behandlung:haarentfernung",
+        "behandlung:iontophorese",
+        "behandlung:laserbehandlung",
+        "behandlung:narbenbehandlung",
+        "behandlung:permanent-make-up",
+        "recht:taetowiermittel"
+      ]
+    },
+    {
+      "id": "recht:taetowiermittel",
+      "typ": "recht",
+      "titel": "Tätowiermittel und Permanent Make-up (TätoV und REACH-Beschränkung)",
+      "aliase": [
+        "TätoV",
+        "Tätowiermittel-Verordnung",
+        "REACH Anhang XVII Eintrag 75",
+        "Verordnung (EU) 2020/2081"
+      ],
+      "norm": "TätoV; VO (EU) 2020/2081",
+      "geltung": "EU, DE",
+      "fundstelle_amtlich": "BGBl I 2008, 2215; ABl. L 423 vom 15.12.2020",
+      "stand": "TätoV zuletzt geändert durch Art. 3 V v. 26.1.2016; REACH-Beschränkung gilt seit 4.1.2022, für Pigment Blue 15:3 und Green 7 seit 4.1.2023",
+      "url": "https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html",
+      "kurz": "Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75.",
+      "tags": [
+        "recht",
+        "eu",
+        "de",
+        "pigmentierung",
+        "taetowierung"
+      ],
+      "verwandt": [
+        "behandlung:permanent-make-up",
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-ii-arzneistoffe",
+        "recht:nisv"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:gesetze-im-internet",
+          "fundstelle": "TätoV §§ 1–6"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "VO (EU) 2020/2081, Anhang XVII Eintrag 75 REACH"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pruefen_bis": "2027-04-30",
+      "pfad": "data/recht/taetowiermittel.md",
+      "verweise_von": [
+        "behandlung:permanent-make-up"
       ]
     },
     {

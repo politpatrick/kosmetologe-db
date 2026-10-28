@@ -27,6 +27,8 @@ verwandt:
 - behandlung:camouflage
 - begriff:praxishygiene
 - haut:keloid
+- recht:taetowiermittel
+- recht:nisv
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.17, S. 239–241
@@ -46,4 +48,4 @@ Flaschenton ab und verändert sich über die Jahre.
 
 ## Hinweise
 - Entfernen mit Säuren oder Laugen führt zu schlecht heilenden Wunden und Narben.
-- Die Tätowiermittel-Verordnung und die EU-Beschränkungen für Tätowierfarben (REACH) sind beim Review zu ergänzen (eigene Ergänzung).
+- Farben unterliegen der TätoV und der REACH-Beschränkung für Tätowierfarben, siehe `recht:taetowiermittel`; Entfernung per Laser ist nach der NiSV ärztlich.
