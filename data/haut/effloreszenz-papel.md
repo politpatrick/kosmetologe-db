@@ -10,7 +10,7 @@ kurz: Primäreffloreszenz – kleine, feste Erhabenheit; größer als ca. 0,5–
 tags: [effloreszenz, primaer]
 quellen:
   - id: quelle:herrmann-trinkkeller-dermatologie
-    fundstelle: Kap. 2.2
+    fundstelle: Kap. 2.2, S. 33–36
 status: entwurf
 aktualisiert: 2026-10-28
 ---
