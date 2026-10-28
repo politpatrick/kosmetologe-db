@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+# private Volltexte/Zusammenfassungen urheberrechtlich geschützter Quellen
+privat/
+*.pdf

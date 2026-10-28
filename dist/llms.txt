@@ -1,0 +1,48 @@
+# Kosmetologe-DB – Kompaktindex für LLMs
+
+> Wissensdatenbank zu Kosmetologie: Wirkstoffe, Haut, Behandlungen, Formulierungen, Recht, Begriffe, Quellen und Projektkontext.
+> Volltext eines Eintrags: Datei unter `pfad` lesen. Maschinenlesbar: dist/index.json.
+
+## wirkstoff (7)
+- `wirkstoff:glycerin` [Glycerin](data/wirkstoffe/glycerin.md) – Klassisches Feuchthaltemittel in fast allen wasserhaltigen Formulierungen; verbessert Hautfeuchte und Geschmeidigkeit. [entwurf]
+- `wirkstoff:hyaluronsaeure` [Hyaluronsäure](data/wirkstoffe/hyaluronsaeure.md) – Feuchthaltemittel, das Wasser bindet; hochmolekular filmbildend auf der Oberfläche, niedermolekular tiefer in die Hornschicht. [entwurf]
+- `wirkstoff:niacinamid` [Niacinamid](data/wirkstoffe/niacinamid.md) – Wasserlösliches B3-Vitamin, unterstützt Barriere (Ceramidsynthese), reguliert Talg und mindert Rötungen und Pigmentflecken. [entwurf]
+- `wirkstoff:panthenol` [Panthenol](data/wirkstoffe/panthenol.md) – Provitamin B5, wird in der Haut zu Pantothensäure umgewandelt; beruhigt, befeuchtet, unterstützt die Regeneration. [entwurf]
+- `wirkstoff:retinol` [Retinol](data/wirkstoffe/retinol.md) – Vitamin-A-Alkohol, beschleunigt die Zellerneuerung und fördert Kollagenbildung; lichtempfindlich, anfangs oft Reizung (Retinisierung). [entwurf]
+- `wirkstoff:salicylsaeure` [Salicylsäure](data/wirkstoffe/salicylsaeure.md) – Fettlösliche Säure, dringt in Follikel ein und löst Verhornungen – Standardwirkstoff bei unreiner Haut. [entwurf]
+- `wirkstoff:urea` [Harnstoff (Urea)](data/wirkstoffe/urea.md) – Natürlicher Feuchthaltefaktor; niedrig dosiert befeuchtend, höher dosiert hornhautlösend (Füße, Schwielen). [entwurf]
+
+## haut (5)
+- `haut:akne-vulgaris` [Akne vulgaris](data/haut/akne-vulgaris.md) – Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung. [entwurf]
+- `haut:effloreszenz-papel` [Papel (Knötchen)](data/haut/effloreszenz-papel.md) – Primäreffloreszenz – kleine, feste Erhabenheit; größer als ca. 0,5–1 cm spricht man von Knoten. [entwurf]
+- `haut:mischhaut` [Mischhaut](data/haut/mischhaut.md) – Kombination aus seborrhoischer T-Zone und normaler bis trockener Wangenpartie; zonenweise pflegen. [entwurf]
+- `haut:rosazea` [Rosazea](data/haut/rosazea.md) – Chronisch-entzündliche Gesichtsdermatose; reizarme Pflege, Triggervermeidung, keine mechanischen Peelings. [entwurf]
+- `haut:sebostase` [Trockene Haut (Sebostase)](data/haut/sebostase.md) – Haut mit verminderter Talgproduktion und gestörter Barriere; braucht Lipide und Feuchthaltefaktoren. [entwurf]
+
+## behandlung (2)
+- `behandlung:ausreinigung` [Ausreinigung (manuelle Komedonenentfernung)](data/behandlungen/ausreinigung.md) – Klassische Behandlung bei Komedonen – Vorbereitung, Erweichung, manuelle Entleerung, Desinfektion, Beruhigung. [entwurf]
+- `behandlung:chemisches-peeling` [Chemisches Peeling (kosmetisch, oberflächlich)](data/behandlungen/chemisches-peeling.md) – Oberflächliches Peeling mit Frucht- oder Salicylsäure; Tiefenwirkung und Konzentration bleiben im kosmetischen Rahmen. [entwurf]
+
+## formulierung (2)
+- `formulierung:emulsion-ow` [Öl-in-Wasser-Emulsion (O/W)](data/formulierungen/emulsion-ow.md) – Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen. [entwurf]
+- `formulierung:emulsion-wo` [Wasser-in-Öl-Emulsion (W/O)](data/formulierungen/emulsion-wo.md) – Wassertröpfchen in Öl – reichhaltig, okklusiv, wasserabweisend; für trockene Haut, Nacht- und Kälteschutzpflege. [entwurf]
+
+## recht (3)
+- `recht:eu-kosmetikverordnung` [Verordnung (EG) Nr. 1223/2009 über kosmetische Mittel](data/recht/eu-kosmetikverordnung.md) – Zentrale EU-Regelung für Sicherheit, Kennzeichnung, Inhaltsstoffe (Anhänge II–VI) und Notifizierung kosmetischer Mittel. [entwurf]
+- `recht:kosmetikermstrv` [Kosmetikermeisterverordnung (KosmetikerMstrV)](data/recht/kosmetikermstrv.md) – Regelt die Meisterprüfung (Teile I und II) im Kosmetiker-Gewerbe und damit das berufliche Kompetenzprofil.
+- `recht:kosmetikv-2014` [Kosmetik-Verordnung (KosmetikV 2014)](data/recht/kosmetikv-2014.md) – Deutsche Ergänzung zur EU-Kosmetikverordnung – Anzeigepflichten, Sprache der Kennzeichnung, Giftnotruf-Meldungen, Ordnungswidrigkeiten.
+
+## begriff (2)
+- `begriff:hlb-wert` [HLB-Wert](data/begriffe/hlb-wert.md) – Kennzahl (0–20) für das Verhältnis hydrophiler zu lipophiler Anteile eines Emulgators; bestimmt O/W- oder W/O-Tendenz. [entwurf]
+- `begriff:inci` [INCI](data/begriffe/inci.md) – Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.
+
+## quelle (6)
+- `quelle:ellsaesser-koerperpflegekunde` [Körperpflegekunde und Kosmetik](data/quellen/ellsaesser-koerperpflegekunde.md) – Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.
+- `quelle:eur-lex` [EUR-Lex – Rechtsdatenbank der EU](data/quellen/eur-lex.md) – Amtliche konsolidierte Fassungen von EU-Verordnungen, u. a. der Kosmetikverordnung.
+- `quelle:gesetze-im-internet` [Gesetze im Internet (BMJ)](data/quellen/gesetze-im-internet.md) – Amtliche Bundesrechtsdatenbank; maschinenlesbar gespiegelt im Repo law-data-germany.
+- `quelle:konrad-dermatologie-kosmetik` [Dermatologie und medizinische Kosmetik – Leitfaden für die kosmetische Praxis](data/quellen/konrad-dermatologie-kosmetik.md) – Leitfaden zu Hautanatomie, Effloreszenzenlehre, Anamnese und Hauterkrankungen aus Sicht der Kosmetikpraxis. [entwurf]
+- `quelle:springer-lexikon-kosmetik` [Springer Lexikon Kosmetik und Körperpflege](data/quellen/springer-lexikon-kosmetik.md) – Alphabetisches Fachlexikon zu INCI-Stoffen, Begriffen und Verfahren der Kosmetik.
+- `quelle:tadros-formulierungen` [Formulierungen in Kosmetik und Körperpflege](data/quellen/tadros-formulierungen.md) – Kolloidchemische Grundlagen kosmetischer Formulierungen – Tenside, Emulsionen, Nanoemulsionen, Liposomen, Shampoos, Sonnenschutz. [entwurf]
+
+## kontext (1)
+- `kontext:fachliche-grundsaetze` [Fachliche Grundsätze für alle Antworten](data/kontext/fachliche-grundsaetze.md) – Leitplanken – Abgrenzung zur Heilkunde, Quellenpflicht, Rechtsstand prüfen, keine Buchtexte veröffentlichen.

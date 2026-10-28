@@ -1,0 +1,987 @@
+{
+  "schema_version": 1,
+  "anzahl": 28,
+  "eintraege": [
+    {
+      "id": "begriff:hlb-wert",
+      "typ": "begriff",
+      "titel": "HLB-Wert",
+      "aliase": [
+        "Hydrophilic-Lipophilic Balance"
+      ],
+      "kurz": "Kennzahl (0–20) für das Verhältnis hydrophiler zu lipophiler Anteile eines Emulgators; bestimmt O/W- oder W/O-Tendenz.",
+      "tags": [
+        "emulsion",
+        "tensid"
+      ],
+      "verwandt": [
+        "formulierung:emulsion-ow",
+        "formulierung:emulsion-wo"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 2"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/begriffe/hlb-wert.md",
+      "verweise_von": []
+    },
+    {
+      "id": "begriff:inci",
+      "typ": "begriff",
+      "titel": "INCI",
+      "aliase": [
+        "International Nomenclature of Cosmetic Ingredients"
+      ],
+      "kurz": "Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.",
+      "tags": [
+        "kennzeichnung"
+      ],
+      "verwandt": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
+      "pfad": "data/begriffe/inci.md",
+      "verweise_von": []
+    },
+    {
+      "id": "behandlung:ausreinigung",
+      "typ": "behandlung",
+      "titel": "Ausreinigung (manuelle Komedonenentfernung)",
+      "ziel": "Entfernen offener und geschlossener Komedonen unter hygienischen Bedingungen",
+      "indikation": [
+        "haut:akne-vulgaris",
+        "haut:mischhaut"
+      ],
+      "kontraindikation": [
+        "haut:rosazea",
+        "entzündliche Pusteln und Knoten",
+        "Herpes im Behandlungsareal",
+        "Antikoagulanzien"
+      ],
+      "wirkstoffe": [
+        "wirkstoff:salicylsaeure"
+      ],
+      "dauer_min": 20,
+      "kurz": "Klassische Behandlung bei Komedonen – Vorbereitung, Erweichung, manuelle Entleerung, Desinfektion, Beruhigung.",
+      "tags": [
+        "akne",
+        "manuell"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/ausreinigung.md",
+      "verweise_von": [
+        "haut:akne-vulgaris"
+      ]
+    },
+    {
+      "id": "behandlung:chemisches-peeling",
+      "typ": "behandlung",
+      "titel": "Chemisches Peeling (kosmetisch, oberflächlich)",
+      "aliase": [
+        "Säurepeeling",
+        "AHA/BHA-Peeling"
+      ],
+      "ziel": "Kontrollierte Abschilferung der Hornschicht für glattere Haut, feinere Poren, ausgeglichenen Teint",
+      "indikation": [
+        "haut:akne-vulgaris",
+        "haut:mischhaut"
+      ],
+      "kontraindikation": [
+        "haut:rosazea",
+        "frische Sonnenbräune",
+        "Isotretinoin-Therapie",
+        "offene Wunden",
+        "Herpes"
+      ],
+      "wirkstoffe": [
+        "wirkstoff:salicylsaeure"
+      ],
+      "dauer_min": 30,
+      "kurz": "Oberflächliches Peeling mit Frucht- oder Salicylsäure; Tiefenwirkung und Konzentration bleiben im kosmetischen Rahmen.",
+      "tags": [
+        "peeling",
+        "saeure"
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/behandlungen/chemisches-peeling.md",
+      "verweise_von": [
+        "wirkstoff:salicylsaeure"
+      ]
+    },
+    {
+      "id": "formulierung:emulsion-ow",
+      "typ": "formulierung",
+      "titel": "Öl-in-Wasser-Emulsion (O/W)",
+      "aliase": [
+        "O/W"
+      ],
+      "system": "Emulsion O/W",
+      "bestandteile": [
+        "Wasserphase",
+        "Ölphase",
+        "O/W-Emulgator (hoher HLB)",
+        "Feuchthaltemittel",
+        "Konservierung"
+      ],
+      "stabilitaet": "Aufrahmung, Ostwald-Reifung, Koaleszenz; Viskositätsaufbau in der Wasserphase stabilisiert.",
+      "kurz": "Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen.",
+      "tags": [
+        "emulsion"
+      ],
+      "verwandt": [
+        "formulierung:emulsion-wo",
+        "wirkstoff:glycerin"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 6"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/emulsion-ow.md",
+      "verweise_von": [
+        "begriff:hlb-wert",
+        "formulierung:emulsion-wo"
+      ]
+    },
+    {
+      "id": "formulierung:emulsion-wo",
+      "typ": "formulierung",
+      "titel": "Wasser-in-Öl-Emulsion (W/O)",
+      "aliase": [
+        "W/O"
+      ],
+      "system": "Emulsion W/O",
+      "bestandteile": [
+        "Ölphase",
+        "Wasserphase",
+        "W/O-Emulgator (niedriger HLB)",
+        "Elektrolyt zur Stabilisierung"
+      ],
+      "stabilitaet": "Sedimentation der Wassertröpfchen; Magnesiumsulfat und Wachse stabilisieren.",
+      "kurz": "Wassertröpfchen in Öl – reichhaltig, okklusiv, wasserabweisend; für trockene Haut, Nacht- und Kälteschutzpflege.",
+      "tags": [
+        "emulsion"
+      ],
+      "verwandt": [
+        "formulierung:emulsion-ow",
+        "haut:sebostase"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 6"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/formulierungen/emulsion-wo.md",
+      "verweise_von": [
+        "begriff:hlb-wert",
+        "formulierung:emulsion-ow",
+        "haut:sebostase"
+      ]
+    },
+    {
+      "id": "haut:akne-vulgaris",
+      "typ": "haut",
+      "titel": "Akne vulgaris",
+      "aliase": [
+        "Akne",
+        "unreine Haut"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "Komedonen",
+        "Papeln",
+        "Pusteln",
+        "Seborrhoe"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "Knoten und Zysten",
+        "Narbenbildung",
+        "starke Entzündung",
+        "psychische Belastung"
+      ],
+      "kurz": "Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung.",
+      "tags": [
+        "akne",
+        "follikel"
+      ],
+      "verwandt": [
+        "haut:effloreszenz-papel",
+        "wirkstoff:salicylsaeure",
+        "behandlung:ausreinigung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:konrad-dermatologie-kosmetik",
+          "fundstelle": "Kap. Talgdrüsenerkrankungen"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/akne-vulgaris.md",
+      "verweise_von": [
+        "behandlung:ausreinigung",
+        "behandlung:chemisches-peeling",
+        "wirkstoff:niacinamid",
+        "wirkstoff:retinol",
+        "wirkstoff:salicylsaeure"
+      ]
+    },
+    {
+      "id": "haut:effloreszenz-papel",
+      "typ": "haut",
+      "titel": "Papel (Knötchen)",
+      "aliase": [
+        "Papula",
+        "Knötchen"
+      ],
+      "kategorie": "effloreszenz",
+      "merkmale": [
+        "tastbare Erhabenheit unter 0",
+        "5 cm",
+        "ohne Flüssigkeit"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "kurz": "Primäreffloreszenz – kleine, feste Erhabenheit; größer als ca. 0,5–1 cm spricht man von Knoten.",
+      "tags": [
+        "effloreszenz",
+        "primaer"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:konrad-dermatologie-kosmetik",
+          "fundstelle": "Kap. 2.2"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/effloreszenz-papel.md",
+      "verweise_von": [
+        "haut:akne-vulgaris"
+      ]
+    },
+    {
+      "id": "haut:mischhaut",
+      "typ": "haut",
+      "titel": "Mischhaut",
+      "kategorie": "hauttyp",
+      "merkmale": [
+        "glänzende T-Zone",
+        "vergrößerte Poren in der T-Zone",
+        "normale bis trockene Wangen"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "kurz": "Kombination aus seborrhoischer T-Zone und normaler bis trockener Wangenpartie; zonenweise pflegen.",
+      "tags": [
+        "hauttyp"
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/mischhaut.md",
+      "verweise_von": [
+        "behandlung:ausreinigung",
+        "behandlung:chemisches-peeling",
+        "wirkstoff:glycerin",
+        "wirkstoff:niacinamid",
+        "wirkstoff:salicylsaeure"
+      ]
+    },
+    {
+      "id": "haut:rosazea",
+      "typ": "haut",
+      "titel": "Rosazea",
+      "aliase": [
+        "Rosacea",
+        "Couperose (Frühstadium)"
+      ],
+      "kategorie": "erkrankung",
+      "merkmale": [
+        "anfallsartige Rötung (Flush)",
+        "Teleangiektasien",
+        "Papeln ohne Komedonen",
+        "Brennen"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "Papulopusteln",
+        "Augenbeteiligung",
+        "Knollennase"
+      ],
+      "kurz": "Chronisch-entzündliche Gesichtsdermatose; reizarme Pflege, Triggervermeidung, keine mechanischen Peelings.",
+      "tags": [
+        "roetung",
+        "sensibel"
+      ],
+      "verwandt": [
+        "wirkstoff:panthenol"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:konrad-dermatologie-kosmetik"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/rosazea.md",
+      "verweise_von": [
+        "behandlung:ausreinigung",
+        "behandlung:chemisches-peeling",
+        "wirkstoff:panthenol",
+        "wirkstoff:retinol",
+        "wirkstoff:urea"
+      ]
+    },
+    {
+      "id": "haut:sebostase",
+      "typ": "haut",
+      "titel": "Trockene Haut (Sebostase)",
+      "aliase": [
+        "Sebostase",
+        "fettarme Haut",
+        "trockene Haut"
+      ],
+      "kategorie": "hauttyp",
+      "merkmale": [
+        "feine Poren",
+        "Spannungsgefühl",
+        "matte bis schuppige Oberfläche",
+        "frühe Fältchen"
+      ],
+      "kosmetisch_behandelbar": "ja",
+      "aerztlich_abklaeren": [
+        "starker Juckreiz",
+        "nässende oder entzündete Areale",
+        "plötzliches Auftreten"
+      ],
+      "kurz": "Haut mit verminderter Talgproduktion und gestörter Barriere; braucht Lipide und Feuchthaltefaktoren.",
+      "tags": [
+        "hauttyp",
+        "barriere"
+      ],
+      "verwandt": [
+        "wirkstoff:urea",
+        "wirkstoff:glycerin",
+        "formulierung:emulsion-wo"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 2 Haut"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/haut/sebostase.md",
+      "verweise_von": [
+        "formulierung:emulsion-wo",
+        "wirkstoff:glycerin",
+        "wirkstoff:hyaluronsaeure",
+        "wirkstoff:niacinamid",
+        "wirkstoff:panthenol",
+        "wirkstoff:retinol",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:urea"
+      ]
+    },
+    {
+      "id": "kontext:fachliche-grundsaetze",
+      "typ": "kontext",
+      "titel": "Fachliche Grundsätze für alle Antworten",
+      "einsatz": [
+        "text",
+        "beratung",
+        "design",
+        "code",
+        "skill"
+      ],
+      "prioritaet": "hoch",
+      "kurz": "Leitplanken – Abgrenzung zur Heilkunde, Quellenpflicht, Rechtsstand prüfen, keine Buchtexte veröffentlichen.",
+      "tags": [
+        "leitplanken"
+      ],
+      "verwandt": [
+        "recht:kosmetikermstrv",
+        "recht:eu-kosmetikverordnung"
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
+      "pfad": "data/kontext/fachliche-grundsaetze.md",
+      "verweise_von": []
+    },
+    {
+      "id": "quelle:ellsaesser-koerperpflegekunde",
+      "typ": "quelle",
+      "titel": "Körperpflegekunde und Kosmetik",
+      "autoren": [
+        "Sabine Ellsässer"
+      ],
+      "jahr": 2020,
+      "verlag": "Springer",
+      "art": "buch",
+      "lizenz": "urheberrechtlich-geschuetzt",
+      "lokal_privat": "privat/Koerperpflegekunde_und_Kosmetik_Ellsaesser_2020.md",
+      "kurz": "Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.",
+      "tags": [
+        "lehrbuch",
+        "pta"
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
+      "pfad": "data/quellen/ellsaesser-koerperpflegekunde.md",
+      "verweise_von": [
+        "behandlung:ausreinigung",
+        "haut:sebostase",
+        "wirkstoff:glycerin",
+        "wirkstoff:niacinamid",
+        "wirkstoff:salicylsaeure",
+        "wirkstoff:urea"
+      ]
+    },
+    {
+      "id": "quelle:eur-lex",
+      "typ": "quelle",
+      "titel": "EUR-Lex – Rechtsdatenbank der EU",
+      "art": "gesetz",
+      "lizenz": "amtliches-werk",
+      "url": "https://eur-lex.europa.eu",
+      "kurz": "Amtliche konsolidierte Fassungen von EU-Verordnungen, u. a. der Kosmetikverordnung.",
+      "tags": [
+        "recht",
+        "eu"
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
+      "pfad": "data/quellen/eur-lex.md",
+      "verweise_von": [
+        "recht:eu-kosmetikverordnung"
+      ]
+    },
+    {
+      "id": "quelle:gesetze-im-internet",
+      "typ": "quelle",
+      "titel": "Gesetze im Internet (BMJ)",
+      "art": "gesetz",
+      "lizenz": "amtliches-werk",
+      "url": "https://www.gesetze-im-internet.de",
+      "kurz": "Amtliche Bundesrechtsdatenbank; maschinenlesbar gespiegelt im Repo law-data-germany.",
+      "tags": [
+        "recht",
+        "de"
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
+      "pfad": "data/quellen/gesetze-im-internet.md",
+      "verweise_von": [
+        "recht:kosmetikermstrv",
+        "recht:kosmetikv-2014"
+      ]
+    },
+    {
+      "id": "quelle:konrad-dermatologie-kosmetik",
+      "typ": "quelle",
+      "titel": "Dermatologie und medizinische Kosmetik – Leitfaden für die kosmetische Praxis",
+      "autoren": [
+        "Ute Konrad"
+      ],
+      "art": "buch",
+      "lizenz": "urheberrechtlich-geschuetzt",
+      "lokal_privat": "privat/Dermatologie_und_medizinische_Kosmetik_Zusammenfassung.md",
+      "kurz": "Leitfaden zu Hautanatomie, Effloreszenzenlehre, Anamnese und Hauterkrankungen aus Sicht der Kosmetikpraxis.",
+      "tags": [
+        "dermatologie",
+        "leitfaden"
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/quellen/konrad-dermatologie-kosmetik.md",
+      "verweise_von": [
+        "haut:akne-vulgaris",
+        "haut:effloreszenz-papel",
+        "haut:rosazea"
+      ]
+    },
+    {
+      "id": "quelle:springer-lexikon-kosmetik",
+      "typ": "quelle",
+      "titel": "Springer Lexikon Kosmetik und Körperpflege",
+      "autoren": [
+        "Marina Bährle-Rapp"
+      ],
+      "jahr": 2020,
+      "verlag": "Springer",
+      "doi": "10.1007/978-3-662-59127-7",
+      "art": "buch",
+      "lizenz": "urheberrechtlich-geschuetzt",
+      "lokal_privat": "privat/Springer Lexikon Kosmetik und Körperpflege.md",
+      "kurz": "Alphabetisches Fachlexikon zu INCI-Stoffen, Begriffen und Verfahren der Kosmetik.",
+      "tags": [
+        "lexikon",
+        "inci"
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
+      "pfad": "data/quellen/springer-lexikon-kosmetik.md",
+      "verweise_von": [
+        "wirkstoff:hyaluronsaeure",
+        "wirkstoff:niacinamid",
+        "wirkstoff:panthenol",
+        "wirkstoff:retinol"
+      ]
+    },
+    {
+      "id": "quelle:tadros-formulierungen",
+      "typ": "quelle",
+      "titel": "Formulierungen in Kosmetik und Körperpflege",
+      "autoren": [
+        "Tharwat F. Tadros"
+      ],
+      "art": "buch",
+      "lizenz": "urheberrechtlich-geschuetzt",
+      "lokal_privat": "privat/Tadros_Formulierungen_Kosmetik_Zusammenfassung.md",
+      "kurz": "Kolloidchemische Grundlagen kosmetischer Formulierungen – Tenside, Emulsionen, Nanoemulsionen, Liposomen, Shampoos, Sonnenschutz.",
+      "tags": [
+        "formulierung",
+        "kolloidchemie"
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/quellen/tadros-formulierungen.md",
+      "verweise_von": [
+        "begriff:hlb-wert",
+        "formulierung:emulsion-ow",
+        "formulierung:emulsion-wo"
+      ]
+    },
+    {
+      "id": "recht:eu-kosmetikverordnung",
+      "typ": "recht",
+      "titel": "Verordnung (EG) Nr. 1223/2009 über kosmetische Mittel",
+      "aliase": [
+        "EU-Kosmetikverordnung",
+        "KVO"
+      ],
+      "norm": "VO (EG) 1223/2009",
+      "geltung": "EU",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R1223-20250501",
+      "kurz": "Zentrale EU-Regelung für Sicherheit, Kennzeichnung, Inhaltsstoffe (Anhänge II–VI) und Notifizierung kosmetischer Mittel.",
+      "tags": [
+        "recht",
+        "eu",
+        "inhaltsstoffe",
+        "kennzeichnung"
+      ],
+      "verwandt": [
+        "recht:kosmetikv-2014"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:eur-lex"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pruefen_bis": "2027-01-31",
+      "pfad": "data/recht/eu-kosmetikverordnung.md",
+      "verweise_von": [
+        "begriff:inci",
+        "kontext:fachliche-grundsaetze",
+        "recht:kosmetikv-2014",
+        "wirkstoff:retinol",
+        "wirkstoff:salicylsaeure"
+      ]
+    },
+    {
+      "id": "recht:kosmetikermstrv",
+      "typ": "recht",
+      "titel": "Kosmetikermeisterverordnung (KosmetikerMstrV)",
+      "norm": "KosmetikerMstrV",
+      "geltung": "DE",
+      "fundstelle_amtlich": "BGBl I 2015, 17",
+      "stand": "Geändert durch Art. 2 Abs. 83 V v. 18.1.2022 I 39",
+      "url": "https://www.gesetze-im-internet.de/kosmetikermstrv/",
+      "kurz": "Regelt die Meisterprüfung (Teile I und II) im Kosmetiker-Gewerbe und damit das berufliche Kompetenzprofil.",
+      "tags": [
+        "recht",
+        "de",
+        "beruf",
+        "ausbildung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:gesetze-im-internet"
+        }
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
+      "pruefen_bis": "2027-04-30",
+      "pfad": "data/recht/kosmetikermstrv.md",
+      "verweise_von": [
+        "kontext:fachliche-grundsaetze"
+      ]
+    },
+    {
+      "id": "recht:kosmetikv-2014",
+      "typ": "recht",
+      "titel": "Kosmetik-Verordnung (KosmetikV 2014)",
+      "aliase": [
+        "Verordnung über kosmetische Mittel"
+      ],
+      "norm": "KosmetikV 2014",
+      "geltung": "DE",
+      "fundstelle_amtlich": "BGBl I 2014, 1054",
+      "stand": "Zuletzt geändert durch Art. 2 V v. 15.1.2025 I Nr. 11",
+      "url": "https://www.gesetze-im-internet.de/kosmetikv_2014/",
+      "kurz": "Deutsche Ergänzung zur EU-Kosmetikverordnung – Anzeigepflichten, Sprache der Kennzeichnung, Giftnotruf-Meldungen, Ordnungswidrigkeiten.",
+      "tags": [
+        "recht",
+        "de"
+      ],
+      "verwandt": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:gesetze-im-internet"
+        }
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-28",
+      "geprueft_am": "2026-10-28",
+      "pruefen_bis": "2027-04-30",
+      "pfad": "data/recht/kosmetikv-2014.md",
+      "verweise_von": [
+        "recht:eu-kosmetikverordnung"
+      ]
+    },
+    {
+      "id": "wirkstoff:glycerin",
+      "typ": "wirkstoff",
+      "titel": "Glycerin",
+      "inci": "GLYCERIN",
+      "cas": "56-81-5",
+      "stoffgruppe": "Humectant (Polyol)",
+      "funktionen": [
+        "feuchtigkeitsbindend",
+        "barrierestaerkend"
+      ],
+      "geeignet_fuer": [
+        "haut:sebostase",
+        "haut:mischhaut"
+      ],
+      "konzentration_typisch": "3–10 %",
+      "kurz": "Klassisches Feuchthaltemittel in fast allen wasserhaltigen Formulierungen; verbessert Hautfeuchte und Geschmeidigkeit.",
+      "tags": [
+        "feuchtigkeit",
+        "humectant",
+        "basis"
+      ],
+      "verwandt": [
+        "wirkstoff:hyaluronsaeure",
+        "wirkstoff:urea"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 3 Zusatzstoffe"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/glycerin.md",
+      "verweise_von": [
+        "formulierung:emulsion-ow",
+        "haut:sebostase",
+        "wirkstoff:hyaluronsaeure",
+        "wirkstoff:urea"
+      ]
+    },
+    {
+      "id": "wirkstoff:hyaluronsaeure",
+      "typ": "wirkstoff",
+      "titel": "Hyaluronsäure",
+      "aliase": [
+        "Natriumhyaluronat"
+      ],
+      "inci": "SODIUM HYALURONATE",
+      "stoffgruppe": "Humectant (Glykosaminoglykan)",
+      "funktionen": [
+        "feuchtigkeitsbindend",
+        "filmbildend"
+      ],
+      "geeignet_fuer": [
+        "haut:sebostase"
+      ],
+      "konzentration_typisch": "0,1–1 %",
+      "kurz": "Feuchthaltemittel, das Wasser bindet; hochmolekular filmbildend auf der Oberfläche, niedermolekular tiefer in die Hornschicht.",
+      "tags": [
+        "feuchtigkeit",
+        "humectant"
+      ],
+      "verwandt": [
+        "wirkstoff:glycerin"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort Hyaluronsäure"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/hyaluronsaeure.md",
+      "verweise_von": [
+        "wirkstoff:glycerin"
+      ]
+    },
+    {
+      "id": "wirkstoff:niacinamid",
+      "typ": "wirkstoff",
+      "titel": "Niacinamid",
+      "aliase": [
+        "Nicotinamid",
+        "Vitamin B3"
+      ],
+      "inci": "NIACINAMIDE",
+      "cas": "98-92-0",
+      "stoffgruppe": "Vitamin",
+      "funktionen": [
+        "barrierestaerkend",
+        "talgregulierend",
+        "aufhellend",
+        "antiinflammatorisch"
+      ],
+      "geeignet_fuer": [
+        "haut:mischhaut",
+        "haut:akne-vulgaris",
+        "haut:sebostase"
+      ],
+      "konzentration_typisch": "2–5 %",
+      "kurz": "Wasserlösliches B3-Vitamin, unterstützt Barriere (Ceramidsynthese), reguliert Talg und mindert Rötungen und Pigmentflecken.",
+      "tags": [
+        "vitamin",
+        "barriere",
+        "pigment"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort Nicotinamid"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4 Wirkstoffe"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/niacinamid.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:panthenol",
+      "typ": "wirkstoff",
+      "titel": "Panthenol",
+      "aliase": [
+        "Dexpanthenol",
+        "Provitamin B5"
+      ],
+      "inci": "PANTHENOL",
+      "stoffgruppe": "Provitamin",
+      "funktionen": [
+        "beruhigend",
+        "feuchtigkeitsbindend",
+        "regenerierend"
+      ],
+      "geeignet_fuer": [
+        "haut:sebostase",
+        "haut:rosazea"
+      ],
+      "konzentration_typisch": "1–5 %",
+      "kurz": "Provitamin B5, wird in der Haut zu Pantothensäure umgewandelt; beruhigt, befeuchtet, unterstützt die Regeneration.",
+      "tags": [
+        "beruhigung",
+        "regeneration"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort Panthenol"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/panthenol.md",
+      "verweise_von": [
+        "haut:rosazea"
+      ]
+    },
+    {
+      "id": "wirkstoff:retinol",
+      "typ": "wirkstoff",
+      "titel": "Retinol",
+      "aliase": [
+        "Vitamin A"
+      ],
+      "inci": "RETINOL",
+      "stoffgruppe": "Vitamin (Retinoid)",
+      "funktionen": [
+        "zellerneuernd",
+        "anti-aging",
+        "keratolytisch"
+      ],
+      "geeignet_fuer": [
+        "haut:akne-vulgaris"
+      ],
+      "vorsicht_bei": [
+        "haut:rosazea",
+        "haut:sebostase",
+        "Schwangerschaft",
+        "gleichzeitige Peelings"
+      ],
+      "konzentration_typisch": "0,1–0,3 %",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Vitamin-A-Alkohol, beschleunigt die Zellerneuerung und fördert Kollagenbildung; lichtempfindlich, anfangs oft Reizung (Retinisierung).",
+      "tags": [
+        "vitamin",
+        "anti-aging",
+        "retinoid"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort Retinol"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pruefen_bis": "2027-05-01",
+      "pfad": "data/wirkstoffe/retinol.md",
+      "verweise_von": []
+    },
+    {
+      "id": "wirkstoff:salicylsaeure",
+      "typ": "wirkstoff",
+      "titel": "Salicylsäure",
+      "aliase": [
+        "BHA",
+        "Beta-Hydroxysäure"
+      ],
+      "inci": "SALICYLIC ACID",
+      "cas": "69-72-7",
+      "stoffgruppe": "Säure (BHA)",
+      "funktionen": [
+        "keratolytisch",
+        "komedolytisch",
+        "antimikrobiell"
+      ],
+      "geeignet_fuer": [
+        "haut:akne-vulgaris",
+        "haut:mischhaut"
+      ],
+      "vorsicht_bei": [
+        "Schwangerschaft (großflächig)",
+        "Kinder unter 3 Jahren",
+        "haut:sebostase"
+      ],
+      "konzentration_typisch": "0,5–2 %",
+      "regulierung": [
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Fettlösliche Säure, dringt in Follikel ein und löst Verhornungen – Standardwirkstoff bei unreiner Haut.",
+      "tags": [
+        "saeure",
+        "akne",
+        "peeling"
+      ],
+      "verwandt": [
+        "behandlung:chemisches-peeling"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4 Wirkstoffe"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/salicylsaeure.md",
+      "verweise_von": [
+        "behandlung:ausreinigung",
+        "behandlung:chemisches-peeling",
+        "haut:akne-vulgaris"
+      ]
+    },
+    {
+      "id": "wirkstoff:urea",
+      "typ": "wirkstoff",
+      "titel": "Harnstoff (Urea)",
+      "aliase": [
+        "Harnstoff",
+        "Carbamid"
+      ],
+      "inci": "UREA",
+      "stoffgruppe": "NMF-Bestandteil",
+      "funktionen": [
+        "feuchtigkeitsbindend",
+        "keratolytisch"
+      ],
+      "geeignet_fuer": [
+        "haut:sebostase"
+      ],
+      "vorsicht_bei": [
+        "haut:rosazea",
+        "offene oder entzündete Haut (Brennen)"
+      ],
+      "konzentration_typisch": "2–5 % feuchtigkeitsspendend, ab ca. 10 % keratolytisch",
+      "kurz": "Natürlicher Feuchthaltefaktor; niedrig dosiert befeuchtend, höher dosiert hornhautlösend (Füße, Schwielen).",
+      "tags": [
+        "feuchtigkeit",
+        "nmf",
+        "keratolyse"
+      ],
+      "verwandt": [
+        "wirkstoff:glycerin"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4 Wirkstoffe"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-10-28",
+      "pfad": "data/wirkstoffe/urea.md",
+      "verweise_von": [
+        "haut:sebostase",
+        "wirkstoff:glycerin"
+      ]
+    }
+  ]
+}

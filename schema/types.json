@@ -1,0 +1,79 @@
+{
+  "wirkstoff": {
+    "ordner": "wirkstoffe",
+    "pflicht": ["inci", "stoffgruppe", "funktionen"],
+    "felder": {
+      "inci": "INCI-Bezeichnung",
+      "cas": "CAS-Nummer (optional)",
+      "stoffgruppe": "z. B. Vitamin, Humectant, Säure, Emollient",
+      "funktionen": "Liste kosmetischer Funktionen",
+      "geeignet_fuer": "Liste von haut:-IDs",
+      "vorsicht_bei": "Liste von haut:-IDs oder Freitext",
+      "konzentration_typisch": "Freitext, z. B. '2–5 %'",
+      "regulierung": "Liste von recht:-IDs mit Hinweis"
+    }
+  },
+  "haut": {
+    "ordner": "haut",
+    "pflicht": ["kategorie"],
+    "felder": {
+      "kategorie": "hauttyp | hautzustand | effloreszenz | erkrankung",
+      "merkmale": "Liste erkennbarer Merkmale",
+      "kosmetisch_behandelbar": "ja | eingeschraenkt | nein",
+      "aerztlich_abklaeren": "Warnzeichen, bei denen an Ärztin/Arzt verwiesen wird"
+    }
+  },
+  "behandlung": {
+    "ordner": "behandlungen",
+    "pflicht": ["ziel", "indikation", "kontraindikation"],
+    "felder": {
+      "ziel": "Behandlungsziel",
+      "indikation": "Liste von haut:-IDs",
+      "kontraindikation": "Liste (IDs oder Freitext)",
+      "wirkstoffe": "Liste von wirkstoff:-IDs",
+      "dauer_min": "Dauer in Minuten (Zahl)"
+    }
+  },
+  "formulierung": {
+    "ordner": "formulierungen",
+    "pflicht": ["system"],
+    "felder": {
+      "system": "z. B. Emulsion O/W, Gel, Tensidsystem",
+      "bestandteile": "Liste typischer Baustein-Klassen",
+      "stabilitaet": "Freitext zu Stabilitätsrisiken"
+    }
+  },
+  "recht": {
+    "ordner": "recht",
+    "pflicht": ["norm", "geltung", "pruefen_bis"],
+    "felder": {
+      "norm": "Offizielle Abkürzung",
+      "geltung": "EU | DE",
+      "fundstelle_amtlich": "z. B. BGBl I 2014, 1054",
+      "url": "Link auf amtliche Quelle",
+      "stand": "Letzte bekannte Änderung"
+    }
+  },
+  "begriff": { "ordner": "begriffe", "pflicht": [], "felder": {} },
+  "quelle": {
+    "ordner": "quellen",
+    "pflicht": ["art", "lizenz"],
+    "felder": {
+      "art": "buch | gesetz | studie | web | eigen",
+      "autoren": "Liste",
+      "jahr": "Zahl",
+      "verlag": "Text",
+      "doi": "DOI/ISBN",
+      "lizenz": "frei | urheberrechtlich-geschuetzt | amtliches-werk",
+      "lokal_privat": "Pfad zu privaten Volltexten (nie ins Repo)"
+    }
+  },
+  "kontext": {
+    "ordner": "kontext",
+    "pflicht": ["einsatz"],
+    "felder": {
+      "einsatz": "Liste: design | code | text | beratung | skill",
+      "prioritaet": "hoch | normal"
+    }
+  }
+}
