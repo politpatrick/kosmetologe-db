@@ -82,7 +82,7 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Resveratrol (mit Polyphenol-Übersicht) | resveratrol.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
 | α-Glycosilrutin | glycosylrutin.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Traubenkernextrakt (OPC) | traubenkernextrakt.md | nicht bewertet (nur Lehrbuch) | – | offen |
-| Selen | selen.md | schwach (nur In-vitro; Rechtsstand Anhang II prüfen) | Bericht 2026-10-28_ellsaesser-kap4 | mittel |
+| Selen | selen.md | schwach (nur In-vitro); Anhang II Nr. 297 verboten, außer Selendisulfid (geprüft 2026-10-29) | Bericht 2026-10-28_ellsaesser-kap4 | mittel |
 | Zink | zink.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Mangan | mangan.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Kupfer | kupfer.md | nicht bewertet (nur Lehrbuch) | – | offen |
@@ -208,8 +208,8 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 
 | Wirkstoff | Datei | Evidenz (Stand 2026-10) | Letzte relevante Publikation | Impact |
 |---|---|---|---|---|
-| Selenium Sulfide (Selendisulfid) | selendisulfid.md | stark (mehrere RCTs, u. a. placebokontrolliert n=246); Anhang III bis 1 % prüfen | Bericht 2026-10-28_ellsaesser-kap9 | mittel |
-| Zinc Pyrithione (Zinkpyrithion) | zinkpyrithion.md | stark (Metaanalyse 17 RCTs, herstellernah); in der EU seit 2022 verboten (prüfen) | Bericht 2026-10-28_ellsaesser-kap9 | hoch (Rechtsstand) |
+| Selenium Sulfide (Selendisulfid) | selendisulfid.md | stark (mehrere RCTs, u. a. placebokontrolliert n=246); Anhang III Nr. 49: Schuppenshampoos bis 1 % (geprüft 2026-10-29) | Bericht 2026-10-28_ellsaesser-kap9 | mittel |
+| Zinc Pyrithione (Zinkpyrithion) | zinkpyrithion.md | stark (Metaanalyse 17 RCTs, herstellernah); Anhang II Nr. 1670, verboten seit 1.3.2022 (geprüft 2026-10-29) | Bericht 2026-10-28_ellsaesser-kap9 | hoch (Rechtsstand) |
 | Polyquaternium-10 | polyquaternium-10.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Polyquaternium-7 | polyquaternium-7.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Quaternium-Verbindungen | quaternium-verbindungen.md | nicht bewertet (nur Lehrbuch) | – | offen |

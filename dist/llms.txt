@@ -223,7 +223,7 @@
 - `recht:kosmetikermstrv` [Kosmetikermeisterverordnung (KosmetikerMstrV)](data/recht/kosmetikermstrv.md) – Regelt die Meisterprüfung (Teile I und II) im Kosmetiker-Gewerbe und damit das berufliche Kompetenzprofil.
 - `recht:kosmetikv-2014` [Kosmetik-Verordnung (KosmetikV 2014)](data/recht/kosmetikv-2014.md) – Deutsche Ergänzung zur EU-Kosmetikverordnung – Anzeigepflichten, Sprache der Kennzeichnung, Giftnotruf-Meldungen, Ordnungswidrigkeiten.
 - `recht:nisv` [Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen (NiSV)](data/recht/nisv.md) – Regelt gewerbliche, nichtmedizinische Anwendungen von Laser, IPL, Hochfrequenz, Ultraschall, Nieder- und Gleichstrom am Menschen – mit Arztvorbehalt für bestimmte Verfahren und Fachkundepflicht für alle anderen. [entwurf]
-- `recht:reach-siloxane` [REACH-Beschränkung der zyklischen Siloxane D4, D5 und D6](data/recht/reach-siloxane.md) – Zyklische Silikone D4, D5 und D6 dürfen ab 0,1 % nicht mehr in Kosmetik in Verkehr gebracht werden – für abwaschbare Produkte seit 6.6.2026, für Leave-on-Produkte ab 6.6.2027. [entwurf]
+- `recht:reach-siloxane` [REACH-Beschränkung der zyklischen Siloxane D4, D5 und D6](data/recht/reach-siloxane.md) – D4, D5 und D6 dürfen ab 0,1 % nicht mehr in Verkehr gebracht werden. Für Kosmetik gilt das bei D4/D5 in abwaschbaren Mitteln seit 2020, für alle anderen kosmetischen Mittel (auch D6 in abwaschbaren) erst nach dem 6.6.2027.
 - `recht:taetowiermittel` [Tätowiermittel und Permanent Make-up (TätoV und REACH-Beschränkung)](data/recht/taetowiermittel.md) – Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75. [entwurf]
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
@@ -251,7 +251,8 @@
 - `begriff:uva-schutz` [UVA-Schutz](data/begriffe/uva-schutz.md) – Schutz vor langwelliger UV-Strahlung, die ohne Sonnenbrand Langzeitschäden verursacht; in der EU mindestens ein Drittel des LSF. [entwurf]
 - `begriff:zubereitungsformen` [Zubereitungsformen (Creme, Lotion, Salbe, Gel)](data/begriffe/zubereitungsformen.md) – Bezeichnungen kosmetischer Grundlagen nach Konsistenz und Aufbau: streichfähig (Creme, Salbe, Gel) oder fließfähig (Lotion, Milch, Fluid). [entwurf]
 
-## quelle (9)
+## quelle (10)
+- `quelle:bmukn-nisv-faq` [FAQ des Bundesumweltministeriums zur NiSV](data/quellen/bmukn-nisv-faq.md) – Auslegungshinweise des zuständigen Bundesministeriums zur NiSV (Stand 11.03.2024), u. a. zu Epilation, Iontophorese, Fettreduktion und Arztvorbehalt; nicht rechtsverbindlich, Vollzug durch die Länder.
 - `quelle:ellsaesser-koerperpflegekunde` [Körperpflegekunde und Kosmetik – Ein Lehrbuch für die PTA-Ausbildung und die Beratung in der Apothekenpraxis](data/quellen/ellsaesser-koerperpflegekunde.md) – Lehrbuch (PTA) zu Haut, Zusatz- und Wirkstoffen, Pflegesystemen, Sonnenschutz und Rezepturbauplänen.
 - `quelle:eur-lex` [EUR-Lex – Rechtsdatenbank der EU](data/quellen/eur-lex.md) – Amtliche konsolidierte Fassungen von EU-Verordnungen, u. a. der Kosmetikverordnung.
 - `quelle:gesetze-im-internet` [Gesetze im Internet (BMJ)](data/quellen/gesetze-im-internet.md) – Amtliche Bundesrechtsdatenbank; maschinenlesbar gespiegelt im Repo law-data-germany.

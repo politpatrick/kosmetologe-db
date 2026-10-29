@@ -35,8 +35,10 @@ quellen:
   fundstelle: Kap. 9.1.7, S. 265; Kap. 9.2.3, S. 268; Kap. 9.3.8, S. 270–271; Tab. 9.1, S. 263
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: Stichwort „Schuppenshampoo“, „Piroctone Olamine“, „Selenium Sulfide“, „Zinc Pyrithione“
+- id: quelle:eur-lex
+  fundstelle: Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Wirkstoffe laut Quelle
 - **Antimikrobiell / hefehemmend:** Piroctone Olamine in Kosmetika; amphotere Tenside wirken zusätzlich antiseptisch.
@@ -52,18 +54,14 @@ Meist alkoholisch-wässrige Lösungen gegen Schuppen oder Haarausfall, die auf d
 keine alkoholischen Wässer, da sie austrocknen. Haarwässer gegen Haarausfall hält die Quelle für meist fragwürdig, außer
 mit Coffein oder hormonell wirksamen Arzneistoffen; ob die Stoffe die Haarpapille erreichen, sei offen.
 
-## Rechtsstand (eigene Ergänzung, prüfen)
+## Rechtsstand (am EUR-Lex-Text geprüft, konsolidierte Fassung vom 18.05.2026)
 Die Buchangaben von 2020 sind teils überholt oder ungenau:
-- **Zinkpyrithion:** [Wahrscheinlich] seit 1. März 2022 in Kosmetika der EU verboten (Einstufung als
-  fortpflanzungsgefährdend, Aufnahme in Anhang II durch die VO (EU) 2021/1902). Shampoos mit Zinkpyrithion sind damit
-  in der EU nicht mehr verkehrsfähig; ältere Studien beziehen sich darauf. Siehe `wirkstoff:zinkpyrithion`.
-- **Selendisulfid:** [Wahrscheinlich] kein reiner Arzneistoff, sondern in Anhang III für Antischuppenshampoos bis 1 %
-  zugelassen; höhere Konzentrationen nur als Arzneimittel.
-- **Piroctone Olamine:** Anhang V Nr. 35, 1,0 % in auszuspülenden Mitteln, 0,5 % in sonstigen Mitteln (am Verordnungstext
-  geprüft laut `maintenance/impact-liste.md`, Teil D).
-- **Ketoconazol:** Anhang II Nr. 1528, in Kosmetika verboten [Sicher, siehe `recht:anhang-ii-arzneistoffe`].
-- **Steinkohlenteer:** [Wahrscheinlich] als Stoff in Anhang II verboten; Teershampoos sind Arzneimittel.
-Eintragsnummern und Fassungen beim nächsten Rechtslauf am EUR-Lex-Text bestätigen.
+- **Zinkpyrithion:** [Sicher] Anhang II Nr. 1670, verboten seit 1. März 2022 (VO (EU) 2021/1902, reproduktionstoxisch).
+  Siehe `wirkstoff:zinkpyrithion`.
+- **Selendisulfid:** [Sicher] Anhang III Nr. 49, nur in Schuppenshampoos bis 1 %, Warnhinweis Augen und gereizte Haut.
+- **Piroctone Olamine:** [Sicher] Anhang V Nr. 35, 1,0 % in auszuspülenden, 0,5 % in sonstigen Mitteln.
+- **Ketoconazol:** [Sicher] Anhang II Nr. 1528, in Kosmetika verboten (siehe `recht:anhang-ii-arzneistoffe`).
+- **Steinkohlenteer:** [Sicher] Anhang II Nr. 420 („rohe und raffinierte Steinkohlenteere“); Teershampoos sind Arzneimittel.
 
 ## Hinweis zur Quelle
 - Dass Zinkpyrithion die Talgbildung anrege, wird im Buch ohne Beleg gesagt [Vermutung, dass es sich um eine Verwechslung

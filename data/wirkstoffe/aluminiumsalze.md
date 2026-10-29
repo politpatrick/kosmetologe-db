@@ -15,13 +15,15 @@ tags: [deo, schweiss, sicherheit]
 verwandt: [formulierung:deodorant, haut:hyperhidrose, behandlung:iontophorese, quelle:sccs]
 quellen:
 - id: quelle:sccs
-  fundstelle: SCCS/1662/23, Final Opinion vom 27.3.2024 (Submission IV), Abstract und Tabelle 2
+  fundstelle: SCCS/1662/23, Final Opinion vom 27.3.2024 (Submission IV), Abstract, Tabellen 1 und 2 (PDF S. 14 gelesen 2026-10-29)
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 10.3.1, S. 287–288
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 10.1, S. 88; Kap. 27.13, S. 234
+- id: quelle:eur-lex
+  fundstelle: Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026, Anhang III Nr. 34 und 50
 status: entwurf
-aktualisiert: 2026-10-28
+aktualisiert: '2026-10-29'
 ---
 ## Wirkung
 Aluminiumsalze bilden in den Ausführungsgängen der Schweißdrüsen Pfropfen und vermindern so die Schweißmenge; die meisten wirken
@@ -37,12 +39,20 @@ kann aber die Haut reizen. Die schweißhemmende Wirkung ist in der Praxis etabli
   Grenzen überschreiten.
 - [Sicher] Tabelle 2 nennt u. a. als Höchstwerte (Anteil Aluminium): Nagellack 3,6 %, Augenkonturprodukte 1,3 %, Sonnencreme 1,3 %,
   Lippenbalsam 0,6 %, Blondierung 5,0 %.
-- [Vermutung] Tabelle 1 mit den Werten für Antitranspirantien, Zahnpasta und Lippenstift liegt im PDF nur als Bild vor und wurde
-  nicht ausgelesen. Ältere SCCS-Bewertungen (SCCS/1613/19 mit Ergänzung 2021) nannten nach Sekundärquellen 6,25 % für nicht
-  sprühbare und 10,60 % für sprühbare Antitranspirantien sowie 2,65 % für Zahnpasta.
+- [Sicher] Tabelle 1 (S. 14, Konzentrationen für Szenario 1b, als Aluminium im Produkt) nennt u. a.:
+  Deo/Antitranspirant als Roll-on-Gel 6,18 %, Roll-on 5,63 %, Stick 7,73 %, Antitranspirant-Spray 3,24 % und Pumpspray
+  4,88 % (Sprays bezogen auf die Gesamtformulierung mit Treibgas), Deotücher 0 %; Zahnpasta 3,18 %, Mundwasser 0 %,
+  Lippenstift 14,62 %, Lidschatten 43,31 %, flüssiges Make-up 23 %, Eyeliner 15,76 %, Gesichtscreme und
+  Make-up-Entferner je 10,59 %, Shampoo und Spülung je 7,14 %, Bodylotion 3,81 %, Aftershave 2,15 %, Handcreme 0,86 %.
+  Hohe Werte in dekorativer Kosmetik gehen vor allem auf aluminiumhaltige Pigmente und Füllstoffe zurück [Vermutung].
+- Die früher nach Sekundärquellen genannten Werte älterer Gutachten (6,25 % / 10,60 % / 2,65 %) sind damit überholt.
 
 ## Rechtsstand
-Ob und wann die Kommission diese Werte in Anhang III der Kosmetikverordnung übernimmt, ist offen und beim Rechtsabgleich zu prüfen.
+[Sicher, konsolidierte Fassung vom 18.05.2026] Anhang III enthält noch **keinen allgemeinen Aluminium-Höchstwert**. Geregelt
+sind nur Aluminium-Zirconium-Hydroxochloride (Nr. 50: schweißhemmende Mittel bis 20 % als wasserfreie Verbindung, höchstens
+5,4 % Zirconium, nicht in Sprays, nicht auf gereizter oder verletzter Haut) und Aluminiumfluorid in Mundpflegemitteln
+(Nr. 34, als Fluorid). Die SCCS-Werte sind damit wissenschaftliche Empfehlung, aber noch nicht Recht; Änderungsakte nach
+dem 18.05.2026 wurden nicht geprüft.
 
 ## Beratung
 - Nicht direkt nach der Rasur auf gereizte Haut auftragen (eigene Ergänzung).
@@ -51,3 +61,4 @@ Ob und wann die Kommission diese Werte in Anhang III der Kosmetikverordnung übe
 
 ## Änderungslog
 - 2026-10-28: Eintrag angelegt nach SCCS/1662/23 (PDF gelesen) und Lehrbüchern.
+- 2026-10-29: SCCS-Tabelle 1 aus dem PDF ausgelesen, Rechtsstand Anhang III am EUR-Lex-Text geprüft.

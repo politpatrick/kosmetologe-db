@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-10-29 – Recht: offene Rechtsfragen am Primärtext geprüft
+- REACH D4/D5/D6 (VO (EU) 2024/1328) am Amtsblatt gegengelesen und **korrigiert**: für Kosmetik gilt außer bei D4/D5 in
+  abwaschbaren Mitteln der Stichtag nach dem 6.6.2027 (nicht 6.6.2026); Eintrag jetzt `geprueft`
+- Zinkpyrithion (Anhang II Nr. 1670, seit 1.3.2022), Selen (Anhang II Nr. 297), Selendisulfid (Anhang III Nr. 49, 1 %),
+  Steinkohlenteer (Anhang II Nr. 420), β-Carotin (Anhang IV Nr. 55), Piroctone Olamine (Anhang V Nr. 35) bestätigt
+- Aluminium: SCCS-Tabelle 1 ausgelesen; Anhang III enthält noch keinen allgemeinen Aluminium-Höchstwert
+- NiSV: Epilation, Nadelepilation, Iontophorese und Microneedling eingeordnet (Verordnungstext und BMUKN-FAQ);
+  neue Quelle `quelle:bmukn-nisv-faq`
+- Microneedling: keine gesetzliche Nadellängengrenze auffindbar, Heilkundebegriff maßgeblich; RF-Microneedling ärztlich
+- Bericht `berichte/recherche/2026-10-29_recht.md`
+
 ## 2026-10-29 – Übertrag aus Büchern, Runde 14 (Herrmann/Trinkkeller Kap. 28–30 → Grundlagen, Rezepturen, Pflege nach Lebensalter)
 - Neue Formulierungen: dermatologische Grundlagen (Mischungsdreieck: Lösung, Creme, Salbe, Puder, Paste, Schüttelmixtur),
   Individualrezepturen als Bauprinzip (ohne Mengenangaben, mit Abgrenzung Kosmetik/Arzneimittel)
