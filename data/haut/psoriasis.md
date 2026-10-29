@@ -21,6 +21,7 @@ tags:
 - barriere
 - chronisch
 verwandt:
+- begriff:hautpflege-grundregeln
 - haut:effloreszenz-schuppe
 - haut:onychomykose
 - wirkstoff:salicylsaeure
@@ -31,7 +32,7 @@ quellen:
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Psoriasis vulgaris“"
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Ein fehlreguliertes Immunsystem treibt die Hautzellen zu überstürzter Verhornung, die Veranlagung ist erblich.
@@ -44,3 +45,9 @@ Gelenke oder Nägel betroffen. Diagnose ist ärztlich.
 - Leicht rückfettende, schnell einziehende Pflege, auch in schubfreien Zeiten.
 - Neue Produkte zuerst auf nicht befallener Haut testen; Verletzungen vermeiden, weil sie neue Herde auslösen können.
 - Merkmale in der Liste (Lokalisation, Nagelzeichen) sind teils eigene Ergänzung.
+
+## Kosmetische Begleitbehandlung (Herrmann/Trinkkeller, Kap. 30.5)
+- Wichtigste Maßnahme ist die tägliche Basispflege mit getesteten Cremes und Salben.
+- Als Wohlfühlbehandlung schlägt die Quelle milde Reinigung (Milchsäurecreme oder mildes Grieß-Öl-Peeling), Massage mit
+  Pflanzenöl und rückfettende Packungen vor; Ölbäder mit Milch gelten als angenehm (danach Rutschgefahr in der Wanne).
+- Nur auf nicht entzündeter Haut und nach Verträglichkeitstest (eigene Ergänzung).

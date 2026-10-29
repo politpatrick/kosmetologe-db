@@ -175,7 +175,7 @@
 - `haut:zangennagel` [Zangennagel und Rollnagel](data/haut/zangennagel.md) – Nageldeformitäten mit starker Quer- oder Längswölbung; teils schmerzlos, teils mit Druckstellen und Hornhaut; Korrektur durch Spangen und Tamponaden. [entwurf]
 - `haut:zeckenstich` [Zeckenstich](data/haut/zeckenstich.md) – Zecken können Borrelien und FSME-Viren übertragen; Zecke mechanisch mit Pinzette entfernen, nicht mit Öl ersticken. Wachsende Rötung ärztlich abklären. [entwurf]
 
-## behandlung (20)
+## behandlung (21)
 - `behandlung:ausreinigung` [Ausreinigung (Aknetoilette)](data/behandlungen/ausreinigung.md) – Reinigen, mit Dampf oder warmen Kompressen erweichen, Komedonen mit geschützten Fingerkuppen entleeren, desinfizieren, Maske oder Packung. [entwurf]
 - `behandlung:botulinumtoxin` [Botulinumtoxin-Behandlung](data/behandlungen/botulinumtoxin.md) – Heilkundliche Injektion eines Nervengifts in mimische Muskeln; wirkt nach 2–10 Tagen für 3–6 Monate. Danach zwei Wochen keine kosmetische Gesichtsbehandlung. [entwurf]
 - `behandlung:camouflage` [Camouflage (medizinisches Abdecken)](data/behandlungen/camouflage.md) – Stark pigmentierte, wasserfeste Abdeckprodukte; Grün neutralisiert Rot, hell hebt hervor, dunkel lässt zurücktreten. [entwurf]
@@ -190,6 +190,7 @@
 - `behandlung:kryolipolyse` [Kryolipolyse (Fettreduktion durch Kälte)](data/behandlungen/kryolipolyse.md) – Fettgewebe wird angesaugt und etwa eine Stunde auf rund 4 °C gekühlt; die Fettzellen sterben ab, Ergebnisse nach Wochen bis Monaten. [entwurf]
 - `behandlung:kryotherapie` [Kryotherapie (Vereisung)](data/behandlungen/kryotherapie.md) – Ärztliches Verfahren mit flüssigem Stickstoff, v. a. bei Warzen, Keratosen und Keloiden; hinterlässt oft helle Flecken, daher Lichtschutz. [entwurf]
 - `behandlung:laserbehandlung` [Laserbehandlung (dermatologisch)](data/behandlungen/laserbehandlung.md) – Jede Laserart wirkt auf ein bestimmtes Ziel (Blutfarbstoff, Melanin, Wasser); Einsatz ärztlich bzw. nach NiSV mit Fachkunde. [entwurf]
+- `behandlung:maske-packung` [Masken, Packungen und Kompressen](data/behandlungen/maske-packung.md) – Masken erstarren und stauen Wärme und Feuchtigkeit, Packungen bleiben cremig und beruhigen; Kompressen mit Gesichtswasser für Brust und Rücken. [entwurf]
 - `behandlung:mesotherapie` [Mesotherapie](data/behandlungen/mesotherapie.md) – Komplementärmedizinisches Injektionsverfahren mit niedrig dosierten Wirkstoffmischungen; laut Quelle bis heute ohne Wirksamkeitsnachweis durch klinische Studien. [entwurf]
 - `behandlung:microneedling` [Microneedling (Kollagen-Induktion)](data/behandlungen/microneedling.md) – Nadelroller oder -geräte (0,2–3 mm) setzen Mikroverletzungen; die Wundheilung regt Kollagen an. Hilft bei Narben, Fältchen und Dehnungsstreifen. [entwurf]
 - `behandlung:mikrodermabrasion` [Mikrodermabrasion](data/behandlungen/mikrodermabrasion.md) – Physikalisches Peeling, bei dem feinste Kristalle die oberste Hautschicht nahezu schmerzfrei abschleifen; kosmetische Alternative zur ärztlichen Dermabrasion. [entwurf]
@@ -197,9 +198,10 @@
 - `behandlung:narbenbehandlung` [Narbenbehandlung](data/behandlungen/narbenbehandlung.md) – Je nach Narbentyp: Schältherapie, Needling, fraktionierter Laser oder Filler bei eingesunkenen Narben; Kälte, Kompression und Narbensalben bei Keloiden. [entwurf]
 - `behandlung:permanent-make-up` [Permanent Make-up und medizinische Pigmentierung](data/behandlungen/permanent-make-up.md) – Einbringen von Farbpigmenten mit Einmalnadeln; Haltbarkeit hängt von Tiefe, Pigment und Haut ab, Farbe verändert sich mit der Zeit. [entwurf]
 
-## formulierung (13)
+## formulierung (15)
 - `formulierung:antischuppenshampoo` [Antischuppenshampoo und Haarwasser](data/formulierungen/antischuppenshampoo.md) – Shampoo oder auf der Kopfhaut verbleibendes Haarwasser gegen Schuppen; wirkt vor allem über Hemmung der Hefe Malassezia und Ablösen der Schuppen. [entwurf]
 - `formulierung:deodorant` [Deodorant und Antitranspirant](data/formulierungen/deodorant.md) – Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer. [entwurf]
+- `formulierung:dermatologische-grundlagen` [Dermatologische Grundlagen (Mischungsdreieck)](data/formulierungen/dermatologische-grundlagen.md) – Ordnet Lösung, Creme, Salbe, Puder, Paste und Schüttelmixtur nach ihrem Anteil an Wasser, Fett und Puder; die Grundlage bestimmt, ob ein Präparat kühlt, austrocknet oder rückfettet. [entwurf]
 - `formulierung:emulsion-ow` [Öl-in-Wasser-Emulsion (O/W)](data/formulierungen/emulsion-ow.md) – Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen.
 - `formulierung:emulsion-wo` [Wasser-in-Öl-Emulsion (W/O)](data/formulierungen/emulsion-wo.md) – Wassertröpfchen in Öl – reichhaltig, okklusiv, wasserabweisend; für trockene Haut, Nacht- und Kälteschutzpflege. [entwurf]
 - `formulierung:fluessigkristalline-phasen` [Flüssigkristalline Phasen (lamellare Strukturen)](data/formulierungen/fluessigkristalline-phasen.md) – Geordnete, aber fließfähige Strukturen aus Tensiden; lamellare Phasen ähneln den Hautlipiden und stabilisieren Cremes. [entwurf]
@@ -209,6 +211,7 @@
 - `formulierung:liposomen` [Liposomen und Vesikel](data/formulierungen/liposomen.md) – Kugelige Bläschen aus Phospholipid-Doppelschichten; nehmen fett- und wasserlösliche Wirkstoffe auf und ähneln Zellmembranen. [entwurf]
 - `formulierung:mehrfachemulsion` [Mehrfachemulsion (W/O/W)](data/formulierungen/mehrfachemulsion.md) – In Öltröpfchen eingeschlossene Wassertröpfchen in Wasser; schützt empfindliche Wirkstoffe und kombiniert leichtes O/W-Gefühl mit W/O-Feuchtigkeit. [entwurf]
 - `formulierung:nanoemulsion` [Nanoemulsion](data/formulierungen/nanoemulsion.md) – Sehr feine Emulsion, durchscheinend bis klar, ohne Aufrahmen; leichtes Hautgefühl und gute Verteilung von Wirk- und Duftstoffen. [entwurf]
+- `formulierung:rezepturen-bauprinzip` [Dermatologische Individualrezepturen (Bauprinzip)](data/formulierungen/rezepturen-bauprinzip.md) – Wie die Rezepturen im Lehrbuch aufgebaut sind (Grundlage, Wirkstoff, Konzentrationsstufen, Gebrauchshinweis); viele enthalten Arzneistoffe und gehören in ärztliche Hand. [entwurf]
 - `formulierung:shampoo` [Shampoo](data/formulierungen/shampoo.md) – Reinigt Haar und Kopfhaut von Talg und Rückständen; Kombination aus anionischem und amphoterem Tensid macht es milder. [entwurf]
 - `formulierung:sonnenschutz-mineralisch` [Mineralischer Sonnenschutz (TiO₂/ZnO-Dispersion)](data/formulierungen/sonnenschutz-mineralisch.md) – Sonnenschutz mit Titandioxid oder Zinkoxid, die UV absorbieren und streuen; breites Spektrum, gut verträglich, Partikelgröße entscheidet. [entwurf]
 
@@ -224,10 +227,11 @@
 - `recht:taetowiermittel` [Tätowiermittel und Permanent Make-up (TätoV und REACH-Beschränkung)](data/recht/taetowiermittel.md) – Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75. [entwurf]
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
-## begriff (21)
+## begriff (22)
 - `begriff:antioxidans` [Antioxidans](data/begriffe/antioxidans.md) – Stoff, der Inhaltsstoffe vor dem Ranzigwerden schützt bzw. in der Haut freie Radikale abfängt, z. B. Vitamin E und C. [entwurf]
 - `begriff:emulgator` [Emulgator](data/begriffe/emulgator.md) – Grenzflächenaktiver Stoff, der Öl und Wasser zu einer Emulsion verbindet; der HLB-Wert entscheidet, ob eine W/O- oder O/W-Emulsion entsteht. [entwurf]
 - `begriff:emulsionszerfall` [Emulsionszerfall](data/begriffe/emulsionszerfall.md) – Prozesse, durch die Emulsionen bei Lagerung entmischen: Aufrahmen, Absetzen, Flockung, Ostwald-Reifung, Koaleszenz, Phaseninversion. [entwurf]
+- `begriff:hautpflege-grundregeln` [Grundregeln der Hautpflege nach Lebensalter](data/begriffe/hautpflege-grundregeln.md) – Rangfolge: schonend reinigen, schützen (Licht, Kälte, Druck, Auslaugung), gezielt pflegen, angemessen kaschieren; Pflege richtet sich nach Hautzustand und Lebensalter, Überpflege schadet. [entwurf]
 - `begriff:hlb-wert` [HLB-Wert](data/begriffe/hlb-wert.md) – Kennzahl (0–20) für das Verhältnis hydrophiler zu lipophiler Anteile eines Emulgators; bestimmt O/W- oder W/O-Tendenz.
 - `begriff:hydrolipidfilm` [Hydrolipidfilm](data/begriffe/hydrolipidfilm.md) – Emulsionsartiger Film aus Talg, Schweiß und Hautlipiden auf der Hornschicht; schützt vor Austrocknung und Chemikalien. [entwurf]
 - `begriff:inci` [INCI](data/begriffe/inci.md) – Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.

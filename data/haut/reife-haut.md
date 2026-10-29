@@ -18,6 +18,7 @@ tags:
 - alter
 - barriere
 verwandt:
+- begriff:hautpflege-grundregeln
 - haut:sebostase
 - haut:chronischer-lichtschaden
 - wirkstoff:retinol
@@ -32,7 +33,7 @@ quellen:
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Hautalterung“"
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Die Alterung beginnt schleichend im 3.–4. Lebensjahrzehnt. Von innen verlangsamen sich Zellerneuerung und
@@ -51,3 +52,11 @@ Laut Quelle ist rund die Hälfte der 50- bis 70-Jährigen trocken-fettarm, bei �
 - Nicht rauchen; ausreichend Schlaf, Stressabbau, Bewegung und eine an Antioxidantien reiche Ernährung.
 - Pflege dem Hautzustand anpassen und Überpflege vermeiden.
 - Ärztliche Verfahren: siehe `behandlung:botulinumtoxin`, `behandlung:dermafiller`, `behandlung:hautstraffung-energiebasiert`.
+
+## Pflege der Altershaut (Herrmann/Trinkkeller, Kap. 30.4)
+- Die Haut wird dünner, verletzlicher, trockener; Juckreiz führt leicht zu Kratzen, Ekzem und Infektion.
+- Reinigung mit W/O-Emulsionen oder ölhaltigen Reinigungscremes.
+- Tages- und Nachtcreme regelmäßig, aber keine Wunderwirkung erwarten; Intensivpflege zurückhaltend, sonst Überpflege.
+- Peelings hält die Quelle für gesunde Haut für unnötig.
+- UV, Rauchen und Alkohol beschleunigen den Kollagenabbau über Kollagenasen; Raucherhaut wirkt fahl und unregelmäßig pigmentiert.
+- Die Aussagen der Quelle zur Wirksamkeit von Anti-Falten-Wirkstoffen sind teils veraltet (siehe `begriff:hautpflege-grundregeln`).
