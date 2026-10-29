@@ -27,8 +27,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 31.2.5–31.2.6, S. 275–276
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Verfahren
 - **Radiofrequenz:** erwärmt tiefere Schichten bei gekühlter Oberfläche; strafft Kollagen und regt Fibroblasten an.
@@ -38,4 +39,9 @@ aktualisiert: '2026-10-28'
 
 ## Recht
 Beide Verfahren fallen unter die NiSV. Gezielte thermische Koagulation mit Ultraschall ist nach § 9 Abs. 2 ärztlich;
-Hochfrequenzanwendungen ohne Verletzung der Epidermis brauchen den Fachkundenachweis (siehe `recht:nisv`, Einordnung beim Review prüfen).
+Hochfrequenzanwendungen ohne Verletzung der Epidermis und ohne Fettreduktion brauchen den Fachkundenachweis nach § 6 Abs. 1
+[Wahrscheinlich, eigene Subsumtion; siehe `recht:nisv`].
+
+## Ergänzt nach Abgleich mit dem Original
+- Thermage laut Quelle für alle Hauttypen; auch Cellulite und schlaffe Haut an Armen, Beinen, Handrücken.
+- Beide Verfahren sind keine Kassenleistung.

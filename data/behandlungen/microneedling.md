@@ -34,7 +34,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 31.2.2, S. 273–274; Kap. 27.9.2, S. 222–223
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-29
 aktualisiert: '2026-10-29'
 ---
 ## Wirkprinzip
@@ -60,3 +61,13 @@ Rechtslage nach Recherche vom 2026-10-29 (eigene Einordnung):
   tiefere Behandlungen ärztlich.
 - **Radiofrequenz-Microneedling** ist nach § 6 Abs. 2 NiSV ärztlich, weil Hochfrequenz bei verletzter Epidermis
   angewendet wird (siehe `recht:nisv`). Nadeln allein fallen nicht unter die NiSV.
+
+## Ergänzt nach Abgleich mit dem Original
+- Weitere Indikationen laut Quelle: Haarausfall, Lippenaufbau; Wirkstoffe dringen danach besser ein, für die Straffung wird
+  häufig DMEA aufgetragen. Kontraindikationen (aktive Akne, Herpes, Ekzem, Rosazea, Warzen, Keloid, Blutverdünner) stammen
+  aus der Quelle.
+- Krankenkassen zahlen laut Quelle nur bei Verbrennungsnarben.
+
+## Hinweis zur Quelle
+Die Quelle nennt „hypertrophe Narben (Akne, eingefallene Brandnarben)“ als Indikation; gemeint sind eingesunkene,
+also atrophe Narben. Erhabene Narben und Keloide sind eher eine Kontraindikation (eigene Einordnung).

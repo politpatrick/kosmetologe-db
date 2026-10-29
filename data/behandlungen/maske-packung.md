@@ -38,7 +38,8 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 28.7, S. 248–249; Kap. 29.3, S. 255–256; Kap. 30.3, S. 265
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-29
 aktualisiert: '2026-10-29'
 ---
 ## Maske laut Quelle
@@ -66,3 +67,6 @@ tränken; höchstens etwa 10 Minuten.
 
 ## Hinweis
 Ätherische Öle in Packungen können laut Quelle reizen; vorsichtig dosieren (Kap. 29.3).
+
+## Ergänzt nach Abgleich mit dem Original
+- Am Original bestätigt (Kap. 28.7, 29.3, 30.3); Eintrag am 2026-10-29 direkt aus dem Original angelegt.

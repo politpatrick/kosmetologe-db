@@ -23,8 +23,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 31.2.1, S. 272–273
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Verbindet Elemente aus Akupunktur, Neural- und Reflexzonentherapie; injiziert werden homöopathische oder sehr niedrig dosierte
@@ -33,3 +34,7 @@ Arzneistoffe oder Wirkstoffmischungen. Eine Variante ist „Mesobotox“ mit kle
 ## Bewertung
 Laut Quelle gibt es keinen durch klinische Studien belegten Wirknachweis. Als Injektion ist das Verfahren Heilkunde;
 Mesobotox ist ärztlich (Botulinumtoxin).
+
+## Ergänzt nach Abgleich mit dem Original
+- Die Deutsche Gesellschaft für Mesotherapie besteht seit 1984; Mitglieder sind Ärzte und Heilpraktiker.
+- Mesobotox: Effekt nach 2–3 Tagen, mehrere Sitzungen empfohlen; laut Quelle auch bei Hyperhidrose eingesetzt.

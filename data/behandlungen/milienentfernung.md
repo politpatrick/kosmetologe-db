@@ -22,8 +22,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.10, S. 224–225; Kap. 15.1.10, S. 129
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Ablauf
 1. Areal desinfizieren und spannen.
@@ -35,4 +36,8 @@ aktualisiert: '2026-10-28'
 - Milien müssen nicht um jeden Preis entfernt werden; viele fallen von selbst heraus.
 - Schnitt so klein wie möglich halten.
 - Vorbeugung bei Neigung zu Milien: sanfte Bürstenmassage nach warmem Waschen.
-- Ob die Inzision im eigenen Berufsrahmen zulässig ist, beim Review klären (eigene Ergänzung).
+- Die Quelle nennt die Entfernung ausdrücklich als Aufgabe der Kosmetikerin (Kap. 15.1.10); ohne Anritzen gelingt sie nicht.
+
+## Ergänzt nach Abgleich mit dem Original
+- Nach mehreren Milien beruhigende Packung, laut Quelle auch zehn Minuten Blaulicht.
+- Milien sitzen an den Talgdrüsenausgängen, vor allem um die Augen; bei Säuglingen bilden sie sich in Wochen von selbst zurück.

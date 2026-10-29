@@ -14,8 +14,9 @@ verwandt: [behandlung:dermabrasion, behandlung:narbenbehandlung, wirkstoff:aha, 
 quellen:
   - id: quelle:herrmann-trinkkeller-dermatologie
     fundstelle: "Kap. 27.2, S. 209–210; Kap. 27.9.2 und 27.11, S. 222, 227; Kap. 31.2.3, S. 274–275"
-status: entwurf
-aktualisiert: 2026-10-28
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 Abgrenzung: mittlere und tiefe Peelings sind ärztliche Leistungen (siehe recht:kosmetikermstrv zur Kompetenzgrenze).
 
@@ -36,3 +37,9 @@ Abgrenzung: mittlere und tiefe Peelings sind ärztliche Leistungen (siehe recht:
 Weitere Hinweise laut Quelle: Wiederholung alle 3–4 Monate; kein Einfluss auf Porengröße oder Äderchen;
 lichtsensibilisierende Arzneimittel (z. B. Retinoide) mindestens 6 Monate vorher absetzen; Herpes und Gürtelrose sind
 absolute Kontraindikationen; danach mehrere Wochen LSF 50+.
+
+## Ergänzt nach Abgleich mit dem Original
+- Mitteltiefes Peeling mit 35 % Trichloressigsäure laut Quelle: nach Entfettung mit dem Rolltupfer gleichmäßig auftragen,
+  Weißfärbung nach 4–8 Minuten, nach 3–7 Tagen braunrot und Abschälen; je nach Befund 1–3-mal im Abstand von 6 Wochen,
+  möglichst im Winter. Phenolpeelings lehnt die Quelle wegen Leber-, Nieren- und Herzrisiken ab.
+- Vor jedem Peeling nach Allergien fragen.

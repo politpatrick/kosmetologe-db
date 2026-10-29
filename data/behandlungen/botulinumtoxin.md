@@ -27,8 +27,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 31.2.8, S. 277–278
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Das Toxin blockiert die Signalübertragung vom Nerv auf den Muskel (Acetylcholin). Gut geeignet für Stirn- und Augenfalten,
@@ -40,7 +41,12 @@ nicht für sehr tiefe Falten, Tränensäcke oder Schlupflider. Auch medizinisch 
 - In der Anamnese nach Botox-Behandlungen fragen.
 
 ## Recht
-Injektionen sind Heilkunde: nur Ärztinnen, Ärzte oder Heilpraktiker. Laut Quelle dürfen Kosmetikerinnen ohne behördliche Erlaubnis keine Unterspritzungen durchführen (OLG Karlsruhe, 17.12.2012).
+Laut Quelle dürfen Botox-Behandlungen nur approbierte Ärztinnen und Ärzte sowie Heilpraktiker durchführen.
+Das Urteil des OLG Karlsruhe vom 17.12.2012 nennt die Quelle beim Filler, nicht beim Botox (siehe `behandlung:dermafiller`).
 
 ## Hinweis zur Quelle
 Die Quelle nennt als Erreger „Clostridium difficile“; richtig ist Clostridium botulinum.
+
+## Ergänzt nach Abgleich mit dem Original
+- Bei der ersten Behandlung wird meist weniger gespritzt; eine maskenhafte Starre ist bei richtiger Technik kaum zu erwarten.
+  Falsch gesetzte Injektionen können benachbarte Muskeln lähmen, Dauerschäden entstehen nicht.

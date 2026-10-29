@@ -14,10 +14,10 @@ indikation:
 - hypopigmentierte Narben
 - Mamillenrekonstruktion
 kontraindikation:
-- Keloidneigung
-- Pigmentmal im Areal
-- aktive Hautinfektion
-- Herpes (Lippen)
+- Keloidneigung (eigene Ergänzung)
+- Pigmentmal im Areal (eigene Ergänzung)
+- aktive Hautinfektion (eigene Ergänzung)
+- Herpes (Lippen) (eigene Ergänzung)
 dauer_min: 120
 kurz: Einbringen von Farbpigmenten mit Einmalnadeln; Haltbarkeit hängt von Tiefe, Pigment und Haut ab, Farbe verändert sich mit der Zeit.
 tags:
@@ -32,8 +32,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.17, S. 239–241
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Oberflächlich in die Basalzellschicht eingebracht verblasst das Pigment rascher, in der Lederhaut hält es teils lebenslang.
@@ -49,3 +50,14 @@ Flaschenton ab und verändert sich über die Jahre.
 ## Hinweise
 - Entfernen mit Säuren oder Laugen führt zu schlecht heilenden Wunden und Narben.
 - Farben unterliegen der TätoV und der REACH-Beschränkung für Tätowierfarben, siehe `recht:taetowiermittel`; Entfernung per Laser ist nach der NiSV ärztlich.
+
+## Ergänzt nach Abgleich mit dem Original
+- Organische Pigmente leuchten stärker, sind aber weniger licht-, temperatur- und pH-stabil als anorganische.
+- Feine Konturen mit der Einer-Nadel, Flächen mit Dreier- oder Fünfer-Nadeln.
+- Nur deklarierte, stabile Pigmente verwenden; Kundinnen verlangen oft eine schriftliche Unbedenklichkeitsgarantie.
+- Medizinische Einsatzgebiete: Brustwarze nach Brustaufbau, Brauen und Wimpern bei Alopecia totalis, hypopigmentierte
+  Narben, Lippenrand nach Lippenspalten-Operation.
+
+## Hinweis zur Quelle
+Die Pigmentliste der Quelle (z. B. Rot aus Titan-, Eisen- und Magnesiumverbindungen) ist vereinfacht; heute gelten für
+Tätowiermittel die Beschränkungen der REACH-Verordnung (siehe `recht:taetowiermittel`).

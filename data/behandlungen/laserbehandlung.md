@@ -31,8 +31,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238; Kap. 31.2.4 und 31.2.10, S. 275, 278–279
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Wirkprinzip
 Die Wirkung hängt von der Wellenlänge ab: Sie wird dort aufgenommen, wo das Gewebe sie am stärksten absorbiert.
@@ -52,3 +53,14 @@ Rechtsrahmen: Seit 2021 regelt die NiSV (Verordnung zum Schutz vor schädlichen 
 Er:YAG- oder ultragepulster CO2-Laser tragen hauchdünne Schichten ab (Narben, feine Falten, Pigmentflecken); Ausfallzeit 1–2 Wochen,
 danach etwa 8 Wochen LSF 50+. Fraktionierte Laser setzen ein Raster mikroskopischer Verletzungen. Die Quelle bezeichnet den
 fraktionierten CO2-Laser als „nichtinvasiv“; abtragende Verfahren sind nach der NiSV aber ärztlich.
+
+## Ergänzt nach Abgleich mit dem Original
+- Weitere Lasertypen laut Quelle: Argonlaser für oberflächliche Gefäße, Farbstofflaser bis etwa 1,5–2 mm Tiefe, Nd:YAG bis
+  etwa 6 mm für tiefe Hämangiome, Er:YAG zum schonenden Abtragen ohne Wärme.
+- Pigmentläsionen nur nach histologischer Kontrolle lasern.
+- Nach Faltenbehandlung mit Er:YAG laut Quelle Hydrokolloidverbände, Schwellung etwa eine Woche, Rötung bis vier Wochen.
+
+## Hinweis zur Quelle
+Die Quelle schreibt, es gebe keine gesetzliche Grundlage, wer lasern darf, und jede Kosmetikerin könne ohne Fachkunde
+Laser anbieten. Das ist seit der NiSV (in Kraft seit 31.12.2020, Fachkunde seit 31.12.2022) überholt: Fachkundenachweis
+oder Arztvorbehalt je nach Anwendung (siehe `recht:nisv`).

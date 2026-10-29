@@ -29,8 +29,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.9, S. 222–225; Kap. 26
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Eingesunkene Narben und Narbenfelder (z. B. nach Akne)
 - Schältherapie über 10–12 Monate mit Fruchtsäure- oder Vitamin-A-Säure-Präparaten oder ein chemisches Peeling.
@@ -44,4 +45,11 @@ Kortison-Unterspritzung. Operieren führt oft zu größeren Keloiden.
 ## Für die Kosmetikpraxis
 - Frische Narben vor Sonne und Reibung (Hosenbund, BH-Träger) schützen.
 - Camouflage nach dem Prinzip „hell hebt hervor, dunkel lässt zurücktreten“.
-- Microneedling in kosmetischer Tiefe und die rechtliche Abgrenzung je nach Nadellänge beim Review prüfen (eigene Ergänzung).
+- Zur rechtlichen Einordnung des Microneedlings siehe `behandlung:microneedling` (keine gesetzliche Nadellängengrenze).
+
+## Ergänzt nach Abgleich mit dem Original
+- Bei eingesunkenen (hypotrophen) Narben ist laut Quelle die Operation Mittel der Wahl; Kollagen hält nur 6–18 Monate und
+  kann allergisch reagieren (tierischen Ursprungs).
+- Keloide und hypertrophe Narben brauchen ständigen Lichtschutz; planbare Eingriffe an lichtexponierten Stellen in der
+  lichtarmen Jahreszeit durchführen.
+- Kortison verschlechtert die Wundheilung; Laser, Dermabrasion und Operation bringen bei Keloiden selten gute Ergebnisse.

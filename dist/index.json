@@ -898,8 +898,9 @@
           "id": "quelle:ellsaesser-koerperpflegekunde"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/ausreinigung.md",
       "verweise_von": [
         "begriff:praxishygiene",
@@ -948,8 +949,9 @@
           "fundstelle": "Kap. 31.2.8, S. 277–278"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/botulinumtoxin.md",
       "verweise_von": [
         "behandlung:dermafiller",
@@ -999,7 +1001,8 @@
           "fundstelle": "Kap. 27.16, S. 238–239; Kap. 27.6–27.7, S. 219–220"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
       "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/camouflage.md",
       "verweise_von": [
@@ -1052,8 +1055,9 @@
           "fundstelle": "Kap. 27.2, S. 209–210; Kap. 27.9.2 und 27.11, S. 222, 227; Kap. 31.2.3, S. 274–275"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/chemisches-peeling.md",
       "verweise_von": [
         "behandlung:dermabrasion",
@@ -1076,8 +1080,9 @@
       ],
       "ziel": "Oberflächliche Hautschichten durch hochtouriges Schleifen abtragen, z. B. bei Narben oder Schmutzeinsprengungen",
       "indikation": [
-        "haut:keloid",
+        "hypertrophe Narben",
         "haut:effloreszenz-narbe",
+        "gutartige Neubildungen",
         "Schmutz- und Tätowierpigmente"
       ],
       "kontraindikation": [
@@ -1102,8 +1107,9 @@
           "fundstelle": "Kap. 27.3, S. 210–211"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/dermabrasion.md",
       "verweise_von": [
         "behandlung:chemisches-peeling",
@@ -1149,8 +1155,9 @@
           "fundstelle": "Kap. 31.2.7, S. 276–277; Kap. 27.9.1, S. 222–223"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/dermafiller.md",
       "verweise_von": [
         "behandlung:botulinumtoxin",
@@ -1178,7 +1185,7 @@
         "Schwangerschaft und Stillzeit"
       ],
       "dauer_min": 60,
-      "kurz": "Ärztliches, ambulantes Verfahren mit resorbierbaren Fäden unter örtlicher Betäubung; Effekt hält laut Quelle etwa zwei Jahre.",
+      "kurz": "Ambulantes, invasives Verfahren mit resorbierbaren Fäden unter örtlicher Betäubung; Effekt hält laut Quelle etwa zwei Jahre.",
       "tags": [
         "aerztlich",
         "anti-aging",
@@ -1194,8 +1201,9 @@
           "fundstelle": "Kap. 31.2.9, S. 278"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/fadenlifting.md",
       "verweise_von": []
     },
@@ -1246,7 +1254,8 @@
           "fundstelle": "FAQ C.01, C.03"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
       "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/haarentfernung.md",
       "verweise_von": [
@@ -1288,8 +1297,9 @@
           "fundstelle": "Kap. 5, S. 60–63"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/hautanalyse.md",
       "verweise_von": []
     },
@@ -1330,8 +1340,9 @@
           "fundstelle": "Kap. 31.2.5–31.2.6, S. 275–276"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/hautstraffung-energiebasiert.md",
       "verweise_von": []
     },
@@ -1375,7 +1386,8 @@
           "fundstelle": "FAQ C.03"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
       "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/iontophorese.md",
       "verweise_von": [
@@ -1417,8 +1429,9 @@
           "fundstelle": "Kap. 31.3, S. 278–279"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/kryolipolyse.md",
       "verweise_von": [
         "recht:nisv"
@@ -1445,7 +1458,7 @@
         "Kälteurtikaria",
         "Kryoglobulinämie"
       ],
-      "kurz": "Ärztliches Verfahren mit flüssigem Stickstoff, v. a. bei Warzen, Keratosen und Keloiden; hinterlässt oft helle Flecken, daher Lichtschutz.",
+      "kurz": "Verfahren mit flüssigem Stickstoff, v. a. bei Warzen, Keratosen und Keloiden; hinterlässt oft helle Flecken, daher Lichtschutz.",
       "tags": [
         "aerztlich",
         "warzen",
@@ -1461,8 +1474,9 @@
           "fundstelle": "Kap. 27.4, S. 211–212; Kap. 27.8, S. 220–221"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/kryotherapie.md",
       "verweise_von": [
         "behandlung:kryolipolyse",
@@ -1510,8 +1524,9 @@
           "fundstelle": "Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238; Kap. 31.2.4 und 31.2.10, S. 275, 278–279"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/laserbehandlung.md",
       "verweise_von": [
         "behandlung:dermabrasion",
@@ -1573,7 +1588,8 @@
           "fundstelle": "Kap. 28.7, S. 248–249; Kap. 29.3, S. 255–256; Kap. 30.3, S. 265"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
       "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/maske-packung.md",
       "verweise_von": [
@@ -1614,8 +1630,9 @@
           "fundstelle": "Kap. 31.2.1, S. 272–273"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/mesotherapie.md",
       "verweise_von": []
     },
@@ -1663,7 +1680,8 @@
           "fundstelle": "Kap. 31.2.2, S. 273–274; Kap. 27.9.2, S. 222–223"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
       "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/microneedling.md",
       "verweise_von": [
@@ -1684,9 +1702,9 @@
       "ziel": "Hornschicht mit feinen Kristallen oder Diamantaufsatz schonend abtragen, Hautbild glätten und Wirkstoffaufnahme verbessern",
       "indikation": [
         "haut:reife-haut",
+        "feine Fältchen",
         "haut:fettige-haut",
-        "haut:postinflammatorische-hyperpigmentierung",
-        "feine Fältchen"
+        "haut:postinflammatorische-hyperpigmentierung"
       ],
       "kontraindikation": [
         "haut:rosazea",
@@ -1713,8 +1731,9 @@
           "fundstelle": "Kap. 31.2.3, S. 275"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/mikrodermabrasion.md",
       "verweise_von": []
     },
@@ -1750,8 +1769,9 @@
           "fundstelle": "Kap. 27.10, S. 224–225; Kap. 15.1.10, S. 129"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/milienentfernung.md",
       "verweise_von": [
         "begriff:praxishygiene",
@@ -1797,8 +1817,9 @@
           "fundstelle": "Kap. 27.9, S. 222–225; Kap. 26"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/narbenbehandlung.md",
       "verweise_von": [
         "behandlung:camouflage",
@@ -1831,10 +1852,10 @@
         "Mamillenrekonstruktion"
       ],
       "kontraindikation": [
-        "Keloidneigung",
-        "Pigmentmal im Areal",
-        "aktive Hautinfektion",
-        "Herpes (Lippen)"
+        "Keloidneigung (eigene Ergänzung)",
+        "Pigmentmal im Areal (eigene Ergänzung)",
+        "aktive Hautinfektion (eigene Ergänzung)",
+        "Herpes (Lippen) (eigene Ergänzung)"
       ],
       "dauer_min": 120,
       "kurz": "Einbringen von Farbpigmenten mit Einmalnadeln; Haltbarkeit hängt von Tiefe, Pigment und Haut ab, Farbe verändert sich mit der Zeit.",
@@ -1855,8 +1876,9 @@
           "fundstelle": "Kap. 27.17, S. 239–241"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/permanent-make-up.md",
       "verweise_von": [
         "begriff:praxishygiene",
@@ -4510,7 +4532,6 @@
       "aktualisiert": "2026-10-29",
       "pfad": "data/haut/keloid.md",
       "verweise_von": [
-        "behandlung:dermabrasion",
         "behandlung:kryotherapie",
         "behandlung:microneedling",
         "behandlung:narbenbehandlung",

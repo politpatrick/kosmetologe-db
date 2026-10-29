@@ -28,8 +28,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 31.2.7, S. 276–277; Kap. 27.9.1, S. 222–223
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Füllstoffe laut Quelle
 - **Hyaluronsäure und Kollagen:** wasserbindend, werden in etwa 3–12 Monaten abgebaut; bei tierischem Ursprung vorher Allergietest.
@@ -38,8 +39,18 @@ aktualisiert: '2026-10-28'
 - **Nicht abbaubare Filler:** Gefahr bleibender Entstellungen.
 
 ## Recht
-Injektionen sind Heilkunde: nur Ärztinnen, Ärzte oder Heilpraktiker. Laut Quelle dürfen Kosmetikerinnen ohne behördliche Erlaubnis keine Unterspritzungen durchführen (OLG Karlsruhe, 17.12.2012).
+Faltenunterspritzungen dürfen laut Quelle nur approbierte Ärztinnen und Ärzte sowie Heilpraktiker durchführen.
 Filler ohne medizinischen Zweck unterliegen dem Medizinprodukterecht (laut Quelle seit 2017 höchste Risikoklasse).
 
 ## Für die Kosmetikpraxis
 Beratung und Hinweis auf ärztliche Anbieter; nach Unterspritzung keine Massage oder Behandlung im Areal (eigene Ergänzung).
+
+## Ergänzt nach Abgleich mit dem Original
+- Weiterentwicklung der Eigenfett-Methode: in Liposomen verpackte Fettzellen (Mikro-Liposomen-Technik).
+- Bei nicht abbaubaren Fillern ist der Füllstoff oft mit Rinderkollagen ummantelt: vorher Allergietest.
+
+## Hinweis zur Quelle
+Der Kasten der Quelle lautet sinngemäß, Kosmetikerinnen dürften „ohne Hyaluronsäure oder ähnliche Substanzen“
+unterspritzen, mit Verweis auf OLG Karlsruhe vom 17.12.2012; der nächste Satz verbietet Unterspritzungen für alle außer
+Ärzten und Heilpraktikern. Der Satz ist offenbar verstümmelt; gemeint ist wohl, dass Kosmetikerinnen nicht mit
+Hyaluronsäure unterspritzen dürfen. Das Urteil wurde nicht nachgelesen [Vermutung].

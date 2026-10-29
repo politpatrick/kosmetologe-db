@@ -28,7 +28,8 @@ quellen:
   fundstelle: Kap. 27.13, S. 233–234
 - id: quelle:bmukn-nisv-faq
   fundstelle: FAQ C.03
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-29
 aktualisiert: '2026-10-29'
 ---
 ## Ablauf laut Quelle
@@ -47,3 +48,7 @@ Iontophorese-Geräte sind Gleichstromgeräte nach § 2 Abs. 1 Nr. 6 NiSV. Im Stu
 eine besondere Fachkunde verlangt die NiSV nicht [Sicher, BMUKN-FAQ C.03]. Ärztlich verordnete Heimgeräte zur
 Hyperhidrose-Behandlung sind Medizinprodukte und fallen nicht unter die NiSV, da diese nur gewerbliche nichtmedizinische
 Anwendungen erfasst (eigene Ergänzung). Siehe `recht:nisv`.
+
+## Ergänzt nach Abgleich mit dem Original
+- Ablauf und Stromstärke (5–25 mA) am Original bestätigt; bei Rhagaden vorher mit Vaseline abdecken, bei akutem Ekzem
+  abwarten. Auch dyshidrotische Hand- und Fußekzeme bessern sich oft.
