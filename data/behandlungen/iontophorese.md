@@ -26,8 +26,10 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.13, S. 233–234
+- id: quelle:bmukn-nisv-faq
+  fundstelle: FAQ C.03
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Ablauf laut Quelle
 - Hände oder Füße in warmes Leitungswasser, in den Achseln nasse Schwammtaschen; Polung bei jeder Anwendung wechseln.
@@ -38,3 +40,10 @@ aktualisiert: '2026-10-28'
 ## Hinweise
 - Kleine Einrisse vorher mit Vaseline abdecken, sonst schmerzt der Strom.
 - Kontraindikationen außer offenen Stellen und akutem Ekzem sind eigene Ergänzung (übliche Geräteangaben).
+
+## Recht (NiSV)
+Iontophorese-Geräte sind Gleichstromgeräte nach § 2 Abs. 1 Nr. 6 NiSV. Im Studio gelten die Betreiberpflichten des § 3
+(Anzeige bei der Behörde zwei Wochen vor Inbetriebnahme, Aufklärung mit Protokoll und Einwilligung, Gerätedokumentation);
+eine besondere Fachkunde verlangt die NiSV nicht [Sicher, BMUKN-FAQ C.03]. Ärztlich verordnete Heimgeräte zur
+Hyperhidrose-Behandlung sind Medizinprodukte und fallen nicht unter die NiSV, da diese nur gewerbliche nichtmedizinische
+Anwendungen erfasst (eigene Ergänzung). Siehe `recht:nisv`.

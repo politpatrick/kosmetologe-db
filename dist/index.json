@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 247,
+  "anzahl": 248,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -1240,10 +1240,14 @@
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
           "fundstelle": "Kap. 27.12, S. 227–233"
+        },
+        {
+          "id": "quelle:bmukn-nisv-faq",
+          "fundstelle": "FAQ C.01, C.03"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/haarentfernung.md",
       "verweise_von": [
         "behandlung:laserbehandlung",
@@ -1365,10 +1369,14 @@
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
           "fundstelle": "Kap. 27.13, S. 233–234"
+        },
+        {
+          "id": "quelle:bmukn-nisv-faq",
+          "fundstelle": "FAQ C.03"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/iontophorese.md",
       "verweise_von": [
         "formulierung:deodorant",
@@ -1412,7 +1420,9 @@
       "status": "entwurf",
       "aktualisiert": "2026-10-28",
       "pfad": "data/behandlungen/kryolipolyse.md",
-      "verweise_von": []
+      "verweise_von": [
+        "recht:nisv"
+      ]
     },
     {
       "id": "behandlung:kryotherapie",
@@ -1654,11 +1664,12 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/microneedling.md",
       "verweise_von": [
         "behandlung:mesotherapie",
-        "behandlung:mikrodermabrasion"
+        "behandlung:mikrodermabrasion",
+        "recht:nisv"
       ]
     },
     {
@@ -1798,6 +1809,7 @@
         "behandlung:laserbehandlung",
         "behandlung:microneedling",
         "recht:nisv",
+        "recht:reach-siloxane",
         "wirkstoff:centella-asiatica"
       ]
     },
@@ -1896,10 +1908,14 @@
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Schuppenshampoo“, „Piroctone Olamine“, „Selenium Sulfide“, „Zinc Pyrithione“"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/formulierungen/antischuppenshampoo.md",
       "verweise_von": [
         "formulierung:shampoo",
@@ -6717,6 +6733,36 @@
       ]
     },
     {
+      "id": "quelle:bmukn-nisv-faq",
+      "typ": "quelle",
+      "titel": "FAQ des Bundesumweltministeriums zur NiSV",
+      "aliase": [
+        "BMUKN-FAQ NiSV",
+        "FAQ Strahlenschutz bei kosmetischen Anwendungen"
+      ],
+      "art": "web",
+      "lizenz": "urheberrechtlich-geschuetzt",
+      "url": "https://www.bundesumweltministerium.de/WS6818",
+      "kurz": "Auslegungshinweise des zuständigen Bundesministeriums zur NiSV (Stand 11.03.2024), u. a. zu Epilation, Iontophorese, Fettreduktion und Arztvorbehalt; nicht rechtsverbindlich, Vollzug durch die Länder.",
+      "tags": [
+        "recht",
+        "de",
+        "nisv"
+      ],
+      "verwandt": [
+        "recht:nisv"
+      ],
+      "status": "geprueft",
+      "aktualisiert": "2026-10-29",
+      "geprueft_am": "2026-10-29",
+      "pfad": "data/quellen/bmukn-nisv-faq.md",
+      "verweise_von": [
+        "behandlung:haarentfernung",
+        "behandlung:iontophorese",
+        "recht:nisv"
+      ]
+    },
+    {
       "id": "quelle:ellsaesser-koerperpflegekunde",
       "typ": "quelle",
       "titel": "Körperpflegekunde und Kosmetik – Ein Lehrbuch für die PTA-Ausbildung und die Beratung in der Apothekenpraxis",
@@ -6856,6 +6902,7 @@
       "geprueft_am": "2026-10-28",
       "pfad": "data/quellen/eur-lex.md",
       "verweise_von": [
+        "formulierung:antischuppenshampoo",
         "recht:anhang-ii-arzneistoffe",
         "recht:anhang-iii-duftstoff-allergene",
         "recht:anhang-vi-uv-filter",
@@ -6865,11 +6912,13 @@
         "recht:vo-2024-996",
         "wirkstoff:3-benzyliden-campher",
         "wirkstoff:aha",
+        "wirkstoff:aluminiumsalze",
         "wirkstoff:ammoniumthioglykolat",
         "wirkstoff:arbutin",
         "wirkstoff:benzalkoniumchlorid",
         "wirkstoff:benzophenon-3",
         "wirkstoff:benzylalkohol",
+        "wirkstoff:carotinoide",
         "wirkstoff:dimethylphthalat",
         "wirkstoff:ethylhexyl-salicylat",
         "wirkstoff:fluorouracil",
@@ -6890,11 +6939,14 @@
         "wirkstoff:paba-derivate",
         "wirkstoff:parabene",
         "wirkstoff:phmb",
+        "wirkstoff:piroctone-olamin",
         "wirkstoff:resorcin",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:salicylsaeure",
+        "wirkstoff:selen",
+        "wirkstoff:selendisulfid",
         "wirkstoff:strontiumchlorid",
         "wirkstoff:titandioxid",
         "wirkstoff:tretinoin",
@@ -6903,7 +6955,8 @@
         "wirkstoff:triclosan",
         "wirkstoff:wasserstoffperoxid",
         "wirkstoff:zink",
-        "wirkstoff:zinkoxid"
+        "wirkstoff:zinkoxid",
+        "wirkstoff:zinkpyrithion"
       ]
     },
     {
@@ -7879,16 +7932,23 @@
         "behandlung:haarentfernung",
         "behandlung:iontophorese",
         "behandlung:narbenbehandlung",
-        "behandlung:permanent-make-up"
+        "behandlung:permanent-make-up",
+        "behandlung:microneedling",
+        "behandlung:kryolipolyse",
+        "quelle:bmukn-nisv-faq"
       ],
       "quellen": [
         {
           "id": "quelle:gesetze-im-internet",
-          "fundstelle": "§§ 1–7, 13, Anlage 3"
+          "fundstelle": "§§ 1–9, 13, Anlage 3 (Text gelesen 2026-10-29)"
+        },
+        {
+          "id": "quelle:bmukn-nisv-faq",
+          "fundstelle": "FAQ C.01–C.04, D.01 (Stand 11.03.2024)"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pruefen_bis": "2027-04-30",
       "pfad": "data/recht/nisv.md",
       "verweise_von": [
@@ -7899,6 +7959,7 @@
         "behandlung:narbenbehandlung",
         "behandlung:permanent-make-up",
         "haut:naevus-flammeus",
+        "quelle:bmukn-nisv-faq",
         "recht:taetowiermittel"
       ]
     },
@@ -7917,10 +7978,10 @@
       ],
       "norm": "VO (EU) 2024/1328",
       "geltung": "EU",
-      "fundstelle_amtlich": "ABl. L, 2024/1328",
-      "stand": "Änderung von REACH Anhang XVII Eintrag 70; abwaschbare Kosmetik ab 6.6.2026, Leave-on-Kosmetik ab 6.6.2027",
+      "fundstelle_amtlich": "ABl. L, 2024/1328 vom 17.5.2024",
+      "stand": "Neufassung von REACH Anhang XVII Eintrag 70; Kosmetik: D4/D5 in abwaschbaren Mitteln seit 31.1.2020, alle übrigen Kosmetika ab 7.6.2027",
       "url": "https://eur-lex.europa.eu/eli/reg/2024/1328/oj",
-      "kurz": "Zyklische Silikone D4, D5 und D6 dürfen ab 0,1 % nicht mehr in Kosmetik in Verkehr gebracht werden – für abwaschbare Produkte seit 6.6.2026, für Leave-on-Produkte ab 6.6.2027.",
+      "kurz": "D4, D5 und D6 dürfen ab 0,1 % nicht mehr in Verkehr gebracht werden. Für Kosmetik gilt das bei D4/D5 in abwaschbaren Mitteln seit 2020, für alle anderen kosmetischen Mittel (auch D6 in abwaschbaren) erst nach dem 6.6.2027.",
       "tags": [
         "recht",
         "eu",
@@ -7930,16 +7991,18 @@
       "verwandt": [
         "begriff:silikone",
         "formulierung:haarspuelung",
-        "recht:eu-kosmetikverordnung"
+        "recht:eu-kosmetikverordnung",
+        "behandlung:narbenbehandlung"
       ],
       "quellen": [
         {
           "id": "quelle:eur-lex",
-          "fundstelle": "VO (EU) 2024/1328 (Text nicht direkt gelesen)"
+          "fundstelle": "VO (EU) 2024/1328, Anhang (Eintrag 70 Nr. 1–7), Amtsblatttext gelesen am 2026-10-29"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pruefen_bis": "2027-04-30",
       "pfad": "data/recht/reach-siloxane.md",
       "verweise_von": [
@@ -8297,7 +8360,7 @@
       "quellen": [
         {
           "id": "quelle:sccs",
-          "fundstelle": "SCCS/1662/23, Final Opinion vom 27.3.2024 (Submission IV), Abstract und Tabelle 2"
+          "fundstelle": "SCCS/1662/23, Final Opinion vom 27.3.2024 (Submission IV), Abstract, Tabellen 1 und 2 (PDF S. 14 gelesen 2026-10-29)"
         },
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
@@ -8306,10 +8369,14 @@
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
           "fundstelle": "Kap. 10.1, S. 88; Kap. 27.13, S. 234"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026, Anhang III Nr. 34 und 50"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/wirkstoffe/aluminiumsalze.md",
       "verweise_von": [
         "formulierung:deodorant",
@@ -8867,10 +8934,14 @@
         {
           "id": "quelle:pubmed",
           "fundstelle": "Recherche 2026-10-28"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/wirkstoffe/carotinoide.md",
       "verweise_von": []
     },
@@ -10606,10 +10677,14 @@
         {
           "id": "quelle:pubmed",
           "fundstelle": "Recherche 2026-10-28"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/wirkstoffe/piroctone-olamin.md",
       "verweise_von": [
         "formulierung:antischuppenshampoo",
@@ -11129,10 +11204,14 @@
         {
           "id": "quelle:pubmed",
           "fundstelle": "Recherche 2026-10-28"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/wirkstoffe/selen.md",
       "verweise_von": [
         "wirkstoff:selendisulfid"
@@ -11191,10 +11270,14 @@
         {
           "id": "quelle:pubmed",
           "fundstelle": "Recherche 2026-10-28"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/wirkstoffe/selendisulfid.md",
       "verweise_von": [
         "formulierung:antischuppenshampoo",
@@ -12064,10 +12147,14 @@
         {
           "id": "quelle:pubmed",
           "fundstelle": "Recherche 2026-10-28"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/wirkstoffe/zinkpyrithion.md",
       "verweise_von": [
         "formulierung:antischuppenshampoo",

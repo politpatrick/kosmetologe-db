@@ -25,16 +25,18 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] Tenside: Klassen und Beispiele (`begriff:tensid`, 2026-10-28)
 - [ ] KosmetikV 2014: Kurzinhalt aller Paragrafen
 - [x] Übertrag Runde 6: Herrmann/Trinkkeller Kap. 5 und 27 → 10 `behandlung:` und Praxishygiene (2026-10-28)
-- [x] `recht:nisv` angelegt (2026-10-28); offen: Nadelepilation und Iontophorese einordnen — (Laser, IPL, Hochfrequenz; Arztvorbehalt und Fachkunde) und mit Laser-, Haarentfernungs- und Narbeneinträgen verknüpfen
+- [x] `recht:nisv` angelegt (2026-10-28); Nadelepilation und Iontophorese eingeordnet (2026-10-29)
 - [x] `recht:taetowiermittel` angelegt (2026-10-28); offen: Grenzwerte Eintrag 75 am EUR-Lex-Text prüfen — (Tätowiermittel-Verordnung, REACH-Beschränkung Tätowierfarben) für Permanent Make-up
 - [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11); Kap. 31 erledigt (2026-10-28)
 - [x] Übertrag Runde 7: Ellsässer Kap. 4 → 12 Wirkstoffe aus Impact-Liste Abschnitt B (2026-10-28)
 - [x] Übertrag Runde 12: Ellsässer Kap. 9.1–9.3 → Haarkosmetik (4 haut, 2 formulierung, 2 begriff, 3 Wirkstoffe mit PubMed) (2026-10-28)
-- [ ] Rechtsstand prüfen: Zinkpyrithion (Anhang II seit 2022, VO (EU) 2021/1902), Selendisulfid (Anhang III, 1 %), Steinkohlenteer (Anhang II)
+- [x] Rechtsstand geprüft: Zinkpyrithion (Anhang II Nr. 1670 seit 1.3.2022), Steinkohlenteer (Anhang II Nr. 420) (2026-10-29)
 - [x] Übertrag Runde 11: Ellsässer Kap. 4 → 8 Wirkstoffe mit PubMed-Recherche (Propolis, Selen, Resveratrol/Polyphenole, Pyridoxin, Carotinoide, α-Liponsäure, Kristall-Mittagsblume, Madecassosid) (2026-10-28)
 - [ ] Ellsässer Kap. 4 offen: Glycerylglucoside, Totes-Meer-Salz, Adenosin/Magnesium, Photolyase, SOD
-- [ ] Rechtsstand prüfen: Selen und Selenverbindungen (Anhang II, Ausnahme Selendisulfid Anhang III), β-Carotin (Anhang IV); INCI Propolis in CosIng
+- [x] Rechtsstand geprüft: Selen (Anhang II Nr. 297), Selendisulfid (Anhang III Nr. 49), β-Carotin (Anhang IV Nr. 55) (2026-10-29)
+- [ ] INCI Propolis in CosIng prüfen
 - [x] Studienrecherche (PubMed) für die 12 Lehrbuch-Wirkstoffe aus Runde 7 (2026-10-28); offen: SCCS/CosIng, Kamille-Allergie, topisches Q10
-- [ ] Microneedling: rechtliche Abgrenzung Kosmetik/Heilkunde nach Nadellänge klären; Kryolipolyse: Medizinprodukte- und Berufsrecht prüfen
+- [x] Microneedling: keine gesetzliche Nadellängengrenze, Heilkundebegriff maßgeblich, RF-Microneedling ärztlich (2026-10-29)
+- [ ] Kryolipolyse: Medizinprodukte- und Berufsrecht prüfen (NiSV-FAQ C.05 lesen); ärztliche Delegation (FAQ D)
 - [x] Übertrag Runde 10: Ellsässer Kap. 6 und 10 → 4 Begriffe, Gel, Deo (2026-10-28)
-- [x] SCCS Aluminium und REACH D4/D5/D6 angelegt (2026-10-28); offen: SCCS-Tabelle 1 (Antitranspirant-Höchstwerte) auslesen, Übernahme in Anhang III prüfen, EUR-Lex-Text 2024/1328 gegenlesen
+- [x] SCCS Aluminium und REACH D4/D5/D6 angelegt (2026-10-28); SCCS-Tabelle 1 ausgelesen, Anhang III geprüft (noch kein Al-Höchstwert), EUR-Lex-Text 2024/1328 gegengelesen und Daten korrigiert (2026-10-29)

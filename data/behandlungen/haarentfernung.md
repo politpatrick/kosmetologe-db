@@ -33,8 +33,10 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.12, S. 227–233
+- id: quelle:bmukn-nisv-faq
+  fundstelle: FAQ C.01, C.03
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Methoden
 - **Mechanisch:** Rasieren (Haare nach 2–3 Tagen sichtbar, regt das Wachstum nicht an), Zupfen, Warm- oder Kaltwachs
@@ -54,3 +56,10 @@ nie beim Ein- oder Ausführen. Danach desinfizieren, in der hellen Jahreszeit Li
 
 ## Recht
 Rechtsrahmen: Seit 2021 regelt die NiSV (Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung) Laser-, IPL- und Hochfrequenzanwendungen an Menschen. Viele dieser Verfahren sind Ärztinnen und Ärzten vorbehalten, für andere ist ein Fachkundenachweis nötig Details siehe `recht:nisv`.
+
+## Recht im Detail (Stand 2026-10-29)
+- Laser, IPL und Hochfrequenz zur dauerhaften Haarentfernung: kein Arztvorbehalt, aber Fachkundenachweis nach NiSV
+  [Sicher, BMUKN-FAQ C.01].
+- Nadelepilation per Thermolyse (Hochfrequenz): Fachkunde nach § 6 Abs. 1 NiSV [Wahrscheinlich].
+- Galvanische Nadelepilation (Gleichstrom): Betreiberpflichten nach § 3 NiSV, keine besondere Fachkunde [Wahrscheinlich,
+  übertragen aus FAQ C.03 zur Iontophorese]. Details in `recht:nisv`.

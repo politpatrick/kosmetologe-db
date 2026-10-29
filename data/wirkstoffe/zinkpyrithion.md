@@ -34,18 +34,21 @@ quellen:
   fundstelle: Stichwort „Zinc Pyrithione“
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
+- id: quelle:eur-lex
+  fundstelle: Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Funktion laut Quelle
 Die Quelle nennt Pyrithion-Zink als Arzneistoff gegen trockene Schuppen, der die Talgbildung anrege; die Haare können
 danach schneller nachfetten. Das Lexikon führt Zinc Pyrithione als Konservierungsmittel und antiseborrhoischen Stoff.
 
-## Rechtsstand (eigene Ergänzung, prüfen)
-[Wahrscheinlich, Verordnungstext in diesem Lauf nicht gelesen] Zinkpyrithion wurde als reproduktionstoxisch (Kategorie 1B)
-eingestuft und mit der VO (EU) 2021/1902 in Anhang II aufgenommen; seit 1. März 2022 ist es in kosmetischen Mitteln der EU
-verboten, auch in auszuspülenden Antischuppenshampoos. Die früheren Einträge in Anhang III und V entfallen. Die Angaben im
-Buch (2020) und im Lexikon sind dadurch überholt. Eintragsnummer und Datum beim nächsten Rechtslauf bestätigen.
+## Rechtsstand
+- [Sicher, am EUR-Lex-Text geprüft] Pyrithionzink steht in Anhang II Nr. 1670 der VO (EG) 1223/2009 (verbotene Stoffe).
+  Eingefügt durch die VO (EU) 2021/1902, die seit **1. März 2022** gilt. Grund ist die Einstufung als reproduktionstoxisch
+  (CMR Kategorie 1B). Ein Antrag auf Ausnahme für 1 % in auszuspülenden Antischuppenmitteln wurde gestellt, eine Ausnahme
+  wurde aber nicht gewährt; die früheren Einträge in Anhang III und V sind gestrichen.
+- Die Angaben im Buch (2020) und im Lexikon sind damit überholt.
 
 ## Hinweis zur Quelle
 - „Arzneistoff“ trifft für Zinkpyrithion in der EU vor 2022 nicht zu; es war als Kosmetikinhaltsstoff zugelassen.
@@ -68,3 +71,4 @@ Produkte und Fachbuchangaben sind veraltet. Nur Abstracts gelesen; SCCS-Gutachte
 
 ## Änderungslog
 - 2026-10-28: Eintrag aus Ellsässer Kap. 9 angelegt, PubMed-Recherche und Rechtshinweis ergänzt.
+- 2026-10-29: Rechtsstand am EUR-Lex-Text geprüft (Anhang II Nr. 1670, VO (EU) 2021/1902, gilt ab 1.3.2022).

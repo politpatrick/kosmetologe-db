@@ -33,8 +33,10 @@ quellen:
   fundstelle: Stichwort „Selen“
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
+- id: quelle:eur-lex
+  fundstelle: Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Funktion laut Quelle
 - Selen wirkt meist als Baustein von Enzymen (Selenoproteine mit Selenocystein). Viele davon sind an antioxidativen
@@ -50,11 +52,10 @@ aktualisiert: '2026-10-28'
   mit dem Satz des Buchs, dass Selen in der INCI-Liste nicht auftaucht.
 - „Krebsschützend“ beruht auf Daten zur Ernährung und zu Enzymen, nicht auf Studien zu Kosmetika.
 
-## Rechtsstand (eigene Ergänzung, prüfen)
-[Wahrscheinlich, Verordnungstext in diesem Lauf nicht gelesen] Selen und seine Verbindungen stehen in Anhang II der
-VO (EG) 1223/2009 (verbotene Stoffe); ausgenommen ist Selendisulfid, das in Anhang III für Antischuppen-Shampoos
-begrenzt zugelassen ist. Natürliche Spuren im Quellwasser sind davon zu unterscheiden. Eintragsnummern beim
-nächsten Rechtslauf am EUR-Lex-Text bestätigen.
+## Rechtsstand
+[Sicher, am EUR-Lex-Text geprüft] Anhang II Nr. 297: Selen und seine Verbindungen sind in Kosmetika verboten, ausgenommen
+Selendisulfid in Schuppenshampoos bis 1 % (Anhang III Nr. 49, siehe `wirkstoff:selendisulfid`). Natürliche Spuren in
+Quellwasser sind kein zugesetzter Stoff; Werbung mit „Selen“ bezieht sich daher praktisch immer auf Thermalwasser.
 
 ## Studienlage (PubMed, Recherche 2026-10-28)
 Nach PubMed:
@@ -71,3 +72,4 @@ Evidenz `schwach` (nur Zellkultur und herstellernahe Übersicht), Impact `mittel
 
 ## Änderungslog
 - 2026-10-28: Eintrag aus Ellsässer angelegt, PubMed-Recherche ergänzt, Evidenz und Impact gesetzt.
+- 2026-10-29: Rechtsstand am EUR-Lex-Text geprüft (Anhang II Nr. 297).

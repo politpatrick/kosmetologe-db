@@ -39,19 +39,21 @@ quellen:
   fundstelle: Stichwort „Selenium Sulfide“
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
+- id: quelle:eur-lex
+  fundstelle: Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Funktion laut Quelle
 Wird gegen Schuppen eingesetzt und verlängert die Teilungsfrequenz der Kopfhautzellen. Die Quelle führt es als
 Arzneistoff und nennt es vor allem für trockene Schuppen; die Haare können danach schneller nachfetten.
 Das Lexikon führt es als INCI-Antischuppenwirkstoff.
 
-## Rechtsstand (eigene Ergänzung, prüfen)
-[Wahrscheinlich, Verordnungstext in diesem Lauf nicht gelesen] Selen und seine Verbindungen sind in Anhang II verboten,
-mit Ausnahme von Selendisulfid: Dieses ist in Anhang III für Antischuppenshampoos bis 1 % zugelassen, mit Warnhinweisen
-(u. a. Augenkontakt und geschädigte Haut meiden). Höher dosierte Präparate (2,5 %) sind Arzneimittel. Die Bezeichnung
-„Arzneistoff“ im Buch ist damit nur für die hohe Konzentration richtig.
+## Rechtsstand
+[Sicher, am EUR-Lex-Text geprüft] Anhang II Nr. 297 verbietet Selen und seine Verbindungen, ausgenommen Selendisulfid
+nach Anhang III Nr. 49. Dort ist Selendisulfid nur in **Schuppenshampoos bis 1 %** zugelassen, mit den Pflichtangaben
+„Enthält Selendisulfid“ und dem Hinweis, Kontakt mit Augen und gereizter Haut zu vermeiden. Höher dosierte Präparate
+(z. B. 2,5 %) sind Arzneimittel. Die Bezeichnung „Arzneistoff“ im Buch trifft damit nur für die hohe Konzentration zu.
 
 ## Studienlage (PubMed, Recherche 2026-10-28)
 Nach PubMed:
@@ -71,3 +73,4 @@ nicht geprüft.
 
 ## Änderungslog
 - 2026-10-28: Eintrag aus Ellsässer Kap. 9 angelegt, PubMed-Recherche ergänzt, Evidenz und Impact gesetzt.
+- 2026-10-29: Rechtsstand am EUR-Lex-Text geprüft (Anhang II Nr. 297, Anhang III Nr. 49).

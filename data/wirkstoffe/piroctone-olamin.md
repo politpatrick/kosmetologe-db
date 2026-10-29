@@ -40,8 +40,10 @@ quellen:
   fundstelle: maintenance/impact-liste.md, Teil D (Rechtsstand)
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
+- id: quelle:eur-lex
+  fundstelle: Konsolidierte Fassung VO (EG) 1223/2009 vom 18.05.2026
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Funktion laut Quelle
 Antimikrobieller Wirkstoff in kosmetischen Antischuppenmitteln gegen fettige Schuppen und Seborrhoe (Ellsässer); in
@@ -49,7 +51,7 @@ Tab. 9.1 als antischuppen- und antiseptisch wirksam geführt. Das Lexikon nennt 
 
 ## Rechtsstand
 Anhang V Nr. 35 der VO (EG) 1223/2009: höchstens 1,0 % in auszuspülenden Mitteln, 0,5 % in sonstigen Mitteln
-(Stand der konsolidierten Fassung vom 18.05.2026, übernommen aus `maintenance/impact-liste.md`, Teil D). Die Listung in
+[Sicher, am EUR-Lex-Text der konsolidierten Fassung vom 18.05.2026 erneut geprüft]. Die Listung in
 Anhang V bezieht sich auf die Konservierung; als Antischuppenwirkstoff wird er innerhalb dieser Grenzen eingesetzt
 [Vermutung, eigene Einordnung].
 
@@ -72,3 +74,4 @@ Kombinationen. Impact `mittel`: seit dem Zinkpyrithion-Verbot der wichtigste kos
 
 ## Änderungslog
 - 2026-10-28: Datei angelegt (bisher nur Zeile in der Impact-Liste), Ellsässer Kap. 9 und PubMed-Recherche.
+- 2026-10-29: Anhang V Nr. 35 am EUR-Lex-Text erneut geprüft.
