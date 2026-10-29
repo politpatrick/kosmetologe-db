@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-29 – Prüfrunde 4 am Original (Herrmann/Trinkkeller, 21 Behandlungen)
+- Alle 21 `behandlung:`-Einträge gegen das Original abgeglichen (Kap. 5, 27, 28–31) und auf `geprueft` gesetzt
+- Korrekturen: Dermabrasion hatte das Keloid als Indikation (laut Quelle hypertrophe Narben; Keloid ist ein Risiko);
+  OLG-Karlsruhe-Urteil bei Botox falsch zugeordnet; Milienentfernung laut Quelle ausdrücklich Aufgabe der Kosmetikerin;
+  Kryotherapie und Fadenlifting nicht als „ärztlich“ in der Quelle (jetzt als eigene Einordnung); nicht belegte
+  Indikationen und Kontraindikationen als eigene Ergänzung markiert (Ausreinigung, Permanent Make-up, Mikrodermabrasion)
+- Ergänzt aus dem Original: u. a. Aufklärung bei Akne, LSF bei medizinischer Schminke, TCA-Peeling-Ablauf,
+  Kryotherapie-Technik, Haltbarkeit der Haarentfernungsmethoden, Laser-Nachbehandlung, Camouflage-Pause nach Laser,
+  Pigmentarten beim Permanent Make-up
+- Hinweise zur Quelle: Laser-Rechtslage (durch NiSV überholt), verstümmelter Satz zum OLG-Urteil bei Fillern,
+  „hypertrophe“ Aknenarben beim Microneedling, Liste komedogener Stoffe, Sonnenbäder gegen Akne, IPL-Bewertung
+
 ## 2026-10-29 – Prüfrunde 3 am Original (Herrmann/Trinkkeller, Nägel, Hautparasiten, Lupus)
 - 13 `haut:`-Einträge aus Übertrag Runde 9 gegen das Original abgeglichen (Kap. 1.3.2, 11, 22, 23.1) und auf `geprueft` gesetzt
 - Keine sachlichen Fehler gefunden; korrigiert: Biotin bei nachgewiesenem Mangel steht im Buch (war als eigene Ergänzung

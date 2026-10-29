@@ -35,7 +35,8 @@ quellen:
   fundstelle: Kap. 27.12, S. 227–233
 - id: quelle:bmukn-nisv-faq
   fundstelle: FAQ C.01, C.03
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-29
 aktualisiert: '2026-10-29'
 ---
 ## Methoden
@@ -63,3 +64,16 @@ Rechtsrahmen: Seit 2021 regelt die NiSV (Verordnung zum Schutz vor schädlichen 
 - Nadelepilation per Thermolyse (Hochfrequenz): Fachkunde nach § 6 Abs. 1 NiSV [Wahrscheinlich].
 - Galvanische Nadelepilation (Gleichstrom): Betreiberpflichten nach § 3 NiSV, keine besondere Fachkunde [Wahrscheinlich,
   übertragen aus FAQ C.03 zur Iontophorese]. Details in `recht:nisv`.
+
+## Ergänzt nach Abgleich mit dem Original
+- Haltbarkeit laut Quelle: Zupfen etwa 8 Tage, Enthaarungscreme bis 2 Wochen, Epilierer 3–4 Wochen, Wachs 6–8 Wochen,
+  Sugaring bis 6 Wochen.
+- Enthaarungscremes enthalten Thioglykolsäure und sind stark alkalisch: gründlich abwaschen, leicht nachsäuern; Vorsicht
+  in Achsel und Intimbereich. Bleichcreme mit Wasserstoffperoxid nur für Flaumhaar.
+- Laser: 4–6 Sitzungen, vorher ärztliche Untersuchung; nach 1–2 Jahren oft Nachbehandlung, eine wirklich dauerhafte
+  Enthaarung gibt es auch mit Laser nicht. Sonne und Solarium einige Wochen vorher und nachher meiden.
+- Bei Hirsutismus mit der Gynäkologie zusammenarbeiten.
+
+## Hinweis zur Quelle
+Die Quelle hält IPL für noch nicht ausreichend untersucht (Stand 2020); IPL ist heute in der Haarentfernung verbreitet
+und nach NiSV geregelt (eigene Ergänzung).

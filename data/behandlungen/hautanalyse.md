@@ -24,8 +24,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 5, S. 60–63
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Anamnese
 - Angeboren oder erworben? Ähnliche Probleme in der Familie?
@@ -42,3 +43,14 @@ aktualisiert: '2026-10-28'
 ## Behandlungsplan
 Erreichbare Teilziele festlegen, passende Mittel wählen, bei Erkrankungen mit der Hautärztin oder dem Hautarzt abstimmen.
 Grundsatz der Quelle: Viel hilft nicht viel.
+
+## Ergänzt nach Abgleich mit dem Original
+- Als Hilfsmittel nennt die Quelle auch Dermatoskop und Woodlampe sowie Messgeräte für Hautfarbe, Feuchtigkeit, Talg,
+  pH-Wert und Rauigkeit. Subjektive Befunde erhebt auch die behandelnde Person (Gesamteindruck, Auftreten).
+- Keine leichtfertigen Einschätzungen oder Ratschläge geben; aufmerksam zuhören stärkt das Vertrauen.
+- Verfügbare Mittel im Behandlungsplan: Medikamente, physikalisch-manuelle und operative Therapie, Psychotherapie,
+  Pflege, Änderung des Lebensstils.
+
+## Hinweis zur Quelle
+Die Quelle stellt Messgeräte einzelner Hersteller vor und schreibt, aus der Hautfarbmessung lasse sich die Sonnenzeit
+ohne Lichtschutz ableiten. Für eine solche Empfehlung reicht eine Farbmessung nicht aus (eigene Einordnung).
