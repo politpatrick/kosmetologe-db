@@ -10,7 +10,7 @@ kategorie: erkrankung
 merkmale:
 - sehr starker Juckreiz, besonders in der Bettwärme
 - kleine juckende Knötchen
-- feine Milbengänge, z. B. zwischen den Fingern
+- feine Milbengänge, unter der Lupe sichtbar
 kosmetisch_behandelbar: nein
 aerztlich_abklaeren:
 - jeder Verdacht
@@ -27,8 +27,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 22.2.1, S. 179
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Die Weibchen graben flache Gänge in die Hornschicht und legen dort ihre Eier ab. Übertragung durch engen Körperkontakt
@@ -37,3 +38,8 @@ und Wäsche. Das Gesicht bleibt meist frei. Kratzen führt zu Ekzem und bakterie
 ## Praxis
 - Bei Verdacht keine Behandlung durchführen; ärztlich abklären lassen.
 - Liegen, Handtücher und Textilien wechseln und heiß waschen; Hände desinfizieren (eigene Ergänzung).
+
+## Ergänzt nach Abgleich mit dem Original
+- Die Krätzmilbe ist etwa 0,3 mm groß; nur die Weibchen leben in der Hornschicht, die Männchen auf der Oberfläche.
+- Ohne Behandlung kann sich der Befall ausbreiten und chronisch werden.
+- Typische Stellen wie die Fingerzwischenräume nennt die Quelle nicht (eigene Ergänzung, daher aus den Merkmalen entfernt).
