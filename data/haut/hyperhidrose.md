@@ -25,8 +25,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 10.1, S. 88–89
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Beginnt meist in der Pubertät. Neben Veranlagung und Aufregung kommen Stoffwechselerkrankungen wie Diabetes
@@ -37,4 +38,18 @@ kann es weiter verstärken. Einseitiges Schwitzen weist eher auf eine Nervenstö
 - Erste Wahl laut Quelle: Antitranspirantien mit Aluminiumchlorid, abends aufgetragen; sie können die Haut reizen.
   Einen Zusammenhang mit Nieren- oder Brustkrebserkrankungen sieht die Quelle nicht belegt.
 - Geruchshemmende Deos ohne Schweißhemmung (z. B. mit Triethylcitrat oder Zinkricinoleat) als Alternative.
-- Iontophorese und Operationen sind ärztliche Verfahren; eine Operation ist laut Quelle letzte Wahl.
+- Iontophorese ist laut Quelle der nächste Schritt, wenn Antitranspirantien nicht reichen: mehrmals pro Woche etwa
+  20 Minuten; Heimgeräte stellen Krankenkassen auf ärztlichen Antrag. Im Studio gelten die Betreiberpflichten der NiSV
+  (siehe `behandlung:iontophorese`).
+- Botulinumtoxin ist laut Quelle erste Wahl bei Achselschweiß (ärztlich, Selbstzahlerleistung).
+- Operationen (Schweißdrüsenentfernung, Sympathektomie) sind letzte Wahl.
+
+## Ergänzt nach Abgleich mit dem Original
+- Etwa 1 % der Bevölkerung; Formen an Händen, Achseln, Füßen und Stirn, oft kombiniert; Schwitzattacken durch Stress oder Hitze.
+- Als Ursachen nennt die Quelle außerdem Übergewicht, Tuberkulose und Malaria; gustatorisches Schwitzen an Lippen, Stirn und Nase.
+
+## Hinweis zur Quelle
+- Die Quelle schreibt, Aluminium verbleibe im Körper und werde nicht ausgeschieden. Aufgenommenes Aluminium wird
+  überwiegend über die Nieren ausgeschieden (eigene Ergänzung, siehe `wirkstoff:aluminiumsalze`).
+- Die Quelle beschreibt Iontophorese im Salzbad; üblich ist Leitungswasser.
+- Die Angabe, 10 % seien wegen Antikörpern Non-Responder auf Botulinumtoxin, ist ohne Beleg [Vermutung].

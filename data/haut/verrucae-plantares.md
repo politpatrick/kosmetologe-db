@@ -23,8 +23,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 21.3.3, S. 175; Kap. 6.4, S. 67
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Abgrenzung zum Hühnerauge
 Hühneraugen haben einen glasigen Hornkern in der Mitte. Dornwarzen sind locker strukturiert und zeigen
@@ -34,3 +35,12 @@ schwarze Pünktchen.
 - Bei Verdacht keine Hornhautabtragung an der Stelle; ärztlich behandeln lassen.
 - Druckentlastung unterstützt die Heilung.
 - Häufen sich Hühneraugen oder Dornwarzen, empfiehlt die Quelle eine orthopädische Abklärung.
+
+## Ergänzt nach Abgleich mit dem Original
+- Kaum erhaben, an Druckstellen und Knochenvorsprüngen, teils mosaikartig angeordnet, meist sehr schmerzhaft.
+- Behandlung laut Quelle langwierig: Hornhaut erweichen und abtragen, dann vereisen; länger Druckschutz; Wechselbäder und
+  Fußgymnastik unterstützen.
+
+## Hinweis zur Quelle
+Die Quelle nennt periphere Durchblutungsstörungen als häufige Ursache. Ursache sind Papillomviren; Durchblutung und
+Druck begünstigen höchstens (eigene Einordnung).

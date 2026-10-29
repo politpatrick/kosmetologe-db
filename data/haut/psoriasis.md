@@ -31,7 +31,8 @@ quellen:
   fundstelle: Kap. 24.1, S. 186–188; Kap. 2.7, S. 41–42
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Psoriasis vulgaris“"
-status: entwurf
+status: geprueft
+geprueft_am: 2026-10-29
 aktualisiert: '2026-10-29'
 ---
 ## Einordnung
@@ -44,10 +45,22 @@ Gelenke oder Nägel betroffen. Diagnose ist ärztlich.
 - Schuppen mit Öl- oder Salzbädern und vorsichtiger Bürstenmassage lösen; Shampoos mit Salicylsäure oder Urea.
 - Leicht rückfettende, schnell einziehende Pflege, auch in schubfreien Zeiten.
 - Neue Produkte zuerst auf nicht befallener Haut testen; Verletzungen vermeiden, weil sie neue Herde auslösen können.
-- Merkmale in der Liste (Lokalisation, Nagelzeichen) sind teils eigene Ergänzung.
 
 ## Kosmetische Begleitbehandlung (Herrmann/Trinkkeller, Kap. 30.5)
 - Wichtigste Maßnahme ist die tägliche Basispflege mit getesteten Cremes und Salben.
 - Als Wohlfühlbehandlung schlägt die Quelle milde Reinigung (Milchsäurecreme oder mildes Grieß-Öl-Peeling), Massage mit
   Pflanzenöl und rückfettende Packungen vor; Ölbäder mit Milch gelten als angenehm (danach Rutschgefahr in der Wanne).
 - Nur auf nicht entzündeter Haut und nach Verträglichkeitstest (eigene Ergänzung).
+
+## Ergänzt nach Abgleich mit dem Original
+- Etwa 2–5 % der Europäer; die Veranlagung wird vererbt (Risiko für ein Kind bis 20 % bei einem, bis 75 % bei beiden
+  erkrankten Eltern), ausgelöst durch einen weiteren Faktor.
+- Auslöser und Verschlechterung: Verletzungen, Stress, Infekte, Schwangerschaft, Sonnenbrand, Medikamente (Betablocker,
+  ACE-Hemmer, Lithium, Tetrazykline, Malariamittel). Wolle und enge Kleidung meiden.
+- Nach Abheilung können helle Flecken bleiben (psoriatisches Leukoderm). Häufige Begleiterkrankungen: Herz-Kreislauf,
+  Stoffwechsel, Psyche.
+- Nicht ansteckend; einfühlsam begegnen, da die Lebensqualität oft stark leidet.
+
+## Hinweis zur Quelle
+Die Quelle nennt eine Gelenkbeteiligung bei einem Drittel und an anderer Stelle bei 20–25 %; der Eintrag folgt der
+vorsichtigeren Angabe.

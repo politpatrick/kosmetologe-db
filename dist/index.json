@@ -2737,7 +2737,7 @@
       "merkmale": [
         "plötzlich runde, kahle Stellen",
         "Follikelöffnungen sichtbar erhalten",
-        "manchmal Nagelveränderungen"
+        "manchmal Nagelveränderungen (Rillen, Grübchen, Rauigkeit)"
       ],
       "kosmetisch_behandelbar": "nein",
       "aerztlich_abklaeren": [
@@ -2760,8 +2760,9 @@
           "fundstelle": "Kap. 12.1.1, S. 102–104"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/alopecia-areata.md",
       "verweise_von": [
         "behandlung:permanent-make-up",
@@ -2800,8 +2801,9 @@
           "fundstelle": "Kap. 12.1.2, S. 103"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/androgenetische-alopezie.md",
       "verweise_von": [
         "behandlung:microneedling",
@@ -2896,8 +2898,9 @@
           "fundstelle": "Kap. 8.2, S. 74–75"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/besenreiser.md",
       "verweise_von": [
         "behandlung:laserbehandlung"
@@ -3051,7 +3054,7 @@
       "kategorie": "hautzustand",
       "merkmale": [
         "dünne, schlaffe, faltige Haut",
-        "Äderchen und Pigmentflecken an Lichtterrassen",
+        "Äderchen an allen lichtexponierten Stellen",
         "raue Hornauflagerungen"
       ],
       "kosmetisch_behandelbar": "eingeschraenkt",
@@ -3081,8 +3084,9 @@
           "fundstelle": "Stichwort „Lichtalterung“, „Elastose“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/chronischer-lichtschaden.md",
       "verweise_von": [
         "begriff:antioxidans",
@@ -3185,8 +3189,9 @@
           "fundstelle": "Stichwort „Bulla“, „Blase“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/effloreszenz-blaeschen.md",
       "verweise_von": [
         "haut:effloreszenz-erosion",
@@ -3227,8 +3232,9 @@
           "fundstelle": "Kap. 2.9, S. 43"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/effloreszenz-erosion.md",
       "verweise_von": [
         "haut:effloreszenz-blaeschen",
@@ -3276,8 +3282,9 @@
           "fundstelle": "Stichwort „Kruste“, „Crusta“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/effloreszenz-kruste.md",
       "verweise_von": [
         "haut:impetigo-contagiosa"
@@ -3366,8 +3373,9 @@
           "fundstelle": "Stichwort „Narbe“, „Cicatrix“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/effloreszenz-narbe.md",
       "verweise_von": [
         "behandlung:camouflage",
@@ -3493,10 +3501,11 @@
       "merkmale": [
         "beetartig erhaben, glatt",
         "hellrot bis porzellanweiß",
-        "flüchtig, verschwindet meist nach Stunden"
+        "flüchtig, bildet sich rasch zurück",
+        "rundlich, steilwandig aus der gesunden Haut erhaben"
       ],
       "kosmetisch_behandelbar": "nein",
-      "kurz": "Primäreffloreszenz: flüchtige, juckende Schwellung durch Flüssigkeit in der oberen Lederhaut; typisch für Nesselsucht.",
+      "kurz": "Primäreffloreszenz: flüchtige, beetartige Schwellung durch Flüssigkeit in der oberen Lederhaut; typisch für Nesselsucht.",
       "tags": [
         "effloreszenz",
         "primaer",
@@ -3515,8 +3524,9 @@
           "fundstelle": "Stichwort „Quaddel“, „Urtica“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/effloreszenz-quaddel.md",
       "verweise_von": [
         "haut:insektenstiche",
@@ -3560,8 +3570,9 @@
           "fundstelle": "Stichwort „Schrunde“, „Rhagade“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/effloreszenz-rhagade.md",
       "verweise_von": [
         "haut:effloreszenz-ulcus"
@@ -3577,7 +3588,7 @@
       "kategorie": "effloreszenz",
       "merkmale": [
         "abgelöste Hornzellen auf der Hautoberfläche",
-        "fein bis grob-lamellär"
+        "zart-feinlamellär bis borkenartig dick"
       ],
       "kosmetisch_behandelbar": "eingeschraenkt",
       "kurz": "Sekundäreffloreszenz: sichtbar abgestoßene Hornschicht, z. B. nach Entzündung oder bei Schuppenflechte.",
@@ -3597,8 +3608,9 @@
           "fundstelle": "Kap. 2.7, S. 41–42"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/effloreszenz-schuppe.md",
       "verweise_von": [
         "haut:psoriasis"
@@ -4013,8 +4025,9 @@
           "fundstelle": "Stichwort „Furunkel“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/follikulitis.md",
       "verweise_von": [
         "behandlung:ausreinigung",
@@ -4222,8 +4235,9 @@
           "fundstelle": "Stichwort „Gürtelrose“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/herpes-zoster.md",
       "verweise_von": [
         "haut:windpocken"
@@ -4266,8 +4280,9 @@
           "fundstelle": "Stichwort „Hirsutismus“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/hirsutismus.md",
       "verweise_von": [
         "behandlung:haarentfernung",
@@ -4310,8 +4325,9 @@
           "fundstelle": "Kap. 10.1, S. 88–89"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/hyperhidrose.md",
       "verweise_von": [
         "behandlung:botulinumtoxin",
@@ -4408,8 +4424,9 @@
           "fundstelle": "Kap. 19.2, S. 159"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/impetigo-contagiosa.md",
       "verweise_von": [
         "behandlung:ausreinigung",
@@ -4466,9 +4483,9 @@
       ],
       "kategorie": "hautzustand",
       "merkmale": [
-        "wulstig, derb, über die Wunde hinauswachsend",
+        "wulstig, plateauartig erhaben, derb",
         "rosa bis rötlich, teils mit Äderchen",
-        "häufig an Brustbein, Dekolleté, Ohren"
+        "häufig an Brustbein und Dekolleté"
       ],
       "kosmetisch_behandelbar": "nein",
       "kurz": "Überschießende Narbenbildung aus Kollagen; schwer behandelbar, bildet sich nicht zurück. Vor invasiven Eingriffen Neigung erfragen.",
@@ -4485,8 +4502,9 @@
           "fundstelle": "Kap. 2.14, S. 47–48"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/keloid.md",
       "verweise_von": [
         "behandlung:dermabrasion",
@@ -4933,8 +4951,9 @@
           "fundstelle": "Kap. 21.2.2, S. 173"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/molluscum-contagiosum.md",
       "verweise_von": [
         "haut:verrucae-vulgares"
@@ -5212,8 +5231,9 @@
           "fundstelle": "Stichwort „Nagelpilz“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/onychomykose.md",
       "verweise_von": [
         "haut:candidose",
@@ -5406,8 +5426,9 @@
           "fundstelle": "Kap. 20.7, S. 169"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/pityriasis-versicolor.md",
       "verweise_von": [
         "haut:candidose",
@@ -5430,7 +5451,7 @@
         "an lichtexponierten Stellen"
       ],
       "kosmetisch_behandelbar": "eingeschraenkt",
-      "kurz": "Juckende, unterschiedlich aussehende Hautreaktion auf Sonnenlicht; Lichtschutz und langsame Gewöhnung, ärztlich abklären.",
+      "kurz": "Juckende, unterschiedlich aussehende Hautreaktion auf Sonnenlicht; Lichtschutz, ärztlich abklären.",
       "tags": [
         "uv",
         "allergie",
@@ -5450,8 +5471,9 @@
           "fundstelle": "Stichwort „polymorphe Lichtdermatose“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/polymorphe-lichtdermatose.md",
       "verweise_von": [
         "begriff:uva-schutz",
@@ -5545,7 +5567,8 @@
           "fundstelle": "Stichwort „Psoriasis vulgaris“"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
       "aktualisiert": "2026-10-29",
       "pfad": "data/haut/psoriasis.md",
       "verweise_von": [
@@ -6072,8 +6095,9 @@
           "fundstelle": "Stichwort „Dermatitis solaris“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/sonnenbrand.md",
       "verweise_von": [
         "begriff:lichtschutzfaktor",
@@ -6273,8 +6297,9 @@
           "fundstelle": "Stichwort „Fußpilz“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/tinea-pedis.md",
       "verweise_von": [
         "haut:candidose",
@@ -6340,7 +6365,7 @@
       "aerztlich_abklaeren": [
         "Schwellung im Gesicht oder Mund",
         "Atemnot",
-        "Quaddeln über Wochen"
+        "Quaddeln über Wochen (eigene Ergänzung)"
       ],
       "kurz": "Juckende Quaddeln durch allergische oder andere Reize; Schwellung im Mund- und Rachenbereich ist ein Notfall.",
       "tags": [
@@ -6360,8 +6385,9 @@
           "fundstelle": "Stichwort „Nesselsucht“, „Quincke-Ödem“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/urtikaria.md",
       "verweise_von": [
         "haut:effloreszenz-quaddel",
@@ -6441,8 +6467,9 @@
           "fundstelle": "Kap. 21.3.3, S. 175; Kap. 6.4, S. 67"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/verrucae-plantares.md",
       "verweise_von": [
         "behandlung:kryotherapie",
@@ -6486,8 +6513,9 @@
           "fundstelle": "Stichwort „Verruca vulgaris“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/verrucae-vulgares.md",
       "verweise_von": [
         "behandlung:kryotherapie",
