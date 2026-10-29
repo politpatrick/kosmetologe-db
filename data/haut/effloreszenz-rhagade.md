@@ -26,10 +26,14 @@ quellen:
   fundstelle: Kap. 2.10, S. 44
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Schrunde“, „Rhagade“"
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Praxis
 - Vorbeugung durch rückfettende Pflege und Hornhautpflege (eigene Ergänzung).
 - Nicht abschleifen oder peelen, solange der Einriss offen ist.
 - Vorkommen an Händen, Fersen und Mundwinkeln ist eigene Ergänzung; die Quelle nennt den Übergang Haut–Schleimhaut (Fissur).
+
+## Ergänzt nach Abgleich mit dem Original
+- Beschreibung am Original bestätigt; ein breiterer und tieferer Defekt wird zum Geschwür (`haut:effloreszenz-ulcus`).

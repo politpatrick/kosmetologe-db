@@ -19,10 +19,16 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 21.2.2, S. 173
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Praxis
 - Nicht ausdrücken oder behandeln: Schmierinfektion über kleine Hautdefekte.
 - Entfernung ist ärztlich (z. B. Kürettage, Kälte).
 - Merkmal „zentrale Delle“ ist eigene Ergänzung.
+
+## Ergänzt nach Abgleich mit dem Original
+- Erreger ist ein Pockenvirus (Molluscipoxvirus); betroffen vor allem Jungen und Jugendliche, bei Erwachsenen meist
+  der Genitalbereich. Spontanheilung nach etwa 6–8 Monaten.
+- Ärztliche Verfahren laut Quelle: Kürettage, Vereisung, Farbstofflaser, Kalilauge, Imiquimod, Cantharidin.

@@ -27,10 +27,17 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 19.2, S. 159
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Praxis
-- Ansteckend, solange Herde offen oder verkrustet sind: keine Behandlung, ärztlich vorstellen.
+- Keine Behandlung, ärztlich vorstellen; ansteckend, solange Herde offen oder verkrustet sind (eigene Ergänzung).
 - Übertragung durch Schmierinfektion; strikte Hygiene und Desinfektion von Arbeitsfläche und Instrumenten.
 - Kinder mit Neurodermitis sind besonders gefährdet.
+
+## Ergänzt nach Abgleich mit dem Original
+- Erreger sind Streptokokken und Staphylokokken; groß- oder kleinblasige Form. Kinder dürfen in der ansteckenden Phase
+  nicht in Kita oder Schule; die Behandlung ist Ärzten vorbehalten.
+- Meist reichen Desinfektion und antibiotische Cremes; ein Abstrich bestimmt den Erreger. Seltene Folge ist eine
+  Nierenentzündung, die meist ausheilt. Die Impetigo heilt ohne Narben; Herpes simplex ärztlich ausschließen.

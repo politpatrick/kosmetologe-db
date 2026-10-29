@@ -9,7 +9,7 @@ aliase:
 kategorie: hautzustand
 merkmale:
 - dünne, schlaffe, faltige Haut
-- Äderchen und Pigmentflecken an Lichtterrassen
+- Äderchen an allen lichtexponierten Stellen
 - raue Hornauflagerungen
 kosmetisch_behandelbar: eingeschraenkt
 aerztlich_abklaeren:
@@ -30,8 +30,9 @@ quellen:
   fundstelle: Kap. 14.2, S. 122
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Lichtalterung“, „Elastose“"
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Chronische UV-Belastung verdünnt die Epidermis und schädigt Kollagen und elastische Fasern. Die Haut wird
@@ -43,4 +44,12 @@ Aktinische Keratosen und Plattenepithelkarzinome sind bei diesen Berufsgruppen a
 - Lichtschutz als tägliche Routine; pflegerisch Feuchtigkeit und Barriere stärken (eigene Ergänzung).
 
 ## Hinweis zur Quelle
+Neuere Übersichten geben für einzelne aktinische Keratosen ein jährliches Entartungsrisiko von deutlich unter 1 % an,
+über viele Jahre und viele Herde bis etwa 10 %; die 20–25 % der Quelle sind zu hoch [Vermutung, nicht mit Studie geprüft].
 Die Quelle nennt für aktinische Keratosen eine Entartungsrate von 20–25 %. Angaben in der Literatur schwanken stark; beim Review prüfen.
+
+## Ergänzt nach Abgleich mit dem Original
+- Die Epidermis wird vor allem an Handrücken und Unterarm dünner; Kollagen und elastische Fasern verlieren ihre Struktur
+  und ihr Wasserbindungsvermögen.
+- Stark lichtgeschädigte junge Haut entspricht im Aufbau der Altershaut; viele Talgdrüsen sind zerstört.
+- Als betroffene Berufe nennt die Quelle Landarbeiter, Seeleute und Dachdecker.

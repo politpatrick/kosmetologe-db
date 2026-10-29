@@ -30,8 +30,9 @@ quellen:
   fundstelle: Kap. 19.3–19.4, S. 160–161
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Furunkel“"
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Verbreitet sich durch Schmierinfektion, z. B. beim Rasieren. Schwitzen, fettige Haut, Diabetes und Immunschwäche
@@ -41,3 +42,9 @@ begünstigen sie. Wandern die Bakterien in die Tiefe, entstehen Furunkel oder Ab
 - Befallene Stellen nicht behandeln oder ausdrücken, besonders nicht an Oberlippe und Nase.
 - Nach jeder kosmetischen Behandlung desinfizieren.
 - Heilen die Pusteln nicht binnen 1–2 Wochen ab, an die Hautärztin oder den Hautarzt verweisen.
+
+## Ergänzt nach Abgleich mit dem Original
+- Meist im Bart, hoch ansteckend, Übertragung auf andere behaarte Stellen beim Rasieren.
+- Verschmelzen mehrere Furunkel, entsteht ein Karbunkel; gehäufte Furunkel (Furunkulose) betreffen besonders Diabetiker
+  und Nierenkranke. Große, tiefe Furunkel werden chirurgisch eröffnet.
+- Hefepilzbedingte Follikulitis braucht ein Antimykotikum.

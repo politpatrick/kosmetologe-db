@@ -29,8 +29,9 @@ quellen:
   fundstelle: Kap. 2.3, S. 36–38
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Bulla“, „Blase“"
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Je nach Lage unterscheidet man Bläschen in der Hornschicht, direkt darunter, innerhalb der Epidermis und unter der
@@ -38,4 +39,10 @@ Basalmembran. Oberflächliche Bläschen entstehen oft durch Pilze, Bakterien ode
 (z. B. Herpes) oder Autoimmunerkrankungen. Platzt ein Bläschen, bleibt eine Erosion.
 
 ## Praxis
-- Bläschen nicht öffnen und den Bereich nicht behandeln; unklare oder gruppierte Bläschen ärztlich abklären lassen.
+- Bläschen nicht öffnen und den Bereich nicht behandeln; unklare oder gruppierte Bläschen ärztlich abklären lassen
+  (Praxisregeln und Warnzeichen sind eigene Ergänzung).
+
+## Ergänzt nach Abgleich mit dem Original
+- Die Quelle unterscheidet vier Lagen: in der Hornschicht (Pilze, Bakterien, Reibung), direkt darunter (Bakterien, Pilze,
+  Schmutz), innerhalb der Epidermis (z. B. Herpes simplex oder Pemphigus mit sich lösenden Zellen) und unter der
+  Basalmembran (z. B. bullöses Pemphigoid).

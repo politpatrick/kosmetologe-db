@@ -12,6 +12,8 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] Übertrag Runde 1: Herrmann/Trinkkeller → 19 `haut:`-Einträge (2026-10-28)
 - [x] Übertrag Runde 2: Herrmann/Trinkkeller → 27 weitere `haut:`-Einträge (2026-10-28)
 - [x] Übertrag Runde 13: Herrmann/Trinkkeller → Ulcus/Ekthyma, Ichthyosis, Feuermal, Hämangiom, Erysipel, Candidose, Windpocken, Dermatomyositis, Sklerodermie (2026-10-28)
+- [x] Prüfrunde 2 am Original: 27 `haut:`-Einträge aus Übertrag Runde 2 auf `geprueft` (2026-10-29)
+- [ ] Weitere Prüfrunden: noch 34 `haut:`-, 85 `wirkstoff:`-, 21 `behandlung:`-, 20 `begriff:`-, 14 `formulierung:`-Entwürfe (Vorschlag nächste Runde: Nägel und Parasiten aus Runde 9, dann Behandlungen aus Runde 6)
 - [x] Übertrag Runde 14: Herrmann/Trinkkeller Kap. 28–30 → Grundlagen, Rezepturen (Bauprinzip), Masken/Packungen, Pflege nach Lebensalter (2026-10-29)
 - [ ] Herrmann/Trinkkeller offen: Allergie-Grundlagen, Kap. 25–26, Angiom und Spinnennaevus (Kap. 8.6–8.7)
 - [x] Übertrag Runde 3: Ellsässer → 6 `haut:` und 9 `begriff:` (2026-10-28)

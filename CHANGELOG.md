@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-29 – Prüfrunde 2 am Original (Herrmann/Trinkkeller, 27 `haut:`-Einträge aus Runde 2)
+- Alle 27 Einträge Seite für Seite gegen das Original abgeglichen und auf `geprueft` gesetzt (geprueft_am 2026-10-29)
+- Korrekturen: Iontophorese bei Hyperhidrose nicht „ärztlich“ (Heimgerät, im Studio NiSV-Betreiberpflichten), Krusten nicht
+  „ärztlich“ ablösen, Quaddel ohne erfundene Zeitangabe, Keloid-Abgrenzung und Lokalisation als eigene Ergänzung markiert,
+  Besenreiser (Progesteronmangel), Lichtschaden (keine „Pigmentflecken an Lichtterrassen“ in der Quelle)
+- Ergänzt aus dem Original: u. a. Lagen der Bläschen, Narbenpflege mit LSF 50, Botulinumtoxin und Iontophorese bei
+  Hyperhidrose, fototoxische Reaktionen, Dermatografismus und hereditäres Angioödem, Mikroverletzungen bei der Fußpflege
+  als Eintrittspforte für Nagelpilz, Auslöser-Medikamente bei Psoriasis
+- Neue Hinweise zur Quelle: Aluminium-Ausscheidung, Finasterid-Wirkweise, Entartungsrate aktinischer Keratosen,
+  Ansteckung bei Kleienpilzflechte (aufgelöst), Impfempfehlungen Zoster und HPV, falsch zugeordnete Therapieangaben beim Hirsutismus
+- Fehlende Kennzeichnungen „eigene Ergänzung“ nachgetragen
+
 ## 2026-10-29 – Recht: offene Rechtsfragen am Primärtext geprüft
 - REACH D4/D5/D6 (VO (EU) 2024/1328) am Amtsblatt gegengelesen und **korrigiert**: für Kosmetik gilt außer bei D4/D5 in
   abwaschbaren Mitteln der Stichtag nach dem 6.6.2027 (nicht 6.6.2026); Eintrag jetzt `geprueft`

@@ -25,13 +25,23 @@ quellen:
   fundstelle: Kap. 12.2.1–12.2.2, S. 104
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Hirsutismus“"
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Abgrenzung
-- **Hypertrichose:** verstärkte, aber typisch weibliche Behaarung, oft familiär; auch als Nebenwirkung von Kortison oder Ciclosporin.
+- **Hypertrichose:** verstärkte, aber typisch weibliche Behaarung, oft familiär; seltene Ursache sind Nebennierentumoren,
+  außerdem Nebenwirkung von Kortison oder Ciclosporin.
 - **Hirsutismus:** Behaarung nach männlichem Muster; kann auf hormonbildende Tumoren oder Arzneimittel (Anabolika, Kontrazeptiva) zurückgehen.
 
 ## Praxis
 - Neu auftretenden Hirsutismus immer ärztlich abklären lassen.
 - Haarentfernung kosmetisch durch Wachs, Bleichen, Elektro- oder Laserepilation (je nach Berufsrahmen).
+
+## Ergänzt nach Abgleich mit dem Original
+- Behandlung der Hypertrichose laut Quelle: Elektro-, Wachs- und Laserepilation, Bleichen; eine Creme, die das Enzym
+  Ornithindecarboxylase hemmt (Eflornithin, ärztlich verordnet), hilft etwa einem Drittel, nach Absetzen wächst das Haar wieder.
+
+## Hinweis zur Quelle
+Im Abschnitt Hirsutismus stehen Therapieangaben (Estradiol auf die Kopfhaut, Permanent-Make-up zur Haarverdichtung),
+die offensichtlich zum Haarausfall gehören; sie sind hier nicht übernommen.

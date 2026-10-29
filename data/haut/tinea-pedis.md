@@ -24,8 +24,9 @@ quellen:
   fundstelle: Kap. 20.1.1, S. 164
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Fußpilz“"
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Laut Quelle sind 10–20 % der Bevölkerung betroffen. Begünstigend wirken feuchtes Milieu, Durchblutungs- und
@@ -35,3 +36,7 @@ Stoffwechselstörungen wie Diabetes, häufige Antibiotikagaben, Rauchen und Bewe
 - Bei Verdacht keine Fußpflegebehandlung an befallenen Stellen; ärztliche Diagnose und Antimykotikum.
 - Hygiene: Instrumente desinfizieren, Textilien heiß waschen, Zehenzwischenräume trocken halten.
 - Klinisches Bild in den Merkmalen ist eigene Ergänzung.
+
+## Ergänzt nach Abgleich mit dem Original
+- Erreger sind vor allem Trichophyton-Arten (Fadenpilze).
+- Diagnose ärztlich über Kultur, Mikroskopie oder PCR.

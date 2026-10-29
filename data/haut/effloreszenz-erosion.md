@@ -24,8 +24,9 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 2.9, S. 43
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Bei der Erosion fehlen nur obere Epidermisschichten, etwa nach einer Abschürfung oder einem geplatzten Bläschen.
@@ -34,3 +35,8 @@ Die Exkoriation reicht bis in die Lederhaut und eröffnet kleine Gefäße. Darum
 ## Praxis
 - Selbst aufgekratzte Akneläsionen sind Exkoriationen: Narbenrisiko ansprechen.
 - Offene Stellen von Behandlungen aussparen.
+- Beide Praxispunkte sind eigene Ergänzung.
+
+## Ergänzt nach Abgleich mit dem Original
+- Laut Quelle blutet eine Erosion nie, eine Exkoriation immer, weil die Gefäße in den Papillenspitzen eröffnet werden.
+- Die Erosion glänzt feucht durch austretende seröse Flüssigkeit.
