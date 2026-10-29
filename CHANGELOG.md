@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-29 – Übertrag aus Büchern, Runde 14 (Herrmann/Trinkkeller Kap. 28–30 → Grundlagen, Rezepturen, Pflege nach Lebensalter)
+- Neue Formulierungen: dermatologische Grundlagen (Mischungsdreieck: Lösung, Creme, Salbe, Puder, Paste, Schüttelmixtur),
+  Individualrezepturen als Bauprinzip (ohne Mengenangaben, mit Abgrenzung Kosmetik/Arzneimittel)
+- Neue Behandlung: Masken, Packungen und Kompressen mit Kontraindikationen
+- Neuer Begriff: Grundregeln der Hautpflege nach Lebensalter (Reinigung, Hautschutz, Baby- bis Altershaut, chronische Hauterkrankungen)
+- Ergänzt: Babyhaut, reife Haut, fettige Haut (jugendliche Haut), Psoriasis; Camouflage verweist auf `haut:naevus-flammeus`
+- Hinweise zur Quelle: 1000-Dalton-Grenze, „zehnmal dünnere“ Babyhaut, Sonnenbäder gegen Akne, 10-%-Grenze für AHA,
+  Hydrochinon-Rezepturen nur als Arzneimittel
+
 ## 2026-10-28 – Übertrag aus Büchern, Runde 13 (Herrmann/Trinkkeller → seltenere Hautbilder)
 - 9 neue `haut:`-Einträge direkt aus dem Original: Ulcus mit Ekthyma (Effloreszenzenlehre damit vollständig), Ichthyosis,
   Feuermal, Hämangiom, Erysipel, Candidose, Windpocken, Dermatomyositis, Sklerodermie

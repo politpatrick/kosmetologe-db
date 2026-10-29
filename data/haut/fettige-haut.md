@@ -22,6 +22,7 @@ tags:
 - seborrhoe
 - talgdruese
 verwandt:
+- begriff:hautpflege-grundregeln
 - haut:akne-vulgaris
 - haut:mischhaut
 - begriff:komedogenitaet
@@ -33,8 +34,10 @@ quellen:
   fundstelle: Kap. 2.7.5, S. 39–40; Kap. 7.1.2 und 7.1.4, S. 192–195
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Seborrhoea oleosa“, „unreine Haut“"
+- id: quelle:herrmann-trinkkeller-dermatologie
+  fundstelle: Kap. 30.2, S. 263–264
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Einordnung
 Die vermehrte Talgproduktion macht die Haut widerstandsfähig, begünstigt aber Mitesser. Reagiert der Follikelkanal
@@ -47,3 +50,10 @@ oder offener Komedo entsteht. Unreine Haut mit Mitessern und einzelnen Pusteln g
 - Gesichtswasser zum Nachreinigen; antibakterielle Zusätze bremsen Entzündungen.
 - Leichte, nicht komedogene Pflege ohne Rückfetter; Augen- und Lippenpartie aussparen.
 - Bei beginnender Akne früh dermatologisch behandeln lassen.
+
+## Jugendliche Haut (Herrmann/Trinkkeller, Kap. 30.2)
+- Hormonumstellung in der Pubertät steigert die Talgbildung; Komedonen und Entzündungen an Gesicht, Rücken, Dekolleté.
+- Reinigung mit Gelen, Schäumen oder Syndets, Nachreinigung mit alkoholhaltigem Gesichtswasser, gelegentlich Heilerdemaske.
+- Pflegecremes sind laut Quelle in dieser Phase meist unnötig; Lichtschutz als Gel oder Spray.
+- Keine Selbstmanipulation.
+- Die Empfehlung der Quelle zu gelegentlichen Sonnenbädern wird heute nicht mehr geteilt (eigene Ergänzung).

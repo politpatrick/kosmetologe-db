@@ -12,7 +12,8 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] Übertrag Runde 1: Herrmann/Trinkkeller → 19 `haut:`-Einträge (2026-10-28)
 - [x] Übertrag Runde 2: Herrmann/Trinkkeller → 27 weitere `haut:`-Einträge (2026-10-28)
 - [x] Übertrag Runde 13: Herrmann/Trinkkeller → Ulcus/Ekthyma, Ichthyosis, Feuermal, Hämangiom, Erysipel, Candidose, Windpocken, Dermatomyositis, Sklerodermie (2026-10-28)
-- [ ] Herrmann/Trinkkeller offen: Allergie-Grundlagen, Kap. 25–26, 28–30 (Rezepturen nur als Bauprinzip, Pflege im Alter); Angiom und Spinnennaevus (Kap. 8.6–8.7); erledigt: Nägel, Epizoonosen, Lupus, seltenere Hautbilder (2026-10-28)
+- [x] Übertrag Runde 14: Herrmann/Trinkkeller Kap. 28–30 → Grundlagen, Rezepturen (Bauprinzip), Masken/Packungen, Pflege nach Lebensalter (2026-10-29)
+- [ ] Herrmann/Trinkkeller offen: Allergie-Grundlagen, Kap. 25–26, Angiom und Spinnennaevus (Kap. 8.6–8.7)
 - [x] Übertrag Runde 3: Ellsässer → 6 `haut:` und 9 `begriff:` (2026-10-28)
 - [ ] Ellsässer offen: Tenside und Emulgatorklassen, Gelbildner, Lipidkomponenten, Peelings, Wirkstoffe aus Kap. 4 abgleichen, Sonnenberatung und Pigmentierungstypen, Deo (Kap. 10), Naturkosmetik und kritisch bewertete Stoffe (Kap. 1.3–1.4); Kap. 9 offen: Haarfarben (9.4), Haarausfall-Pflege (9.5), Rasur und Haarentfernung (9.6–9.7), Nagelpflege (9.8)
 - [x] Übertrag Runde 4: Tadros → 7 `formulierung:` und 3 `begriff:` (2026-10-28)
@@ -26,7 +27,7 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] Übertrag Runde 6: Herrmann/Trinkkeller Kap. 5 und 27 → 10 `behandlung:` und Praxishygiene (2026-10-28)
 - [x] `recht:nisv` angelegt (2026-10-28); offen: Nadelepilation und Iontophorese einordnen — (Laser, IPL, Hochfrequenz; Arztvorbehalt und Fachkunde) und mit Laser-, Haarentfernungs- und Narbeneinträgen verknüpfen
 - [x] `recht:taetowiermittel` angelegt (2026-10-28); offen: Grenzwerte Eintrag 75 am EUR-Lex-Text prüfen — (Tätowiermittel-Verordnung, REACH-Beschränkung Tätowierfarben) für Permanent Make-up
-- [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11), Kap. 30 (Pflege im Alter); Kap. 31 erledigt (2026-10-28)
+- [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11); Kap. 31 erledigt (2026-10-28)
 - [x] Übertrag Runde 7: Ellsässer Kap. 4 → 12 Wirkstoffe aus Impact-Liste Abschnitt B (2026-10-28)
 - [x] Übertrag Runde 12: Ellsässer Kap. 9.1–9.3 → Haarkosmetik (4 haut, 2 formulierung, 2 begriff, 3 Wirkstoffe mit PubMed) (2026-10-28)
 - [ ] Rechtsstand prüfen: Zinkpyrithion (Anhang II seit 2022, VO (EU) 2021/1902), Selendisulfid (Anhang III, 1 %), Steinkohlenteer (Anhang II)

@@ -14,7 +14,7 @@ indikation:
 - haut:teleangiektasien
 - haut:effloreszenz-narbe
 - haut:chronischer-lichtschaden
-- Feuermal
+- haut:naevus-flammeus
 - Tätowierungen
 kontraindikation:
 - offene Wunden
@@ -33,7 +33,7 @@ quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.16, S. 238–239; Kap. 27.6–27.7, S. 219–220
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-10-29'
 ---
 ## Technik
 - Rötungen erst grün grundieren, dann den Hautton auftragen; mehrere Farben schichten oder nebeneinander setzen.
