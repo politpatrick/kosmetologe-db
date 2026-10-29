@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-29 – Prüfrunde 3 am Original (Herrmann/Trinkkeller, Nägel, Hautparasiten, Lupus)
+- 13 `haut:`-Einträge aus Übertrag Runde 9 gegen das Original abgeglichen (Kap. 1.3.2, 11, 22, 23.1) und auf `geprueft` gesetzt
+- Keine sachlichen Fehler gefunden; korrigiert: Biotin bei nachgewiesenem Mangel steht im Buch (war als eigene Ergänzung
+  markiert), Fingerzwischenräume bei Krätze sind eigene Ergänzung (aus den Merkmalen entfernt)
+- Ergänzt aus dem Original: Formen der Weißverfärbung, Zinkmangel und Medikamente als Ursache von Nagelverfärbungen,
+  Wassergehalt des Nagels und weiche Nägel, Phenol-Matrixverödung, Krankheitsübertragung durch Läuse, Borreliose-Verlauf,
+  Autoantikörper und Zwillingsrisiko beim Lupus
+- Hinweise zur Quelle: widersprüchliche Biotin-Empfehlung, Gelatinekuren, Schmetterlingserythem beim diskoiden Lupus
+
 ## 2026-10-29 – Prüfrunde 2 am Original (Herrmann/Trinkkeller, 27 `haut:`-Einträge aus Runde 2)
 - Alle 27 Einträge Seite für Seite gegen das Original abgeglichen und auf `geprueft` gesetzt (geprueft_am 2026-10-29)
 - Korrekturen: Iontophorese bei Hyperhidrose nicht „ärztlich“ (Heimgerät, im Studio NiSV-Betreiberpflichten), Krusten nicht

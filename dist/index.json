@@ -2937,8 +2937,9 @@
           "fundstelle": "Kap. 11.2.3–11.2.4, S. 95; Kap. 1.3.2, S. 29–30"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/bruechige-naegel.md",
       "verweise_von": [
         "haut:onycholyse"
@@ -3755,8 +3756,9 @@
           "fundstelle": "Kap. 11.2.10, S. 99"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/eingewachsener-nagel.md",
       "verweise_von": [
         "haut:paronychie",
@@ -4467,8 +4469,9 @@
           "fundstelle": "Kap. 22.1.2–22.1.3, S. 179"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/insektenstiche.md",
       "verweise_von": []
     },
@@ -4607,8 +4610,9 @@
           "fundstelle": "Kap. 22.1.1, S. 178"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/kopflaeuse.md",
       "verweise_von": [
         "haut:skabies"
@@ -4717,8 +4721,9 @@
           "fundstelle": "Kap. 23.1, S. 182"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/lupus-erythematodes.md",
       "verweise_von": [
         "haut:dermatomyositis",
@@ -5049,8 +5054,9 @@
           "fundstelle": "Kap. 11.1, S. 94; Kap. 1.3.2, S. 30"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/nagelverfaerbung.md",
       "verweise_von": [
         "haut:onycholyse",
@@ -5189,8 +5195,9 @@
           "fundstelle": "Kap. 11.2.2, S. 95"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/onycholyse.md",
       "verweise_von": [
         "haut:bruechige-naegel",
@@ -5281,8 +5288,9 @@
           "fundstelle": "Kap. 11.2.12, S. 100"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/paronychie.md",
       "verweise_von": [
         "haut:candidose",
@@ -5967,7 +5975,7 @@
       "merkmale": [
         "sehr starker Juckreiz, besonders in der Bettwärme",
         "kleine juckende Knötchen",
-        "feine Milbengänge, z. B. zwischen den Fingern"
+        "feine Milbengänge, unter der Lupe sichtbar"
       ],
       "kosmetisch_behandelbar": "nein",
       "aerztlich_abklaeren": [
@@ -5991,8 +5999,9 @@
           "fundstelle": "Kap. 22.2.1, S. 179"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/skabies.md",
       "verweise_von": [
         "haut:kopflaeuse"
@@ -6341,8 +6350,9 @@
           "fundstelle": "Kap. 11.2.11, S. 99"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/uhrglasnagel.md",
       "verweise_von": []
     },
@@ -6428,8 +6438,9 @@
           "fundstelle": "Kap. 11.2.6–11.2.7, S. 96–98"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/verdickte-naegel.md",
       "verweise_von": [
         "haut:zangennagel"
@@ -6650,8 +6661,9 @@
           "fundstelle": "Kap. 11.2.8–11.2.9, S. 98–99"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/zangennagel.md",
       "verweise_von": [
         "haut:eingewachsener-nagel",
@@ -6693,8 +6705,9 @@
           "fundstelle": "Kap. 22.2.2, S. 179–180"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-10-29",
+      "aktualisiert": "2026-10-29",
       "pfad": "data/haut/zeckenstich.md",
       "verweise_von": []
     },

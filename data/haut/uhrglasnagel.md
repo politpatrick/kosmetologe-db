@@ -23,9 +23,14 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 11.2.11, S. 99
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+geprueft_am: 2026-10-29
+aktualisiert: '2026-10-29'
 ---
 ## Praxis
 Ein einzelner Uhrglasnagel findet sich gehäuft bei örtlichen Durchblutungsstörungen; symmetrisch an mehreren Fingern,
 besonders mit Blaufärbung, spricht er für Herz- oder Lungenerkrankungen. Laut Quelle immer zur fachärztlichen Abklärung schicken.
+
+## Ergänzt nach Abgleich mit dem Original
+- Symmetrische Uhrglasnägel mit Trommelschlägelfingern und Blaufärbung finden sich gehäuft bei angeborenen Herzfehlern.
+- Kosmetisch nur kürzen.
