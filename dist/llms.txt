@@ -228,9 +228,9 @@
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
 ## begriff (22)
-- `begriff:antioxidans` [Antioxidans](data/begriffe/antioxidans.md) – Stoff, der Inhaltsstoffe vor dem Ranzigwerden schützt bzw. in der Haut freie Radikale abfängt, z. B. Vitamin E und C. [entwurf]
-- `begriff:emulgator` [Emulgator](data/begriffe/emulgator.md) – Grenzflächenaktiver Stoff, der Öl und Wasser zu einer Emulsion verbindet; der HLB-Wert entscheidet, ob eine W/O- oder O/W-Emulsion entsteht. [entwurf]
-- `begriff:emulsionszerfall` [Emulsionszerfall](data/begriffe/emulsionszerfall.md) – Prozesse, durch die Emulsionen bei Lagerung entmischen: Aufrahmen, Absetzen, Flockung, Ostwald-Reifung, Koaleszenz, Phaseninversion. [entwurf]
+- `begriff:antioxidans` [Antioxidans](data/begriffe/antioxidans.md) – Stoff, der Inhaltsstoffe vor dem Ranzigwerden schützt bzw. in der Haut freie Radikale abfängt, z. B. Vitamin E und C.
+- `begriff:emulgator` [Emulgator](data/begriffe/emulgator.md) – Grenzflächenaktiver Stoff, der Öl und Wasser zu einer Emulsion verbindet; der HLB-Wert entscheidet, ob eine W/O- oder O/W-Emulsion entsteht.
+- `begriff:emulsionszerfall` [Emulsionszerfall](data/begriffe/emulsionszerfall.md) – Prozesse, durch die Emulsionen bei Lagerung entmischen: Aufrahmen, Absetzen, Flockung, Ostwald-Reifung, Koaleszenz, Phaseninversion.
 - `begriff:hautpflege-grundregeln` [Grundregeln der Hautpflege nach Lebensalter](data/begriffe/hautpflege-grundregeln.md) – Rangfolge: schonend reinigen, schützen (Licht, Kälte, Druck, Auslaugung), gezielt pflegen, angemessen kaschieren; Pflege richtet sich nach Hautzustand und Lebensalter, Überpflege schadet. [entwurf]
 - `begriff:hlb-wert` [HLB-Wert](data/begriffe/hlb-wert.md) – Kennzahl (0–20) für das Verhältnis hydrophiler zu lipophiler Anteile eines Emulgators; bestimmt O/W- oder W/O-Tendenz.
 - `begriff:hydrolipidfilm` [Hydrolipidfilm](data/begriffe/hydrolipidfilm.md) – Emulsionsartiger Film aus Talg, Schweiß und Hautlipiden auf der Hornschicht; schützt vor Austrocknung und Chemikalien. [entwurf]
