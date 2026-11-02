@@ -2,7 +2,7 @@
 
 ## 2026-11-02 – Wöchentliche Prüfung
 - Geprüft und auf `geprueft` gesetzt: `begriff:antioxidans`, `begriff:emulgator`, `begriff:emulsionszerfall`
-- `recht:nisv` am amtlichen Text und an der FAQ geprüft, korrigiert, Status bleibt `entwurf`: keine ausdrückliche Schriftform der
+- `recht:nisv` am amtlichen Text und an der FAQ geprüft, korrigiert und auf `geprueft` gesetzt: keine ausdrückliche Schriftform der
   Einwilligung, Ultraschall-Vorbehalt ohne Weiterbildungszusatz im Wortlaut, Grundlagenmodul Haut vollständig; ergänzt um
   Kryolipolyse (FAQ C.05) und ärztliche Delegation (FAQ D)
 - `recht:taetowiermittel`: TätoV am amtlichen Text korrigiert; REACH-Abschnitt nicht am Primärtext prüfbar, Status bleibt `entwurf`

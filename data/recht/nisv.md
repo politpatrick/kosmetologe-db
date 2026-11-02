@@ -16,7 +16,8 @@ quellen:
     fundstelle: "§§ 1–13, Anlage 3 Teil A Abschnitt 3 (Text gelesen 2026-11-02)"
   - id: quelle:bmukn-nisv-faq
     fundstelle: "FAQ C.01–C.05, D.01–D.05 (Abschnitte Stand 11.03.2024, Seite aktualisiert 04.08.2025, gelesen 2026-11-02)"
-status: entwurf
+status: geprueft
+geprueft_am: 2026-11-02
 aktualisiert: 2026-11-02
 pruefen_bis: 2027-04-30
 ---
