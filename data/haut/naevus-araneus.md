@@ -41,8 +41,6 @@ Die Quelle rät, der Kundschaft immer einen Besuch bei der Internistin oder dem 
 
 Der zweite Punkt unter `aerztlich_abklaeren` ist eigene Ergänzung.
 
-Der zweite Punkt unter `aerztlich_abklaeren` ist eigene Ergänzung.
-
 ## Behandlung laut Quelle
 Verödung wie beim Angiom. Von außen nach innen werden erst die Ausläufer im Abstand von etwa 1 mm verschlossen, zuletzt das Zentrum; wird das zuführende Gefäß mit verschlossen, genügt meist eine Sitzung.
 Rechtslage in `behandlung:gefaessveroedung`. Abdecken ist möglich (`behandlung:camouflage`, eigene Einordnung).

@@ -38,8 +38,6 @@ Anhang III Nr. 331: Angabe in der Bestandteilliste ab 0,001 % (Leave-on) bzw. 0,
 
 Die Vorsicht bei sensibler Haut ist eigene Ergänzung, abgeleitet aus der vom Lexikon genannten hautreizenden Wirkung.
 
-Die Vorsicht bei sensibler Haut ist eigene Ergänzung, abgeleitet aus der vom Lexikon genannten hautreizenden Wirkung.
-
 ## Abgrenzung
 Campher ist nicht gleichzusetzen mit den UV-Filtern auf Campherbasis (`wirkstoff:3-benzyliden-campher`, `wirkstoff:methylbenzyliden-campher`), die rechtlich eigens geregelt sind.
 
