@@ -22,9 +22,9 @@ quellen:
 - {id: 'quelle:sccs'}
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 pruefen_bis: 2027-05-01
-verwandt: ['wirkstoff:retinyl-acetat', 'wirkstoff:retinyl-palmitat']
+verwandt: ['wirkstoff:retinyl-acetat', 'wirkstoff:retinyl-palmitat', 'wirkstoff:retinal']
 ---
 Stand: 2026-10-26. Impact: hoch (Formulierungsforschung aktiv; etablierte Wirkung; seit 2024 EU-Grenzwerte).
 

@@ -27,13 +27,15 @@ verwandt:
 - haut:babyhaut
 - behandlung:laserbehandlung
 - behandlung:camouflage
+- haut:angiom
+- behandlung:gefaessveroedung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 8.5, S. 76
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: Stichwort „Hämangiom“
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Beschreibung laut Quelle
 Geschwulstartige, gutartige Wucherung von Blutgefäßen, dunkel- bis blaurot und eindrückbar; bildet sich häufig bis zum

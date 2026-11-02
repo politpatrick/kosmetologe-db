@@ -10,14 +10,14 @@ stand: Geändert durch Art. 2 V v. 12.6.2023 (BGBl. 2023 I Nr. 149)
 url: https://www.gesetze-im-internet.de/nisv/BJNR218700018.html
 kurz: Regelt gewerbliche, nichtmedizinische Anwendungen von Laser, IPL, Hochfrequenz, Ultraschall, Nieder- und Gleichstrom am Menschen – mit Arztvorbehalt für bestimmte Verfahren und Fachkundepflicht für alle anderen.
 tags: [recht, de, geraete, laser, ipl, fachkunde]
-verwandt: [behandlung:laserbehandlung, behandlung:haarentfernung, behandlung:iontophorese, behandlung:narbenbehandlung, behandlung:permanent-make-up, behandlung:microneedling, behandlung:kryolipolyse, quelle:bmukn-nisv-faq]
+verwandt: [behandlung:laserbehandlung, behandlung:haarentfernung, behandlung:iontophorese, behandlung:narbenbehandlung, behandlung:permanent-make-up, behandlung:microneedling, behandlung:kryolipolyse, quelle:bmukn-nisv-faq, behandlung:gefaessveroedung, behandlung:pigmentbehandlung]
 quellen:
   - id: quelle:gesetze-im-internet
     fundstelle: "§§ 1–9, 13, Anlage 3 (Text gelesen 2026-10-29)"
   - id: quelle:bmukn-nisv-faq
     fundstelle: "FAQ C.01–C.04, D.01 (Stand 11.03.2024)"
 status: entwurf
-aktualisiert: 2026-10-29
+aktualisiert: 2026-11-02
 pruefen_bis: 2027-04-30
 ---
 ## Geltungsbereich (§§ 1–2)

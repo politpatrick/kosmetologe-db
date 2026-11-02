@@ -26,6 +26,7 @@ verwandt:
 - wirkstoff:tocopherol
 - begriff:hydrolipidfilm
 - haut:sebostase
+- begriff:emollient
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 4.6.8, S. 107
@@ -34,7 +35,7 @@ quellen:
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Einordnung laut Quelle
 Squalen ist ein Triterpen, das in Oliven-, Argan- und Kürbiskernöl vorkommt und vom Körper selbst gebildet wird.

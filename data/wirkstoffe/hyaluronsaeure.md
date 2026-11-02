@@ -12,13 +12,13 @@ geeignet_fuer: ['haut:sebostase']
 konzentration_typisch: 0,1–1 %
 kurz: Feuchthaltemittel, das Wasser bindet; hochmolekular filmbildend auf der Oberfläche, niedermolekular tiefer in die Hornschicht.
 tags: [feuchtigkeit, humectant]
-verwandt: ['wirkstoff:glycerin']
+verwandt: ['wirkstoff:glycerin', 'begriff:humectant']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei hyaluronsaeure.md}
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: Stichwort Hyaluronsäure}
 - {id: 'quelle:pubmed'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-23. Impact: mittel (sehr verbreitet, Marketing stärker als Evidenz). Evidenzstufe: schwach bis moderat (topisch: kleine, kurze, oft herstellergesponserte Studien).
 

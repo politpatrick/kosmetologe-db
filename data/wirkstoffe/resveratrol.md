@@ -25,6 +25,7 @@ verwandt:
 - wirkstoff:gruentee
 - wirkstoff:propolis
 - begriff:antioxidans
+- wirkstoff:phytoestrogene
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 4.6.10, S. 108–110 (Tab. 4.9, Übersicht 4.9)
@@ -33,7 +34,7 @@ quellen:
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Polyphenole laut Quelle
 - Polyphenole sind sekundäre Pflanzenstoffe mit einer oder mehreren phenolischen Gruppen. Lange als Ballaststoffe

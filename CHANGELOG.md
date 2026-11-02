@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-02 – Monatliche Erweiterung (12 neue Einträge, alle `entwurf`)
+- Wirkstoffe: `wirkstoff:retinal`, `wirkstoff:phytoestrogene`, `wirkstoff:campher`, `wirkstoff:eukalyptus` (bisher fehlende Verweisziele, `evidenz: nicht-bewertet`)
+- Begriffe: `begriff:emollient`, `begriff:humectant`, `begriff:okklusion`
+- Haut: `haut:angiom`, `haut:naevus-araneus` (Herrmann/Trinkkeller Kap. 8.6–8.7)
+- Behandlungen: `behandlung:gefaessveroedung`, `behandlung:pigmentbehandlung` (Kap. 27.14 und 27.11, Rechtslage über `recht:nisv` eingeordnet)
+- Formulierung: `formulierung:rasiermittel` (Tadros Kap. 14.1)
+- Rückverweise (`verwandt`) in 48 bestehenden Einträgen ergänzt, ohne Änderung der Fachaussagen
+
 ## 2026-10-29 – Prüfrunde 4 am Original (Herrmann/Trinkkeller, 21 Behandlungen)
 - Alle 21 `behandlung:`-Einträge gegen das Original abgeglichen (Kap. 5, 27, 28–31) und auf `geprueft` gesetzt
 - Korrekturen: Dermabrasion hatte das Keloid als Indikation (laut Quelle hypertrophe Narben; Keloid ist ein Risiko);

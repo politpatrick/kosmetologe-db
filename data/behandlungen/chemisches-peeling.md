@@ -10,13 +10,13 @@ wirkstoffe: [wirkstoff:salicylsaeure]
 dauer_min: 30
 kurz: Oberflächliches Peeling mit Frucht- oder Salicylsäure; Tiefenwirkung und Konzentration bleiben im kosmetischen Rahmen.
 tags: [peeling, saeure]
-verwandt: [behandlung:dermabrasion, behandlung:narbenbehandlung, wirkstoff:aha, wirkstoff:trichloressigsaeure, begriff:lichtschutzfaktor]
+verwandt: [behandlung:dermabrasion, behandlung:narbenbehandlung, wirkstoff:aha, wirkstoff:trichloressigsaeure, begriff:lichtschutzfaktor, behandlung:pigmentbehandlung]
 quellen:
   - id: quelle:herrmann-trinkkeller-dermatologie
     fundstelle: "Kap. 27.2, S. 209–210; Kap. 27.9.2 und 27.11, S. 222, 227; Kap. 31.2.3, S. 274–275"
 status: geprueft
 geprueft_am: 2026-10-29
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 Abgrenzung: mittlere und tiefe Peelings sind ärztliche Leistungen (siehe recht:kosmetikermstrv zur Kompetenzgrenze).
 

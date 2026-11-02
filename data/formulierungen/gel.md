@@ -22,11 +22,13 @@ verwandt:
 - haut:fettige-haut
 - begriff:konservierungsmittel
 - formulierung:emulsion-ow
+- begriff:humectant
+- formulierung:rasiermittel
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 6.5, S. 172–179
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Aufbau laut Quelle
 Die Gelbildner (Quellstoffe) quellen im Lösungsmittel und bilden über Wasserstoffbrücken und Van-der-Waals-Kräfte ein

@@ -9,7 +9,7 @@ evidenz: nicht-bewertet
 impact: offen
 regulierung: ['recht:eu-kosmetikverordnung', 'recht:anhang-ii-arzneistoffe']
 kurz: Vitamin-A-Säure gegen Akne und Photoaging; als Arzneistoff in Kosmetika verboten (Anhang II Nr. 375).
-verwandt: ['wirkstoff:retinol']
+verwandt: ['wirkstoff:retinol', 'wirkstoff:retinal', 'behandlung:pigmentbehandlung']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei tretinoin.md}
 - {id: 'quelle:eur-lex'}
@@ -18,7 +18,7 @@ quellen:
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: 'quelle:tadros-formulierungen'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-26. Impact: offen (Rechtsstand geprüft, Wirksamkeit/Toxikologie nicht bewertet). Herkunft: Literatur-Wirkstoffliste (`_Literatur-Wirkstoffliste.md`), Kategorie „Vitamine und Antioxidantien“. Literaturangaben stammen aus den Projekt-Lehrbüchern; der Rechtsstand-Abschnitt stammt aus der konsolidierten VO (EG) 1223/2009 vom 18.05.2026.
 

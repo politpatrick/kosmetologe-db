@@ -9,6 +9,7 @@ evidenz: schwach
 impact: niedrig
 regulierung: ['recht:eu-kosmetikverordnung', 'recht:anhang-vi-uv-filter', 'recht:anhang-ii-arzneistoffe']
 kurz: Früherer UV-B-Filter, heute in der EU verboten (Anhang II Nr. 1379); nur noch historisch relevant.
+verwandt: [wirkstoff:campher]
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei 3-benzyliden-campher.md}
 - {id: 'quelle:eur-lex'}
@@ -17,7 +18,7 @@ quellen:
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „3-Benzylidene Camphor“'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-23. Impact: gering (Stoff in der EU verboten; nur Rechts-/Historienrelevanz). Evidenzstufe: schwach (Sicherheitsbewertung, keine Wirksamkeitsstudien relevant).
 

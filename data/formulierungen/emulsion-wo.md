@@ -8,7 +8,7 @@ bestandteile: [Ölphase, Wasserphase, W/O-Emulgator (niedriger HLB), Elektrolyt 
 stabilitaet: Sedimentation der Wassertröpfchen; Magnesiumsulfat und Wachse stabilisieren.
 kurz: Wassertröpfchen in Öl – reichhaltig, okklusiv, wasserabweisend; für trockene Haut, Nacht- und Kälteschutzpflege.
 tags: [emulsion]
-verwandt: [formulierung:emulsion-ow, begriff:hlb-wert, haut:sebostase]
+verwandt: [formulierung:emulsion-ow, begriff:hlb-wert, haut:sebostase, begriff:okklusion]
 quellen:
   - id: quelle:tadros-formulierungen
     fundstelle: Kap. 6.3–6.4, S. 114–121
@@ -17,7 +17,7 @@ quellen:
   - id: quelle:springer-lexikon-kosmetik
     fundstelle: "Stichwort „Emulsion“"
 status: entwurf
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-02
 ---
 Geprüft am 2026-10-28: Emulgatorbereich (niedriger HLB), Sedimentation als typischer Zerfallsweg und
 Einsatz bei trockener Haut sowie als Kälteschutz sind durch die Quellen gedeckt.
