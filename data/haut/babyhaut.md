@@ -23,13 +23,14 @@ verwandt:
 - haut:neurodermitis
 - haut:sonnenbrand
 - recht:anhang-vi-uv-filter
+- begriff:okklusion
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.7.11, S. 47
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 30.1, S. 262–263
 status: entwurf
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Einordnung
 Die Hornschicht ist locker und durchlässig, Talg- und Schweißdrüsen sind noch nicht voll ausgebildet,

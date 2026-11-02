@@ -9,10 +9,11 @@ stand: Geändert durch Art. 2 Abs. 83 V v. 18.1.2022 I 39
 url: https://www.gesetze-im-internet.de/kosmetikermstrv/
 kurz: Regelt die Meisterprüfung (Teile I und II) im Kosmetiker-Gewerbe und damit das berufliche Kompetenzprofil.
 tags: [recht, de, beruf, ausbildung]
+verwandt: [behandlung:gefaessveroedung]
 quellen:
   - id: quelle:gesetze-im-internet
 status: geprueft
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-02
 geprueft_am: 2026-10-28
 pruefen_bis: 2027-04-30
 ---

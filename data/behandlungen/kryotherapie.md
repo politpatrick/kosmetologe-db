@@ -24,12 +24,14 @@ tags:
 verwandt:
 - behandlung:narbenbehandlung
 - haut:aktinische-keratose
+- behandlung:gefaessveroedung
+- behandlung:pigmentbehandlung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.4, S. 211–212; Kap. 27.8, S. 220–221
 status: geprueft
 geprueft_am: 2026-10-29
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Ablauf
 Stickstoff wird per Sonde, Stempel, Wattetupfer oder Spray aufgebracht, bis sich eine weiße Eisplatte bildet;

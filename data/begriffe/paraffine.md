@@ -16,11 +16,13 @@ verwandt:
 - begriff:silikone
 - begriff:hydrolipidfilm
 - formulierung:emulsion-wo
+- begriff:emollient
+- begriff:okklusion
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 6.3.5, S. 165–166
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Eigenschaften laut Quelle
 Fettliebend, wasserabweisend und chemisch sehr stabil: Paraffine oxidieren nicht und werden nicht von Keimen befallen.

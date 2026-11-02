@@ -9,13 +9,14 @@ evidenz: nicht-bewertet
 impact: hoch
 regulierung: ['recht:eu-kosmetikverordnung', 'recht:anhang-vi-uv-filter', 'recht:anhang-ii-arzneistoffe', 'recht:vo-2024-996']
 kurz: Früherer UV-B-Filter (Enzacamen), wegen hormoneller Wirkung EU-weit verboten (Anhang II Nr. 1730).
+verwandt: [wirkstoff:campher]
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei methylbenzyliden-campher.md}
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:sccs'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „4-Methylbenzylidene Camphor“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-23. Impact: hoch (EU-weit verboten; Produkte mit 4-MBC dürfen seit 01.05.2026 nicht mehr bereitgestellt werden). Evidenzstufe: Sicherheitsbewertung durch SCCS (Primärquelle); endokrine Wirkung: mehrere In-vivo-Studien, Evidenz laut SCCS "sufficient" für Schilddrüse.
 

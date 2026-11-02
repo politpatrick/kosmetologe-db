@@ -9,7 +9,7 @@ evidenz: nicht-bewertet
 impact: hoch
 regulierung: ['recht:vo-2024-996', 'recht:eu-kosmetikverordnung']
 kurz: Retinylester; gleiche Grenzwerte wie Retinol (Anhang III Nr. 376, als Retinoläquivalent).
-verwandt: ['wirkstoff:retinol']
+verwandt: ['wirkstoff:retinol', 'wirkstoff:retinal']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei retinyl-acetat.md}
 - {id: 'quelle:eur-lex'}
@@ -17,7 +17,7 @@ quellen:
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Retinyl Acetate“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-26. Impact: hoch (zählt wie Retinol unter die EU-Vitamin-A-Regel). Evidenzstufe: Rechtsstand geprüft; Wirksamkeit nicht gesondert recherchiert.
 

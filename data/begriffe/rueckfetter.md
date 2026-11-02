@@ -18,13 +18,14 @@ verwandt:
 - begriff:silikone
 - formulierung:shampoo
 - formulierung:haarspuelung
+- begriff:emollient
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 9.1.4, S. 261; Tab. 9.1, S. 262–263
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: Stichwort „Rückfetter“
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Bedeutung
 Jede Reinigung entfettet Haut und Haar. Rückfetter übernehmen laut Lexikon vorübergehend die Schutzaufgabe des Hautfetts

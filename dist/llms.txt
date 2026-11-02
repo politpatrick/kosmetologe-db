@@ -3,7 +3,7 @@
 > Wissensdatenbank zu Kosmetologie: Wirkstoffe, Haut, Behandlungen, Formulierungen, Recht, Begriffe, Quellen und Projektkontext.
 > Volltext eines Eintrags: Datei unter `pfad` lesen. Maschinenlesbar: dist/index.json.
 
-## wirkstoff (85)
+## wirkstoff (89)
 - `wirkstoff:3-benzyliden-campher` [3-Benzyliden-Campher (3-Benzylidene Camphor, 3-BC)](data/wirkstoffe/3-benzyliden-campher.md) – Früherer UV-B-Filter, heute in der EU verboten (Anhang II Nr. 1379); nur noch historisch relevant. [entwurf]
 - `wirkstoff:aha` [Alpha-Hydroxysäuren (AHA: Glykolsäure, Milchsäure u. a.)](data/wirkstoffe/aha.md) – Fruchtsäuren für Peelings und Hautglättung; erhöhen nachweislich die UV-Empfindlichkeit, Grenzwertangaben in Lehrbüchern widersprüchlich. [entwurf]
 - `wirkstoff:allantoin` [Allantoin](data/wirkstoffe/allantoin.md) – Ursprünglich aus Beinwell gewonnener, gut verträglicher Wirkstoff, der beruhigt, die Heilung fördert und die Haut glättet. [entwurf]
@@ -21,6 +21,7 @@
 - `wirkstoff:benzylalkohol` [Benzylalkohol](data/wirkstoffe/benzylalkohol.md) – Konservierungsstoff und Lösungsmittel; zugleich kennzeichnungspflichtiger Duftstoff. [entwurf]
 - `wirkstoff:bisabolol` [Bisabolol (α-Bisabolol)](data/wirkstoffe/bisabolol.md) – Hauptwirkstoff der Kamille; entzündungshemmend und deutlich weniger allergen als der Kamillengesamtextrakt. [entwurf]
 - `wirkstoff:camellioside-a` [Camellioside A (Camellia chekiangoleosa)](data/wirkstoffe/camellioside-a.md) – Neuer Pflanzenwirkstoff; nur In-vitro- und Mausdaten, Hersteller-Mitautor. [entwurf]
+- `wirkstoff:campher` [Campher](data/wirkstoffe/campher.md) – Kühlender, hautreizender Terpenstoff aus dem Kampferbaum oder synthetisch; bei Kleinkindern nicht an Mund und Nase; seit VO (EU) 2023/1545 kennzeichnungspflichtiges Duftstoff-Allergen. [entwurf]
 - `wirkstoff:carotinoide` [Carotinoide (β-Carotin, Lycopin u. a.)](data/wirkstoffe/carotinoide.md) – Gelbe bis rote Pflanzenfarbstoffe; β-Carotin ist Provitamin A. In Kosmetika vor allem Farbstoff und Antioxidans, topischer Nutzen kaum belegt. [entwurf]
 - `wirkstoff:centella-asiatica` [Centella asiatica (Tigergras)](data/wirkstoffe/centella-asiatica.md) – Heilpflanze mit Madecassosid und Asiaticosid; regt laut Quelle die Kollagenbildung an, wirkt entzündungshemmend und unterstützt Wundheilung und Narbenpflege. [entwurf]
 - `wirkstoff:ceramid-np` [Ceramid NP (Ceramid 3)](data/wirkstoffe/ceramid-np.md) – Hautidentisches Ceramid (früher Ceramid 3); stärkt die Lipidbarriere, Wirkung stark vom Trägersystem abhängig. [entwurf]
@@ -30,6 +31,7 @@
 - `wirkstoff:dimethylphthalat` [Dimethylphthalat](data/wirkstoffe/dimethylphthalat.md) – Älteres Insektenrepellent laut Lehrbuch; Phthalate sind regulatorisch und toxikologisch kritisch zu prüfen. [entwurf]
 - `wirkstoff:ethyl-ascorbinsaeure` [3-O-Ethyl-L-Ascorbinsäure (EAA)](data/wirkstoffe/ethyl-ascorbinsaeure.md) – Stabiles Vitamin-C-Derivat; bisher nur In-vitro-Daten, keine Humanstudien. [entwurf]
 - `wirkstoff:ethylhexyl-salicylat` [Ethylhexyl Salicylate (Octisalat)](data/wirkstoffe/ethylhexyl-salicylat.md) – Schwacher UV-B-Filter (Anhang VI Nr. 20, max. 5 %), vor allem als Löser und Photostabilisator für andere Filter. [entwurf]
+- `wirkstoff:eukalyptus` [Eukalyptus (Eukalyptusöl)](data/wirkstoffe/eukalyptus.md) – Cineolreiches ätherisches Öl aus Eukalyptusblättern; kühlt über Kälterezeptoren, wird als Duft und belebender Zusatz verwendet; als Öl seit VO (EU) 2023/1545 kennzeichnungspflichtig. [entwurf]
 - `wirkstoff:exosomen` [Exosomen (topisch, kosmetisch)](data/wirkstoffe/exosomen.md) – Topische Exosomen werden stark beworben, Humandaten fehlen; Reviews bemängeln fehlende Standardisierung und Langzeitdaten. [entwurf]
 - `wirkstoff:fluorouracil` [5-Fluorouracil](data/wirkstoffe/fluorouracil.md) – Zytostatikum gegen aktinische Keratosen; in Kosmetika verboten (Anhang II Nr. 190). [entwurf]
 - `wirkstoff:formaldehyd-abspalter` [Formaldehydabspalter (DMDM Hydantoin, Imidazolidinyl Urea, Diazolidinyl Urea)](data/wirkstoffe/formaldehyd-abspalter.md) – Konservierer, die Formaldehyd freisetzen; Kennzeichnungspflicht ab Schwellenwert, relevantes Kontaktallergen. [entwurf]
@@ -60,11 +62,13 @@
 - `wirkstoff:parabene` [Parabene (Ester der 4-Hydroxybenzoesäure)](data/wirkstoffe/parabene.md) – Konservierungsstoffe mit gut dokumentiertem Rechtsstatus; Butylparaben bei Kindern in Kombination (0,14 %) laut SCCS nicht sicher, Verschärfung im Entwurf. [entwurf]
 - `wirkstoff:peptide` [Peptide (Signal-, Carrier-, Neurotransmitter-Peptide, Kollagenpeptide)](data/wirkstoffe/peptide.md) – Signal-, Carrier- und Neurotransmitter-Peptide sowie Kollagenpeptide; starke Vermarktung, Evidenz schwach und oft herstellerfinanziert. [entwurf]
 - `wirkstoff:phmb` [Polyaminopropyl Biguanide (PHMB)](data/wirkstoffe/phmb.md) – Konservierungsstoff und Antiseptikum; nach SCCS-Bewertung stark eingeschränkt (Anhang V). [entwurf]
+- `wirkstoff:phytoestrogene` [Phytoestrogene (Stoffgruppe)](data/wirkstoffe/phytoestrogene.md) – Pflanzenstoffe mit östrogenähnlicher Struktur, beworben gegen hormonbedingte Hautalterung; laut Lehrbuch ist die Hautwirkung kaum belegt und die Aufnahme in die Haut offen. [entwurf]
 - `wirkstoff:piroctone-olamin` [Piroctone Olamine](data/wirkstoffe/piroctone-olamin.md) – Häufigster Antischuppenwirkstoff in EU-Kosmetik; hemmt die Hefe Malassezia, mehrere RCTs, fast alle von Herstellern. [entwurf]
 - `wirkstoff:propolis` [Propolis](data/wirkstoffe/propolis.md) – Kittharz der Honigbiene mit Flavonoiden und Phenolsäuren; antimikrobiell und entzündungshemmend, aber eines der häufigeren Kontaktallergene. [entwurf]
 - `wirkstoff:pyridoxin` [Pyridoxin (Vitamin B6)](data/wirkstoffe/pyridoxin.md) – Wasserlösliches Vitamin des Aminosäurestoffwechsels; soll topisch die Talgbildung regulieren, dafür fehlen klinische Daten. [entwurf]
 - `wirkstoff:resorcin` [Resorcin](data/wirkstoffe/resorcin.md) – Keratolytikum laut Lehrbuch; kosmetisch vor allem in Oxidationshaarfarben, dort begrenzt und kennzeichnungspflichtig. [entwurf]
 - `wirkstoff:resveratrol` [Resveratrol und Polyphenole](data/wirkstoffe/resveratrol.md) – Stilben aus roten Trauben, Vertreter der Polyphenole; als Antioxidans in Anti-Aging-Pflege, topisch bisher nur schwach belegt. [entwurf]
+- `wirkstoff:retinal` [Retinal (Retinaldehyd)](data/wirkstoffe/retinal.md) – Aldehydform von Vitamin A; laut Lehrbuch deutlich aktiver als Retinolester. Studienlage und EU-Rechtsstand sind hier noch nicht geprüft. [entwurf]
 - `wirkstoff:retinol` [Retinol (Vitamin A)](data/wirkstoffe/retinol.md) – Vitamin-A-Alkohol, beschleunigt die Zellerneuerung und fördert Kollagenbildung; lichtempfindlich, anfangs oft Reizung (Retinisierung). [entwurf]
 - `wirkstoff:retinyl-acetat` [Retinyl Acetate](data/wirkstoffe/retinyl-acetat.md) – Retinylester; gleiche Grenzwerte wie Retinol (Anhang III Nr. 376, als Retinoläquivalent). [entwurf]
 - `wirkstoff:retinyl-palmitat` [Retinyl Palmitate](data/wirkstoffe/retinyl-palmitat.md) – Retinylester; zusammen mit Retinol und Retinyl Acetate auf 0,05 % RE (Körperlotion) bzw. 0,3 % RE begrenzt. [entwurf]
@@ -90,11 +94,12 @@
 - `wirkstoff:zinkoxid` [Zinkoxid](data/wirkstoffe/zinkoxid.md) – Mineralischer Breitband-UV-Filter (Anhang VI, max. 25 %) und Wundschutz; Nanoform mit Auflagen. [entwurf]
 - `wirkstoff:zinkpyrithion` [Zinkpyrithion](data/wirkstoffe/zinkpyrithion.md) – Lange der Standard-Antischuppenwirkstoff; gut belegt, aber in der EU seit 2022 in Kosmetika verboten (fortpflanzungsgefährdend eingestuft). [entwurf]
 
-## haut (83)
+## haut (85)
 - `haut:akne-vulgaris` [Akne vulgaris](data/haut/akne-vulgaris.md) – Entzündliche Erkrankung der Talgdrüsenfollikel; leichte Formen kosmetisch begleitbar, schwere Formen gehören in ärztliche Behandlung.
 - `haut:aktinische-keratose` [Aktinische Keratose](data/haut/aktinische-keratose.md) – Durch jahrzehntelange UV-Belastung entstandene Verhornungsstörung; Vorstufe von Hautkrebs, gehört in ärztliche Hand.
 - `haut:alopecia-areata` [Kreisrunder Haarausfall (Alopecia areata)](data/haut/alopecia-areata.md) – Häufigste entzündliche Form des Haarausfalls, vermutlich autoimmun; heilt oft nach Monaten spontan. Ärztlich abklären.
 - `haut:androgenetische-alopezie` [Erblich-hormoneller Haarausfall (androgenetische Alopezie)](data/haut/androgenetische-alopezie.md) – Mit Abstand häufigste Form des Haarausfalls durch ererbte Empfindlichkeit der Haarwurzeln gegen Androgene; Haare wachsen selten nach.
+- `haut:angiom` [Angiom (rotes Gefäßknötchen)](data/haut/angiom.md) – Gutartige Knäuel erweiterter kleiner Gefäße, mit dem Alter häufiger; nur ein kosmetisches Thema. Verödung mit Laser oder Hochfrequenz ist ärztlich, im Institut bleibt das Abdecken. [entwurf]
 - `haut:babyhaut` [Baby- und Kinderhaut](data/haut/babyhaut.md) – Dünne, durchlässige Haut mit unreifer Barriere und ohne Lichtschwiele; sparsam pflegen, Sonne meiden. [entwurf]
 - `haut:besenreiser` [Besenreiser (Venektasien)](data/haut/besenreiser.md) – Erweiterte kleine Venen, meist bei Frauen; Entfernung möglich, aber mit hohem Rückfallrisiko – schriftlich aufklären.
 - `haut:bruechige-naegel` [Brüchige und spaltende Nägel](data/haut/bruechige-naegel.md) – Spröde, splitternde oder schichtweise spaltende Nägel, meist durch Wasser, Seife und Nagellackentferner; Pflege mit Ölen und Urea, Kontakt mit Wasser reduzieren.
@@ -139,6 +144,7 @@
 - `haut:milien` [Milien (Grießkörner)](data/haut/milien.md) – Kleine verhornte Zysten direkt unter der Hautoberfläche; Entfernung durch Anritzen, nicht durch Drücken.
 - `haut:mischhaut` [Mischhaut](data/haut/mischhaut.md) – Kombination aus seborrhoischer T-Zone und normaler bis trockener Wangenpartie; zonenweise pflegen. [entwurf]
 - `haut:molluscum-contagiosum` [Dellwarzen (Molluscum contagiosum)](data/haut/molluscum-contagiosum.md) – Durch Pockenviren verursachte, hoch ansteckende Knötchen, meist bei Kindern; heilen oft nach Monaten von selbst.
+- `haut:naevus-araneus` [Naevus araneus (Spinnennaevus)](data/haut/naevus-araneus.md) – Gutartige Gefäßneubildung mit „Spinnenbeinen“, gehäuft bei Lebererkrankung, in der Schwangerschaft und unter Östrogenen; Kundschaft zur internistischen Abklärung raten. [entwurf]
 - `haut:naevus-flammeus` [Naevus flammeus (Feuermal)](data/haut/naevus-flammeus.md) – Angeborene, flächige Erweiterung feinster Hautkapillaren; harmlos, aber kosmetisch belastend. Lasertherapie ärztlich, Camouflage kosmetisch. [entwurf]
 - `haut:nagelverfaerbung` [Nagelverfärbungen](data/haut/nagelverfaerbung.md) – Farbveränderungen der Nagelplatte: meist harmlos (weiße Flecken, Bluterguss), aber auch Hinweis auf Pilz, Bakterien, Psoriasis, innere Erkrankungen oder ein Melanom.
 - `haut:neurodermitis` [Neurodermitis (atopisches Ekzem)](data/haut/neurodermitis.md) – Chronisch-entzündliche Hauterkrankung mit Barrierestörung und Juckreiz; Basispflege auch in schubfreien Zeiten.
@@ -175,7 +181,7 @@
 - `haut:zangennagel` [Zangennagel und Rollnagel](data/haut/zangennagel.md) – Nageldeformitäten mit starker Quer- oder Längswölbung; teils schmerzlos, teils mit Druckstellen und Hornhaut; Korrektur durch Spangen und Tamponaden.
 - `haut:zeckenstich` [Zeckenstich](data/haut/zeckenstich.md) – Zecken können Borrelien und FSME-Viren übertragen; Zecke mechanisch mit Pinzette entfernen, nicht mit Öl ersticken. Wachsende Rötung ärztlich abklären.
 
-## behandlung (21)
+## behandlung (23)
 - `behandlung:ausreinigung` [Ausreinigung (Aknetoilette)](data/behandlungen/ausreinigung.md) – Reinigen, mit Dampf oder warmen Kompressen erweichen, Komedonen mit geschützten Fingerkuppen entleeren, desinfizieren, Maske oder Packung.
 - `behandlung:botulinumtoxin` [Botulinumtoxin-Behandlung](data/behandlungen/botulinumtoxin.md) – Heilkundliche Injektion eines Nervengifts in mimische Muskeln; wirkt nach 2–10 Tagen für 3–6 Monate. Danach zwei Wochen keine kosmetische Gesichtsbehandlung.
 - `behandlung:camouflage` [Camouflage (medizinisches Abdecken)](data/behandlungen/camouflage.md) – Stark pigmentierte, wasserfeste Abdeckprodukte; Grün neutralisiert Rot, hell hebt hervor, dunkel lässt zurücktreten.
@@ -183,6 +189,7 @@
 - `behandlung:dermabrasion` [Dermabrasion (Hautschleifen)](data/behandlungen/dermabrasion.md) – Ärztliches Verfahren: Abschleifen der Haut bis zur Basalmembran unter Betäubung; danach konsequenter Lichtschutz.
 - `behandlung:dermafiller` [Unterspritzung mit Dermafillern](data/behandlungen/dermafiller.md) – Heilkundliche Injektion von Hyaluronsäure, Kollagen, Hydroxylapatit, Polymilchsäure oder Eigenfett; abbaubare Filler halten Monate, nicht abbaubare bergen Dauerrisiken.
 - `behandlung:fadenlifting` [Fadenlifting](data/behandlungen/fadenlifting.md) – Ambulantes, invasives Verfahren mit resorbierbaren Fäden unter örtlicher Betäubung; Effekt hält laut Quelle etwa zwei Jahre.
+- `behandlung:gefaessveroedung` [Verödung von Gefäßveränderungen](data/behandlungen/gefaessveroedung.md) – Koagulation mit Nadel (Hochfrequenz) oder Laser; danach Schorf, Sonnenschutz und 48 Stunden keine Camouflage. Mit Laser oder Hochfrequenz gilt in Deutschland der Arztvorbehalt der NiSV. [entwurf]
 - `behandlung:haarentfernung` [Haarentfernung (Epilation und Depilation)](data/behandlungen/haarentfernung.md) – Von Rasur und Wachs bis Nadelepilation und Laser; Ursache verstärkter Behaarung vorher ärztlich klären lassen.
 - `behandlung:hautanalyse` [Hautanalyse und Anamnese](data/behandlungen/hautanalyse.md) – Strukturierte Befragung und Untersuchung vor jeder Behandlung; die Kosmetikerin ist oft der erste Filter, der an die Hautärztin oder den Hautarzt verweist.
 - `behandlung:hautstraffung-energiebasiert` [Hautstraffung mit Radiofrequenz und fokussiertem Ultraschall](data/behandlungen/hautstraffung-energiebasiert.md) – Radiofrequenz (z. B. Thermage) oder fokussierter Ultraschall (Ultherapie, HIFU) erhitzt die Haut in der Tiefe; Ergebnisse nach Monaten, Wirkung etwa 2–3 Jahre.
@@ -197,8 +204,9 @@
 - `behandlung:milienentfernung` [Milienentfernung](data/behandlungen/milienentfernung.md) – Nach Desinfektion und Hautspannung kleinste Inzision mit Fremdkörpernadel oder Lanzette, Milium heraushebeln; Narbenrisiko gegen Nutzen abwägen.
 - `behandlung:narbenbehandlung` [Narbenbehandlung](data/behandlungen/narbenbehandlung.md) – Je nach Narbentyp: Schältherapie, Needling, fraktionierter Laser oder Filler bei eingesunkenen Narben; Kälte, Kompression und Narbensalben bei Keloiden.
 - `behandlung:permanent-make-up` [Permanent Make-up und medizinische Pigmentierung](data/behandlungen/permanent-make-up.md) – Einbringen von Farbpigmenten mit Einmalnadeln; Haltbarkeit hängt von Tiefe, Pigment und Haut ab, Farbe verändert sich mit der Zeit.
+- `behandlung:pigmentbehandlung` [Behandlung von Pigmentstörungen](data/behandlungen/pigmentbehandlung.md) – Von Lichtschutz und Camouflage über ärztliche Bleichcremes bis zu Peeling, Kryotherapie und Laser. Ohne ganzjährigen Lichtschutz kommen Flecken meist wieder; viele Verfahren sind ärztlich. [entwurf]
 
-## formulierung (15)
+## formulierung (16)
 - `formulierung:antischuppenshampoo` [Antischuppenshampoo und Haarwasser](data/formulierungen/antischuppenshampoo.md) – Shampoo oder auf der Kopfhaut verbleibendes Haarwasser gegen Schuppen; wirkt vor allem über Hemmung der Hefe Malassezia und Ablösen der Schuppen. [entwurf]
 - `formulierung:deodorant` [Deodorant und Antitranspirant](data/formulierungen/deodorant.md) – Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer. [entwurf]
 - `formulierung:dermatologische-grundlagen` [Dermatologische Grundlagen (Mischungsdreieck)](data/formulierungen/dermatologische-grundlagen.md) – Ordnet Lösung, Creme, Salbe, Puder, Paste und Schüttelmixtur nach ihrem Anteil an Wasser, Fett und Puder; die Grundlage bestimmt, ob ein Präparat kühlt, austrocknet oder rückfettet. [entwurf]
@@ -211,6 +219,7 @@
 - `formulierung:liposomen` [Liposomen und Vesikel](data/formulierungen/liposomen.md) – Kugelige Bläschen aus Phospholipid-Doppelschichten; nehmen fett- und wasserlösliche Wirkstoffe auf und ähneln Zellmembranen. [entwurf]
 - `formulierung:mehrfachemulsion` [Mehrfachemulsion (W/O/W)](data/formulierungen/mehrfachemulsion.md) – In Öltröpfchen eingeschlossene Wassertröpfchen in Wasser; schützt empfindliche Wirkstoffe und kombiniert leichtes O/W-Gefühl mit W/O-Feuchtigkeit. [entwurf]
 - `formulierung:nanoemulsion` [Nanoemulsion](data/formulierungen/nanoemulsion.md) – Sehr feine Emulsion, durchscheinend bis klar, ohne Aufrahmen; leichtes Hautgefühl und gute Verteilung von Wirk- und Duftstoffen. [entwurf]
+- `formulierung:rasiermittel` [Rasiermittel (Schaum, Gel, Creme, Aftershave)](data/formulierungen/rasiermittel.md) – Weicht den Bart auf, lässt die Klinge gleiten und stützt das Haar. Der Aerosolschaum ist eine komplexe O/W-Emulsion, das nachschäumende Gel schäumt erst durch die Hautwärme auf. [entwurf]
 - `formulierung:rezepturen-bauprinzip` [Dermatologische Individualrezepturen (Bauprinzip)](data/formulierungen/rezepturen-bauprinzip.md) – Wie die Rezepturen im Lehrbuch aufgebaut sind (Grundlage, Wirkstoff, Konzentrationsstufen, Gebrauchshinweis); viele enthalten Arzneistoffe und gehören in ärztliche Hand. [entwurf]
 - `formulierung:shampoo` [Shampoo](data/formulierungen/shampoo.md) – Reinigt Haar und Kopfhaut von Talg und Rückständen; Kombination aus anionischem und amphoterem Tensid macht es milder. [entwurf]
 - `formulierung:sonnenschutz-mineralisch` [Mineralischer Sonnenschutz (TiO₂/ZnO-Dispersion)](data/formulierungen/sonnenschutz-mineralisch.md) – Sonnenschutz mit Titandioxid oder Zinkoxid, die UV absorbieren und streuen; breites Spektrum, gut verträglich, Partikelgröße entscheidet. [entwurf]
@@ -227,12 +236,14 @@
 - `recht:taetowiermittel` [Tätowiermittel und Permanent Make-up (TätoV und REACH-Beschränkung)](data/recht/taetowiermittel.md) – Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75. [entwurf]
 - `recht:vo-2024-996` [Verordnung (EU) 2024/996 – Änderung der Anhänge II, III, V und VI](data/recht/vo-2024-996.md) – Verbietet 4-MBC und setzt Grenzwerte u. a. für Retinol/Retinylester, Alpha-Arbutin/Arbutin, Kojisäure, Genistein/Daidzein, Triclosan und Triclocarban auf Basis von SCCS-Gutachten.
 
-## begriff (22)
+## begriff (25)
 - `begriff:antioxidans` [Antioxidans](data/begriffe/antioxidans.md) – Stoff, der Inhaltsstoffe vor dem Ranzigwerden schützt bzw. in der Haut freie Radikale abfängt, z. B. Vitamin E und C. [entwurf]
+- `begriff:emollient` [Emollient (Weichmacher der Haut)](data/begriffe/emollient.md) – Lipidhaltiger Pflegestoff, der die Haut glättet und geschmeidig macht und die Wasserverdunstung bremst; in der Fachliteratur unterschiedlich weit gefasst. [entwurf]
 - `begriff:emulgator` [Emulgator](data/begriffe/emulgator.md) – Grenzflächenaktiver Stoff, der Öl und Wasser zu einer Emulsion verbindet; der HLB-Wert entscheidet, ob eine W/O- oder O/W-Emulsion entsteht. [entwurf]
 - `begriff:emulsionszerfall` [Emulsionszerfall](data/begriffe/emulsionszerfall.md) – Prozesse, durch die Emulsionen bei Lagerung entmischen: Aufrahmen, Absetzen, Flockung, Ostwald-Reifung, Koaleszenz, Phaseninversion. [entwurf]
 - `begriff:hautpflege-grundregeln` [Grundregeln der Hautpflege nach Lebensalter](data/begriffe/hautpflege-grundregeln.md) – Rangfolge: schonend reinigen, schützen (Licht, Kälte, Druck, Auslaugung), gezielt pflegen, angemessen kaschieren; Pflege richtet sich nach Hautzustand und Lebensalter, Überpflege schadet. [entwurf]
 - `begriff:hlb-wert` [HLB-Wert](data/begriffe/hlb-wert.md) – Kennzahl (0–20) für das Verhältnis hydrophiler zu lipophiler Anteile eines Emulgators; bestimmt O/W- oder W/O-Tendenz.
+- `begriff:humectant` [Humectant (Feuchthaltemittel)](data/begriffe/humectant.md) – Stark wasserbindender Stoff wie Glycerin oder Propylenglycol; hält Haut und Zubereitung feucht, kann bei falschem Einsatz der Haut aber Wasser entziehen. [entwurf]
 - `begriff:hydrolipidfilm` [Hydrolipidfilm](data/begriffe/hydrolipidfilm.md) – Emulsionsartiger Film aus Talg, Schweiß und Hautlipiden auf der Hornschicht; schützt vor Austrocknung und Chemikalien. [entwurf]
 - `begriff:inci` [INCI](data/begriffe/inci.md) – Internationale Bezeichnungssystematik für kosmetische Inhaltsstoffe; Pflichtangabe auf der Verpackung in absteigender Konzentration.
 - `begriff:komedogenitaet` [Komedogenität](data/begriffe/komedogenitaet.md) – Eigenschaft eines Stoffes, Mitesser zu begünstigen; heute mangels zugelassener Tests kaum belegbar. [entwurf]
@@ -241,6 +252,7 @@
 - `begriff:lichtschutzfaktor` [Lichtschutzfaktor (LSF)](data/begriffe/lichtschutzfaktor.md) – Maß für den Schutz vor UVB-bedingtem Sonnenbrand; sagt nichts über UVA-Schutz oder Langzeitschäden aus. [entwurf]
 - `begriff:mizelle` [Mizelle und CMC](data/begriffe/mizelle.md) – Zusammenlagerung von Tensidmolekülen in Wasser oberhalb der kritischen Mizellbildungskonzentration (CMC); bindet Fett im Inneren. [entwurf]
 - `begriff:nmf` [NMF (natürliche Feuchthaltefaktoren)](data/begriffe/nmf.md) – Kleine wasserbindende Moleküle in der Hornschicht, z. B. Aminosäuren, Harnstoff, Milchsäure, PCA; entscheidend für die Hautfeuchte. [entwurf]
+- `begriff:okklusion` [Okklusion (Okklusiveffekt)](data/begriffe/okklusion.md) – Abdichten der Hautoberfläche durch Film, Folie oder Lipide; Wasser verdunstet kaum, die Hornschicht quillt, Wärme staut sich. Nützlich bei trockener Haut, ungünstig bei entzündeter. [entwurf]
 - `begriff:paraffine` [Paraffine und Mineralöle](data/begriffe/paraffine.md) – Gesättigte Kohlenwasserstoffe aus Erdöl oder Synthese: chemisch stabil, kaum allergen, wirken stark okklusiv; in Pflege eher als Bestandteil denn als Hauptgrundlage. [entwurf]
 - `begriff:praxishygiene` [Praxishygiene](data/begriffe/praxishygiene.md) – Hygieneplan, Händedesinfektion, Aufbereitung von Instrumenten, Flächendesinfektion und Verhalten bei Stichverletzungen. [entwurf]
 - `begriff:rueckfetter` [Rückfetter](data/begriffe/rueckfetter.md) – Lipide, die Reinigungsprodukten zugesetzt werden, um den Fettverlust beim Waschen auszugleichen; in Haarspülungen und Kuren oft der Hauptwirkstoff. [entwurf]

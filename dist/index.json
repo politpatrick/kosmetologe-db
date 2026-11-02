@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "anzahl": 248,
+  "anzahl": 260,
   "eintraege": [
     {
       "id": "begriff:antioxidans",
@@ -19,7 +19,8 @@
       "verwandt": [
         "wirkstoff:ascorbinsaeure",
         "begriff:konservierungsmittel",
-        "haut:chronischer-lichtschaden"
+        "haut:chronischer-lichtschaden",
+        "wirkstoff:phytoestrogene"
       ],
       "quellen": [
         {
@@ -32,16 +33,69 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/antioxidans.md",
       "verweise_von": [
         "begriff:konservierungsmittel",
         "wirkstoff:carotinoide",
         "wirkstoff:gruentee",
+        "wirkstoff:phytoestrogene",
         "wirkstoff:resveratrol",
         "wirkstoff:selen",
         "wirkstoff:tocopherol",
         "wirkstoff:ubiquinon"
+      ]
+    },
+    {
+      "id": "begriff:emollient",
+      "typ": "begriff",
+      "titel": "Emollient (Weichmacher der Haut)",
+      "aliase": [
+        "Emolliens",
+        "Emollienzien",
+        "Emollentien",
+        "Weichmacher"
+      ],
+      "kurz": "Lipidhaltiger Pflegestoff, der die Haut glättet und geschmeidig macht und die Wasserverdunstung bremst; in der Fachliteratur unterschiedlich weit gefasst.",
+      "tags": [
+        "lipide",
+        "barriere",
+        "inhaltsstoffe"
+      ],
+      "verwandt": [
+        "begriff:humectant",
+        "begriff:okklusion",
+        "begriff:rueckfetter",
+        "begriff:hydrolipidfilm",
+        "begriff:paraffine",
+        "begriff:silikone",
+        "wirkstoff:squalan"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.2, S. 78; S. 92"
+        },
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 14.7, S. 300–301"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Emolliens“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/begriffe/emollient.md",
+      "verweise_von": [
+        "begriff:humectant",
+        "begriff:hydrolipidfilm",
+        "begriff:okklusion",
+        "begriff:paraffine",
+        "begriff:rueckfetter",
+        "begriff:silikone",
+        "wirkstoff:squalan"
       ]
     },
     {
@@ -208,6 +262,57 @@
       ]
     },
     {
+      "id": "begriff:humectant",
+      "typ": "begriff",
+      "titel": "Humectant (Feuchthaltemittel)",
+      "aliase": [
+        "Humectants",
+        "Feuchthaltemittel",
+        "Feuchthaltesubstanz"
+      ],
+      "kurz": "Stark wasserbindender Stoff wie Glycerin oder Propylenglycol; hält Haut und Zubereitung feucht, kann bei falschem Einsatz der Haut aber Wasser entziehen.",
+      "tags": [
+        "feuchtigkeit",
+        "inhaltsstoffe"
+      ],
+      "verwandt": [
+        "begriff:nmf",
+        "begriff:emollient",
+        "begriff:okklusion",
+        "wirkstoff:glycerin",
+        "wirkstoff:hyaluronsaeure",
+        "begriff:konservierungsmittel",
+        "formulierung:gel"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.2, S. 78; Kap. 4.2.2, S. 80; Kap. 13, S. 353"
+        },
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 14.7, S. 300–301"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Humectants“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/begriffe/humectant.md",
+      "verweise_von": [
+        "begriff:emollient",
+        "begriff:konservierungsmittel",
+        "begriff:nmf",
+        "begriff:okklusion",
+        "formulierung:gel",
+        "formulierung:rasiermittel",
+        "wirkstoff:glycerin",
+        "wirkstoff:hyaluronsaeure"
+      ]
+    },
+    {
       "id": "begriff:hydrolipidfilm",
       "typ": "begriff",
       "titel": "Hydrolipidfilm",
@@ -224,7 +329,8 @@
         "begriff:nmf",
         "haut:sebostase",
         "formulierung:emulsion-ow",
-        "formulierung:emulsion-wo"
+        "formulierung:emulsion-wo",
+        "begriff:emollient"
       ],
       "quellen": [
         {
@@ -237,9 +343,10 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/hydrolipidfilm.md",
       "verweise_von": [
+        "begriff:emollient",
         "begriff:hautpflege-grundregeln",
         "begriff:nmf",
         "begriff:paraffine",
@@ -374,7 +481,8 @@
         "wirkstoff:isothiazolinone",
         "wirkstoff:benzylalkohol",
         "wirkstoff:formaldehyd-abspalter",
-        "begriff:antioxidans"
+        "begriff:antioxidans",
+        "begriff:humectant"
       ],
       "quellen": [
         {
@@ -387,10 +495,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/konservierungsmittel.md",
       "verweise_von": [
         "begriff:antioxidans",
+        "begriff:humectant",
         "formulierung:gel"
       ]
     },
@@ -414,7 +523,8 @@
         "recht:anhang-vi-uv-filter",
         "wirkstoff:octocrylen",
         "wirkstoff:zinkoxid",
-        "wirkstoff:titandioxid"
+        "wirkstoff:titandioxid",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -427,12 +537,13 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/lichtschutzfaktor.md",
       "verweise_von": [
         "begriff:uva-schutz",
         "behandlung:camouflage",
         "behandlung:chemisches-peeling",
+        "behandlung:pigmentbehandlung",
         "formulierung:sonnenschutz-mineralisch"
       ]
     },
@@ -492,7 +603,8 @@
         "wirkstoff:urea",
         "wirkstoff:glycerin",
         "begriff:hydrolipidfilm",
-        "haut:sebostase"
+        "haut:sebostase",
+        "begriff:humectant"
       ],
       "quellen": [
         {
@@ -505,12 +617,60 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/nmf.md",
       "verweise_von": [
+        "begriff:humectant",
         "begriff:hydrolipidfilm",
         "haut:sebostase",
         "wirkstoff:kristall-mittagsblume"
+      ]
+    },
+    {
+      "id": "begriff:okklusion",
+      "typ": "begriff",
+      "titel": "Okklusion (Okklusiveffekt)",
+      "aliase": [
+        "Okklusiveffekt",
+        "okklusiv",
+        "Okklusivanwendung"
+      ],
+      "kurz": "Abdichten der Hautoberfläche durch Film, Folie oder Lipide; Wasser verdunstet kaum, die Hornschicht quillt, Wärme staut sich. Nützlich bei trockener Haut, ungünstig bei entzündeter.",
+      "tags": [
+        "barriere",
+        "lipide",
+        "anwendung"
+      ],
+      "verwandt": [
+        "begriff:emollient",
+        "begriff:humectant",
+        "begriff:paraffine",
+        "begriff:silikone",
+        "behandlung:maske-packung",
+        "formulierung:emulsion-wo",
+        "haut:babyhaut"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.2, S. 78; S. 139 (W/O-Cremes); S. 203 (Babypflege); S. 207 (Handpflege); Kap. 15, Stichwort „Okklusiveffekt“"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Okklusivanwendungen“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/begriffe/okklusion.md",
+      "verweise_von": [
+        "begriff:emollient",
+        "begriff:humectant",
+        "begriff:paraffine",
+        "begriff:silikone",
+        "behandlung:maske-packung",
+        "formulierung:emulsion-wo",
+        "haut:babyhaut"
       ]
     },
     {
@@ -532,7 +692,9 @@
       "verwandt": [
         "begriff:silikone",
         "begriff:hydrolipidfilm",
-        "formulierung:emulsion-wo"
+        "formulierung:emulsion-wo",
+        "begriff:emollient",
+        "begriff:okklusion"
       ],
       "quellen": [
         {
@@ -541,9 +703,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/paraffine.md",
       "verweise_von": [
+        "begriff:emollient",
+        "begriff:okklusion",
         "begriff:rueckfetter",
         "begriff:silikone",
         "formulierung:haarstyling"
@@ -609,7 +773,8 @@
         "begriff:paraffine",
         "begriff:silikone",
         "formulierung:shampoo",
-        "formulierung:haarspuelung"
+        "formulierung:haarspuelung",
+        "begriff:emollient"
       ],
       "quellen": [
         {
@@ -622,9 +787,10 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/rueckfetter.md",
       "verweise_von": [
+        "begriff:emollient",
         "begriff:konditionierungsmittel",
         "formulierung:haarspuelung",
         "formulierung:shampoo",
@@ -684,7 +850,10 @@
         "begriff:paraffine",
         "formulierung:haarspuelung",
         "formulierung:emulsion-ow",
-        "recht:reach-siloxane"
+        "recht:reach-siloxane",
+        "begriff:emollient",
+        "begriff:okklusion",
+        "formulierung:rasiermittel"
       ],
       "quellen": [
         {
@@ -693,12 +862,15 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/silikone.md",
       "verweise_von": [
+        "begriff:emollient",
         "begriff:konditionierungsmittel",
+        "begriff:okklusion",
         "begriff:paraffine",
         "begriff:rueckfetter",
+        "formulierung:rasiermittel",
         "recht:reach-siloxane"
       ]
     },
@@ -755,7 +927,8 @@
         "begriff:mizelle",
         "begriff:syndet",
         "formulierung:shampoo",
-        "begriff:hlb-wert"
+        "begriff:hlb-wert",
+        "formulierung:rasiermittel"
       ],
       "quellen": [
         {
@@ -768,7 +941,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/tensid.md",
       "verweise_von": [
         "begriff:emulgator",
@@ -776,6 +949,7 @@
         "begriff:mizelle",
         "begriff:rueckfetter",
         "formulierung:haarspuelung",
+        "formulierung:rasiermittel",
         "formulierung:shampoo"
       ]
     },
@@ -993,7 +1167,11 @@
         "haut:vitiligo",
         "haut:melasma",
         "behandlung:narbenbehandlung",
-        "begriff:lichtschutzfaktor"
+        "begriff:lichtschutzfaktor",
+        "behandlung:gefaessveroedung",
+        "behandlung:pigmentbehandlung",
+        "haut:angiom",
+        "haut:naevus-araneus"
       ],
       "quellen": [
         {
@@ -1003,12 +1181,16 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-29",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/behandlungen/camouflage.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
+        "behandlung:gefaessveroedung",
         "behandlung:permanent-make-up",
+        "behandlung:pigmentbehandlung",
+        "haut:angiom",
         "haut:haemangiom",
+        "haut:naevus-araneus",
         "haut:naevus-flammeus",
         "haut:sklerodermie"
       ]
@@ -1047,7 +1229,8 @@
         "behandlung:narbenbehandlung",
         "wirkstoff:aha",
         "wirkstoff:trichloressigsaeure",
-        "begriff:lichtschutzfaktor"
+        "begriff:lichtschutzfaktor",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -1057,13 +1240,14 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-29",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/behandlungen/chemisches-peeling.md",
       "verweise_von": [
         "behandlung:dermabrasion",
         "behandlung:microneedling",
         "behandlung:mikrodermabrasion",
         "behandlung:narbenbehandlung",
+        "behandlung:pigmentbehandlung",
         "haut:herpes-simplex",
         "haut:melasma",
         "wirkstoff:aha",
@@ -1208,6 +1392,72 @@
       "verweise_von": []
     },
     {
+      "id": "behandlung:gefaessveroedung",
+      "typ": "behandlung",
+      "titel": "Verödung von Gefäßveränderungen",
+      "aliase": [
+        "Gefäßverödung",
+        "Elektrokauterisation",
+        "Laserkauterisation",
+        "Koagulation"
+      ],
+      "ziel": "Sichtbare gutartige Gefäßveränderungen aus kosmetischen Gründen durch Hitze verschließen",
+      "indikation": [
+        "haut:teleangiektasien",
+        "haut:angiom",
+        "haut:naevus-araneus",
+        "haut:besenreiser",
+        "haut:naevus-flammeus",
+        "haut:haemangiom"
+      ],
+      "kontraindikation": [
+        "Hämangiom in spontaner Rückbildung (zuwarten laut Quelle)",
+        "unklare, nicht ärztlich abgeklärte Gefäßveränderung",
+        "frische Sonnenbräune"
+      ],
+      "kurz": "Koagulation mit Nadel (Hochfrequenz) oder Laser; danach Schorf, Sonnenschutz und 48 Stunden keine Camouflage. Mit Laser oder Hochfrequenz gilt in Deutschland der Arztvorbehalt der NiSV.",
+      "tags": [
+        "aerztlich",
+        "gefaesse",
+        "geraet",
+        "nisv"
+      ],
+      "verwandt": [
+        "behandlung:laserbehandlung",
+        "behandlung:kryotherapie",
+        "behandlung:camouflage",
+        "haut:rosazea",
+        "recht:nisv",
+        "recht:kosmetikermstrv"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.14, S. 234–237"
+        },
+        {
+          "id": "quelle:bmukn-nisv-faq"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/behandlungen/gefaessveroedung.md",
+      "verweise_von": [
+        "behandlung:camouflage",
+        "behandlung:kryotherapie",
+        "behandlung:laserbehandlung",
+        "haut:angiom",
+        "haut:besenreiser",
+        "haut:haemangiom",
+        "haut:naevus-araneus",
+        "haut:naevus-flammeus",
+        "haut:rosazea",
+        "haut:teleangiektasien",
+        "recht:kosmetikermstrv",
+        "recht:nisv"
+      ]
+    },
+    {
       "id": "behandlung:haarentfernung",
       "typ": "behandlung",
       "titel": "Haarentfernung (Epilation und Depilation)",
@@ -1242,7 +1492,8 @@
         "behandlung:laserbehandlung",
         "wirkstoff:ammoniumthioglykolat",
         "wirkstoff:wasserstoffperoxid",
-        "recht:nisv"
+        "recht:nisv",
+        "formulierung:rasiermittel"
       ],
       "quellen": [
         {
@@ -1256,10 +1507,11 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-29",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/behandlungen/haarentfernung.md",
       "verweise_von": [
         "behandlung:laserbehandlung",
+        "formulierung:rasiermittel",
         "recht:nisv"
       ]
     },
@@ -1466,7 +1718,9 @@
       ],
       "verwandt": [
         "behandlung:narbenbehandlung",
-        "haut:aktinische-keratose"
+        "haut:aktinische-keratose",
+        "behandlung:gefaessveroedung",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -1476,11 +1730,13 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-29",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/behandlungen/kryotherapie.md",
       "verweise_von": [
+        "behandlung:gefaessveroedung",
         "behandlung:kryolipolyse",
-        "behandlung:narbenbehandlung"
+        "behandlung:narbenbehandlung",
+        "behandlung:pigmentbehandlung"
       ]
     },
     {
@@ -1516,7 +1772,9 @@
         "behandlung:haarentfernung",
         "behandlung:narbenbehandlung",
         "haut:rosazea",
-        "recht:nisv"
+        "recht:nisv",
+        "behandlung:gefaessveroedung",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -1526,13 +1784,15 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-29",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/behandlungen/laserbehandlung.md",
       "verweise_von": [
         "behandlung:dermabrasion",
+        "behandlung:gefaessveroedung",
         "behandlung:haarentfernung",
         "behandlung:hautstraffung-energiebasiert",
         "behandlung:narbenbehandlung",
+        "behandlung:pigmentbehandlung",
         "haut:haemangiom",
         "haut:naevus-flammeus",
         "recht:nisv",
@@ -1580,7 +1840,8 @@
         "formulierung:dermatologische-grundlagen",
         "formulierung:rezepturen-bauprinzip",
         "begriff:hautpflege-grundregeln",
-        "haut:periorale-dermatitis"
+        "haut:periorale-dermatitis",
+        "begriff:okklusion"
       ],
       "quellen": [
         {
@@ -1590,10 +1851,11 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-29",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/behandlungen/maske-packung.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
+        "begriff:okklusion",
         "formulierung:rezepturen-bauprinzip"
       ]
     },
@@ -1887,6 +2149,74 @@
       ]
     },
     {
+      "id": "behandlung:pigmentbehandlung",
+      "typ": "behandlung",
+      "titel": "Behandlung von Pigmentstörungen",
+      "aliase": [
+        "Pigmentbehandlung",
+        "Depigmentierung",
+        "Aufhellung von Pigmentflecken"
+      ],
+      "ziel": "Zu dunkle Flecken aufhellen oder entfernen, zu helle Areale angleichen und das Wiederauftreten durch Lichtschutz verhindern",
+      "indikation": [
+        "haut:melasma",
+        "haut:postinflammatorische-hyperpigmentierung",
+        "haut:vitiligo",
+        "Lentigines"
+      ],
+      "kontraindikation": [
+        "unklarer oder veränderter Pigmentfleck ohne ärztliche Abklärung",
+        "frische Sonnenbräune und intensive Sonne im Behandlungszeitraum",
+        "Schwangerschaft bei Retinoid- oder Hydrochinon-Rezepturen"
+      ],
+      "wirkstoffe": [
+        "wirkstoff:hydrochinon",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure",
+        "wirkstoff:aha"
+      ],
+      "kurz": "Von Lichtschutz und Camouflage über ärztliche Bleichcremes bis zu Peeling, Kryotherapie und Laser. Ohne ganzjährigen Lichtschutz kommen Flecken meist wieder; viele Verfahren sind ärztlich.",
+      "tags": [
+        "pigment",
+        "aerztlich",
+        "lichtschutz"
+      ],
+      "verwandt": [
+        "behandlung:chemisches-peeling",
+        "behandlung:kryotherapie",
+        "behandlung:laserbehandlung",
+        "behandlung:camouflage",
+        "begriff:lichtschutzfaktor",
+        "haut:malignes-melanom",
+        "recht:nisv"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 27.11, S. 226–228"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/behandlungen/pigmentbehandlung.md",
+      "verweise_von": [
+        "begriff:lichtschutzfaktor",
+        "behandlung:camouflage",
+        "behandlung:chemisches-peeling",
+        "behandlung:kryotherapie",
+        "behandlung:laserbehandlung",
+        "haut:malignes-melanom",
+        "haut:melasma",
+        "haut:postinflammatorische-hyperpigmentierung",
+        "haut:vitiligo",
+        "recht:nisv",
+        "wirkstoff:aha",
+        "wirkstoff:hydrochinon",
+        "wirkstoff:tretinoin",
+        "wirkstoff:trichloressigsaeure"
+      ]
+    },
+    {
       "id": "formulierung:antischuppenshampoo",
       "typ": "formulierung",
       "titel": "Antischuppenshampoo und Haarwasser",
@@ -2072,7 +2402,8 @@
         "wirkstoff:glycerin",
         "begriff:emulsionszerfall",
         "formulierung:nanoemulsion",
-        "formulierung:mehrfachemulsion"
+        "formulierung:mehrfachemulsion",
+        "formulierung:rasiermittel"
       ],
       "quellen": [
         {
@@ -2081,7 +2412,7 @@
         }
       ],
       "status": "geprueft",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "geprueft_am": "2026-10-28",
       "pfad": "data/formulierungen/emulsion-ow.md",
       "verweise_von": [
@@ -2097,6 +2428,7 @@
         "formulierung:gel",
         "formulierung:mehrfachemulsion",
         "formulierung:nanoemulsion",
+        "formulierung:rasiermittel",
         "haut:normale-haut"
       ]
     },
@@ -2122,7 +2454,8 @@
       "verwandt": [
         "formulierung:emulsion-ow",
         "begriff:hlb-wert",
-        "haut:sebostase"
+        "haut:sebostase",
+        "begriff:okklusion"
       ],
       "quellen": [
         {
@@ -2139,13 +2472,14 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/formulierungen/emulsion-wo.md",
       "verweise_von": [
         "begriff:emulgator",
         "begriff:emulsionszerfall",
         "begriff:hlb-wert",
         "begriff:hydrolipidfilm",
+        "begriff:okklusion",
         "begriff:paraffine",
         "begriff:zubereitungsformen",
         "formulierung:dermatologische-grundlagen",
@@ -2220,7 +2554,9 @@
         "begriff:zubereitungsformen",
         "haut:fettige-haut",
         "begriff:konservierungsmittel",
-        "formulierung:emulsion-ow"
+        "formulierung:emulsion-ow",
+        "begriff:humectant",
+        "formulierung:rasiermittel"
       ],
       "quellen": [
         {
@@ -2229,12 +2565,14 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/formulierungen/gel.md",
       "verweise_von": [
+        "begriff:humectant",
         "begriff:zubereitungsformen",
         "formulierung:dermatologische-grundlagen",
-        "formulierung:haarstyling"
+        "formulierung:haarstyling",
+        "formulierung:rasiermittel"
       ]
     },
     {
@@ -2472,6 +2810,64 @@
         "begriff:emulsionszerfall",
         "formulierung:emulsion-ow",
         "formulierung:liposomen"
+      ]
+    },
+    {
+      "id": "formulierung:rasiermittel",
+      "typ": "formulierung",
+      "titel": "Rasiermittel (Schaum, Gel, Creme, Aftershave)",
+      "aliase": [
+        "Rasierschaum",
+        "Rasiergel",
+        "Rasiercreme",
+        "Aftershave",
+        "Pre-Shave"
+      ],
+      "system": "Seifen-Tensid-Systeme (Aerosolschaum als O/W-Emulsion mit Treibmittel, nachschäumendes Gel, Rasiercreme); alkoholische Lotion zur Trockenrasur; wässriges Gel nach der Rasur",
+      "bestandteile": [
+        "Fettsäureseifen (Natrium-, Kaliumstearat oder -palmitat, teils mit Triethanolamin neutralisiert)",
+        "schaumbildende Tenside (Ethersulfate, Natriumlaurylsulfat)",
+        "Feuchthaltemittel (Glycerin)",
+        "Treibmittel (Butan, Propan) oder niedrig siedende Kohlenwasserstoffe (Isopenten, Isobuten)",
+        "Verdicker bei Gelen (z. B. Polyvinylpyrrolidon)",
+        "Gleitmittel (Silikonöl, Fettsäureester, Isopropylmyristat)"
+      ],
+      "stabilitaet": "Schaumlebensdauer hängt von der Seifen-Tensid-Kombination ab; Treibmittelanteil bestimmt das Schaumgefühl (zu wenig wässrig, zu viel gummiartig und trocken); Schaumrasiercreme kann bei Wärme in Phasen zerfallen.",
+      "kurz": "Weicht den Bart auf, lässt die Klinge gleiten und stützt das Haar. Der Aerosolschaum ist eine komplexe O/W-Emulsion, das nachschäumende Gel schäumt erst durch die Hautwärme auf.",
+      "tags": [
+        "rasur",
+        "herrenpflege",
+        "schaum"
+      ],
+      "verwandt": [
+        "begriff:tensid",
+        "begriff:humectant",
+        "begriff:silikone",
+        "formulierung:emulsion-ow",
+        "formulierung:gel",
+        "behandlung:haarentfernung",
+        "wirkstoff:menthol"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:tadros-formulierungen",
+          "fundstelle": "Kap. 14.1, S. 295–297"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Rasiercreme“, „Rasierschaum“"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/formulierungen/rasiermittel.md",
+      "verweise_von": [
+        "begriff:silikone",
+        "begriff:tensid",
+        "behandlung:haarentfernung",
+        "formulierung:emulsion-ow",
+        "formulierung:gel",
+        "wirkstoff:menthol"
       ]
     },
     {
@@ -2835,6 +3231,57 @@
       ]
     },
     {
+      "id": "haut:angiom",
+      "typ": "haut",
+      "titel": "Angiom (rotes Gefäßknötchen)",
+      "aliase": [
+        "seniles Angiom",
+        "Rubinfleck",
+        "Cherry-Angiom",
+        "Lippenangiom"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "stecknadelkopfgroße, weiche, rote Knötchen",
+        "v. a. Oberkörper, häufig ab dem 4. Lebensjahrzehnt",
+        "an der Unterlippe als violetter, teils ausdrückbarer Knoten"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "neu aufgetretene, dunkle oder rasch wachsende Knötchen",
+        "Blutung ohne äußeren Anlass",
+        "Unsicherheit gegenüber Muttermal oder Hautkrebs"
+      ],
+      "kurz": "Gutartige Knäuel erweiterter kleiner Gefäße, mit dem Alter häufiger; nur ein kosmetisches Thema. Verödung mit Laser oder Hochfrequenz ist ärztlich, im Institut bleibt das Abdecken.",
+      "tags": [
+        "gefaesse",
+        "alter"
+      ],
+      "verwandt": [
+        "haut:naevus-araneus",
+        "haut:haemangiom",
+        "haut:teleangiektasien",
+        "behandlung:gefaessveroedung",
+        "behandlung:camouflage"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 8.6, S. 76–77; Kap. 27.14, S. 234–235"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/haut/angiom.md",
+      "verweise_von": [
+        "behandlung:camouflage",
+        "behandlung:gefaessveroedung",
+        "haut:haemangiom",
+        "haut:naevus-araneus",
+        "haut:teleangiektasien"
+      ]
+    },
+    {
       "id": "haut:babyhaut",
       "typ": "haut",
       "titel": "Baby- und Kinderhaut",
@@ -2861,7 +3308,8 @@
         "begriff:hautpflege-grundregeln",
         "haut:neurodermitis",
         "haut:sonnenbrand",
-        "recht:anhang-vi-uv-filter"
+        "recht:anhang-vi-uv-filter",
+        "begriff:okklusion"
       ],
       "quellen": [
         {
@@ -2874,10 +3322,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/babyhaut.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
+        "begriff:okklusion",
         "begriff:saeureschutzmantel",
         "haut:candidose",
         "haut:haemangiom",
@@ -2912,7 +3361,8 @@
         "beine"
       ],
       "verwandt": [
-        "haut:teleangiektasien"
+        "haut:teleangiektasien",
+        "behandlung:gefaessveroedung"
       ],
       "quellen": [
         {
@@ -2922,9 +3372,10 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-29",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/besenreiser.md",
       "verweise_von": [
+        "behandlung:gefaessveroedung",
         "behandlung:laserbehandlung"
       ]
     },
@@ -4148,7 +4599,9 @@
         "haut:naevus-flammeus",
         "haut:babyhaut",
         "behandlung:laserbehandlung",
-        "behandlung:camouflage"
+        "behandlung:camouflage",
+        "haut:angiom",
+        "behandlung:gefaessveroedung"
       ],
       "quellen": [
         {
@@ -4161,9 +4614,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/haemangiom.md",
       "verweise_von": [
+        "behandlung:gefaessveroedung",
+        "haut:angiom",
         "haut:naevus-flammeus"
       ]
     },
@@ -4779,7 +5234,8 @@
       "verwandt": [
         "haut:pigmentnaevus",
         "haut:seborrhoische-keratose",
-        "recht:anhang-vi-uv-filter"
+        "recht:anhang-vi-uv-filter",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -4793,10 +5249,11 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-28",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/malignes-melanom.md",
       "verweise_von": [
         "behandlung:hautanalyse",
+        "behandlung:pigmentbehandlung",
         "haut:nagelverfaerbung",
         "haut:pigmentnaevus",
         "haut:seborrhoische-keratose",
@@ -4834,7 +5291,8 @@
         "wirkstoff:tranexamsaeure",
         "wirkstoff:niacinamid",
         "wirkstoff:kojisaeure",
-        "behandlung:chemisches-peeling"
+        "behandlung:chemisches-peeling",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -4848,11 +5306,12 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-28",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/melasma.md",
       "verweise_von": [
         "behandlung:camouflage",
         "behandlung:laserbehandlung",
+        "behandlung:pigmentbehandlung",
         "haut:effloreszenz-macula",
         "haut:postinflammatorische-hyperpigmentierung"
       ]
@@ -4986,6 +5445,57 @@
       ]
     },
     {
+      "id": "haut:naevus-araneus",
+      "typ": "haut",
+      "titel": "Naevus araneus (Spinnennaevus)",
+      "aliase": [
+        "Spinnennaevus",
+        "Spidernaevus",
+        "Gefäßspinne"
+      ],
+      "kategorie": "hautzustand",
+      "merkmale": [
+        "zentrales Gefäßknötchen mit strahlenförmig abgehenden feinen Gefäßen",
+        "bis münzgroß",
+        "Gesicht, Nacken, oberer Rumpf, Hände"
+      ],
+      "kosmetisch_behandelbar": "eingeschraenkt",
+      "aerztlich_abklaeren": [
+        "immer internistisch zum Ausschluss einer Lebererkrankung empfehlen",
+        "viele oder rasch zunehmende Gefäßspinnen"
+      ],
+      "kurz": "Gutartige Gefäßneubildung mit „Spinnenbeinen“, gehäuft bei Lebererkrankung, in der Schwangerschaft und unter Östrogenen; Kundschaft zur internistischen Abklärung raten.",
+      "tags": [
+        "gefaesse",
+        "hormon"
+      ],
+      "verwandt": [
+        "haut:teleangiektasien",
+        "haut:angiom",
+        "behandlung:gefaessveroedung",
+        "behandlung:camouflage"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:herrmann-trinkkeller-dermatologie",
+          "fundstelle": "Kap. 8.7, S. 77; Kap. 27.14, S. 234–235"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Gefäßspinne“ (Verweis auf „Nävus“)"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/haut/naevus-araneus.md",
+      "verweise_von": [
+        "behandlung:camouflage",
+        "behandlung:gefaessveroedung",
+        "haut:angiom",
+        "haut:teleangiektasien"
+      ]
+    },
+    {
       "id": "haut:naevus-flammeus",
       "typ": "haut",
       "titel": "Naevus flammeus (Feuermal)",
@@ -5017,7 +5527,8 @@
         "haut:teleangiektasien",
         "behandlung:laserbehandlung",
         "behandlung:camouflage",
-        "recht:nisv"
+        "recht:nisv",
+        "behandlung:gefaessveroedung"
       ],
       "quellen": [
         {
@@ -5030,10 +5541,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/naevus-flammeus.md",
       "verweise_von": [
         "behandlung:camouflage",
+        "behandlung:gefaessveroedung",
         "behandlung:maske-packung",
         "haut:haemangiom"
       ]
@@ -5535,7 +6047,8 @@
         "haut:melasma",
         "wirkstoff:azelainsaeure",
         "wirkstoff:niacinamid",
-        "behandlung:ausreinigung"
+        "behandlung:ausreinigung",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -5545,10 +6058,11 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-28",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/postinflammatorische-hyperpigmentierung.md",
       "verweise_von": [
         "behandlung:mikrodermabrasion",
+        "behandlung:pigmentbehandlung",
         "haut:akne-vulgaris",
         "haut:melasma"
       ]
@@ -5639,7 +6153,9 @@
         "wirkstoff:retinol",
         "wirkstoff:ceramid-np",
         "wirkstoff:urea",
-        "wirkstoff:hyaluronsaeure"
+        "wirkstoff:hyaluronsaeure",
+        "wirkstoff:retinal",
+        "wirkstoff:phytoestrogene"
       ],
       "quellen": [
         {
@@ -5656,7 +6172,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/reife-haut.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
@@ -5671,7 +6187,9 @@
         "wirkstoff:gruentee",
         "wirkstoff:kristall-mittagsblume",
         "wirkstoff:madecassosid",
+        "wirkstoff:phytoestrogene",
         "wirkstoff:resveratrol",
+        "wirkstoff:retinal",
         "wirkstoff:selen",
         "wirkstoff:squalan",
         "wirkstoff:thioctsaeure",
@@ -5709,7 +6227,8 @@
         "wirkstoff:panthenol",
         "wirkstoff:azelainsaeure",
         "haut:teleangiektasien",
-        "haut:periorale-dermatitis"
+        "haut:periorale-dermatitis",
+        "behandlung:gefaessveroedung"
       ],
       "quellen": [
         {
@@ -5719,11 +6238,12 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-28",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/rosazea.md",
       "verweise_von": [
         "behandlung:camouflage",
         "behandlung:chemisches-peeling",
+        "behandlung:gefaessveroedung",
         "behandlung:laserbehandlung",
         "behandlung:maske-packung",
         "behandlung:microneedling",
@@ -5741,6 +6261,7 @@
         "wirkstoff:centella-asiatica",
         "wirkstoff:ceramid-np",
         "wirkstoff:panthenol",
+        "wirkstoff:retinal",
         "wirkstoff:retinol",
         "wirkstoff:urea"
       ]
@@ -5917,6 +6438,7 @@
         "wirkstoff:kristall-mittagsblume",
         "wirkstoff:niacinamid",
         "wirkstoff:panthenol",
+        "wirkstoff:retinal",
         "wirkstoff:retinol",
         "wirkstoff:salicylsaeure",
         "wirkstoff:squalan",
@@ -5977,7 +6499,9 @@
         "wirkstoff:aloe-barbadensis",
         "wirkstoff:aluminiumsalze",
         "wirkstoff:bisabolol",
+        "wirkstoff:campher",
         "wirkstoff:centella-asiatica",
+        "wirkstoff:eukalyptus",
         "wirkstoff:kamille",
         "wirkstoff:madecassosid",
         "wirkstoff:squalan"
@@ -6265,7 +6789,10 @@
       ],
       "verwandt": [
         "haut:rosazea",
-        "haut:effloreszenz-macula"
+        "haut:effloreszenz-macula",
+        "haut:angiom",
+        "haut:naevus-araneus",
+        "behandlung:gefaessveroedung"
       ],
       "quellen": [
         {
@@ -6279,15 +6806,18 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-28",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/teleangiektasien.md",
       "verweise_von": [
         "behandlung:camouflage",
+        "behandlung:gefaessveroedung",
         "behandlung:laserbehandlung",
         "behandlung:maske-packung",
+        "haut:angiom",
         "haut:besenreiser",
         "haut:chronischer-lichtschaden",
         "haut:effloreszenz-macula",
+        "haut:naevus-araneus",
         "haut:naevus-flammeus",
         "haut:rosazea"
       ]
@@ -6583,7 +7113,8 @@
       "verwandt": [
         "haut:effloreszenz-macula",
         "wirkstoff:hydrochinon",
-        "recht:anhang-vi-uv-filter"
+        "recht:anhang-vi-uv-filter",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -6597,11 +7128,12 @@
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-28",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/haut/vitiligo.md",
       "verweise_von": [
         "behandlung:camouflage",
         "behandlung:permanent-make-up",
+        "behandlung:pigmentbehandlung",
         "haut:effloreszenz-macula"
       ]
     },
@@ -6819,6 +7351,7 @@
       "geprueft_am": "2026-10-29",
       "pfad": "data/quellen/bmukn-nisv-faq.md",
       "verweise_von": [
+        "behandlung:gefaessveroedung",
         "behandlung:haarentfernung",
         "behandlung:iontophorese",
         "recht:nisv"
@@ -6851,14 +7384,17 @@
       "pfad": "data/quellen/ellsaesser-koerperpflegekunde.md",
       "verweise_von": [
         "begriff:antioxidans",
+        "begriff:emollient",
         "begriff:emulgator",
         "begriff:hlb-wert",
+        "begriff:humectant",
         "begriff:hydrolipidfilm",
         "begriff:komedogenitaet",
         "begriff:konditionierungsmittel",
         "begriff:konservierungsmittel",
         "begriff:lichtschutzfaktor",
         "begriff:nmf",
+        "begriff:okklusion",
         "begriff:paraffine",
         "begriff:rueckfetter",
         "begriff:saeureschutzmantel",
@@ -6895,10 +7431,12 @@
         "wirkstoff:benzalkoniumchlorid",
         "wirkstoff:benzylalkohol",
         "wirkstoff:bisabolol",
+        "wirkstoff:campher",
         "wirkstoff:carotinoide",
         "wirkstoff:centella-asiatica",
         "wirkstoff:coffein",
         "wirkstoff:dimethylphthalat",
+        "wirkstoff:eukalyptus",
         "wirkstoff:fluorouracil",
         "wirkstoff:formaldehyd-abspalter",
         "wirkstoff:genistein-daidzein",
@@ -6918,11 +7456,13 @@
         "wirkstoff:o-phenylphenol",
         "wirkstoff:paba-derivate",
         "wirkstoff:phmb",
+        "wirkstoff:phytoestrogene",
         "wirkstoff:piroctone-olamin",
         "wirkstoff:propolis",
         "wirkstoff:pyridoxin",
         "wirkstoff:resorcin",
         "wirkstoff:resveratrol",
+        "wirkstoff:retinal",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
@@ -6980,9 +7520,11 @@
         "wirkstoff:benzalkoniumchlorid",
         "wirkstoff:benzophenon-3",
         "wirkstoff:benzylalkohol",
+        "wirkstoff:campher",
         "wirkstoff:carotinoide",
         "wirkstoff:dimethylphthalat",
         "wirkstoff:ethylhexyl-salicylat",
+        "wirkstoff:eukalyptus",
         "wirkstoff:fluorouracil",
         "wirkstoff:formaldehyd-abspalter",
         "wirkstoff:genistein-daidzein",
@@ -7080,6 +7622,7 @@
         "behandlung:dermabrasion",
         "behandlung:dermafiller",
         "behandlung:fadenlifting",
+        "behandlung:gefaessveroedung",
         "behandlung:haarentfernung",
         "behandlung:hautanalyse",
         "behandlung:hautstraffung-energiebasiert",
@@ -7094,6 +7637,7 @@
         "behandlung:milienentfernung",
         "behandlung:narbenbehandlung",
         "behandlung:permanent-make-up",
+        "behandlung:pigmentbehandlung",
         "formulierung:deodorant",
         "formulierung:dermatologische-grundlagen",
         "formulierung:rezepturen-bauprinzip",
@@ -7101,6 +7645,7 @@
         "haut:aktinische-keratose",
         "haut:alopecia-areata",
         "haut:androgenetische-alopezie",
+        "haut:angiom",
         "haut:babyhaut",
         "haut:besenreiser",
         "haut:bruechige-naegel",
@@ -7140,6 +7685,7 @@
         "haut:melasma",
         "haut:milien",
         "haut:molluscum-contagiosum",
+        "haut:naevus-araneus",
         "haut:naevus-flammeus",
         "haut:nagelverfaerbung",
         "haut:neurodermitis",
@@ -7434,8 +7980,10 @@
       "pfad": "data/quellen/springer-lexikon-kosmetik.md",
       "verweise_von": [
         "begriff:antioxidans",
+        "begriff:emollient",
         "begriff:emulsionszerfall",
         "begriff:hlb-wert",
+        "begriff:humectant",
         "begriff:hydrolipidfilm",
         "begriff:inci",
         "begriff:komedogenitaet",
@@ -7444,6 +7992,7 @@
         "begriff:lichtschutzfaktor",
         "begriff:mizelle",
         "begriff:nmf",
+        "begriff:okklusion",
         "begriff:rueckfetter",
         "begriff:tensid",
         "formulierung:antischuppenshampoo",
@@ -7451,6 +8000,7 @@
         "formulierung:haarspuelung",
         "formulierung:haarstyling",
         "formulierung:liposomen",
+        "formulierung:rasiermittel",
         "formulierung:shampoo",
         "formulierung:sonnenschutz-mineralisch",
         "haut:akne-vulgaris",
@@ -7482,6 +8032,7 @@
         "haut:melasma",
         "haut:milien",
         "haut:mischhaut",
+        "haut:naevus-araneus",
         "haut:naevus-flammeus",
         "haut:neurodermitis",
         "haut:normale-haut",
@@ -7518,6 +8069,7 @@
         "wirkstoff:benzophenon-3",
         "wirkstoff:benzylalkohol",
         "wirkstoff:bisabolol",
+        "wirkstoff:campher",
         "wirkstoff:carotinoide",
         "wirkstoff:centella-asiatica",
         "wirkstoff:ceramid-np",
@@ -7526,6 +8078,7 @@
         "wirkstoff:coffein",
         "wirkstoff:dimethylphthalat",
         "wirkstoff:ethylhexyl-salicylat",
+        "wirkstoff:eukalyptus",
         "wirkstoff:fluorouracil",
         "wirkstoff:formaldehyd-abspalter",
         "wirkstoff:glycerin",
@@ -7551,6 +8104,7 @@
         "wirkstoff:panthenol",
         "wirkstoff:parabene",
         "wirkstoff:phmb",
+        "wirkstoff:phytoestrogene",
         "wirkstoff:piroctone-olamin",
         "wirkstoff:propolis",
         "wirkstoff:pyridoxin",
@@ -7603,8 +8157,10 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/quellen/tadros-formulierungen.md",
       "verweise_von": [
+        "begriff:emollient",
         "begriff:emulsionszerfall",
         "begriff:hlb-wert",
+        "begriff:humectant",
         "begriff:mizelle",
         "begriff:tensid",
         "formulierung:emulsion-ow",
@@ -7614,6 +8170,7 @@
         "formulierung:liposomen",
         "formulierung:mehrfachemulsion",
         "formulierung:nanoemulsion",
+        "formulierung:rasiermittel",
         "formulierung:shampoo",
         "formulierung:sonnenschutz-mineralisch",
         "wirkstoff:ammoniumthioglykolat",
@@ -7717,7 +8274,9 @@
       ],
       "verwandt": [
         "recht:eu-kosmetikverordnung",
-        "begriff:inci"
+        "begriff:inci",
+        "wirkstoff:campher",
+        "wirkstoff:eukalyptus"
       ],
       "quellen": [
         {
@@ -7729,7 +8288,7 @@
         }
       ],
       "status": "geprueft",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "geprueft_am": "2026-10-26",
       "pruefen_bis": "2027-01-31",
       "pfad": "data/recht/anhang-iii-duftstoff-allergene.md",
@@ -7738,6 +8297,8 @@
         "haut:kontaktekzem",
         "recht:eu-kosmetikverordnung",
         "wirkstoff:benzylalkohol",
+        "wirkstoff:campher",
+        "wirkstoff:eukalyptus",
         "wirkstoff:menthol",
         "wirkstoff:teebaumoel"
       ]
@@ -7862,10 +8423,12 @@
         "wirkstoff:benzalkoniumchlorid",
         "wirkstoff:benzophenon-3",
         "wirkstoff:benzylalkohol",
+        "wirkstoff:campher",
         "wirkstoff:cetylpyridiniumchlorid",
         "wirkstoff:chlorhexidin",
         "wirkstoff:dimethylphthalat",
         "wirkstoff:ethylhexyl-salicylat",
+        "wirkstoff:eukalyptus",
         "wirkstoff:fluorouracil",
         "wirkstoff:formaldehyd-abspalter",
         "wirkstoff:genistein-daidzein",
@@ -7883,8 +8446,10 @@
         "wirkstoff:paba-derivate",
         "wirkstoff:parabene",
         "wirkstoff:phmb",
+        "wirkstoff:phytoestrogene",
         "wirkstoff:piroctone-olamin",
         "wirkstoff:resorcin",
+        "wirkstoff:retinal",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
@@ -7919,17 +8484,21 @@
         "beruf",
         "ausbildung"
       ],
+      "verwandt": [
+        "behandlung:gefaessveroedung"
+      ],
       "quellen": [
         {
           "id": "quelle:gesetze-im-internet"
         }
       ],
       "status": "geprueft",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "geprueft_am": "2026-10-28",
       "pruefen_bis": "2027-04-30",
       "pfad": "data/recht/kosmetikermstrv.md",
       "verweise_von": [
+        "behandlung:gefaessveroedung",
         "kontext:fachliche-grundsaetze"
       ]
     },
@@ -7997,7 +8566,9 @@
         "behandlung:permanent-make-up",
         "behandlung:microneedling",
         "behandlung:kryolipolyse",
-        "quelle:bmukn-nisv-faq"
+        "quelle:bmukn-nisv-faq",
+        "behandlung:gefaessveroedung",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -8010,16 +8581,18 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pruefen_bis": "2027-04-30",
       "pfad": "data/recht/nisv.md",
       "verweise_von": [
+        "behandlung:gefaessveroedung",
         "behandlung:haarentfernung",
         "behandlung:hautstraffung-energiebasiert",
         "behandlung:iontophorese",
         "behandlung:laserbehandlung",
         "behandlung:narbenbehandlung",
         "behandlung:permanent-make-up",
+        "behandlung:pigmentbehandlung",
         "haut:naevus-flammeus",
         "quelle:bmukn-nisv-faq",
         "recht:taetowiermittel"
@@ -8168,6 +8741,8 @@
         "wirkstoff:genistein-daidzein",
         "wirkstoff:kojisaeure",
         "wirkstoff:methylbenzyliden-campher",
+        "wirkstoff:phytoestrogene",
+        "wirkstoff:retinal",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
@@ -8192,6 +8767,9 @@
         "recht:anhang-ii-arzneistoffe"
       ],
       "kurz": "Früherer UV-B-Filter, heute in der EU verboten (Anhang II Nr. 1379); nur noch historisch relevant.",
+      "verwandt": [
+        "wirkstoff:campher"
+      ],
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
@@ -8215,9 +8793,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/3-benzyliden-campher.md",
-      "verweise_von": []
+      "verweise_von": [
+        "wirkstoff:campher"
+      ]
     },
     {
       "id": "wirkstoff:aha",
@@ -8234,7 +8814,8 @@
       "kurz": "Fruchtsäuren für Peelings und Hautglättung; erhöhen nachweislich die UV-Empfindlichkeit, Grenzwertangaben in Lehrbüchern widersprüchlich.",
       "verwandt": [
         "behandlung:chemisches-peeling",
-        "wirkstoff:salicylsaeure"
+        "wirkstoff:salicylsaeure",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -8259,7 +8840,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "regulierung": [
         "recht:eu-kosmetikverordnung"
       ],
@@ -8267,6 +8848,7 @@
       "verweise_von": [
         "behandlung:chemisches-peeling",
         "behandlung:narbenbehandlung",
+        "behandlung:pigmentbehandlung",
         "haut:follikulaere-hyperkeratose",
         "wirkstoff:thioctsaeure"
       ]
@@ -8951,6 +9533,70 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:campher",
+      "typ": "wirkstoff",
+      "titel": "Campher",
+      "aliase": [
+        "Kampfer",
+        "Camphora"
+      ],
+      "inci": "CAMPHOR",
+      "stoffgruppe": "Terpenketon",
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "funktionen": [
+        "kuehlend",
+        "antiseptisch",
+        "erfrischend"
+      ],
+      "vorsicht_bei": [
+        "Kleinkinder unter 3 Jahren im Mund- und Nasenbereich",
+        "empfindliches Bronchialsystem",
+        "haut:sensible-haut"
+      ],
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-iii-duftstoff-allergene"
+      ],
+      "kurz": "Kühlender, hautreizender Terpenstoff aus dem Kampferbaum oder synthetisch; bei Kleinkindern nicht an Mund und Nase; seit VO (EU) 2023/1545 kennzeichnungspflichtiges Duftstoff-Allergen.",
+      "tags": [
+        "kuehlend",
+        "aetherische-oele",
+        "duftstoff-allergen"
+      ],
+      "verwandt": [
+        "wirkstoff:menthol",
+        "wirkstoff:eukalyptus",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:methylbenzyliden-campher",
+        "recht:anhang-iii-duftstoff-allergene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.5.12, S. 103; Tab. 4.7, S. 94"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Camphora“"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "VO (EG) 1223/2009, Anhang III Nr. 331 (siehe recht:anhang-iii-duftstoff-allergene)"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/wirkstoffe/campher.md",
+      "verweise_von": [
+        "recht:anhang-iii-duftstoff-allergene",
+        "wirkstoff:3-benzyliden-campher",
+        "wirkstoff:eukalyptus",
+        "wirkstoff:menthol",
+        "wirkstoff:methylbenzyliden-campher"
+      ]
+    },
+    {
       "id": "wirkstoff:carotinoide",
       "typ": "wirkstoff",
       "titel": "Carotinoide (β-Carotin, Lycopin u. a.)",
@@ -9346,6 +9992,68 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:eukalyptus",
+      "typ": "wirkstoff",
+      "titel": "Eukalyptus (Eukalyptusöl)",
+      "aliase": [
+        "Eucalyptus globulus",
+        "Eukalyptusöl"
+      ],
+      "inci": "EUCALYPTUS GLOBULUS LEAF OIL",
+      "stoffgruppe": "Ätherisches Öl",
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "funktionen": [
+        "kuehlend",
+        "belebend",
+        "aroma"
+      ],
+      "vorsicht_bei": [
+        "Kleinkinder im Mund- und Nasenbereich",
+        "empfindliches Bronchialsystem",
+        "haut:sensible-haut"
+      ],
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:anhang-iii-duftstoff-allergene"
+      ],
+      "kurz": "Cineolreiches ätherisches Öl aus Eukalyptusblättern; kühlt über Kälterezeptoren, wird als Duft und belebender Zusatz verwendet; als Öl seit VO (EU) 2023/1545 kennzeichnungspflichtig.",
+      "tags": [
+        "kuehlend",
+        "aetherische-oele",
+        "duftstoff-allergen"
+      ],
+      "verwandt": [
+        "wirkstoff:menthol",
+        "wirkstoff:campher",
+        "wirkstoff:teebaumoel",
+        "recht:anhang-iii-duftstoff-allergene"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.5.12, S. 103; Tab. 4.7, S. 95"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Eucalyptus globulus“"
+        },
+        {
+          "id": "quelle:eur-lex",
+          "fundstelle": "VO (EG) 1223/2009, Anhang III Nr. 355 (siehe recht:anhang-iii-duftstoff-allergene)"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/wirkstoffe/eukalyptus.md",
+      "verweise_von": [
+        "recht:anhang-iii-duftstoff-allergene",
+        "wirkstoff:campher",
+        "wirkstoff:menthol",
+        "wirkstoff:teebaumoel"
+      ]
+    },
+    {
       "id": "wirkstoff:exosomen",
       "typ": "wirkstoff",
       "titel": "Exosomen (topisch, kosmetisch)",
@@ -9477,6 +10185,9 @@
         "recht:eu-kosmetikverordnung"
       ],
       "kurz": "Soja-Isoflavone; Höchstwerte 0,007 % (Genistein) bzw. 0,02 % (Daidzein) nach SCCS/1641/22.",
+      "verwandt": [
+        "wirkstoff:phytoestrogene"
+      ],
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
@@ -9493,10 +10204,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/genistein-daidzein.md",
       "verweise_von": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "wirkstoff:phytoestrogene"
       ]
     },
     {
@@ -9523,7 +10235,8 @@
       ],
       "verwandt": [
         "wirkstoff:hyaluronsaeure",
-        "wirkstoff:urea"
+        "wirkstoff:urea",
+        "begriff:humectant"
       ],
       "quellen": [
         {
@@ -9536,9 +10249,10 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/glycerin.md",
       "verweise_von": [
+        "begriff:humectant",
         "begriff:nmf",
         "formulierung:emulsion-ow",
         "haut:neurodermitis",
@@ -9716,7 +10430,8 @@
         "humectant"
       ],
       "verwandt": [
-        "wirkstoff:glycerin"
+        "wirkstoff:glycerin",
+        "begriff:humectant"
       ],
       "quellen": [
         {
@@ -9732,9 +10447,10 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/hyaluronsaeure.md",
       "verweise_von": [
+        "begriff:humectant",
         "behandlung:dermafiller",
         "haut:reife-haut",
         "wirkstoff:glycerin"
@@ -9753,7 +10469,8 @@
       "impact": "mittel",
       "kurz": "Als Arzneimittel bei Melasma gut belegt, in Kosmetika verboten; relevant als Verunreinigung von Arbutin.",
       "verwandt": [
-        "wirkstoff:arbutin"
+        "wirkstoff:arbutin",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -9775,13 +10492,14 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "regulierung": [
         "recht:eu-kosmetikverordnung",
         "recht:anhang-ii-arzneistoffe"
       ],
       "pfad": "data/wirkstoffe/hydrochinon.md",
       "verweise_von": [
+        "behandlung:pigmentbehandlung",
         "formulierung:rezepturen-bauprinzip",
         "haut:vitiligo",
         "wirkstoff:arbutin"
@@ -10141,6 +10859,11 @@
         "recht:anhang-iii-duftstoff-allergene"
       ],
       "kurz": "Kühlender Aromastoff in Mund- und Hautpflege; seit VO (EU) 2023/1545 kennzeichnungspflichtiges Duftstoff-Allergen.",
+      "verwandt": [
+        "wirkstoff:campher",
+        "wirkstoff:eukalyptus",
+        "formulierung:rasiermittel"
+      ],
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
@@ -10155,9 +10878,13 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/menthol.md",
-      "verweise_von": []
+      "verweise_von": [
+        "formulierung:rasiermittel",
+        "wirkstoff:campher",
+        "wirkstoff:eukalyptus"
+      ]
     },
     {
       "id": "wirkstoff:methotrexat",
@@ -10219,6 +10946,9 @@
         "recht:vo-2024-996"
       ],
       "kurz": "Früherer UV-B-Filter (Enzacamen), wegen hormoneller Wirkung EU-weit verboten (Anhang II Nr. 1730).",
+      "verwandt": [
+        "wirkstoff:campher"
+      ],
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
@@ -10236,10 +10966,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/methylbenzyliden-campher.md",
       "verweise_von": [
-        "recht:vo-2024-996"
+        "recht:vo-2024-996",
+        "wirkstoff:campher"
       ]
     },
     {
@@ -10685,6 +11416,58 @@
       "verweise_von": []
     },
     {
+      "id": "wirkstoff:phytoestrogene",
+      "typ": "wirkstoff",
+      "titel": "Phytoestrogene (Stoffgruppe)",
+      "aliase": [
+        "Phytoöstrogene",
+        "Pflanzenöstrogene"
+      ],
+      "inci": "uneinheitlich (Stoffgruppe), z. B. GENISTEIN, DAIDZEIN",
+      "stoffgruppe": "Polyphenole (Isoflavone, Coumestane, Lignane)",
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "funktionen": [
+        "anti-aging",
+        "antioxidativ"
+      ],
+      "regulierung": [
+        "recht:vo-2024-996",
+        "recht:eu-kosmetikverordnung"
+      ],
+      "kurz": "Pflanzenstoffe mit östrogenähnlicher Struktur, beworben gegen hormonbedingte Hautalterung; laut Lehrbuch ist die Hautwirkung kaum belegt und die Aufnahme in die Haut offen.",
+      "tags": [
+        "anti-aging",
+        "polyphenole",
+        "wechseljahre"
+      ],
+      "verwandt": [
+        "wirkstoff:genistein-daidzein",
+        "wirkstoff:resveratrol",
+        "haut:reife-haut",
+        "begriff:antioxidans"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.6.11, S. 110–111 (Tab. 4.10)"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Phytohormone“ (nur zur Begriffsabgrenzung)"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/wirkstoffe/phytoestrogene.md",
+      "verweise_von": [
+        "begriff:antioxidans",
+        "haut:reife-haut",
+        "wirkstoff:genistein-daidzein",
+        "wirkstoff:resveratrol"
+      ]
+    },
+    {
       "id": "wirkstoff:piroctone-olamin",
       "typ": "wirkstoff",
       "titel": "Piroctone Olamine",
@@ -10937,7 +11720,8 @@
       "verwandt": [
         "wirkstoff:gruentee",
         "wirkstoff:propolis",
-        "begriff:antioxidans"
+        "begriff:antioxidans",
+        "wirkstoff:phytoestrogene"
       ],
       "quellen": [
         {
@@ -10954,10 +11738,67 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/resveratrol.md",
       "verweise_von": [
+        "wirkstoff:phytoestrogene",
         "wirkstoff:propolis"
+      ]
+    },
+    {
+      "id": "wirkstoff:retinal",
+      "typ": "wirkstoff",
+      "titel": "Retinal (Retinaldehyd)",
+      "aliase": [
+        "Retinaldehyd",
+        "Vitamin-A-Aldehyd"
+      ],
+      "inci": "RETINAL",
+      "cas": "116-31-4",
+      "stoffgruppe": "Vitamin (Retinoid)",
+      "evidenz": "nicht-bewertet",
+      "impact": "offen",
+      "funktionen": [
+        "anti-aging",
+        "zellerneuernd"
+      ],
+      "vorsicht_bei": [
+        "Schwangerschaft",
+        "haut:rosazea",
+        "haut:sebostase"
+      ],
+      "regulierung": [
+        "recht:eu-kosmetikverordnung",
+        "recht:vo-2024-996"
+      ],
+      "kurz": "Aldehydform von Vitamin A; laut Lehrbuch deutlich aktiver als Retinolester. Studienlage und EU-Rechtsstand sind hier noch nicht geprüft.",
+      "tags": [
+        "vitamin",
+        "anti-aging",
+        "retinoid"
+      ],
+      "verwandt": [
+        "wirkstoff:retinol",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:tretinoin",
+        "haut:reife-haut"
+      ],
+      "quellen": [
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 4.1.5, S. 76; Kap. 14 (INCI-Liste)"
+        }
+      ],
+      "status": "entwurf",
+      "aktualisiert": "2026-11-02",
+      "pfad": "data/wirkstoffe/retinal.md",
+      "verweise_von": [
+        "haut:reife-haut",
+        "wirkstoff:retinol",
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:tretinoin"
       ]
     },
     {
@@ -11019,17 +11860,19 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pruefen_bis": "2027-05-01",
       "verwandt": [
         "wirkstoff:retinyl-acetat",
-        "wirkstoff:retinyl-palmitat"
+        "wirkstoff:retinyl-palmitat",
+        "wirkstoff:retinal"
       ],
       "pfad": "data/wirkstoffe/retinol.md",
       "verweise_von": [
         "haut:reife-haut",
         "recht:vo-2024-996",
         "wirkstoff:carotinoide",
+        "wirkstoff:retinal",
         "wirkstoff:retinyl-acetat",
         "wirkstoff:retinyl-palmitat",
         "wirkstoff:tretinoin"
@@ -11052,7 +11895,8 @@
       ],
       "kurz": "Retinylester; gleiche Grenzwerte wie Retinol (Anhang III Nr. 376, als Retinoläquivalent).",
       "verwandt": [
-        "wirkstoff:retinol"
+        "wirkstoff:retinol",
+        "wirkstoff:retinal"
       ],
       "quellen": [
         {
@@ -11074,10 +11918,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/retinyl-acetat.md",
       "verweise_von": [
         "recht:vo-2024-996",
+        "wirkstoff:retinal",
         "wirkstoff:retinol",
         "wirkstoff:retinyl-palmitat"
       ]
@@ -11100,7 +11945,8 @@
       "kurz": "Retinylester; zusammen mit Retinol und Retinyl Acetate auf 0,05 % RE (Körperlotion) bzw. 0,3 % RE begrenzt.",
       "verwandt": [
         "wirkstoff:retinol",
-        "wirkstoff:retinyl-acetat"
+        "wirkstoff:retinyl-acetat",
+        "wirkstoff:retinal"
       ],
       "quellen": [
         {
@@ -11128,10 +11974,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/retinyl-palmitat.md",
       "verweise_von": [
         "recht:vo-2024-996",
+        "wirkstoff:retinal",
         "wirkstoff:retinol"
       ]
     },
@@ -11380,7 +12227,8 @@
       "verwandt": [
         "wirkstoff:tocopherol",
         "begriff:hydrolipidfilm",
-        "haut:sebostase"
+        "haut:sebostase",
+        "begriff:emollient"
       ],
       "quellen": [
         {
@@ -11397,9 +12245,10 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/squalan.md",
       "verweise_von": [
+        "begriff:emollient",
         "wirkstoff:tocopherol"
       ]
     },
@@ -11478,7 +12327,8 @@
       "verwandt": [
         "haut:akne-vulgaris",
         "haut:kontaktekzem",
-        "recht:anhang-iii-duftstoff-allergene"
+        "recht:anhang-iii-duftstoff-allergene",
+        "wirkstoff:eukalyptus"
       ],
       "quellen": [
         {
@@ -11495,9 +12345,10 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/teebaumoel.md",
       "verweise_von": [
+        "wirkstoff:eukalyptus",
         "wirkstoff:propolis"
       ]
     },
@@ -11702,7 +12553,9 @@
       ],
       "kurz": "Vitamin-A-Säure gegen Akne und Photoaging; als Arzneistoff in Kosmetika verboten (Anhang II Nr. 375).",
       "verwandt": [
-        "wirkstoff:retinol"
+        "wirkstoff:retinol",
+        "wirkstoff:retinal",
+        "behandlung:pigmentbehandlung"
       ],
       "quellen": [
         {
@@ -11727,9 +12580,12 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/tretinoin.md",
-      "verweise_von": []
+      "verweise_von": [
+        "behandlung:pigmentbehandlung",
+        "wirkstoff:retinal"
+      ]
     },
     {
       "id": "wirkstoff:trichloressigsaeure",
@@ -11748,6 +12604,9 @@
         "recht:anhang-ii-arzneistoffe"
       ],
       "kurz": "Säure für mitteltiefe ärztliche Peelings; in Kosmetika verboten (Anhang II Nr. 10).",
+      "verwandt": [
+        "behandlung:pigmentbehandlung"
+      ],
       "quellen": [
         {
           "id": "quelle:kosmetologe-projekt",
@@ -11770,10 +12629,11 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/wirkstoffe/trichloressigsaeure.md",
       "verweise_von": [
-        "behandlung:chemisches-peeling"
+        "behandlung:chemisches-peeling",
+        "behandlung:pigmentbehandlung"
       ]
     },
     {

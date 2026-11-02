@@ -20,12 +20,13 @@ tags:
 - beine
 verwandt:
 - haut:teleangiektasien
+- behandlung:gefaessveroedung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 8.2, S. 74–75
 status: geprueft
 geprueft_am: 2026-10-29
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Einordnung
 Östrogen stellt Venen weit; im Alter trägt laut Quelle ein Progesteronmangel dazu bei, dass Stützproteine des

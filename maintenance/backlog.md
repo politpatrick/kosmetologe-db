@@ -4,7 +4,7 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 
 - [x] Export des claude.ai-Projekts übernommen (2026-10-28): Rechtsauswertungen, Impact-Liste, Berichte, 18 Wirkstoffe
 - [x] Einzeldateien der recherchierten Wirkstoffe übernommen (2026-10-28, 59 Dateien)
-- [ ] Fehlende Verweisziele anlegen: retinal, phytoestrogene (sowie campher, eukalyptus aus Anhang III)
+- [x] Fehlende Verweisziele angelegt: retinal, phytoestrogene, campher, eukalyptus (2026-11-02)
 - [ ] Projektanweisungen des claude.ai-Projekts als `kontext:`-Einträge übernehmen (Evidenzvorgabe, Tonalität, Design)
 - [ ] Rechtsstand Anhang III Nr. 334 und 339: abgeschnittene Stoffnamen nachtragen
 - [x] Hauttypen vervollständigt: normale, fettige, sensible, reife Haut, Babyhaut (2026-10-28)
@@ -18,13 +18,13 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Weitere Prüfrunden: noch 21 `haut:`-, 85 `wirkstoff:`-, 20 `begriff:`-, 14 `formulierung:`-Entwürfe (Vorschlag: Hautbilder aus Runde 13 und 14, dann Begriffe und Formulierungen aus Ellsässer/Tadros)
 - [ ] OLG Karlsruhe, Urteil vom 17.12.2012 (Unterspritzung durch Kosmetikerinnen) im Wortlaut prüfen
 - [x] Übertrag Runde 14: Herrmann/Trinkkeller Kap. 28–30 → Grundlagen, Rezepturen (Bauprinzip), Masken/Packungen, Pflege nach Lebensalter (2026-10-29)
-- [ ] Herrmann/Trinkkeller offen: Allergie-Grundlagen, Kap. 25–26, Angiom und Spinnennaevus (Kap. 8.6–8.7)
+- [ ] Herrmann/Trinkkeller offen: Allergie-Grundlagen, Kap. 25–26
 - [x] Übertrag Runde 3: Ellsässer → 6 `haut:` und 9 `begriff:` (2026-10-28)
 - [ ] Ellsässer offen: Tenside und Emulgatorklassen, Gelbildner, Lipidkomponenten, Peelings, Wirkstoffe aus Kap. 4 abgleichen, Sonnenberatung und Pigmentierungstypen, Deo (Kap. 10), Naturkosmetik und kritisch bewertete Stoffe (Kap. 1.3–1.4); Kap. 9 offen: Haarfarben (9.4), Haarausfall-Pflege (9.5), Rasur und Haarentfernung (9.6–9.7), Nagelpflege (9.8)
 - [x] Übertrag Runde 4: Tadros → 7 `formulierung:` und 3 `begriff:` (2026-10-28)
-- [ ] Tadros offen: polymere Tenside, Rheologie, Emulgatorauswahl und Herstellung (Kap. 6.4–6.6), Farbkosmetik (Kap. 13), Industriebeispiele (Kap. 14: Rasierschaum, Seifen, Badeöle, Make-up), Gele (ergänzend aus Ellsässer Kap. 6.5)
+- [ ] Tadros offen: polymere Tenside, Rheologie, Emulgatorauswahl und Herstellung (Kap. 6.4–6.6), Farbkosmetik (Kap. 13), Industriebeispiele (Kap. 14: Seifen, Badeöle, Make-up), Gele (ergänzend aus Ellsässer Kap. 6.5)
 - [x] Übertrag Runde 5: Springer-Lexikon → Stichwort-Fundstellen für 101 Einträge, INCI-Abgleich (2026-10-28)
-- [ ] Lexikon offen: ohne Stichwort sind Arzneistoffe (Minoxidil, Ketoconazol, Methotrexat, Fluorouracil, Trichloressigsäure) und einige Hautzustände; Glossar-Begriffe aus dem Lexikon gezielt ergänzen (z. B. Rückfetter, Emollient, Humectant, Okklusiv)
+- [ ] Lexikon offen: ohne Stichwort sind Arzneistoffe (Minoxidil, Ketoconazol, Methotrexat, Fluorouracil, Trichloressigsäure) und einige Hautzustände; weitere Glossar-Begriffe aus dem Lexikon gezielt ergänzen (Rückfetter, Emollient, Humectant, Okklusion sind angelegt)
 - [ ] Sonnenschutz-Grundlagen als Begriffe/Formulierung (LSF, UVA-Kennzeichnung, Photostabilität)
 - [ ] Konservierungsstoffe (Anhang V) – häufigste 10
 - [x] Tenside: Klassen und Beispiele (`begriff:tensid`, 2026-10-28)
@@ -32,7 +32,7 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [x] Übertrag Runde 6: Herrmann/Trinkkeller Kap. 5 und 27 → 10 `behandlung:` und Praxishygiene (2026-10-28)
 - [x] `recht:nisv` angelegt (2026-10-28); Nadelepilation und Iontophorese eingeordnet (2026-10-29)
 - [x] `recht:taetowiermittel` angelegt (2026-10-28); offen: Grenzwerte Eintrag 75 am EUR-Lex-Text prüfen — (Tätowiermittel-Verordnung, REACH-Beschränkung Tätowierfarben) für Permanent Make-up
-- [ ] Herrmann offen: Gefäßverödung (27.14), Pigmentbehandlung (27.11); Kap. 31 erledigt (2026-10-28)
+- [x] Herrmann: Angiom und Spinnennaevus (8.6–8.7), Gefäßverödung (27.14), Pigmentbehandlung (27.11) angelegt (2026-11-02); Kap. 31 erledigt (2026-10-28)
 - [x] Übertrag Runde 7: Ellsässer Kap. 4 → 12 Wirkstoffe aus Impact-Liste Abschnitt B (2026-10-28)
 - [x] Übertrag Runde 12: Ellsässer Kap. 9.1–9.3 → Haarkosmetik (4 haut, 2 formulierung, 2 begriff, 3 Wirkstoffe mit PubMed) (2026-10-28)
 - [x] Rechtsstand geprüft: Zinkpyrithion (Anhang II Nr. 1670 seit 1.3.2022), Steinkohlenteer (Anhang II Nr. 420) (2026-10-29)
@@ -45,3 +45,5 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] Kryolipolyse: Medizinprodukte- und Berufsrecht prüfen (NiSV-FAQ C.05 lesen); ärztliche Delegation (FAQ D)
 - [x] Übertrag Runde 10: Ellsässer Kap. 6 und 10 → 4 Begriffe, Gel, Deo (2026-10-28)
 - [x] SCCS Aluminium und REACH D4/D5/D6 angelegt (2026-10-28); SCCS-Tabelle 1 ausgelesen, Anhang III geprüft (noch kein Al-Höchstwert), EUR-Lex-Text 2024/1328 gegengelesen und Daten korrigiert (2026-10-29)
+- [x] Monatliche Erweiterung 2026-11-02: 12 Einträge (4 Wirkstoffe, 3 Begriffe, 2 Hautbilder, 2 Behandlungen, 1 Formulierung)
+- [ ] Studienrecherche und CosIng für retinal, phytoestrogene, campher, eukalyptus (bisher nur Lehrbuch, `nicht-bewertet`)
