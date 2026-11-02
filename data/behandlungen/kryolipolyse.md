@@ -23,9 +23,11 @@ verwandt:
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 31.3, S. 278–279
+- id: quelle:bmukn-nisv-faq
+  fundstelle: FAQ C.05 (Stand 11.03.2024)
 status: geprueft
 geprueft_am: 2026-10-29
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Einordnung
 Fett kristallisiert bei Kälte früher als Wasser. Per Vakuum angesaugtes Gewebe wird etwa eine Stunde auf 4 °C gekühlt;
@@ -33,7 +35,8 @@ Fettzellen sterben ab und werden abgebaut, Haut und Bindegewebe bleiben laut Que
 Erste Ergebnisse nach etwa drei Wochen, Endergebnis nach rund drei Monaten.
 
 ## Recht
-Kältegeräte fallen nicht unter die NiSV; Anforderungen an Medizinprodukte und Berufsrecht beim Review prüfen (eigene Ergänzung).
+Kältegeräte fallen laut BMUKN-FAQ C.05 nicht unter die NiSV, andere Vorschriften können greifen. Anforderungen aus
+Medizinprodukte- und Berufsrecht sind noch nicht geprüft.
 
 ## Ergänzt nach Abgleich mit dem Original
-- Am Original bestätigt (Kap. 31.3). Die rechtliche Einordnung (BMUKN-FAQ C.05) steht im Backlog.
+- Am Original bestätigt (Kap. 31.3). Medizinprodukte- und Berufsrecht stehen im Backlog.

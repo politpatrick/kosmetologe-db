@@ -5,6 +5,8 @@ titel: Emulsionszerfall
 aliase:
 - Emulsionsinstabilität
 - Aufrahmung
+- Sedimentation
+- Flockung
 - Koaleszenz
 - Ostwald-Reifung
 - Phaseninversion
@@ -17,13 +19,17 @@ verwandt:
 - formulierung:emulsion-wo
 - formulierung:nanoemulsion
 - formulierung:mehrfachemulsion
+- begriff:emulgator
 quellen:
 - id: quelle:tadros-formulierungen
-  fundstelle: Kap. 6.3, S. 115–116
+  fundstelle: Kap. 6.3, S. 115–119
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Aufrahmung“, „Koaleszenz“"
-status: entwurf
-aktualisiert: '2026-10-28'
+- id: quelle:ellsaesser-koerperpflegekunde
+  fundstelle: Kap. 6.1.5, S. 140–141
+status: geprueft
+geprueft_am: '2026-11-02'
+aktualisiert: '2026-11-02'
 ---
 ## Die Prozesse
 - **Aufrahmen und Absetzen:** Tröpfchen steigen auf oder sinken ab, abhängig von Größe und Dichteunterschied.
@@ -33,3 +39,7 @@ aktualisiert: '2026-10-28'
 - **Phaseninversion:** Aus O/W wird W/O oder umgekehrt, etwa bei zu hohem Ölanteil oder Erwärmung.
 
 Mehrere Prozesse können gleichzeitig ablaufen.
+
+## Hinweis zu den Quellen
+Die Quellen ordnen das Aufrahmen unterschiedlich ein: Tadros beschreibt es als Bewegung durch Schwerkraft ohne Änderung der
+Tröpfchengröße, Ellsässer als Folge des Zusammenfließens der inneren Phase. Dieser Eintrag folgt Tadros.
