@@ -16,7 +16,7 @@ quellen:
 - {id: 'quelle:sccs'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Methylparaben“, „Parabene“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-04'
 ---
 Stand: 2026-10-23. Impact: hoch (Dauerthema, Kennzeichnung "paraben-frei" als Marketing). Evidenzstufe: Konservierungswirkung etabliert; endokrine Bewertung durch SCCS, Verdacht nicht bestätigt, aber nicht ausgeräumt; für Butylparaben bei Kindern SCCS 2025: 0,14 % bei kombinierter Anwendung nicht sicher.
 
@@ -60,3 +60,4 @@ Welches Paraben und welche Menge in der INCI; Summe aller Konservierer; Kinderpr
 - 2026-10-23 (4): Rechtsetzungsstand (Council 13462/26, Entwurf) ergänzt.
 - 2026-10-23 (3): SCCS/1623/20 Propylparaben im Original ergänzt.
 - 2026-10-23 (2): SCCS-Originalgutachten 1651/23, 1652/23, 1674/25 eingearbeitet (Kinderexposition Butylparaben).
+- 2026-11-04: Biomonitoring Korea (KoNEHS, Zyklen 3-5, 2015-2023, Urin): Methyl-, Propyl- und Butylparaben in den meisten Altersgruppen deutlich gesunken, Ethylparaben stabil; bei Vorschulkindern stiegen Methyl- und Propylparaben von Zyklus 4 zu 5. Überschreitungen des Hazard Quotient für Propyl- und Butylparaben vor allem bei Vorschulkindern und Erwachsenen; Zusammenhang u. a. mit Arzneimitteln, antibakteriellen Produkten, Körper-, Haarpflege und Make-up. Beobachtungsdaten, keine Kausalität, außerhalb der EU. Passt zum Fokus auf Kinderexposition, keine Rechtsfolge. Bewertung unverändert. [Wahrscheinlich] Int J Hyg Environ Health 2026, PMID 42956561, doi:10.1016/j.ijheh.2026.114933.

@@ -14,7 +14,7 @@ quellen:
 - {id: 'quelle:sccs'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Octocrylene“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-04'
 ---
 Stand: 2026-10-23. Impact: mittel. Evidenzstufe: UV-Filter-Wirksamkeit etabliert; Sicherheitsbewertung nur über Rechtstext geprüft (SCCS-Gutachten nicht gelesen).
 
@@ -35,3 +35,4 @@ Konzentration aus INCI; Umweltbewertung und SCCS-Begründung (nicht recherchiert
 
 ## Änderungslog
 - 2026-10-23: recherchiert (Rechtslage), ersetzt Literaturstub.
+- 2026-11-04: Drosophila-Studie mit Docking: dosisabhängige genetische Schäden, Octocrylen am stärksten im SMART-Test. Insektenmodell und In-silico, keine dermale Exposition beim Menschen, keine Rechtsfolge. Evidenz schwach, Bewertung unverändert. [Wahrscheinlich] Toxicol Mech Methods 2026, PMID 42958843, doi:10.1080/15376516.2026.2755745.

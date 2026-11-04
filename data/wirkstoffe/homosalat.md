@@ -15,7 +15,7 @@ quellen:
 - {id: 'quelle:sccs'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Homosalate“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-04'
 ---
 Stand: 2026-10-23. Impact: hoch (Anwendung seit 2025 stark eingeschränkt, viele Sonnenschutzprodukte betroffen). Evidenzstufe: Wirksamkeit als UV-B-Filter etabliert; Sicherheitsbewertung: SCCS-Gutachten gelesen.
 
@@ -37,3 +37,4 @@ Konzentration in der INCI; ob das Produkt als Gesichtsprodukt zulässig ist; Sum
 
 ## Änderungslog
 - 2026-10-23: recherchiert, ersetzt Literaturstub.
+- 2026-11-04: Drosophila-Studie mit Docking: dosisabhängige genetische Schäden und Entwicklungsstörungen, Homosalat am stärksten bei der Entwicklungstoxizität. Insektenmodell und In-silico, keine dermale Exposition beim Menschen, keine Rechtsfolge. Evidenz schwach, Bewertung unverändert. [Wahrscheinlich] Toxicol Mech Methods 2026, PMID 42958843, doi:10.1080/15376516.2026.2755745.

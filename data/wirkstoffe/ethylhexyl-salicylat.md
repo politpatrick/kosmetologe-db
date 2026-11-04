@@ -15,7 +15,7 @@ quellen:
 - {id: 'quelle:sccs'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Ethylhexyl Salicylate“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-04'
 ---
 Stand: 2026-10-23. Impact: mittel (zugelassen, alte Bewertung; keine aktuelle SCCS-Neubewertung gefunden). Evidenzstufe: schwach bis moderat, weil die EU-Bewertung von 1998 stammt und die Primärdaten nur als Zusammenfassung zugänglich waren.
 
@@ -49,4 +49,5 @@ Wenn die Aggregatexposition oder die Aufnahme in den Körper ein Thema ist: mine
 - Projektliteratur: E 8.3.1.
 
 ## Änderungslog (neueste oben)
+- 2026-11-04: Koreanische Risikobewertung (Autorenschaft u. a. aus der staatlichen Kosmetikforschung NIFDS): dermale Absorption 0,5 % (in vitro), Entwicklungs-NOAEL 25 mg/kg/Tag, Sicherheitsabstand 353 bei 5 %. Autoren sehen geringes Risiko innerhalb der geltenden Grenzwerte. Review mit Tierdaten und Modellrechnung, keine Berücksichtigung der in dieser Datei genannten FDA-Plasmadaten im Abstract erkennbar. Evidenz schwach, Bewertung unverändert. [Wahrscheinlich] Toxicol Res 2026, PMID 42948119, doi:10.1007/s43188-026-00380-w.
 - 2026-10-23: Websuche, SCCNFP/Rechtsprüfung; vorher nur Literaturstand.
