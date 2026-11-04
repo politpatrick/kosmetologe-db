@@ -14,7 +14,7 @@ quellen:
 - {id: 'quelle:pubmed'}
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Ceramide“'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-04'
 ---
 Stand: 2026-10-20. Impact: hoch (neue Humanstudie).
 
@@ -37,4 +37,5 @@ Die Studie betrifft ein Arzneimittel-nahes Medizinprodukt bei AD. Übertragbarke
 Skin Pharmacol Physiol (2026), doi:10.1159/spp/aetag011 (PubMed-Abfrage 2026-10-20).
 
 ## Änderungslog (neueste oben)
+- 2026-11-04: Neue RCT zu einer ceramidbasierten lamellaren Emulsion an den Händen von OP-Pflegekräften: 35 Teilnehmende (18 vs. 17 mit üblicher Pflege), zweimal täglich über 7 Tage, einzelnes Zentrum. TEWL sank ab Tag 1 und blieb unter der Kontrolle, Hydratation und Trockenheitsscore besserten sich. Einschränkungen: sehr kurz, kein Vehikel als Kontrolle, Verblindung im Abstract nicht genannt, Ceramidtyp dort nicht genannt (daher nicht sicher Ceramid NP); Herstellerbezug aus dem Abstract nicht prüfbar. Evidenz moderat (kleine RCT), Bewertung unverändert. [Wahrscheinlich] AORN J 2026;124(5):333-345, PMID 42949579, doi:10.1002/aorn.70175.
 - 2026-10-20 (Wochenlauf): Neue RCT zu Moisturizer mit Centella-asiatica-Extrakt + Ceramid NP + Panthenol bei erythemato-telangiektatischer Rosazea, Skin Res Technol 2026 (Okt), PMID 42876425, doi:10.1111/srt.70396. n = 75 (39 Verum / 36 Kontrolle), alle Patienten zusätzlich Minocyclin 50 mg/d (Arzneitherapie, Add-on-Design), 28 Tage. Laut Abstract nach Tag 28 größere Verbesserung in der Verum-Gruppe bei Rötung (a*-Wert, Rötungsfläche), Stratum-corneum-Hydratation und RosQol; CEA in der Kontrolle höher. Nebenwirkungen mild. Evidenzstufe: moderat (kleine RCT, Einzelzentrum, China). [Wahrscheinlich] unterstützender Effekt der Kombination bei Rosazea. Einschränkungen: Effekt nicht Ceramid NP allein zuzuordnen (Kombinationsprodukt mit Centella und Panthenol), Zusammensetzung der Kontrolle im Abstract nicht angegeben, Konzentrationen nicht genannt, Volltext nicht geprüft, Interessenkonflikte nicht geprüft. Kein Widerspruch zum Eintrag Skin Pharmacol Physiol (dort Placebo-Überlegenheit nicht belegt); beide Studien betreffen Erkrankungskontexte (AD bzw. Rosazea), nicht gesunde Haut. Impact-Liste unverändert (Evidenzstufe moderat bleibt).
