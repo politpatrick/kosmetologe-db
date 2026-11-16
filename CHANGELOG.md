@@ -11,6 +11,11 @@
 - Korrigiert: UVA-Drittel-Regel und Logo stehen doch in der Quelle (war als eigene Ergänzung markiert); Grundlagensysteme
   nach Ellsässer (ohne Pulver/Pasten); Antitranspirant-Mechanismus als ungeklärt; Bezug lamellarer Phasen zur Hornschicht
   steht bei Tadros (war als eigene Ergänzung markiert); kubische Phase präzisiert
+- Dritte Runde: `formulierung:haarspuelung`, `formulierung:haarstyling`, `formulierung:liposomen`,
+  `formulierung:mehrfachemulsion`, `formulierung:nanoemulsion` geprüft und auf `geprueft` gesetzt
+- Korrigiert/ergänzt: Fundstellen präzisiert (Übersicht 9.4 auf S. 268; Styling-Hinweise mit S. 265, 269, 271);
+  Liposomen-Hinweis um die laut Tadros verbesserte Penetration von Antifalten-Wirkstoffen ergänzt; Ostwald-Reifung
+  und Penetration bei Nanoemulsionen, Zerfallsprozesse bei Mehrfachemulsionen ergänzt
 
 ## 2026-10-29 – Prüfrunde 4 am Original (Herrmann/Trinkkeller, 21 Behandlungen)
 - Alle 21 `behandlung:`-Einträge gegen das Original abgeglichen (Kap. 5, 27, 28–31) und auf `geprueft` gesetzt

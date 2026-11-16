@@ -77,7 +77,8 @@
       "pfad": "data/begriffe/emulgator.md",
       "verweise_von": [
         "begriff:zubereitungsformen",
-        "formulierung:dermatologische-grundlagen"
+        "formulierung:dermatologische-grundlagen",
+        "formulierung:mehrfachemulsion"
       ]
     },
     {
@@ -2222,7 +2223,8 @@
       "pfad": "data/formulierungen/fluessigkristalline-phasen.md",
       "verweise_von": [
         "begriff:mizelle",
-        "formulierung:liposomen"
+        "formulierung:liposomen",
+        "formulierung:nanoemulsion"
       ]
     },
     {
@@ -2300,7 +2302,7 @@
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 9.2.2, S. 267 (Übersicht 9.4)"
+          "fundstelle": "Kap. 9.2.1–9.2.2, S. 267; Übersicht 9.4, S. 268"
         },
         {
           "id": "quelle:tadros-formulierungen",
@@ -2311,8 +2313,9 @@
           "fundstelle": "Stichwort „Conditioner“, „Haarkur“, „Haarspülung“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/haarspuelung.md",
       "verweise_von": [
         "begriff:konditionierungsmittel",
@@ -2363,15 +2366,16 @@
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 9.1.3, S. 261; Kap. 9.2.4, S. 268 (Übersicht 9.5 und 9.6); Tab. 9.1, S. 263–264"
+          "fundstelle": "Kap. 9.1.3, S. 261; Tab. 9.1, S. 263–264; Kap. 9.1.8, S. 265; Kap. 9.2.4, S. 268 (Übersicht 9.5 und 9.6); Kap. 9.3.3, S. 269; Kap. 9.3.9, S. 271"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Haarfestiger“, „Haargel“, „Haarspray“, „Haarwachs“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/haarstyling.md",
       "verweise_von": [
         "haut:fettiges-haar",
@@ -2393,7 +2397,7 @@
         "Wasser",
         "Wirkstoff in Membran oder Innenraum"
       ],
-      "stabilitaet": "Weniger stabil als Nanoemulsionen; Größe und Lamellenzahl hängen von der Herstellung ab (Schütteln, Ultraschall).",
+      "stabilitaet": "Laut Tadros deutlich weniger stabil als Nanoemulsionen; Größe und Lamellenzahl hängen von der Herstellung ab (Schütteln, Ultraschall).",
       "kurz": "Kugelige Bläschen aus Phospholipid-Doppelschichten; nehmen fett- und wasserlösliche Wirkstoffe auf und ähneln Zellmembranen.",
       "tags": [
         "traeger",
@@ -2407,15 +2411,16 @@
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 9.1–9.2, S. 210–211"
+          "fundstelle": "Kap. 9.1–9.2, S. 210–211; Kap. 7.1, S. 160"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Liposomen“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/liposomen.md",
       "verweise_von": [
         "formulierung:fluessigkristalline-phasen",
@@ -2434,7 +2439,7 @@
       ],
       "system": "Emulsion von Emulsionen, meist W/O/W",
       "bestandteile": [
-        "innere Wasserphase mit Wirkstoff",
+        "innere Wasserphase mit Wirkstoff (auch Glykol oder Glycerin möglich)",
         "Ölphase als Membran",
         "äußere Wasserphase",
         "lipophiler Emulgator innen",
@@ -2448,16 +2453,18 @@
       "verwandt": [
         "formulierung:emulsion-ow",
         "formulierung:emulsion-wo",
-        "begriff:emulsionszerfall"
+        "begriff:emulsionszerfall",
+        "begriff:emulgator"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 8.1–8.3, S. 194–195"
+          "fundstelle": "Kap. 8.1–8.3, S. 194–196"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/mehrfachemulsion.md",
       "verweise_von": [
         "begriff:emulsionszerfall",
@@ -2477,7 +2484,7 @@
         "Ölphase",
         "Wasserphase",
         "nichtionische oder polymere Tenside (ca. 5–10 % bei 20 % Öl)",
-        "wasserunlöslicher Ölanteil gegen Ostwald-Reifung"
+        "in Wasser unlösliche zweite Ölkomponente (z. B. Squalan) gegen Ostwald-Reifung"
       ],
       "stabilitaet": "Nur kinetisch stabil; kein Aufrahmen dank Brownscher Bewegung, Hauptrisiko ist Ostwald-Reifung, die das Produkt trüb werden lässt.",
       "kurz": "Sehr feine Emulsion, durchscheinend bis klar, ohne Aufrahmen; leichtes Hautgefühl und gute Verteilung von Wirk- und Duftstoffen.",
@@ -2488,16 +2495,18 @@
       "verwandt": [
         "formulierung:emulsion-ow",
         "begriff:emulsionszerfall",
-        "formulierung:liposomen"
+        "formulierung:liposomen",
+        "formulierung:fluessigkristalline-phasen"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 7.1, S. 159–160"
+          "fundstelle": "Kap. 7.1, S. 159–162"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/nanoemulsion.md",
       "verweise_von": [
         "begriff:emulsionszerfall",
