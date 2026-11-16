@@ -15,7 +15,7 @@ quellen:
 - {id: 'quelle:sccs'}
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Benzophenone“'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-04'
 ---
 Stand: 2026-10-23. Impact: hoch (Rechtslage seit 2023 verschärft; Debatte um Systemaufnahme und Umwelt). Evidenzstufe: Wirksamkeit als UV-Filter belegt (Standardfilter); Rechtstext im Amtsblatt-Wortlaut geprüft, SCCS-Begründung nicht.
 
@@ -50,3 +50,4 @@ Für Bewertungen: Position in der INCI und Produktart prüfen (Spray vs. Creme, 
 ## Änderungslog
 - 2026-10-23: recherchiert (Rechtslage), ersetzt Literaturstub.
 - 2026-10-23 (2): Rechtswerte am Amtsblatt-Wortlaut verifiziert.
+- 2026-11-04: Koreanische Risikobewertung (Autorenschaft u. a. aus der staatlichen Kosmetikforschung NIFDS): NOAEL 67,9 mg/kg/Tag, Sicherheitsabstand rund 100 bei 2,4 % im Sonnenschutz, gerechnet mit koreanischen Verbrauchsmengen; Autoren halten die Verwendung unter den dortigen Regeln für sicher, nennen aber photoallergische Kontaktdermatitis und offene Fragen zur endokrinen Wirkung. Review mit Modellrechnung, nicht auf die EU-Grenzwerte übertragbar, ändert die Rechtslage nicht. Evidenz schwach, Bewertung unverändert. [Wahrscheinlich] Toxicol Res 2026, PMID 42947925, doi:10.1007/s43188-026-00364-w.
