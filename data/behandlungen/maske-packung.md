@@ -35,12 +35,13 @@ verwandt:
 - formulierung:rezepturen-bauprinzip
 - begriff:hautpflege-grundregeln
 - haut:periorale-dermatitis
+- begriff:okklusion
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 28.7, S. 248–249; Kap. 29.3, S. 255–256; Kap. 30.3, S. 265
 status: geprueft
 geprueft_am: 2026-10-29
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Maske laut Quelle
 Festhaftende Zubereitung, die nach dem Antrocknen einen Film oder eine Kruste bildet. Sie schließt die Haut ab; es

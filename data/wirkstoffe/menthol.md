@@ -9,12 +9,13 @@ evidenz: nicht-bewertet
 impact: offen
 regulierung: ['recht:eu-kosmetikverordnung', 'recht:anhang-iii-duftstoff-allergene']
 kurz: Kühlender Aromastoff in Mund- und Hautpflege; seit VO (EU) 2023/1545 kennzeichnungspflichtiges Duftstoff-Allergen.
+verwandt: [wirkstoff:campher, wirkstoff:eukalyptus, formulierung:rasiermittel]
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei menthol.md}
 - {id: 'quelle:eur-lex'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Menthol“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-26. Impact: offen (Rechtsstand zur Kennzeichnung geprüft, Wirksamkeit/Toxikologie nicht bewertet). Herkunft: Literatur-Wirkstoffliste (`_Literatur-Wirkstoffliste.md`), Kategorie „Mundpflege“.
 

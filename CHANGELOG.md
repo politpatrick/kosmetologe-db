@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-11-16 – Wöchentliche Prüfung (5 Begriffe)
+## 2026-11-16 – Wöchentliche Prüfung (15 Einträge)
 - `begriff:komedogenitaet`, `begriff:konditionierungsmittel`, `begriff:mizelle`, `begriff:praxishygiene`,
   `begriff:saeureschutzmantel` gegen die Originale (Ellsässer, Herrmann/Trinkkeller, Tadros, Springer) geprüft und auf `geprueft` gesetzt
 - Korrigiert: missverständlicher Praxis-Hinweis bei Komedogenität; Aussage zu feinem Haar und Eiweißhydrolysaten mit Fundstelle belegt
@@ -16,6 +16,22 @@
 - Korrigiert/ergänzt: Fundstellen präzisiert (Übersicht 9.4 auf S. 268; Styling-Hinweise mit S. 265, 269, 271);
   Liposomen-Hinweis um die laut Tadros verbesserte Penetration von Antifalten-Wirkstoffen ergänzt; Ostwald-Reifung
   und Penetration bei Nanoemulsionen, Zerfallsprozesse bei Mehrfachemulsionen ergänzt
+
+## 2026-11-02 – Monatliche Erweiterung (12 neue Einträge, alle `entwurf`)
+- Wirkstoffe: `wirkstoff:retinal`, `wirkstoff:phytoestrogene`, `wirkstoff:campher`, `wirkstoff:eukalyptus` (bisher fehlende Verweisziele, `evidenz: nicht-bewertet`)
+- Begriffe: `begriff:emollient`, `begriff:humectant`, `begriff:okklusion`
+- Haut: `haut:angiom`, `haut:naevus-araneus` (Herrmann/Trinkkeller Kap. 8.6–8.7)
+- Behandlungen: `behandlung:gefaessveroedung`, `behandlung:pigmentbehandlung` (Kap. 27.14 und 27.11, Rechtslage über `recht:nisv` eingeordnet)
+- Formulierung: `formulierung:rasiermittel` (Tadros Kap. 14.1)
+- Rückverweise (`verwandt`) in 48 bestehenden Einträgen ergänzt, ohne Änderung der Fachaussagen
+
+## 2026-11-02 – Wöchentliche Prüfung
+- Geprüft und auf `geprueft` gesetzt: `begriff:antioxidans`, `begriff:emulgator`, `begriff:emulsionszerfall`
+- `recht:nisv` am amtlichen Text und an der FAQ geprüft, korrigiert und auf `geprueft` gesetzt: keine ausdrückliche Schriftform der
+  Einwilligung, Ultraschall-Vorbehalt ohne Weiterbildungszusatz im Wortlaut, Grundlagenmodul Haut vollständig; ergänzt um
+  Kryolipolyse (FAQ C.05) und ärztliche Delegation (FAQ D)
+- `recht:taetowiermittel`: TätoV am amtlichen Text korrigiert; REACH-Abschnitt nicht am Primärtext prüfbar, Status bleibt `entwurf`
+- `behandlung:kryolipolyse`: rechtliche Einordnung mit FAQ C.05 belegt
 
 ## 2026-10-29 – Prüfrunde 4 am Original (Herrmann/Trinkkeller, 21 Behandlungen)
 - Alle 21 `behandlung:`-Einträge gegen das Original abgeglichen (Kap. 5, 27, 28–31) und auf `geprueft` gesetzt

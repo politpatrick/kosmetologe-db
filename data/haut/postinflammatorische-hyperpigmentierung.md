@@ -22,12 +22,13 @@ verwandt:
 - wirkstoff:azelainsaeure
 - wirkstoff:niacinamid
 - behandlung:ausreinigung
+- behandlung:pigmentbehandlung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 7.2.2, S. 71–72
 status: geprueft
 geprueft_am: 2026-10-28
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Einordnung
 Länger andauernde Entzündungen regen die Melaninbildung an. Bei Akne entstehen die Flecken besonders
