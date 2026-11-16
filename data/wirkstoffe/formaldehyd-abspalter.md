@@ -17,7 +17,7 @@ quellen:
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „DMDM Hydantoin“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-16'
 ---
 Stand: 2026-10-26 (Rechtsstand am Konsolidierungstext vom 18.05.2026 geprüft). Impact: hoch (Rechtsstand recherchiert; Wirksamkeit und Toxikologie nicht). Herkunft: Ellsässer (2020) Kap. 14 plus Websuche am 2026-10-25. **Rechtsstand am konsolidierten Text VO 1223/2009 vom 18.05.2026 geprüft (EUR-Lex-PDF). Toxikologie und Wirksamkeit nicht.**
 
@@ -50,6 +50,7 @@ Verordnung (EG) Nr. 1223/2009, Amtsblatt L 342 vom 22.12.2009 (Ursprungsfassung,
 Ellsässer S. (2020) Kap. 13–14, https://doi.org/10.1007/978-3-662-60000-9; cosingchecker.com (Annex-Spiegel, abgerufen 2026-10-25); cosmeticobs.com (Verordnungsberichte); cosmeservice.com (2022); Exponent (2022); AICIS EVA00112 (2022); ecomundo.eu / HBW (2017); cosmileeurope.eu.
 
 ## Änderungslog (neueste oben)
+- 2026-11-16: Retrospektive Epikutantest-Auswertung aus Shanghai (3.487 Personen, 2018-2023, davon 146 mit Neurodermitis): Sensibilisierungsrate insgesamt gleich, bei Neurodermitis aber häufiger positive Reaktionen auf mehrere Formaldehydabspalter (u. a. Hexahydro-Tris-Hydroxyethyl-Triazin, Quaternium-15, Bronopol) und auf Propylenglykol. Einzelzentrum, kleine Neurodermitis-Gruppe, Patch-Test-Kollektiv statt Bevölkerung, außerhalb der EU. Stützt die Vorsicht bei Formaldehydabspaltern in Pflegeprodukten für Neurodermitiker, ändert den Rechtsstand nicht. Evidenz schwach (Beobachtung). [Wahrscheinlich] Acta Derm Venereol 2026;106, PMID 42980590, doi:10.2340/actadv.v106.adv-2026-0617.
 - 2026-10-26: Rechtsstand gegen konsolidierte Fassung VO 1223/2009 (18.05.2026) geprüft.
 - 2026-10-26: Ursprungsfassung VO 1223/2009 (Amtsblatt 22.12.2009) als Ausgangsstand geprüft.
 - 2026-10-26: Quaternium-15 gegen VO (EU) 2019/831 geprüft: verboten.

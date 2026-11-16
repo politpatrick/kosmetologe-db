@@ -37,7 +37,7 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 
 | Wirkstoff | Datei | Evidenz (Stand 2026-10) | Letzte relevante Publikation | Impact |
 |---|---|---|---|---|
-| Urea (Harnstoff) | urea.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Urea (Harnstoff) | urea.md | schwach (ein nicht randomisierter Vergleich, Radiodermatitis-Prophylaxe; PubMed-Abstract, 2026-11-16) | Cureus 2026 | offen |
 | Glycerin | glycerin.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Propylene Glycol | propylene-glycol.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Butylene Glycol | butylene-glycol.md | nicht bewertet (nur Lehrbuch) | – | offen |
