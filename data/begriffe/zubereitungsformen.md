@@ -18,21 +18,28 @@ verwandt:
 - formulierung:emulsion-wo
 - formulierung:gel
 - begriff:emulgator
+- begriff:konservierungsmittel
+- begriff:antioxidans
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
-  fundstelle: Kap. 6 Einleitung, S. 137; Kap. 6.7.1, S. 181–182
-status: entwurf
-aktualisiert: '2026-10-28'
+  fundstelle: Kap. 6 Einleitung, S. 137; Kap. 6.5–6.7, S. 181–182
+status: geprueft
+aktualisiert: '2026-11-16'
+geprueft_am: '2026-11-16'
 ---
 ## Grundlagensysteme laut Quelle
-Emulsionen (Creme, Milch, Lotion), Öle und Salben, Gele, wässrige oder alkoholische Lösungen sowie Pulver und Pasten
-prägen den Charakter eines Produkts.
+Fünf Grundlagensysteme prägen den Charakter eines Pflegeprodukts: Emulsionen (Creme, Salbe, Milch, Lotion), Öle,
+wässrige Lösungen, Gele sowie Hydrodispersionsgele bzw. emulgatorfreie Emulsionen.
 
 ## Begriffe
-- **Creme, Gel, Salbe:** streichfähig, halbfest.
-- **Lotion, Milch, Fluid:** dickflüssig bis gießfähig, meist O/W-Emulsionen.
-- **Salbe:** nach dem Arzneibuch eine wasserfreie, fettige Zubereitung; in der Kosmetik selten, weil sie einen deutlichen Fettfilm hinterlässt.
+- **Creme, Gel, Salbe:** streichfähig.
+- **Lotion, Milch, Fluid:** dickflüssig bis gießfähig, in der Regel O/W-Emulsionen.
+- **Creme:** nach dem Europäischen Arzneibuch aus Wasser- und Fettphase mit Emulgatoren; ist Wasser die äußere Phase,
+  spricht man von einer hydrophilen (O/W-)Creme, sonst von einer lipophilen (W/O-)Creme.
+- **Salbe:** nach dem Arzneibuch eine wasserfreie, fettige Zubereitung, die Emulgatoren enthalten kann; in der Kosmetik
+  selten, weil sie einen deutlichen Fettfilm hinterlässt. Im Kundengespräch wird eine fettreiche W/O-Creme laut Quelle
+  oft ebenfalls „Salbe“ genannt.
 
 ## Hinweise
-Wasserhaltige Zubereitungen müssen konserviert sein; ungesättigte Fette brauchen Antioxidantien; der pH-Wert von Pflegeprodukten
-liegt laut Quelle meist bei 5,0–6,5.
+Wasserhaltige Zubereitungen müssen konserviert oder anders stabilisiert sein; Fette mit vielen ungesättigten Bindungen
+brauchen Antioxidantien, oft zusammen mit Komplexbildnern. Puffer stellen den pH-Wert laut Quelle auf 5,0–6,5 ein.

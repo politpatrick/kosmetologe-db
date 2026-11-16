@@ -200,11 +200,11 @@
 
 ## formulierung (15)
 - `formulierung:antischuppenshampoo` [Antischuppenshampoo und Haarwasser](data/formulierungen/antischuppenshampoo.md) – Shampoo oder auf der Kopfhaut verbleibendes Haarwasser gegen Schuppen; wirkt vor allem über Hemmung der Hefe Malassezia und Ablösen der Schuppen. [entwurf]
-- `formulierung:deodorant` [Deodorant und Antitranspirant](data/formulierungen/deodorant.md) – Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer. [entwurf]
+- `formulierung:deodorant` [Deodorant und Antitranspirant](data/formulierungen/deodorant.md) – Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer.
 - `formulierung:dermatologische-grundlagen` [Dermatologische Grundlagen (Mischungsdreieck)](data/formulierungen/dermatologische-grundlagen.md) – Ordnet Lösung, Creme, Salbe, Puder, Paste und Schüttelmixtur nach ihrem Anteil an Wasser, Fett und Puder; die Grundlage bestimmt, ob ein Präparat kühlt, austrocknet oder rückfettet. [entwurf]
 - `formulierung:emulsion-ow` [Öl-in-Wasser-Emulsion (O/W)](data/formulierungen/emulsion-ow.md) – Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen.
 - `formulierung:emulsion-wo` [Wasser-in-Öl-Emulsion (W/O)](data/formulierungen/emulsion-wo.md) – Wassertröpfchen in Öl – reichhaltig, okklusiv, wasserabweisend; für trockene Haut, Nacht- und Kälteschutzpflege. [entwurf]
-- `formulierung:fluessigkristalline-phasen` [Flüssigkristalline Phasen (lamellare Strukturen)](data/formulierungen/fluessigkristalline-phasen.md) – Geordnete, aber fließfähige Strukturen aus Tensiden; lamellare Phasen ähneln den Hautlipiden und stabilisieren Cremes. [entwurf]
+- `formulierung:fluessigkristalline-phasen` [Flüssigkristalline Phasen (lamellare Strukturen)](data/formulierungen/fluessigkristalline-phasen.md) – Geordnete, aber fließfähige Strukturen aus Tensiden; lamellare Phasen ähneln den Hautlipiden und stabilisieren Cremes.
 - `formulierung:gel` [Gel (Hydrogel)](data/formulierungen/gel.md) – Wasser in einem dreidimensionalen Netz aus Gelbildnern, vorstellbar wie ein vollgesogener Schwamm; fettfrei, kühlend, geeignet für fettige Haut und Augenpartie. [entwurf]
 - `formulierung:haarspuelung` [Haarspülung (Conditioner)](data/formulierungen/haarspuelung.md) – Lagert positiv geladene Pflegestoffe auf dem negativ geladenen Haar ab; verbessert Kämmbarkeit, Glanz und verringert statische Aufladung. [entwurf]
 - `formulierung:haarstyling` [Stylingprodukte (Festiger, Gel, Spray, Wachs)](data/formulierungen/haarstyling.md) – Festigende Haarprodukte bilden feine Polymerbrücken zwischen den Haaren und fixieren die Form; Wasser oder Bürsten lösen sie wieder. [entwurf]
@@ -246,10 +246,10 @@
 - `begriff:rueckfetter` [Rückfetter](data/begriffe/rueckfetter.md) – Lipide, die Reinigungsprodukten zugesetzt werden, um den Fettverlust beim Waschen auszugleichen; in Haarspülungen und Kuren oft der Hauptwirkstoff. [entwurf]
 - `begriff:saeureschutzmantel` [Säureschutzmantel](data/begriffe/saeureschutzmantel.md) – Leicht saurer Film auf der Haut (pH etwa 4,5–5,5) aus Schweiß und Talg; hemmt Keime und stabilisiert die Barriere.
 - `begriff:silikone` [Silikone](data/begriffe/silikone.md) – Synthetische Silicium-Sauerstoff-Polymere wie Dimethicone; geben ein seidiges, nicht fettendes Hautgefühl, glätten Haare und sind sehr gut verträglich. [entwurf]
-- `begriff:syndet` [Syndet](data/begriffe/syndet.md) – Waschstück aus synthetischen Tensiden statt Seife; hautfreundlich einstellbar, z. B. auf leicht sauren pH. [entwurf]
+- `begriff:syndet` [Syndet](data/begriffe/syndet.md) – Waschstück aus synthetischen Tensiden statt Seife; hautfreundlich einstellbar, z. B. auf leicht sauren pH.
 - `begriff:tensid` [Tensid](data/begriffe/tensid.md) – Molekül mit wasser- und fettliebendem Teil, das Grenzflächenspannung senkt; Grundlage von Reinigung, Schaum und Emulgierung. [entwurf]
-- `begriff:uva-schutz` [UVA-Schutz](data/begriffe/uva-schutz.md) – Schutz vor langwelliger UV-Strahlung, die ohne Sonnenbrand Langzeitschäden verursacht; in der EU mindestens ein Drittel des LSF. [entwurf]
-- `begriff:zubereitungsformen` [Zubereitungsformen (Creme, Lotion, Salbe, Gel)](data/begriffe/zubereitungsformen.md) – Bezeichnungen kosmetischer Grundlagen nach Konsistenz und Aufbau: streichfähig (Creme, Salbe, Gel) oder fließfähig (Lotion, Milch, Fluid). [entwurf]
+- `begriff:uva-schutz` [UVA-Schutz](data/begriffe/uva-schutz.md) – Schutz vor langwelliger UV-Strahlung, die ohne Sonnenbrand Langzeitschäden verursacht; in der EU mindestens ein Drittel des LSF.
+- `begriff:zubereitungsformen` [Zubereitungsformen (Creme, Lotion, Salbe, Gel)](data/begriffe/zubereitungsformen.md) – Bezeichnungen kosmetischer Grundlagen nach Konsistenz und Aufbau: streichfähig (Creme, Salbe, Gel) oder fließfähig (Lotion, Milch, Fluid).
 
 ## quelle (10)
 - `quelle:bmukn-nisv-faq` [FAQ des Bundesumweltministeriums zur NiSV](data/quellen/bmukn-nisv-faq.md) – Auslegungshinweise des zuständigen Bundesministeriums zur NiSV (Stand 11.03.2024), u. a. zu Epilation, Iontophorese, Fettreduktion und Arztvorbehalt; nicht rechtsverbindlich, Vollzug durch die Länder.

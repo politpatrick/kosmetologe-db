@@ -6,6 +6,11 @@
 - Korrigiert: missverständlicher Praxis-Hinweis bei Komedogenität; Aussage zu feinem Haar und Eiweißhydrolysaten mit Fundstelle belegt
 - Ergänzt: Beispielstoffe komedogener Stoffe, Schutzausrüstung Fußpflege, Serologie-Kontrolle, VAH-Hinweis, Lexikon-Definition des Säureschutzmantels
 - Querverweise ergänzt (Ausreinigung, strapaziertes Haar, Syndet, NMF, AHA)
+- Zweite Runde: `begriff:syndet`, `begriff:uva-schutz`, `begriff:zubereitungsformen`, `formulierung:deodorant`,
+  `formulierung:fluessigkristalline-phasen` geprüft und auf `geprueft` gesetzt
+- Korrigiert: UVA-Drittel-Regel und Logo stehen doch in der Quelle (war als eigene Ergänzung markiert); Grundlagensysteme
+  nach Ellsässer (ohne Pulver/Pasten); Antitranspirant-Mechanismus als ungeklärt; Bezug lamellarer Phasen zur Hornschicht
+  steht bei Tadros (war als eigene Ergänzung markiert); kubische Phase präzisiert
 
 ## 2026-10-29 – Prüfrunde 4 am Original (Herrmann/Trinkkeller, 21 Behandlungen)
 - Alle 21 `behandlung:`-Einträge gegen das Original abgeglichen (Kap. 5, 27, 28–31) und auf `geprueft` gesetzt

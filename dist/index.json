@@ -36,6 +36,7 @@
       "pfad": "data/begriffe/antioxidans.md",
       "verweise_von": [
         "begriff:konservierungsmittel",
+        "begriff:zubereitungsformen",
         "wirkstoff:carotinoide",
         "wirkstoff:gruentee",
         "wirkstoff:resveratrol",
@@ -395,6 +396,7 @@
       "pfad": "data/begriffe/konservierungsmittel.md",
       "verweise_von": [
         "begriff:antioxidans",
+        "begriff:zubereitungsformen",
         "formulierung:gel"
       ]
     },
@@ -634,6 +636,7 @@
       "pfad": "data/begriffe/rueckfetter.md",
       "verweise_von": [
         "begriff:konditionierungsmittel",
+        "begriff:syndet",
         "formulierung:haarspuelung",
         "formulierung:shampoo",
         "haut:strapaziertes-haar"
@@ -732,6 +735,8 @@
       ],
       "verwandt": [
         "begriff:saeureschutzmantel",
+        "begriff:tensid",
+        "begriff:rueckfetter",
         "haut:fettige-haut",
         "haut:sebostase",
         "haut:psoriasis"
@@ -742,8 +747,9 @@
           "fundstelle": "Kap. 5.3.2, S. 128"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/syndet.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
@@ -791,6 +797,7 @@
         "begriff:konditionierungsmittel",
         "begriff:mizelle",
         "begriff:rueckfetter",
+        "begriff:syndet",
         "formulierung:haarspuelung",
         "formulierung:shampoo"
       ]
@@ -819,11 +826,12 @@
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 8.3.4, S. 238–239"
+          "fundstelle": "Kap. 8.3.2–8.3.5, S. 234–239 (UVA-Logo Abb. 8.7, S. 235)"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/uva-schutz.md",
       "verweise_von": [
         "begriff:lichtschutzfaktor",
@@ -851,16 +859,19 @@
         "formulierung:emulsion-ow",
         "formulierung:emulsion-wo",
         "formulierung:gel",
-        "begriff:emulgator"
+        "begriff:emulgator",
+        "begriff:konservierungsmittel",
+        "begriff:antioxidans"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 6 Einleitung, S. 137; Kap. 6.7.1, S. 181–182"
+          "fundstelle": "Kap. 6 Einleitung, S. 137; Kap. 6.5–6.7, S. 181–182"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/zubereitungsformen.md",
       "verweise_von": [
         "formulierung:dermatologische-grundlagen",
@@ -1981,7 +1992,7 @@
         "Duftstoffe",
         "Alkohol oder Emulsionsgrundlage"
       ],
-      "stabilitaet": "Aluminiumsalze reagieren sauer und können reizen; Alkohol trocknet aus (eigene Ergänzung).",
+      "stabilitaet": "Aluminiumsalze wirken adstringierend und können reizen; Alkohol trocknet aus (eigene Ergänzung).",
       "kurz": "Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer.",
       "tags": [
         "deo",
@@ -2003,8 +2014,9 @@
           "fundstelle": "Kap. 10.1, S. 88; Kap. 27.13, S. 234"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/deodorant.md",
       "verweise_von": [
         "haut:hyperhidrose",
@@ -2185,7 +2197,7 @@
         "Tenside oder Lipide in hoher Konzentration",
         "Wasser"
       ],
-      "stabilitaet": "Hohe Viskosität; lamellare Schichten um Emulsionströpfchen verhindern Koaleszenz.",
+      "stabilitaet": "Meist hohe Viskosität; lamellare Schichten um Emulsionströpfchen bremsen Koaleszenz und Ostwald-Reifung.",
       "kurz": "Geordnete, aber fließfähige Strukturen aus Tensiden; lamellare Phasen ähneln den Hautlipiden und stabilisieren Cremes.",
       "tags": [
         "struktur",
@@ -2195,16 +2207,18 @@
       "verwandt": [
         "formulierung:liposomen",
         "formulierung:emulsion-ow",
+        "formulierung:shampoo",
         "begriff:mizelle"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 4.1–4.3, S. 79–80"
+          "fundstelle": "Kap. 4.1–4.3, S. 79–81; Kap. 4.6, S. 87"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/fluessigkristalline-phasen.md",
       "verweise_von": [
         "begriff:mizelle",
@@ -2595,6 +2609,7 @@
         "begriff:rueckfetter",
         "begriff:tensid",
         "formulierung:antischuppenshampoo",
+        "formulierung:fluessigkristalline-phasen",
         "formulierung:haarspuelung",
         "haut:fettiges-haar",
         "haut:haartypen",

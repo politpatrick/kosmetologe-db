@@ -13,7 +13,7 @@ bestandteile:
 - 'Deodorant: antimikrobielle Stoffe, Geruchsbinder (Zinc Ricinoleate), Enzymhemmer (Triethyl Citrate)'
 - Duftstoffe
 - Alkohol oder Emulsionsgrundlage
-stabilitaet: Aluminiumsalze reagieren sauer und können reizen; Alkohol trocknet aus (eigene Ergänzung).
+stabilitaet: Aluminiumsalze wirken adstringierend und können reizen; Alkohol trocknet aus (eigene Ergänzung).
 kurz: Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer.
 tags:
 - deo
@@ -28,8 +28,9 @@ quellen:
   fundstelle: Kap. 10, S. 283–290
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 10.1, S. 88; Kap. 27.13, S. 234
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+aktualisiert: '2026-11-16'
+geprueft_am: '2026-11-16'
 ---
 ## Wie Geruch entsteht (laut Quelle)
 Schweiß ist frisch fast geruchlos. Erst Bakterien zersetzen Eiweiße, Fette und Hormone vor allem aus dem apokrinen Schweiß
@@ -37,13 +38,20 @@ der Achseln zu Aminen, schwefelhaltigen Stoffen und kurzkettigen Fettsäuren. Fe
 geschlossenen Schuhen begünstigen das.
 
 ## Wirkprinzipien
-- **Antitranspirant:** Aluminiumsalze verengen die Schweißdrüsenausgänge; die meisten wirken zugleich desodorierend.
-- **Deodorant:** hemmt geruchsbildende Bakterien (z. B. Farnesol, ätherische Öle), bindet Geruchsstoffe (Zinkricinoleat)
-  oder blockiert die bakteriellen Enzyme (Triethylcitrat).
+- **Antitranspirant:** Aluminiumsalze oder Gerbstoffe senken die Schweißmenge laut Ellsässer um bis zu 60 %. Der
+  Mechanismus ist nicht genau geklärt; angenommen wird, dass der Drüsenausgang verengt oder verschlossen wird.
+  Aluminiumsalze wirken zusätzlich bakteriostatisch und binden Geruchsstoffe, gelten also auch als Deodorantien.
+- **Deodorant:** wirkt ohne die Schweißmenge zu senken. Es hemmt geruchsbildende Bakterien (z. B. einige
+  Konservierungsstoffe, kationische Tenside, Farnesol, ätherische Öle), bindet Geruchsstoffe (Zinkricinoleat, Puder,
+  Ionenaustauscher) oder blockiert die bakteriellen Enzyme, vor allem Lipasen (Ellsässer führt Triethylcitrat in
+  dieser Gruppe). Reines Überdecken mit Duft reicht laut Quelle nur bei geringem Schwitzen.
 Die Bezeichnung „Deo“ unterscheidet beides im Handel meist nicht.
 
 ## Beratung
 - Nur auf gereinigter Haut anwenden; getragene Kleidung waschen, nicht nur lüften; luftige Stoffe wählen.
-- Bei starkem Schwitzen siehe `haut:hyperhidrose`; Aluminiumchlorid-Präparate abends auftragen.
-- Laut Herrmann/Trinkkeller ist ein Gesundheitsrisiko durch Aluminium in Deos bei äußerlicher Anwendung nicht belegt;
-  SCCS-Bewertung siehe `wirkstoff:aluminiumsalze`.
+- Aluminiumsalze nicht auf geschädigter oder gereizter Haut und nicht nach früheren Schweißdrüsenabszessen anwenden.
+- Bei starkem Schwitzen siehe `haut:hyperhidrose`; Aluminiumchlorid-Lösungen laut Herrmann/Trinkkeller täglich abends
+  auftragen, sie können stark reizen.
+- Herrmann/Trinkkeller halten ein Gesundheitsrisiko durch Aluminium aus Deos bei äußerlicher Anwendung für
+  ausgeschlossen, weil die aufgenommenen Mengen weit unter denen etwa aus Antazida lägen. Das ist die Einschätzung
+  der Autoren; SCCS-Bewertung siehe `wirkstoff:aluminiumsalze`.
