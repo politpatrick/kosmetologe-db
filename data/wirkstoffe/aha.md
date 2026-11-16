@@ -8,7 +8,7 @@ funktionen: [keratolytisch, feuchtigkeitsbindend]
 evidenz: moderat
 impact: mittel
 kurz: Fruchtsäuren für Peelings und Hautglättung; erhöhen nachweislich die UV-Empfindlichkeit, Grenzwertangaben in Lehrbüchern widersprüchlich.
-verwandt: ['behandlung:chemisches-peeling', 'wirkstoff:salicylsaeure']
+verwandt: ['behandlung:chemisches-peeling', 'wirkstoff:salicylsaeure', 'behandlung:pigmentbehandlung']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei aha.md}
 - {id: 'quelle:eur-lex'}
@@ -17,7 +17,7 @@ quellen:
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: quelle:springer-lexikon-kosmetik, fundstelle: "Stichwort „Glycolic Acid“, „Alpha-Hydroxysäuren“"}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 regulierung: ['recht:eu-kosmetikverordnung']
 ---
 Stand: 2026-10-23. Impact: mittel. Erstellt aus der Literaturliste (Konfliktfall: widersprüchliche Grenzwerte in Herrmann/Trinkkeller 2020 und Ellsässer 2020).

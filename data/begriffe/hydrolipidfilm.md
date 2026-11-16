@@ -14,13 +14,14 @@ verwandt:
 - haut:sebostase
 - formulierung:emulsion-ow
 - formulierung:emulsion-wo
+- begriff:emollient
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.5.3, S. 30–31
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Hydrolipidfilm“"
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Je nach Zusammensetzung liegt auf der Haut eine O/W- oder W/O-Emulsion vor. Der Fettanteil macht die Haut
 widerstandsfähiger gegen Wasser und Chemikalien und hält gleichzeitig Feuchtigkeit in der Haut.

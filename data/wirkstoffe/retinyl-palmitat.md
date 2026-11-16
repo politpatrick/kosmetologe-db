@@ -9,7 +9,7 @@ evidenz: nicht-bewertet
 impact: hoch
 regulierung: ['recht:eu-kosmetikverordnung', 'recht:vo-2024-996']
 kurz: Retinylester; zusammen mit Retinol und Retinyl Acetate auf 0,05 % RE (Körperlotion) bzw. 0,3 % RE begrenzt.
-verwandt: ['wirkstoff:retinol', 'wirkstoff:retinyl-acetat']
+verwandt: ['wirkstoff:retinol', 'wirkstoff:retinyl-acetat', 'wirkstoff:retinal']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei retinyl-palmitat.md}
 - {id: 'quelle:eur-lex'}
@@ -19,7 +19,7 @@ quellen:
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: 'quelle:tadros-formulierungen'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-26. Impact: hoch (EU-Grenzwert seit 2024). Herkunft: Literatur-Wirkstoffliste plus Rechtsstand aus VO (EU) 2024/996.
 

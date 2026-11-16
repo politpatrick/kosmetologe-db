@@ -17,11 +17,14 @@ verwandt:
 - formulierung:haarspuelung
 - formulierung:emulsion-ow
 - recht:reach-siloxane
+- begriff:emollient
+- begriff:okklusion
+- formulierung:rasiermittel
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 6.3.6, S. 166–167
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Aufbau laut Quelle
 Grundgerüst aus abwechselnden Silicium- und Sauerstoffatomen mit Alkylresten. Sehr kurze Ketten sind flüchtig,

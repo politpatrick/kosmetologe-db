@@ -9,13 +9,13 @@ kosmetisch_behandelbar: eingeschraenkt
 aerztlich_abklaeren: [Papulopusteln, Augenbeteiligung (Augenarzt), Knollennase]
 kurz: Chronische, nicht ansteckende Erkrankung von Gefäßen, Bindegewebe und Talgdrüsen im Gesicht; Auslöser meiden, Lichtschutz, keine durchblutungsfördernde Pflege.
 tags: [roetung, sensibel]
-verwandt: [wirkstoff:panthenol, wirkstoff:azelainsaeure, haut:teleangiektasien, haut:periorale-dermatitis]
+verwandt: [wirkstoff:panthenol, wirkstoff:azelainsaeure, haut:teleangiektasien, haut:periorale-dermatitis, behandlung:gefaessveroedung]
 quellen:
   - id: quelle:herrmann-trinkkeller-dermatologie
     fundstelle: Kap. 9.3, S. 84–86
 status: geprueft
 geprueft_am: 2026-10-28
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-02
 ---
 ## Einordnung
 Beginnt meist im 3.–4. Lebensjahrzehnt, Leitsymptom sind erweiterte Gefäße. Leichte Formen zeigen nur Rötung,

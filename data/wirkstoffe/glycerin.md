@@ -10,12 +10,12 @@ geeignet_fuer: [haut:sebostase, haut:mischhaut]
 konzentration_typisch: 3–10 %
 kurz: Klassisches Feuchthaltemittel in fast allen wasserhaltigen Formulierungen; verbessert Hautfeuchte und Geschmeidigkeit.
 tags: [feuchtigkeit, humectant, basis]
-verwandt: [wirkstoff:hyaluronsaeure, wirkstoff:urea]
+verwandt: [wirkstoff:hyaluronsaeure, wirkstoff:urea, begriff:humectant]
 quellen:
   - id: quelle:ellsaesser-koerperpflegekunde
     fundstelle: Kap. 3 Zusatzstoffe
   - id: quelle:springer-lexikon-kosmetik
     fundstelle: "Stichwort „Glycerin“"
 status: entwurf
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-02
 ---

@@ -8,12 +8,12 @@ bestandteile: [Wasserphase, Ölphase, O/W-Emulgator (hoher HLB), Feuchthaltemitt
 stabilitaet: Aufrahmung, Flockung, Ostwald-Reifung, Koaleszenz; Viskositätsaufbau in der Wasserphase bremst das Aufrahmen.
 kurz: Öltröpfchen in Wasser – leicht, nicht fettend, gut verteilbar; typisch für Tagespflege und Lotionen.
 tags: [emulsion]
-verwandt: [formulierung:emulsion-wo, begriff:hlb-wert, wirkstoff:glycerin, begriff:emulsionszerfall, formulierung:nanoemulsion, formulierung:mehrfachemulsion]
+verwandt: [formulierung:emulsion-wo, begriff:hlb-wert, wirkstoff:glycerin, begriff:emulsionszerfall, formulierung:nanoemulsion, formulierung:mehrfachemulsion, formulierung:rasiermittel]
 quellen:
   - id: quelle:tadros-formulierungen
     fundstelle: Kap. 6.3–6.4, S. 115–121
 status: geprueft
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-02
 geprueft_am: 2026-10-28
 ---
 Emulsionen sind nur kinetisch stabil. Gegen Aufrahmung hilft ein Verdicker mit hoher Ruheviskosität,

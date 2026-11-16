@@ -25,6 +25,8 @@ verwandt:
 - wirkstoff:ceramid-np
 - wirkstoff:urea
 - wirkstoff:hyaluronsaeure
+- wirkstoff:retinal
+- wirkstoff:phytoestrogene
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.7.7, S. 41–42; Kap. 7.1.6–7.1.7, S. 197–198
@@ -33,7 +35,7 @@ quellen:
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Hautalterung“"
 status: entwurf
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Einordnung
 Die Alterung beginnt schleichend im 3.–4. Lebensjahrzehnt. Von innen verlangsamen sich Zellerneuerung und
