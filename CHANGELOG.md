@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-02 – Wöchentliche Prüfung
+- Geprüft und auf `geprueft` gesetzt: `begriff:antioxidans`, `begriff:emulgator`, `begriff:emulsionszerfall`
+- `recht:nisv` am amtlichen Text und an der FAQ geprüft, korrigiert und auf `geprueft` gesetzt: keine ausdrückliche Schriftform der
+  Einwilligung, Ultraschall-Vorbehalt ohne Weiterbildungszusatz im Wortlaut, Grundlagenmodul Haut vollständig; ergänzt um
+  Kryolipolyse (FAQ C.05) und ärztliche Delegation (FAQ D)
+- `recht:taetowiermittel`: TätoV am amtlichen Text korrigiert; REACH-Abschnitt nicht am Primärtext prüfbar, Status bleibt `entwurf`
+- `behandlung:kryolipolyse`: rechtliche Einordnung mit FAQ C.05 belegt
+
 ## 2026-10-29 – Prüfrunde 4 am Original (Herrmann/Trinkkeller, 21 Behandlungen)
 - Alle 21 `behandlung:`-Einträge gegen das Original abgeglichen (Kap. 5, 27, 28–31) und auf `geprueft` gesetzt
 - Korrekturen: Dermabrasion hatte das Keloid als Indikation (laut Quelle hypertrophe Narben; Keloid ist ein Risiko);

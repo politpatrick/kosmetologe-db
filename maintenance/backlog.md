@@ -42,6 +42,6 @@ Wünsche und Lücken. Die monatliche Erweiterung arbeitet diese Liste ab.
 - [ ] INCI Propolis in CosIng prüfen
 - [x] Studienrecherche (PubMed) für die 12 Lehrbuch-Wirkstoffe aus Runde 7 (2026-10-28); offen: SCCS/CosIng, Kamille-Allergie, topisches Q10
 - [x] Microneedling: keine gesetzliche Nadellängengrenze, Heilkundebegriff maßgeblich, RF-Microneedling ärztlich (2026-10-29)
-- [ ] Kryolipolyse: Medizinprodukte- und Berufsrecht prüfen (NiSV-FAQ C.05 lesen); ärztliche Delegation (FAQ D)
+- [ ] Kryolipolyse: Medizinprodukte- und Berufsrecht prüfen (NiSV-FAQ C.05 und D am 2026-11-02 gelesen und eingearbeitet)
 - [x] Übertrag Runde 10: Ellsässer Kap. 6 und 10 → 4 Begriffe, Gel, Deo (2026-10-28)
 - [x] SCCS Aluminium und REACH D4/D5/D6 angelegt (2026-10-28); SCCS-Tabelle 1 ausgelesen, Anhang III geprüft (noch kein Al-Höchstwert), EUR-Lex-Text 2024/1328 gegengelesen und Daten korrigiert (2026-10-29)
