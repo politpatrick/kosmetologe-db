@@ -15,6 +15,7 @@ verwandt:
 - wirkstoff:tocopherol
 - begriff:konservierungsmittel
 - haut:chronischer-lichtschaden
+- wirkstoff:phytoestrogene
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 3.2, S. 57–58; Kap. 4.6

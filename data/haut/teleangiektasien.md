@@ -22,6 +22,9 @@ tags:
 verwandt:
 - haut:rosazea
 - haut:effloreszenz-macula
+- haut:angiom
+- haut:naevus-araneus
+- behandlung:gefaessveroedung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 8.1, S. 74
@@ -29,7 +32,7 @@ quellen:
   fundstelle: "Stichwort „Couperose“"
 status: geprueft
 geprueft_am: 2026-10-28
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Kosmetische Grundsätze
 - Keine Wärme- und Kältereize (Dampf, heiße Kompressen, Eis), keine durchblutungsfördernden Präparate.

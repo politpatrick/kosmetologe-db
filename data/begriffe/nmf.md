@@ -14,13 +14,14 @@ verwandt:
 - wirkstoff:glycerin
 - begriff:hydrolipidfilm
 - haut:sebostase
+- begriff:humectant
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.5.4, S. 30
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „NMF“"
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 NMF binden Wasser in Hornschicht und Hydrolipidfilm und bremsen die Verdunstung. Häufiges Waschen und Chemikalien
 lösen sie heraus, die Haut trocknet schnell aus. Da sie leicht synthetisch herzustellen sind, finden sie sich oft als

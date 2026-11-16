@@ -17,13 +17,14 @@ verwandt:
 - wirkstoff:octocrylen
 - wirkstoff:zinkoxid
 - wirkstoff:titandioxid
+- behandlung:pigmentbehandlung
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 8.3.3, S. 235–237
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „LSF“, „SPF“, „sun protection factor“"
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Der LSF wird an der Rötungsschwelle gemessen. Er gibt an, um wie viel länger die Haut bis zum Sonnenbrand
 bestrahlt werden kann. Hohe Faktoren verleiten laut Quelle zu längeren Aufenthalten in der Sonne, obwohl ein Rest

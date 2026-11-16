@@ -15,13 +15,14 @@ verwandt:
 - begriff:syndet
 - formulierung:shampoo
 - begriff:hlb-wert
+- formulierung:rasiermittel
 quellen:
 - id: quelle:tadros-formulierungen
   fundstelle: Kap. 2.1, S. 12–13
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Tensid“, „Detergens“"
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Klassen
 - **Anionisch:** negativ geladene Kopfgruppe (Seifen, Sulfate, Sulfonate, Sulfosuccinate, Isethionate); reinigen stark.

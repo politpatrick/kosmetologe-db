@@ -9,13 +9,14 @@ evidenz: nicht-bewertet
 impact: mittel
 regulierung: ['recht:vo-2024-996', 'recht:eu-kosmetikverordnung']
 kurz: Soja-Isoflavone; Höchstwerte 0,007 % (Genistein) bzw. 0,02 % (Daidzein) nach SCCS/1641/22.
+verwandt: [wirkstoff:phytoestrogene]
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei genistein-daidzein.md}
 - {id: 'quelle:eur-lex'}
 - {id: 'quelle:sccs'}
 - {id: 'quelle:ellsaesser-koerperpflegekunde'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-26. Impact: mittel (Phytoöstrogen-Inhaltsstoffe in Antiaging-Produkten; sehr niedrige EU-Grenzwerte seit 2024). Evidenzstufe: Sicherheitsbewertung durch SCCS (über Verordnungstext); Wirksamkeit nicht geprüft.
 

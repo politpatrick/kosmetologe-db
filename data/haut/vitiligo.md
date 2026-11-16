@@ -22,6 +22,7 @@ verwandt:
 - haut:effloreszenz-macula
 - wirkstoff:hydrochinon
 - recht:anhang-vi-uv-filter
+- behandlung:pigmentbehandlung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 7.1.2, S. 70–71
@@ -29,7 +30,7 @@ quellen:
   fundstelle: "Stichwort „Vitiligo“"
 status: geprueft
 geprueft_am: 2026-10-28
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Einordnung
 Die Ursache ist vielschichtig (Veranlagung, Autoimmunprozesse, oxidativer Stress, Auslöser wie starker Sonnenbrand).

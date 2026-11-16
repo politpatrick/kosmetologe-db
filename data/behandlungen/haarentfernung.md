@@ -30,6 +30,7 @@ verwandt:
 - wirkstoff:ammoniumthioglykolat
 - wirkstoff:wasserstoffperoxid
 - recht:nisv
+- formulierung:rasiermittel
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.12, S. 227–233
@@ -37,7 +38,7 @@ quellen:
   fundstelle: FAQ C.01, C.03
 status: geprueft
 geprueft_am: 2026-10-29
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Methoden
 - **Mechanisch:** Rasieren (Haare nach 2–3 Tagen sichtbar, regt das Wachstum nicht an), Zupfen, Warm- oder Kaltwachs
