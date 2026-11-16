@@ -39,6 +39,7 @@
       "pfad": "data/begriffe/antioxidans.md",
       "verweise_von": [
         "begriff:konservierungsmittel",
+        "begriff:zubereitungsformen",
         "wirkstoff:carotinoide",
         "wirkstoff:gruentee",
         "wirkstoff:phytoestrogene",
@@ -134,7 +135,8 @@
       "verweise_von": [
         "begriff:emulsionszerfall",
         "begriff:zubereitungsformen",
-        "formulierung:dermatologische-grundlagen"
+        "formulierung:dermatologische-grundlagen",
+        "formulierung:mehrfachemulsion"
       ]
     },
     {
@@ -411,20 +413,22 @@
       ],
       "verwandt": [
         "haut:fettige-haut",
-        "haut:akne-vulgaris"
+        "haut:akne-vulgaris",
+        "behandlung:ausreinigung"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 4.8, S. 113–114"
+          "fundstelle": "Kap. 4.8, S. 113; Tab. 4.12, S. 114"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
-          "fundstelle": "Stichwort „komedogen“"
+          "fundstelle": "Stichwort „komedogen“ (nur Wortbedeutung)"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/komedogenitaet.md",
       "verweise_von": [
         "behandlung:ausreinigung",
@@ -451,20 +455,22 @@
         "formulierung:shampoo",
         "begriff:tensid",
         "begriff:silikone",
-        "begriff:rueckfetter"
+        "begriff:rueckfetter",
+        "haut:strapaziertes-haar"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 9.1.2, S. 261; Tab. 9.1, S. 262"
+          "fundstelle": "Kap. 9.1.1–9.1.2, S. 261; Tab. 9.1, S. 262–264; Kap. 9.3.3, S. 269"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Konditionierungsmittel“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/konditionierungsmittel.md",
       "verweise_von": [
         "begriff:rueckfetter",
@@ -512,6 +518,7 @@
       "verweise_von": [
         "begriff:antioxidans",
         "begriff:humectant",
+        "begriff:zubereitungsformen",
         "formulierung:gel"
       ]
     },
@@ -576,21 +583,23 @@
       ],
       "verwandt": [
         "begriff:tensid",
+        "begriff:syndet",
         "formulierung:fluessigkristalline-phasen",
         "formulierung:shampoo"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 4.1, S. 79; Kap. 10.2.2, S. 221"
+          "fundstelle": "Kap. 4.1–4.2, S. 79; Kap. 10.2.2, S. 221"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Mizellen“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/mizelle.md",
       "verweise_von": [
         "begriff:tensid",
@@ -634,6 +643,7 @@
       "verweise_von": [
         "begriff:humectant",
         "begriff:hydrolipidfilm",
+        "begriff:saeureschutzmantel",
         "haut:sebostase",
         "wirkstoff:kristall-mittagsblume"
       ]
@@ -749,8 +759,9 @@
           "fundstelle": "Kap. 27.1, S. 208–209"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/praxishygiene.md",
       "verweise_von": [
         "behandlung:ausreinigung",
@@ -804,6 +815,7 @@
       "verweise_von": [
         "begriff:emollient",
         "begriff:konditionierungsmittel",
+        "begriff:syndet",
         "formulierung:haarspuelung",
         "formulierung:shampoo",
         "haut:strapaziertes-haar"
@@ -825,16 +837,23 @@
       "verwandt": [
         "begriff:hydrolipidfilm",
         "begriff:syndet",
-        "haut:babyhaut"
+        "begriff:nmf",
+        "haut:babyhaut",
+        "wirkstoff:aha"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
           "fundstelle": "Kap. 2.5.2, S. 30; Kap. 2.6.1, S. 33"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Säureschutzmantel“; Stichwort „AHA“ (Hinweis)"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/saeureschutzmantel.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
@@ -901,6 +920,8 @@
       ],
       "verwandt": [
         "begriff:saeureschutzmantel",
+        "begriff:tensid",
+        "begriff:rueckfetter",
         "haut:fettige-haut",
         "haut:sebostase",
         "haut:psoriasis"
@@ -911,11 +932,13 @@
           "fundstelle": "Kap. 5.3.2, S. 128"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/syndet.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
+        "begriff:mizelle",
         "begriff:rueckfetter",
         "begriff:saeureschutzmantel",
         "begriff:tensid"
@@ -960,6 +983,7 @@
         "begriff:konditionierungsmittel",
         "begriff:mizelle",
         "begriff:rueckfetter",
+        "begriff:syndet",
         "formulierung:haarspuelung",
         "formulierung:rasiermittel",
         "formulierung:shampoo"
@@ -989,11 +1013,12 @@
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 8.3.4, S. 238–239"
+          "fundstelle": "Kap. 8.3.2–8.3.5, S. 234–239 (UVA-Logo Abb. 8.7, S. 235)"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/uva-schutz.md",
       "verweise_von": [
         "begriff:lichtschutzfaktor",
@@ -1021,16 +1046,19 @@
         "formulierung:emulsion-ow",
         "formulierung:emulsion-wo",
         "formulierung:gel",
-        "begriff:emulgator"
+        "begriff:emulgator",
+        "begriff:konservierungsmittel",
+        "begriff:antioxidans"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 6 Einleitung, S. 137; Kap. 6.7.1, S. 181–182"
+          "fundstelle": "Kap. 6 Einleitung, S. 137; Kap. 6.5–6.7, S. 181–182"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/zubereitungsformen.md",
       "verweise_von": [
         "formulierung:dermatologische-grundlagen",
@@ -1089,6 +1117,7 @@
       "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/ausreinigung.md",
       "verweise_von": [
+        "begriff:komedogenitaet",
         "begriff:praxishygiene",
         "behandlung:milienentfernung",
         "haut:akne-vulgaris",
@@ -2310,7 +2339,7 @@
         "Duftstoffe",
         "Alkohol oder Emulsionsgrundlage"
       ],
-      "stabilitaet": "Aluminiumsalze reagieren sauer und können reizen; Alkohol trocknet aus (eigene Ergänzung).",
+      "stabilitaet": "Aluminiumsalze wirken adstringierend und können reizen; Alkohol trocknet aus (eigene Ergänzung).",
       "kurz": "Antitranspirantien vermindern die Schweißmenge (Aluminiumsalze), Deodorantien bekämpfen den Geruch durch Keimhemmung, Geruchsbinder oder Enzymhemmer.",
       "tags": [
         "deo",
@@ -2332,8 +2361,9 @@
           "fundstelle": "Kap. 10.1, S. 88; Kap. 27.13, S. 234"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/deodorant.md",
       "verweise_von": [
         "haut:hyperhidrose",
@@ -2518,7 +2548,7 @@
         "Tenside oder Lipide in hoher Konzentration",
         "Wasser"
       ],
-      "stabilitaet": "Hohe Viskosität; lamellare Schichten um Emulsionströpfchen verhindern Koaleszenz.",
+      "stabilitaet": "Meist hohe Viskosität; lamellare Schichten um Emulsionströpfchen bremsen Koaleszenz und Ostwald-Reifung.",
       "kurz": "Geordnete, aber fließfähige Strukturen aus Tensiden; lamellare Phasen ähneln den Hautlipiden und stabilisieren Cremes.",
       "tags": [
         "struktur",
@@ -2528,20 +2558,23 @@
       "verwandt": [
         "formulierung:liposomen",
         "formulierung:emulsion-ow",
+        "formulierung:shampoo",
         "begriff:mizelle"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 4.1–4.3, S. 79–80"
+          "fundstelle": "Kap. 4.1–4.3, S. 79–81; Kap. 4.6, S. 87"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/fluessigkristalline-phasen.md",
       "verweise_von": [
         "begriff:mizelle",
-        "formulierung:liposomen"
+        "formulierung:liposomen",
+        "formulierung:nanoemulsion"
       ]
     },
     {
@@ -2623,7 +2656,7 @@
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 9.2.2, S. 267 (Übersicht 9.4)"
+          "fundstelle": "Kap. 9.2.1–9.2.2, S. 267; Übersicht 9.4, S. 268"
         },
         {
           "id": "quelle:tadros-formulierungen",
@@ -2634,8 +2667,9 @@
           "fundstelle": "Stichwort „Conditioner“, „Haarkur“, „Haarspülung“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/haarspuelung.md",
       "verweise_von": [
         "begriff:konditionierungsmittel",
@@ -2686,15 +2720,16 @@
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 9.1.3, S. 261; Kap. 9.2.4, S. 268 (Übersicht 9.5 und 9.6); Tab. 9.1, S. 263–264"
+          "fundstelle": "Kap. 9.1.3, S. 261; Tab. 9.1, S. 263–264; Kap. 9.1.8, S. 265; Kap. 9.2.4, S. 268 (Übersicht 9.5 und 9.6); Kap. 9.3.3, S. 269; Kap. 9.3.9, S. 271"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Haarfestiger“, „Haargel“, „Haarspray“, „Haarwachs“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/haarstyling.md",
       "verweise_von": [
         "haut:fettiges-haar",
@@ -2716,7 +2751,7 @@
         "Wasser",
         "Wirkstoff in Membran oder Innenraum"
       ],
-      "stabilitaet": "Weniger stabil als Nanoemulsionen; Größe und Lamellenzahl hängen von der Herstellung ab (Schütteln, Ultraschall).",
+      "stabilitaet": "Laut Tadros deutlich weniger stabil als Nanoemulsionen; Größe und Lamellenzahl hängen von der Herstellung ab (Schütteln, Ultraschall).",
       "kurz": "Kugelige Bläschen aus Phospholipid-Doppelschichten; nehmen fett- und wasserlösliche Wirkstoffe auf und ähneln Zellmembranen.",
       "tags": [
         "traeger",
@@ -2730,15 +2765,16 @@
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 9.1–9.2, S. 210–211"
+          "fundstelle": "Kap. 9.1–9.2, S. 210–211; Kap. 7.1, S. 160"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Liposomen“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/liposomen.md",
       "verweise_von": [
         "formulierung:fluessigkristalline-phasen",
@@ -2757,7 +2793,7 @@
       ],
       "system": "Emulsion von Emulsionen, meist W/O/W",
       "bestandteile": [
-        "innere Wasserphase mit Wirkstoff",
+        "innere Wasserphase mit Wirkstoff (auch Glykol oder Glycerin möglich)",
         "Ölphase als Membran",
         "äußere Wasserphase",
         "lipophiler Emulgator innen",
@@ -2771,16 +2807,18 @@
       "verwandt": [
         "formulierung:emulsion-ow",
         "formulierung:emulsion-wo",
-        "begriff:emulsionszerfall"
+        "begriff:emulsionszerfall",
+        "begriff:emulgator"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 8.1–8.3, S. 194–195"
+          "fundstelle": "Kap. 8.1–8.3, S. 194–196"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/mehrfachemulsion.md",
       "verweise_von": [
         "begriff:emulsionszerfall",
@@ -2800,7 +2838,7 @@
         "Ölphase",
         "Wasserphase",
         "nichtionische oder polymere Tenside (ca. 5–10 % bei 20 % Öl)",
-        "wasserunlöslicher Ölanteil gegen Ostwald-Reifung"
+        "in Wasser unlösliche zweite Ölkomponente (z. B. Squalan) gegen Ostwald-Reifung"
       ],
       "stabilitaet": "Nur kinetisch stabil; kein Aufrahmen dank Brownscher Bewegung, Hauptrisiko ist Ostwald-Reifung, die das Produkt trüb werden lässt.",
       "kurz": "Sehr feine Emulsion, durchscheinend bis klar, ohne Aufrahmen; leichtes Hautgefühl und gute Verteilung von Wirk- und Duftstoffen.",
@@ -2811,16 +2849,18 @@
       "verwandt": [
         "formulierung:emulsion-ow",
         "begriff:emulsionszerfall",
-        "formulierung:liposomen"
+        "formulierung:liposomen",
+        "formulierung:fluessigkristalline-phasen"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 7.1, S. 159–160"
+          "fundstelle": "Kap. 7.1, S. 159–162"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/formulierungen/nanoemulsion.md",
       "verweise_von": [
         "begriff:emulsionszerfall",
@@ -2990,6 +3030,7 @@
         "begriff:rueckfetter",
         "begriff:tensid",
         "formulierung:antischuppenshampoo",
+        "formulierung:fluessigkristalline-phasen",
         "formulierung:haarspuelung",
         "haut:fettiges-haar",
         "haut:haartypen",
@@ -6733,6 +6774,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/strapaziertes-haar.md",
       "verweise_von": [
+        "begriff:konditionierungsmittel",
         "formulierung:haarspuelung",
         "haut:haartypen"
       ]
@@ -8012,6 +8054,7 @@
         "begriff:nmf",
         "begriff:okklusion",
         "begriff:rueckfetter",
+        "begriff:saeureschutzmantel",
         "begriff:tensid",
         "formulierung:antischuppenshampoo",
         "formulierung:emulsion-wo",
@@ -8865,6 +8908,7 @@
       ],
       "pfad": "data/wirkstoffe/aha.md",
       "verweise_von": [
+        "begriff:saeureschutzmantel",
         "behandlung:chemisches-peeling",
         "behandlung:narbenbehandlung",
         "behandlung:pigmentbehandlung",

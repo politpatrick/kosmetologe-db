@@ -1,5 +1,22 @@
 # Changelog
 
+## 2026-11-16 – Wöchentliche Prüfung (15 Einträge)
+- `begriff:komedogenitaet`, `begriff:konditionierungsmittel`, `begriff:mizelle`, `begriff:praxishygiene`,
+  `begriff:saeureschutzmantel` gegen die Originale (Ellsässer, Herrmann/Trinkkeller, Tadros, Springer) geprüft und auf `geprueft` gesetzt
+- Korrigiert: missverständlicher Praxis-Hinweis bei Komedogenität; Aussage zu feinem Haar und Eiweißhydrolysaten mit Fundstelle belegt
+- Ergänzt: Beispielstoffe komedogener Stoffe, Schutzausrüstung Fußpflege, Serologie-Kontrolle, VAH-Hinweis, Lexikon-Definition des Säureschutzmantels
+- Querverweise ergänzt (Ausreinigung, strapaziertes Haar, Syndet, NMF, AHA)
+- Zweite Runde: `begriff:syndet`, `begriff:uva-schutz`, `begriff:zubereitungsformen`, `formulierung:deodorant`,
+  `formulierung:fluessigkristalline-phasen` geprüft und auf `geprueft` gesetzt
+- Korrigiert: UVA-Drittel-Regel und Logo stehen doch in der Quelle (war als eigene Ergänzung markiert); Grundlagensysteme
+  nach Ellsässer (ohne Pulver/Pasten); Antitranspirant-Mechanismus als ungeklärt; Bezug lamellarer Phasen zur Hornschicht
+  steht bei Tadros (war als eigene Ergänzung markiert); kubische Phase präzisiert
+- Dritte Runde: `formulierung:haarspuelung`, `formulierung:haarstyling`, `formulierung:liposomen`,
+  `formulierung:mehrfachemulsion`, `formulierung:nanoemulsion` geprüft und auf `geprueft` gesetzt
+- Korrigiert/ergänzt: Fundstellen präzisiert (Übersicht 9.4 auf S. 268; Styling-Hinweise mit S. 265, 269, 271);
+  Liposomen-Hinweis um die laut Tadros verbesserte Penetration von Antifalten-Wirkstoffen ergänzt; Ostwald-Reifung
+  und Penetration bei Nanoemulsionen, Zerfallsprozesse bei Mehrfachemulsionen ergänzt
+
 ## 2026-11-02 – Monatliche Erweiterung (12 neue Einträge, alle `entwurf`)
 - Wirkstoffe: `wirkstoff:retinal`, `wirkstoff:phytoestrogene`, `wirkstoff:campher`, `wirkstoff:eukalyptus` (bisher fehlende Verweisziele, `evidenz: nicht-bewertet`)
 - Begriffe: `begriff:emollient`, `begriff:humectant`, `begriff:okklusion`
