@@ -18,6 +18,7 @@
       ],
       "verwandt": [
         "wirkstoff:ascorbinsaeure",
+        "wirkstoff:tocopherol",
         "begriff:konservierungsmittel",
         "haut:chronischer-lichtschaden",
         "wirkstoff:phytoestrogene"
@@ -29,10 +30,11 @@
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
-          "fundstelle": "Stichwort „Antioxidans“, „freie Radikale“"
+          "fundstelle": "Stichwort „Antioxydans“, „freie Radikale“"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-11-02",
       "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/antioxidans.md",
       "verweise_von": [
@@ -122,13 +124,15 @@
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 6.1–6.2, S. 141–143"
+          "fundstelle": "Kap. 6.1.4–6.2, S. 140–143"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-11-02",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/emulgator.md",
       "verweise_von": [
+        "begriff:emulsionszerfall",
         "begriff:zubereitungsformen",
         "formulierung:dermatologische-grundlagen"
       ]
@@ -140,6 +144,8 @@
       "aliase": [
         "Emulsionsinstabilität",
         "Aufrahmung",
+        "Sedimentation",
+        "Flockung",
         "Koaleszenz",
         "Ostwald-Reifung",
         "Phaseninversion"
@@ -153,20 +159,26 @@
         "formulierung:emulsion-ow",
         "formulierung:emulsion-wo",
         "formulierung:nanoemulsion",
-        "formulierung:mehrfachemulsion"
+        "formulierung:mehrfachemulsion",
+        "begriff:emulgator"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 6.3, S. 115–116"
+          "fundstelle": "Kap. 6.3, S. 115–119"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Aufrahmung“, „Koaleszenz“"
+        },
+        {
+          "id": "quelle:ellsaesser-koerperpflegekunde",
+          "fundstelle": "Kap. 6.1.5, S. 140–141"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "geprueft_am": "2026-11-02",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/begriffe/emulsionszerfall.md",
       "verweise_von": [
         "begriff:emulgator",
@@ -1679,11 +1691,15 @@
         {
           "id": "quelle:herrmann-trinkkeller-dermatologie",
           "fundstelle": "Kap. 31.3, S. 278–279"
+        },
+        {
+          "id": "quelle:bmukn-nisv-faq",
+          "fundstelle": "FAQ C.05 (Stand 11.03.2024)"
         }
       ],
       "status": "geprueft",
       "geprueft_am": "2026-10-29",
-      "aktualisiert": "2026-10-29",
+      "aktualisiert": "2026-11-02",
       "pfad": "data/behandlungen/kryolipolyse.md",
       "verweise_von": [
         "recht:nisv"
@@ -7354,6 +7370,7 @@
         "behandlung:gefaessveroedung",
         "behandlung:haarentfernung",
         "behandlung:iontophorese",
+        "behandlung:kryolipolyse",
         "recht:nisv"
       ]
     },
@@ -7386,6 +7403,7 @@
         "begriff:antioxidans",
         "begriff:emollient",
         "begriff:emulgator",
+        "begriff:emulsionszerfall",
         "begriff:hlb-wert",
         "begriff:humectant",
         "begriff:hydrolipidfilm",
@@ -8546,7 +8564,7 @@
       ],
       "norm": "NiSV",
       "geltung": "DE",
-      "fundstelle_amtlich": "BGBl I 2018, 2187",
+      "fundstelle_amtlich": "BGBl I 2018, 2034, 2187; 2021 I 5261",
       "stand": "Geändert durch Art. 2 V v. 12.6.2023 (BGBl. 2023 I Nr. 149)",
       "url": "https://www.gesetze-im-internet.de/nisv/BJNR218700018.html",
       "kurz": "Regelt gewerbliche, nichtmedizinische Anwendungen von Laser, IPL, Hochfrequenz, Ultraschall, Nieder- und Gleichstrom am Menschen – mit Arztvorbehalt für bestimmte Verfahren und Fachkundepflicht für alle anderen.",
@@ -8573,14 +8591,15 @@
       "quellen": [
         {
           "id": "quelle:gesetze-im-internet",
-          "fundstelle": "§§ 1–9, 13, Anlage 3 (Text gelesen 2026-10-29)"
+          "fundstelle": "§§ 1–13, Anlage 3 Teil A Abschnitt 3 (Text gelesen 2026-11-02)"
         },
         {
           "id": "quelle:bmukn-nisv-faq",
-          "fundstelle": "FAQ C.01–C.04, D.01 (Stand 11.03.2024)"
+          "fundstelle": "FAQ C.01–C.05, D.01–D.05 (Abschnitte Stand 11.03.2024, Seite aktualisiert 04.08.2025, gelesen 2026-11-02)"
         }
       ],
-      "status": "entwurf",
+      "status": "geprueft",
+      "geprueft_am": "2026-11-02",
       "aktualisiert": "2026-11-02",
       "pruefen_bis": "2027-04-30",
       "pfad": "data/recht/nisv.md",
@@ -8657,7 +8676,7 @@
       "norm": "TätoV; VO (EU) 2020/2081",
       "geltung": "EU, DE",
       "fundstelle_amtlich": "BGBl I 2008, 2215; ABl. L 423 vom 15.12.2020",
-      "stand": "TätoV zuletzt geändert durch Art. 3 V v. 26.1.2016; REACH-Beschränkung gilt seit 4.1.2022, für Pigment Blue 15:3 und Green 7 seit 4.1.2023",
+      "stand": "TätoV zuletzt geändert durch Art. 3 V v. 26.1.2016; REACH-Beschränkung gilt nach dem 4.1.2022, für Pigment Blue 15:3 und Green 7 nach dem 4.1.2023 (nicht am Text geprüft)",
       "url": "https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html",
       "kurz": "Farben für Tätowierung und Permanent Make-up sind keine Kosmetika; für sie gelten Stoffverbote und Kennzeichnungspflichten aus der deutschen TätoV und aus REACH Anhang XVII Eintrag 75.",
       "tags": [
@@ -8676,15 +8695,15 @@
       "quellen": [
         {
           "id": "quelle:gesetze-im-internet",
-          "fundstelle": "TätoV §§ 1–6"
+          "fundstelle": "TätoV §§ 1–6, Anlagen 1–2 (Text gelesen 2026-11-02)"
         },
         {
           "id": "quelle:eur-lex",
-          "fundstelle": "VO (EU) 2020/2081, Anhang XVII Eintrag 75 REACH"
+          "fundstelle": "VO (EU) 2020/2081, Anhang XVII Eintrag 75 REACH (Text noch nicht gelesen, siehe Offene Punkte)"
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-02",
       "pruefen_bis": "2027-04-30",
       "pfad": "data/recht/taetowiermittel.md",
       "verweise_von": [
@@ -12501,6 +12520,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/wirkstoffe/tocopherol.md",
       "verweise_von": [
+        "begriff:antioxidans",
         "wirkstoff:carotinoide",
         "wirkstoff:gruentee",
         "wirkstoff:squalan",

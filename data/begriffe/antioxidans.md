@@ -12,6 +12,7 @@ tags:
 - uv
 verwandt:
 - wirkstoff:ascorbinsaeure
+- wirkstoff:tocopherol
 - begriff:konservierungsmittel
 - haut:chronischer-lichtschaden
 - wirkstoff:phytoestrogene
@@ -19,8 +20,9 @@ quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 3.2, S. 57–58; Kap. 4.6
 - id: quelle:springer-lexikon-kosmetik
-  fundstelle: "Stichwort „Antioxidans“, „freie Radikale“"
-status: entwurf
+  fundstelle: "Stichwort „Antioxydans“, „freie Radikale“"
+status: geprueft
+geprueft_am: '2026-11-02'
 aktualisiert: '2026-11-02'
 ---
 Fette mit mehrfach ungesättigten Fettsäuren werden durch Luftsauerstoff oxidiert. Es entstehen ranzig riechende,
