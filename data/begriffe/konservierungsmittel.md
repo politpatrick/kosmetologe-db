@@ -16,13 +16,14 @@ verwandt:
 - wirkstoff:benzylalkohol
 - wirkstoff:formaldehyd-abspalter
 - begriff:antioxidans
+- begriff:humectant
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 3.1, S. 50–57
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Konservierungsmittel“, „Konservierung“"
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Kosmetika müssen nicht steril sein. Niedrige Konzentrationen wirken wachstumshemmend und schützen das Produkt
 vor Keimen, die beim Gebrauch hineingelangen. Gefährdet sind vor allem wasserreiche Lotionen und Cremes.

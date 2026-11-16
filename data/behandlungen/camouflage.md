@@ -29,12 +29,16 @@ verwandt:
 - haut:melasma
 - behandlung:narbenbehandlung
 - begriff:lichtschutzfaktor
+- behandlung:gefaessveroedung
+- behandlung:pigmentbehandlung
+- haut:angiom
+- haut:naevus-araneus
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.16, S. 238–239; Kap. 27.6–27.7, S. 219–220
 status: geprueft
 geprueft_am: 2026-10-29
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Technik
 - Rötungen erst grün grundieren, dann den Hautton auftragen; mehrere Farben schichten oder nebeneinander setzen.

@@ -23,6 +23,7 @@ verwandt:
 - haut:pigmentnaevus
 - haut:seborrhoische-keratose
 - recht:anhang-vi-uv-filter
+- behandlung:pigmentbehandlung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 15.3.4, S. 134–135
@@ -30,7 +31,7 @@ quellen:
   fundstelle: "Stichwort „malignes Melanom“"
 status: geprueft
 geprueft_am: 2026-10-28
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Warnzeichen (nach der Quelle, eigene Zusammenfassung)
 Ein Mal ist verdächtig, wenn es

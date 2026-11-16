@@ -39,7 +39,7 @@ quellen:
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-04'
 ---
 ## Funktion laut Quelle
 Hauptwirkstoffe sind zwei Triterpenglycoside, Asiaticosid und Madecassosid (INCI MADECASSOSIDE, auch isoliert eingesetzt).
@@ -62,3 +62,4 @@ Nur Abstracts gelesen; keine SCCS-Prüfung in diesem Lauf.
 ## Änderungslog
 - 2026-10-28: Eintrag aus Ellsässer angelegt; am selben Tag PubMed-Recherche ergänzt, Evidenz und Impact gesetzt.
 - 2026-10-28: Verweis auf die neue Datei `wirkstoff:madecassosid`.
+- 2026-11-04: Herstellerstudie (Galderma, im Abstract genannt) zu einer Creme mit Centella asiatica und Mandelsäure bei Dermatoporose, 12 Wochen, Knie und Oberschenkel. Blutergüsse wurden per Schröpfen nur bei 15 Personen ausgelöst und mit dem eigenen Ausgangswert verglichen; eine Vergleichsgruppe ohne Creme nennt das Abstract nicht. Schweregrad gesunken (p=.0087), Abheilungsdauer nur numerisch kürzer (p=.31, nicht signifikant), obwohl das Fazit eine schnellere Abheilung nennt. Kombination, kein Einzelstoffbeleg. Evidenz schwach, Bewertung unverändert. [Wahrscheinlich] J Drugs Dermatol 2026, PMID 42976840, doi:10.36849/JDD.10326.

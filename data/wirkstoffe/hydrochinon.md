@@ -8,7 +8,7 @@ funktionen: [aufhellend]
 evidenz: stark
 impact: mittel
 kurz: Als Arzneimittel bei Melasma gut belegt, in Kosmetika verboten; relevant als Verunreinigung von Arbutin.
-verwandt: ['wirkstoff:arbutin']
+verwandt: ['wirkstoff:arbutin', 'behandlung:pigmentbehandlung']
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei hydrochinon.md}
 - {id: 'quelle:eur-lex'}
@@ -16,7 +16,7 @@ quellen:
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Hydroquinone“'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 regulierung: ['recht:eu-kosmetikverordnung', 'recht:anhang-ii-arzneistoffe']
 ---
 Stand: 2026-10-23. Impact: mittel. Erstellt aus der Literaturliste (Herrmann/Trinkkeller führt es als Rezepturwirkstoff, das Lexikon nur als Nagel-Stabilisator).

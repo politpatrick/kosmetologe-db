@@ -9,6 +9,7 @@ evidenz: nicht-bewertet
 impact: offen
 regulierung: ['recht:eu-kosmetikverordnung', 'recht:anhang-ii-arzneistoffe']
 kurz: Säure für mitteltiefe ärztliche Peelings; in Kosmetika verboten (Anhang II Nr. 10).
+verwandt: [behandlung:pigmentbehandlung]
 quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei trichloressigsaeure.md}
 - {id: 'quelle:eur-lex'}
@@ -17,7 +18,7 @@ quellen:
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: 'quelle:tadros-formulierungen'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 Stand: 2026-10-26. Impact: offen (Rechtsstand geprüft, Wirksamkeit/Toxikologie nicht bewertet). Herkunft: Literatur-Wirkstoffliste (`_Literatur-Wirkstoffliste.md`), Kategorie „Keratolytika und Peeling“. Literaturangaben stammen aus den Projekt-Lehrbüchern; der Rechtsstand-Abschnitt stammt aus der konsolidierten VO (EG) 1223/2009 vom 18.05.2026.
 

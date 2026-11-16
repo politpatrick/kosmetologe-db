@@ -27,13 +27,14 @@ verwandt:
 - behandlung:laserbehandlung
 - behandlung:camouflage
 - recht:nisv
+- behandlung:gefaessveroedung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 8.4, S. 75–76
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: Stichwort „Feuermal“
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Beschreibung laut Quelle
 Gutartige, angeborene fleck- bis flächenförmige Erweiterung der feinsten Hautkapillaren, hell- bis blaurot, scharf

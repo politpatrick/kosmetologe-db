@@ -26,6 +26,7 @@ verwandt:
 - wirkstoff:niacinamid
 - wirkstoff:kojisaeure
 - behandlung:chemisches-peeling
+- behandlung:pigmentbehandlung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 7.2.2, S. 71
@@ -33,7 +34,7 @@ quellen:
   fundstelle: "Stichwort „Chloasma“"
 status: geprueft
 geprueft_am: 2026-10-28
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Einordnung
 Vermehrtes Melanin in der Basalschicht. Häufige Auslöser sind Schwangerschaft und hormonelle Verhütung,

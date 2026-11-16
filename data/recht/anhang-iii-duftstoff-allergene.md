@@ -9,13 +9,13 @@ stand: Konsolidierte Fassung vom 18.05.2026 (CELEX 02009R1223-20260518)
 url: https://eur-lex.europa.eu/eli/reg/2023/1545/oj
 kurz: 45 neu kennzeichnungspflichtige Duftstoffe ab 0,001 % (Leave-on) bzw. 0,01 % (Rinse-off); Bereitstellung nicht konformer Ware bis 31.07.2028.
 tags: [recht, eu, duftstoffe, allergene, kennzeichnung]
-verwandt: [recht:eu-kosmetikverordnung, begriff:inci]
+verwandt: [recht:eu-kosmetikverordnung, begriff:inci, wirkstoff:campher, wirkstoff:eukalyptus]
 quellen:
   - id: quelle:kosmetologe-projekt
     fundstelle: _Rechtsstand-Duftstoffe-Anhang-III.md (2026-10-26)
   - id: quelle:eur-lex
 status: geprueft
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-02
 geprueft_am: 2026-10-26
 pruefen_bis: 2027-01-31
 ---

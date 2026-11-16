@@ -28,12 +28,14 @@ verwandt:
 - behandlung:narbenbehandlung
 - haut:rosazea
 - recht:nisv
+- behandlung:gefaessveroedung
+- behandlung:pigmentbehandlung
 quellen:
 - id: quelle:herrmann-trinkkeller-dermatologie
   fundstelle: Kap. 27.5, S. 213–215; Kap. 27.15, S. 237–238; Kap. 31.2.4 und 31.2.10, S. 275, 278–279
 status: geprueft
 geprueft_am: 2026-10-29
-aktualisiert: '2026-10-29'
+aktualisiert: '2026-11-02'
 ---
 ## Wirkprinzip
 Die Wirkung hängt von der Wellenlänge ab: Sie wird dort aufgenommen, wo das Gewebe sie am stärksten absorbiert.

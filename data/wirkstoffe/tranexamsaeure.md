@@ -12,7 +12,7 @@ quellen:
 - {id: 'quelle:kosmetologe-projekt', fundstelle: Wirkstoffdatei tranexamsaeure.md}
 - {id: 'quelle:pubmed'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-04'
 ---
 Stand: 2026-10-20. Impact: mittel. Hinweis: Die meisten neuen Treffer betreffen perioperative Anwendung in der ästhetischen Chirurgie und systemische Gabe, nicht die topische Kosmetik.
 
@@ -36,4 +36,5 @@ Die Frage, ob topische TXA-Produkte (Serum) ohne orale Gabe wirksam sind, ist mi
 Siehe oben, jeweils PubMed-Abfrage 2026-10-20.
 
 ## Änderungslog (neueste oben)
+- 2026-11-04: Einarmige Studie zu intradermal injizierter TXA bei Melasma (Pakistan, 30 Personen, wöchentlich über 12 Wochen, 4 mg/ml): mMASI von 8,58 auf 1,38. Ohne Kontrollgruppe, Sicherheitsdaten im Abstract nicht berichtet. Injektion, keine topische Anwendung, nicht auf Kosmetikprodukte übertragbar. Evidenz schwach, Bewertung unverändert. [Wahrscheinlich] J Drugs Dermatol 2026, PMID 42976836, doi:10.36849/JDD.9629.
 - 2026-10-21: Korrekturhinweis zum Melasma-Eintrag (Medicine 2026, PMID 42888572, doi:10.1097/MD.0000000000051212), ohne Ersetzung des Altgesamttextes: WIDERSPRUCH zur Angabe "keine RCT laut Abstract". Der vollständige Abstract beschreibt eine 1:1-Randomisierung von 50 Frauen (Fitzpatrick III-IV) auf 6 monatliche Nd:YAG-Sitzungen + orale TXA 250 mg/Tag mit bzw. ohne intradermales HA-Glutathion; PubMed führt den Artikel als "Randomized Controlled Trial". 36 von 50 schlossen ab (je 18), 14 Abbrüche (nicht wegen UE). mMASI nach 6 Monaten 2,50 ± 0,62 vs. 3,39 ± 0,70 (P < 0,001), Nachbeobachtung 2 Monate: 2,06 vs. 2,67 (P = 0,003). Einzelautor-Studie, kleine Stichprobe, 28 % Drop-out, Verblindung nicht beschrieben. Der Befund betrifft HA-Glutathion als Zusatz; TXA ist in beiden Armen identisch (oral), der Beitrag der TXA ist weiterhin nicht isolierbar. Evidenzstufe unverändert schwach bis moderat. [Wahrscheinlich]

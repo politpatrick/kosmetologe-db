@@ -24,6 +24,7 @@ verwandt:
 - haut:akne-vulgaris
 - haut:kontaktekzem
 - recht:anhang-iii-duftstoff-allergene
+- wirkstoff:eukalyptus
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 4.5.11, S. 102
@@ -32,7 +33,7 @@ quellen:
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-02'
 ---
 ## Funktion laut Quelle
 Sehr stark antimikrobiell und pilzhemmend; Einsatz in Produkten gegen unreine Haut.
