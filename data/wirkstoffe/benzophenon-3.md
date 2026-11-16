@@ -15,7 +15,7 @@ quellen:
 - {id: 'quelle:sccs'}
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Benzophenone“'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-16'
 ---
 Stand: 2026-10-23. Impact: hoch (Rechtslage seit 2023 verschärft; Debatte um Systemaufnahme und Umwelt). Evidenzstufe: Wirksamkeit als UV-Filter belegt (Standardfilter); Rechtstext im Amtsblatt-Wortlaut geprüft, SCCS-Begründung nicht.
 
@@ -50,3 +50,4 @@ Für Bewertungen: Position in der INCI und Produktart prüfen (Spray vs. Creme, 
 ## Änderungslog
 - 2026-10-23: recherchiert (Rechtslage), ersetzt Literaturstub.
 - 2026-10-23 (2): Rechtswerte am Amtsblatt-Wortlaut verifiziert.
+- 2026-11-16: PBPK-Modell der US-FDA für eine Sonnenschutzlotion mit Oxybenzon: Nur mit IVPT-Daten unterschätzte das Modell die gemessene Blutexposition; mit dem Einreiben als zusätzlichem Faktor lagen die Vorhersagen für Cmax und AUC innerhalb von etwa 20 %, auch bei Mehrfachanwendung. Methodischer Beitrag zur Expositionsabschätzung, keine neuen Toxizitätsdaten und ohne Bezug zu den EU-Grenzwerten. Evidenz schwach (Modell). Bewertung unverändert. [Wahrscheinlich] AAPS PharmSciTech 2026;27(8), PMID 43026442, doi:10.1208/s12249-026-03583-4.
