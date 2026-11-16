@@ -292,20 +292,22 @@
       ],
       "verwandt": [
         "haut:fettige-haut",
-        "haut:akne-vulgaris"
+        "haut:akne-vulgaris",
+        "behandlung:ausreinigung"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 4.8, S. 113–114"
+          "fundstelle": "Kap. 4.8, S. 113; Tab. 4.12, S. 114"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
-          "fundstelle": "Stichwort „komedogen“"
+          "fundstelle": "Stichwort „komedogen“ (nur Wortbedeutung)"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/komedogenitaet.md",
       "verweise_von": [
         "behandlung:ausreinigung",
@@ -332,20 +334,22 @@
         "formulierung:shampoo",
         "begriff:tensid",
         "begriff:silikone",
-        "begriff:rueckfetter"
+        "begriff:rueckfetter",
+        "haut:strapaziertes-haar"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
-          "fundstelle": "Kap. 9.1.2, S. 261; Tab. 9.1, S. 262"
+          "fundstelle": "Kap. 9.1.1–9.1.2, S. 261; Tab. 9.1, S. 262–264; Kap. 9.3.3, S. 269"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Konditionierungsmittel“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/konditionierungsmittel.md",
       "verweise_von": [
         "begriff:rueckfetter",
@@ -453,21 +457,23 @@
       ],
       "verwandt": [
         "begriff:tensid",
+        "begriff:syndet",
         "formulierung:fluessigkristalline-phasen",
         "formulierung:shampoo"
       ],
       "quellen": [
         {
           "id": "quelle:tadros-formulierungen",
-          "fundstelle": "Kap. 4.1, S. 79; Kap. 10.2.2, S. 221"
+          "fundstelle": "Kap. 4.1–4.2, S. 79; Kap. 10.2.2, S. 221"
         },
         {
           "id": "quelle:springer-lexikon-kosmetik",
           "fundstelle": "Stichwort „Mizellen“"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/mizelle.md",
       "verweise_von": [
         "begriff:tensid",
@@ -509,6 +515,7 @@
       "pfad": "data/begriffe/nmf.md",
       "verweise_von": [
         "begriff:hydrolipidfilm",
+        "begriff:saeureschutzmantel",
         "haut:sebostase",
         "wirkstoff:kristall-mittagsblume"
       ]
@@ -573,8 +580,9 @@
           "fundstelle": "Kap. 27.1, S. 208–209"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/praxishygiene.md",
       "verweise_von": [
         "behandlung:ausreinigung",
@@ -647,16 +655,23 @@
       "verwandt": [
         "begriff:hydrolipidfilm",
         "begriff:syndet",
-        "haut:babyhaut"
+        "begriff:nmf",
+        "haut:babyhaut",
+        "wirkstoff:aha"
       ],
       "quellen": [
         {
           "id": "quelle:ellsaesser-koerperpflegekunde",
           "fundstelle": "Kap. 2.5.2, S. 30; Kap. 2.6.1, S. 33"
+        },
+        {
+          "id": "quelle:springer-lexikon-kosmetik",
+          "fundstelle": "Stichwort „Säureschutzmantel“; Stichwort „AHA“ (Hinweis)"
         }
       ],
-      "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "status": "geprueft",
+      "aktualisiert": "2026-11-16",
+      "geprueft_am": "2026-11-16",
       "pfad": "data/begriffe/saeureschutzmantel.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
@@ -732,6 +747,7 @@
       "pfad": "data/begriffe/syndet.md",
       "verweise_von": [
         "begriff:hautpflege-grundregeln",
+        "begriff:mizelle",
         "begriff:rueckfetter",
         "begriff:saeureschutzmantel",
         "begriff:tensid"
@@ -903,6 +919,7 @@
       "aktualisiert": "2026-10-29",
       "pfad": "data/behandlungen/ausreinigung.md",
       "verweise_von": [
+        "begriff:komedogenitaet",
         "begriff:praxishygiene",
         "behandlung:milienentfernung",
         "haut:akne-vulgaris",
@@ -6193,6 +6210,7 @@
       "aktualisiert": "2026-10-28",
       "pfad": "data/haut/strapaziertes-haar.md",
       "verweise_von": [
+        "begriff:konditionierungsmittel",
         "formulierung:haarspuelung",
         "haut:haartypen"
       ]
@@ -7445,6 +7463,7 @@
         "begriff:mizelle",
         "begriff:nmf",
         "begriff:rueckfetter",
+        "begriff:saeureschutzmantel",
         "begriff:tensid",
         "formulierung:antischuppenshampoo",
         "formulierung:emulsion-wo",
@@ -8265,6 +8284,7 @@
       ],
       "pfad": "data/wirkstoffe/aha.md",
       "verweise_von": [
+        "begriff:saeureschutzmantel",
         "behandlung:chemisches-peeling",
         "behandlung:narbenbehandlung",
         "haut:follikulaere-hyperkeratose",

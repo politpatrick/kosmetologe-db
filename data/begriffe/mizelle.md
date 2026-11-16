@@ -13,21 +13,26 @@ tags:
 - reinigung
 verwandt:
 - begriff:tensid
+- begriff:syndet
 - formulierung:fluessigkristalline-phasen
 - formulierung:shampoo
 quellen:
 - id: quelle:tadros-formulierungen
-  fundstelle: Kap. 4.1, S. 79; Kap. 10.2.2, S. 221
+  fundstelle: Kap. 4.1–4.2, S. 79; Kap. 10.2.2, S. 221
 - id: quelle:springer-lexikon-kosmetik
   fundstelle: "Stichwort „Mizellen“"
-status: entwurf
-aktualisiert: '2026-10-28'
+status: geprueft
+aktualisiert: '2026-11-16'
+geprueft_am: '2026-11-16'
 ---
 ## Einordnung
 Ab einer bestimmten Konzentration (CMC) lagern sich Tenside zu Mizellen zusammen. Die fettliebenden Enden zeigen nach innen
-und können dort Öl und Schmutz aufnehmen (eigene Erläuterung des Prinzips). Bei höherer Konzentration entstehen
-stäbchenförmige oder flüssigkristalline Strukturen.
+und können dort Öl und Schmutz aufnehmen (eigene Erläuterung des Prinzips). Kugelförmige Mizellen bilden sich laut Quelle
+meist nur in einem begrenzten Konzentrations- und Temperaturbereich; je nach Tensid entstehen bei höherer Konzentration
+stäbchenförmige, lamellare oder andere flüssigkristalline Strukturen.
 
 ## Praxis
 - Mischt man amphotere mit anionischen Tensiden, sinkt die CMC und damit laut Quelle die Hautreizung deutlich.
+- Konzentrierte Tensidlösungen mit stäbchenförmigen Mizellen können Shampoos die gewünschte Fließeigenschaft geben;
+  meist wird laut Quelle aber ein Verdicker zugesetzt.
 - Mizellenwasser nutzt milde Tenside in niedriger Konzentration zur Reinigung ohne Abspülen (eigene Ergänzung).

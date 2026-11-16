@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-16 – Wöchentliche Prüfung (5 Begriffe)
+- `begriff:komedogenitaet`, `begriff:konditionierungsmittel`, `begriff:mizelle`, `begriff:praxishygiene`,
+  `begriff:saeureschutzmantel` gegen die Originale (Ellsässer, Herrmann/Trinkkeller, Tadros, Springer) geprüft und auf `geprueft` gesetzt
+- Korrigiert: missverständlicher Praxis-Hinweis bei Komedogenität; Aussage zu feinem Haar und Eiweißhydrolysaten mit Fundstelle belegt
+- Ergänzt: Beispielstoffe komedogener Stoffe, Schutzausrüstung Fußpflege, Serologie-Kontrolle, VAH-Hinweis, Lexikon-Definition des Säureschutzmantels
+- Querverweise ergänzt (Ausreinigung, strapaziertes Haar, Syndet, NMF, AHA)
+
 ## 2026-10-29 – Prüfrunde 4 am Original (Herrmann/Trinkkeller, 21 Behandlungen)
 - Alle 21 `behandlung:`-Einträge gegen das Original abgeglichen (Kap. 5, 27, 28–31) und auf `geprueft` gesetzt
 - Korrekturen: Dermabrasion hatte das Keloid als Indikation (laut Quelle hypertrophe Narben; Keloid ist ein Risiko);

@@ -12,16 +12,26 @@ tags:
 verwandt:
 - begriff:hydrolipidfilm
 - begriff:syndet
+- begriff:nmf
 - haut:babyhaut
+- wirkstoff:aha
 quellen:
 - id: quelle:ellsaesser-koerperpflegekunde
   fundstelle: Kap. 2.5.2, S. 30; Kap. 2.6.1, S. 33
-status: entwurf
-aktualisiert: '2026-10-28'
+- id: quelle:springer-lexikon-kosmetik
+  fundstelle: "Stichwort „Säureschutzmantel“; Stichwort „AHA“ (Hinweis)"
+status: geprueft
+aktualisiert: '2026-11-16'
+geprueft_am: '2026-11-16'
 ---
-Schweiß und Talg bilden gemeinsam einen sauren Film, der Bakterien abwehrt.
+Schweiß und Talg bilden gemeinsam einen sauren Film, der Bakterien abwehrt. Das Lexikon nennt neben den
+Drüsenabsonderungen auch wasserlösliche Bestandteile der Hornschicht als Ursache und beschreibt den Schutz vor
+Mikroorganismen und Umwelteinflüssen. Im Schweiß tragen laut Ellsässer u. a. Milchsäure, Aminosäuren, Fettsäuren und
+Urocaninsäure zur sauren Reaktion bei.
+
 Alkalische Seifen heben den pH-Wert an und lassen die Hornschicht quellen; nach dem Waschen braucht die Haut Zeit,
-um den sauren Bereich wiederherzustellen (eigene Ergänzung).
+um den sauren Bereich wiederherzustellen (eigene Ergänzung). Laut Lexikon kann auch eine Langzeitanwendung von
+Fruchtsäuren den Säureschutzmantel beeinträchtigen.
 
 ## Hinweis zur Quelle
-Die Quelle nennt zwei Bereiche: pH 4,5–6,9 (S. 30) und 4,5–5,5 (S. 33). Der Eintrag folgt dem engeren, gebräuchlichen Bereich.
+Ellsässer nennt zwei Bereiche: pH 4,5–6,9 (S. 30) und 4,5–5,5 (S. 33). Der Eintrag folgt dem engeren, gebräuchlichen Bereich.
