@@ -34,7 +34,7 @@ quellen:
 - id: quelle:pubmed
   fundstelle: Recherche 2026-10-28
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-18'
 ---
 ## Funktion laut Quelle
 Madecassosid ist neben Asiaticosid einer der beiden Hauptwirkstoffe von Centella asiatica und wird auch isoliert in
@@ -60,3 +60,4 @@ Nur Abstracts gelesen; keine SCCS-Prüfung.
 
 ## Änderungslog
 - 2026-10-28: Eigene Datei angelegt (bisher in `wirkstoff:centella-asiatica` mitbehandelt), PubMed-Recherche ergänzt.
+- 2026-11-18: Unkontrollierte Beobachtungsstudie zu einem Kombinationsbalsam mit Panthenol, Madecassosid und Präbiotika, herstellernah (L'Oréal Middle East); Details siehe `wirkstoff:panthenol`. Evidenz schwach, Bewertung unverändert. [Wahrscheinlich] J Clin Aesthet Dermatol 2026;19(10):42-49, PMID 43042085.

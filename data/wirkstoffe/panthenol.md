@@ -15,7 +15,7 @@ quellen:
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: Stichwort Panthenol}
 - {id: 'quelle:pubmed'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-18'
 evidenz: schwach
 impact: niedrig
 verwandt: ['wirkstoff:ceramid-np']
@@ -43,3 +43,5 @@ Prozentgehalt aus INCI; Eigenwirkung bei Kombinationsprodukten.
 
 ## Änderungslog
 - 2026-10-23: recherchiert, ersetzt Literaturstub.
+- 2026-11-18: RCT gegen Vehikel, Panthenol-Balsam als Begleitpflege unter oraler Isotretinoin-Therapie: 70 Personen in China, 56 Tage, Untersucher verblindet. Der registrierte primäre Endpunkt (TEWL an fünf Gesichtsstellen) zeigte nach Korrektur für multiple Tests keinen Unterschied; die Hornschichtfeuchte war an Tag 28 an allen Stellen höher, an Tag 56 nicht mehr signifikant. Akne-Verlauf in beiden Gruppen gleich. **Herstellernah:** mehrere Mitautoren von L'Oréal/La Roche-Posay. Evidenz moderat für den Feuchtigkeitseffekt der Rezeptur, kein Barrierebeleg; Bewertung unverändert. [Wahrscheinlich] Dermatol Ther (Heidelb) 2026, PMID 43021012, doi:10.1007/s13555-026-01935-3.
+- 2026-11-18: Beobachtungsstudie ohne Kontrollgruppe in fünf Ländern des Nahen Ostens zu einem Reparaturbalsam mit Panthenol, Madecassosid und Präbiotika (oberflächliche Wunden, irritative Kontaktdermatitis, nach Eingriffen): Verbesserung von Rötung und ärztlichem Gesamturteil gegenüber Ausgangswert, hohe Zufriedenheit. **Herstellernah** (Medical Director von L'Oréal Middle East unter den Autoren). Evidenz schwach, Eigenanteil von Panthenol nicht trennbar. [Wahrscheinlich] J Clin Aesthet Dermatol 2026;19(10):42-49, PMID 43042085 (kein DOI in PubMed).
