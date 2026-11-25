@@ -10510,7 +10510,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-11-02",
+      "aktualisiert": "2026-11-25",
       "pfad": "data/wirkstoffe/hyaluronsaeure.md",
       "verweise_von": [
         "begriff:humectant",
@@ -10555,7 +10555,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-11-02",
+      "aktualisiert": "2026-11-25",
       "regulierung": [
         "recht:eu-kosmetikverordnung",
         "recht:anhang-ii-arzneistoffe"
@@ -11176,7 +11176,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-11-16",
+      "aktualisiert": "2026-11-25",
       "pfad": "data/wirkstoffe/niacinamid.md",
       "verweise_von": [
         "haut:fettige-haut",
@@ -11431,7 +11431,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-25",
       "pfad": "data/wirkstoffe/peptide.md",
       "verweise_von": []
     },
@@ -12594,7 +12594,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-11-04",
+      "aktualisiert": "2026-11-25",
       "pfad": "data/wirkstoffe/tranexamsaeure.md",
       "verweise_von": [
         "haut:melasma"
@@ -12644,7 +12644,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-11-02",
+      "aktualisiert": "2026-11-25",
       "pfad": "data/wirkstoffe/tretinoin.md",
       "verweise_von": [
         "behandlung:pigmentbehandlung",
@@ -13079,7 +13079,7 @@
         }
       ],
       "status": "entwurf",
-      "aktualisiert": "2026-10-28",
+      "aktualisiert": "2026-11-25",
       "pfad": "data/wirkstoffe/zinkoxid.md",
       "verweise_von": [
         "begriff:lichtschutzfaktor",

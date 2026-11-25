@@ -18,7 +18,7 @@ quellen:
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: 'quelle:tadros-formulierungen'}
 status: entwurf
-aktualisiert: '2026-11-02'
+aktualisiert: '2026-11-25'
 ---
 Stand: 2026-10-26. Impact: offen (Rechtsstand geprüft, Wirksamkeit/Toxikologie nicht bewertet). Herkunft: Literatur-Wirkstoffliste (`_Literatur-Wirkstoffliste.md`), Kategorie „Vitamine und Antioxidantien“. Literaturangaben stammen aus den Projekt-Lehrbüchern; der Rechtsstand-Abschnitt stammt aus der konsolidierten VO (EG) 1223/2009 vom 18.05.2026.
 
@@ -45,5 +45,6 @@ Wirkmechanismus, Studienlage und Wirksamkeit sind nicht geprüft.
 Projektliteratur, Kürzel: D 30.4, 29.5, E 2.7.10 (E = Ellsässer 2020, D = Herrmann/Trinkkeller 2020, T = Tadros 2023, L = Springer Lexikon 2020). VO (EG) Nr. 1223/2009, konsolidierte Fassung 18.05.2026 (CELEX 02009R1223-20260518), Anhang II Nr. 375.
 
 ## Änderungslog (neueste oben)
+- 2026-11-25: RCT, doppelblind, 79 Personen, 16 Wochen: Mandelöl (mit bzw. ohne 0,5 % Vitamin E) gegen Tretinoin 0,025 % auf Gesichtsfalten. In allen drei Armen bildbasiert weniger Faltenschwere, ohne Unterschied zwischen den Gruppen; unter Mandelöl allein leicht mehr Melanin. Kein Vehikel- oder Placeboarm, daher bleibt offen, wie viel der Besserung auf Pflege, Zeit oder Messung zurückgeht; Gleichwertigkeit ist mit 79 Personen auf drei Arme nicht belastbar gezeigt. Finanzierung im Abstract nicht genannt. Evidenz moderat für den Vergleich, Bewertung des Eintrags unverändert. [Wahrscheinlich] J Cosmet Dermatol 2026;25(11):e71279, PMID 43047307, doi:10.1111/jocd.71279.
 - 2026-10-26: Rechtsstand-Abschnitt aus der konsolidierten Fassung 18.05.2026 ergänzt.
 - 2026-10-23: Datei aus der Literatur-Wirkstoffliste angelegt (Literaturstand, keine Recherche).
