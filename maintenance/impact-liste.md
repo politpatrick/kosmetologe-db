@@ -62,7 +62,7 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 
 | Wirkstoff | Datei | Evidenz (Stand 2026-10) | Letzte relevante Publikation | Impact |
 |---|---|---|---|---|
-| Panthenol / Dexpanthenol | panthenol.md | schwach bis moderat (Einzel-RCTs, meist Kombinationen) | Int J Cosmet Sci 2026 | gering-mittel |
+| Panthenol / Dexpanthenol | panthenol.md | schwach bis moderat (Einzel-RCTs, meist Kombinationen; Vehikel-RCT 2026 nur sekundär positiv) | Dermatol Ther (Heidelb) 2026 | gering-mittel |
 | Pyridoxine HCl (Vitamin B6) | pyridoxin.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
 | Retinal | retinal.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Retinyl Palmitate | retinyl-palmitat.md | Wirksamkeit nicht bewertet; Rechtsstand: VO (EU) 2024/996 Anh. III 376 (siehe Retinol) | – | hoch (Rechtsstand) |
