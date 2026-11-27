@@ -18,7 +18,7 @@ quellen:
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 - {id: 'quelle:tadros-formulierungen'}
 status: entwurf
-aktualisiert: '2026-10-28'
+aktualisiert: '2026-11-25'
 ---
 Stand: 2026-10-26. Impact: offen (Rechtsstand geprüft, Wirksamkeit/Toxikologie nicht bewertet). Herkunft: Literatur-Wirkstoffliste (`_Literatur-Wirkstoffliste.md`), Kategorie „Entzündungshemmend, beruhigend, wundheilend“. Literaturangaben stammen aus den Projekt-Lehrbüchern; der Rechtsstand-Abschnitt stammt aus der konsolidierten VO (EG) 1223/2009 vom 18.05.2026.
 
@@ -46,5 +46,6 @@ Wirkmechanismus, Studienlage (PubMed/SCCS-Gutachten) und wirksame Konzentrations
 Projektliteratur, Kürzel: E 7.2.1, 8.3.1, D 14 (E = Ellsässer 2020, D = Herrmann/Trinkkeller 2020, T = Tadros 2023, L = Springer Lexikon 2020). VO (EG) Nr. 1223/2009, konsolidierte Fassung 18.05.2026 (CELEX 02009R1223-20260518), Anhang IV Nr. 144, Anhang VI Nr. 30/30a.
 
 ## Änderungslog (neueste oben)
+- 2026-11-25: Offene Anwendungsstudie ohne Kontrollgruppe, 22 Frauen mit Harninkontinenz (ohne inkontinenzassoziierte Dermatitis), 28 Tage Creme mit Zinkoxid, Zinkgluconat, Taurin und Panthenol im Windelbereich: keine Unverträglichkeiten, gute Selbsteinschätzung. Nur Verträglichkeit, keine Wirksamkeit gegen Dermatitis geprüft. **Herstellernah** (Menarini, Prüfinstitut Eurofins). Evidenz schwach. Erster Studienbefund in diesem bisher nur aus Lehrbüchern befüllten Eintrag. [Wahrscheinlich] J Cosmet Dermatol 2026;25(8):e71053, PMID 43047189, doi:10.1111/jocd.71053.
 - 2026-10-26: Rechtsstand-Abschnitt aus der konsolidierten Fassung 18.05.2026 ergänzt.
 - 2026-10-23: Datei aus der Literatur-Wirkstoffliste angelegt (Literaturstand, keine Recherche).

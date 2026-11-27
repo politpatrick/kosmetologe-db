@@ -18,7 +18,7 @@ quellen:
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: Stichwort Hyaluronsäure}
 - {id: 'quelle:pubmed'}
 status: entwurf
-aktualisiert: '2026-11-02'
+aktualisiert: '2026-11-25'
 ---
 Stand: 2026-10-23. Impact: mittel (sehr verbreitet, Marketing stärker als Evidenz). Evidenzstufe: schwach bis moderat (topisch: kleine, kurze, oft herstellergesponserte Studien).
 
@@ -43,6 +43,8 @@ Abruf über PubMed (According to PubMed): Gürtler 2026, Pellacani 2025 (DOI obe
 
 ## Änderungslog
 - 2026-10-23: recherchiert, ersetzt Literaturstub.
+- 2026-11-25: Topisches Serum mit vernetzter Hyaluronsäure (RHA Serum): Hautexplantate plus Split-Face-Studie mit 22 Frauen über 56 Tage gegen eine Placebocreme; im Ultraschall höhere Dermisdichte und Epidermisdicke, laut Bildanalyse weniger Falten. **Herstellernah** (zwei Autorinnen bzw. Autoren bei Teoxane). Sehr kleine Studie, Placebo ist eine andere Grundlage. Evidenz schwach bis moderat, Bewertung unverändert. [Wahrscheinlich] J Cosmet Dermatol 2026;25(7):e71065, PMID 43047163, doi:10.1111/jocd.71065.
+- 2026-11-25: Post-hoc-Subanalyse von 12 Frauen in der Menopause: Hyaluronsäure-Serum mit weiteren Wirkstoffen (u. a. Pro-Xylane, Glycyrrhizinat) zusammen mit einer Filler-Injektion; Elastizität nach 56 Tagen besser. Keine Kontrollgruppe, Beitrag des Serums nicht von der Injektion trennbar. **Herstellernah** (L'Oréal, SkinCeuticals). Evidenz schwach. [Wahrscheinlich] Dermatol Surg 2026, PMID 43062206, doi:10.1097/DSS.0000000000005468.
 
 ## Ergänzende Notizen (Erstbefüllung)
 Bei sehr trockener Umgebungsluft mit okklusiven Bestandteilen kombinieren, damit gebundenes Wasser nicht wieder verdunstet.

@@ -28,6 +28,7 @@ Bewertungskriterien: Evidenzstufe (stark / moderat / schwach / keine, gemäß Pr
 | Genistein / Daidzein | genistein-daidzein.md | Rechtsstand: max. 0,007 % / 0,02 % (SCCS/1641/22); Wirksamkeit nicht geprüft | VO 2024/996 | mittel |
 | Retinyl Acetate | retinyl-acetat.md | Rechtsstand wie Retinol (Anh. III 376); Wirksamkeit nicht geprüft | VO 2024/996 | hoch |
 | Triclocarban | triclocarban.md | Rechtsstand: Anh. V 23 max. 0,2 % (SCCS/1643/22); Angaben aus Kurzfassung des Verordnungstexts | VO 2024/996 | mittel |
+| Bakuchiol | – (noch keine Datei) | moderat bis schwach: vehikelkontrollierter RCT (73 Personen, 84 Tage, China), herstellernah (Sytheon/Hallstar); PubMed-Abstract, 2026-11-25 | J Cosmet Dermatol 2026 | offen (Kandidat für eigene Datei) |
 
 ## B. Wirkstoffe aus der Literatur-Wirkstoffliste (nicht recherchiert)
 
@@ -66,7 +67,7 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Pyridoxine HCl (Vitamin B6) | pyridoxin.md | schwach (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
 | Retinal | retinal.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Retinyl Palmitate | retinyl-palmitat.md | Wirksamkeit nicht bewertet; Rechtsstand: VO (EU) 2024/996 Anh. III 376 (siehe Retinol) | – | hoch (Rechtsstand) |
-| Tretinoin (Vitamin-A-Säure) | tretinoin.md | nicht bewertet (nur Lehrbuch) | – | offen (Arzneimittel) |
+| Tretinoin (Vitamin-A-Säure) | tretinoin.md | nicht bewertet (Lehrbuch; ein Vergleichs-RCT gegen Mandelöl ohne Vehikelarm, PubMed-Abstract, 2026-11-25) | J Cosmet Dermatol 2026 | offen (Arzneimittel) |
 | Tazaroten | tazaroten.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Acitretin | acitretin.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Ascorbic Acid (Vitamin C) | ascorbinsaeure.md | moderat (SR 7 RCTs, n=139) | J Cosmet Dermatol 2023 | hoch |
@@ -139,14 +140,14 @@ Stand 2026-10-23. Quelle: `_Literatur-Wirkstoffliste.md` (Ellsässer 2020, Herrm
 | Licochalcone A | licochalcone-a.md | nicht bewertet (nur Lehrbuch) | – | offen |
 | Mesembryanthemum crystallinum (Kristall-Mittagsblume) | kristall-mittagsblume.md | schwach (nur Pilotstudien; PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_ellsaesser-kap4 | niedrig |
 | Propolis | propolis.md | schwach (PubMed-Abstracts, 2026-10-28); häufiges Kontaktallergen | Bericht 2026-10-28_ellsaesser-kap4 | mittel |
-| Zinkoxid | zinkoxid.md | nicht bewertet (nur Lehrbuch) | – | offen |
+| Zinkoxid | zinkoxid.md | nicht bewertet (Lehrbuch; eine unkontrollierte, herstellernahe Verträglichkeitsstudie, PubMed-Abstract, 2026-11-25) | J Cosmet Dermatol 2026 | offen |
 | Polidocanol (Laureth-9) | polidocanol.md | nicht bewertet (nur Lehrbuch) | – | offen |
 
 ### Anti-Aging und Sonstiges
 
 | Wirkstoff | Datei | Evidenz (Stand 2026-10) | Letzte relevante Publikation | Impact |
 |---|---|---|---|---|
-| Peptide (Kollagenpeptide) | peptide.md | schwach (Herstellerstudien, Kombinationsprodukte) | Dermatol Ther 2026 | mittel |
+| Peptide (Kollagenpeptide) | peptide.md | schwach (Herstellerstudien, Kombinationsprodukte; Systematic Review 2026: sechs kleine Studien nach Eingriffen) | J Cosmet Dermatol 2026 | mittel |
 | Coffein | coffein.md | moderat (PubMed-Abstracts, 2026-10-28) | Bericht 2026-10-28_lehrbuchwirkstoffe | mittel |
 
 ### UV-Filter

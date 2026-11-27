@@ -16,7 +16,7 @@ quellen:
 - {id: 'quelle:springer-lexikon-kosmetik', fundstelle: 'Stichwort „Hydroquinone“'}
 - {id: 'quelle:herrmann-trinkkeller-dermatologie'}
 status: entwurf
-aktualisiert: '2026-11-02'
+aktualisiert: '2026-11-25'
 regulierung: ['recht:eu-kosmetikverordnung', 'recht:anhang-ii-arzneistoffe']
 ---
 Stand: 2026-10-23. Impact: mittel. Erstellt aus der Literaturliste (Herrmann/Trinkkeller führt es als Rezepturwirkstoff, das Lexikon nur als Nagel-Stabilisator).
@@ -50,4 +50,6 @@ Aufhellende „Ersatzstoffe“ (Arbutin, Desoxyarbutin) wurden hier nicht bewert
 - Albzea et al. (2023), doi:10.7759/cureus.41796; Maldonado López, da Silva Souza (2026), doi:10.1080/15569527.2026.2748325
 
 ## Änderungslog (neueste oben)
+- 2026-11-25: RCT, 45 Personen mit therapieresistentem Melasma (Ägypten), drei Arme jeweils mit 4 % Hydrochinon und Lichtschutz als Basis: orale Tranexamsäure, fraktionierter Er:YAG-Laser oder intradermale Tranexamsäure. MASI sank in allen Armen, am stärksten mit oraler TXA; keine Thromboembolien. Hydrochinon ist in allen Armen gleich, sein Eigenanteil daher nicht bestimmbar. Evidenz moderat für die Zusatzverfahren, Bewertung unverändert. Arzneimittelanwendung, in Kosmetik bleibt Hydrochinon verboten. [Wahrscheinlich] J Cosmet Dermatol 2026;25(7):e71063, PMID 43047044, doi:10.1111/jocd.71063.
+- 2026-11-25: Split-Face-RCT, doppelblind, 31 Personen, 2 Monate: Kligman-Formel (Hydrochinon, Tretinoin, Kortikosteroid) mit und ohne 30 % Metformin topisch bei Melasma. Beide Seiten besser, kein signifikanter Unterschied; mit Metformin nur tendenziell stabilere Ergebnisse und weniger postinflammatorische Hyperpigmentierung. Evidenz moderat, kein Zusatznutzen belegt. [Wahrscheinlich] J Cosmet Dermatol 2026;25(6):e70983, PMID 43047029, doi:10.1111/jocd.70983.
 - 2026-10-23: Datei neu angelegt, Rechtsstatus geprüft.
